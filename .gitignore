@@ -1,0 +1,20 @@
+# Nix
+result
+result-*
+
+# direnv
+.direnv/
+
+# Compiled outputs (regenerable)
+manuscript.md
+manuscript.pdf
+manuscript.epub
+
+# OS
+.DS_Store
+
+# Editor
+*~
+*.swp
+.vscode/
+.idea/
