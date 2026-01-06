@@ -114,9 +114,7 @@ But I have been fighting longer than he has. I have been fighting since Mexico, 
 
 The woman heard the noise and came to the door. I wish she had not. I wish she had stayed inside, had hidden, had given me a reason to spare her. But she came to the door and she saw her husband dying in the yard and she screamed, and then there was no choice left.
 
-There was a hired hand, too. A young man, barely more than a boy, who was sleeping in the barn when I arrived. He woke to the sounds of fighting and tried to run. I caught him in the open, a hundred yards from the house.
-
-Three of them. Three people who had done me no harm, who were simply in the wrong place at the wrong time, who died because a white buffalo happened to graze in their valley.
+Two of them. Two people who had done me no harm, who were simply in the wrong place at the wrong time, who died because a white buffalo happened to graze in their valley.
 
 I buried them behind the barn. It took me two days, digging in the hard ground, piling rocks over the graves to keep the wolves away. I cleaned what I could of the blood—not for their sake, but because I did not want to leave a mess. And then I left, following the herd, following her, as I have always done.
 

@@ -14,13 +14,13 @@ When the gray light of dawn began to seep through the window, I rose and went ou
 
 The graves were still there. They had not been a dream.
 
-I stood at the edge of the little plot where they lay, three low mounds covered in snow, each one marked by a cairn of stones. In the daylight I could see them more clearly than I had the night before. Someone had taken care with them—the stones were placed deliberately, forming rough rectangles over each grave, keeping the snow and the scavengers from the bodies beneath.
+I stood at the edge of the little plot where they lay, two low mounds covered in snow, each one marked by a cairn of stones. In the daylight I could see them more clearly than I had the night before. Someone had taken care with them—the stones were placed deliberately, forming rough rectangles over each grave, keeping the snow and the scavengers from the bodies beneath.
 
-Three graves. The trader had said there were two Hardins, a man and a wife. That meant someone else had died here too. The hired hand, perhaps, the one the trader had mentioned was rumored to be working for them.
+Two graves. The trader had said there were two Hardins, a man and a wife. That matched what I saw. Husband and wife, buried side by side on the land they had tried to make their home.
 
 I walked around the graves, looking for any sign of who had dug them. The ground was frozen now, had been frozen for months, but the digging would have been done earlier—late summer, perhaps, or early fall, when the earth was still soft enough to turn. Whoever had done it had been thorough. The graves were deep enough that the stones lay flat, not mounded up as they would have been over a shallow burial.
 
-I thought about George Hardin, the man I had been sent to find. If he had killed his wife and the hired hand, would he have buried them like this? Carefully, deliberately, with stones placed just so?
+I thought about George Hardin, the man I had been sent to find. If he had killed his wife, would he have buried her like this? Carefully, deliberately, with stones placed just so?
 
 Perhaps. Men did strange things when guilt took hold of them. But something felt wrong about it. The care taken here did not match the violence that must have preceded it.
 
@@ -40,13 +40,9 @@ I stood in the center of the room and tried to piece together what had happened.
 
 A struggle near the door—that was where it started, most likely. The man of the house, George Hardin, coming to answer a knock or confronting someone who had entered uninvited. The crack in the wall, the broken chair, the blood on the floor. Then something at the bed—the woman, Catherine, awakened by the noise, caught before she could flee or defend herself.
 
-But where was the third body? The hired hand?
+Two graves. Two victims. One killer.
 
-Outside, perhaps. He might have been in the barn when the attack began, might have tried to run, might have been caught in the open.
-
-Three graves. Three victims. One killer—or more than one?
-
-I did not know. I could not know, not from what I could see here. The story was incomplete, the evidence partial. I was reading a book with pages torn out.
+I did not know who had done this, not from what I could see here. The story was incomplete, the evidence partial. I was reading a book with pages torn out.
 
 ---
 
@@ -54,7 +50,7 @@ I searched the outbuildings next.
 
 The barn was small, barely large enough for a horse and a cow, and it was empty now. Whatever animals the Hardins had kept were gone—stolen, perhaps, or simply wandered off after their owners died. The hay in the loft was old and dry, undisturbed since the previous summer.
 
-There was blood here too. A splash of it on the doorframe, another smear on the packed earth floor. Someone had died here, or been hurt badly. The hired hand, I guessed. He had been in the barn when it happened, had tried to fight or flee, had failed.
+There was blood here too. A splash of it on the doorframe, another smear on the packed earth floor. George Hardin, I guessed. He had been in the barn when it happened, had tried to fight or flee, had failed.
 
 I went around to the back of the barn, to where the graves lay.
 
@@ -84,7 +80,7 @@ The man who followed the white buffalo. The one the trapper had seen, and the ma
 
 He had been here. He had done this.
 
-I did not know why. The words on the page offered no explanation—*necessary* was not an explanation, *sorry* was not an explanation. But I knew, with a certainty I could not have defended, that the man who followed the white buffalo had killed the Hardins and their hired hand and buried them behind their barn and left this page as a marker or a confession or a prayer.
+I did not know why. The words on the page offered no explanation—*necessary* was not an explanation, *sorry* was not an explanation. But I knew, with a certainty I could not have defended, that the man who followed the white buffalo had killed the Hardins and buried them behind their barn and left this page as a marker or a confession or a prayer.
 
 I folded the page and put it in my pocket.
 

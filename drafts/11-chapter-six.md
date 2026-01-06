@@ -106,7 +106,7 @@ I went back outside. The light was fading, the short winter day already ending. 
 
 Behind the barn, I found the graves.
 
-Three of them, side by side, covered in snow but still visible as low mounds in the flat ground. Someone had piled rocks on top of each one—to keep the animals away, I supposed, or perhaps just to mark the spot. There were no crosses, no headstones, nothing to indicate who lay beneath.
+Two of them, side by side, covered in snow but still visible as low mounds in the flat ground. Someone had piled rocks on top of each one—to keep the animals away, I supposed, or perhaps just to mark the spot. There were no crosses, no headstones, nothing to indicate who lay beneath.
 
 I stood there for a long time, looking at the graves, while the light failed and the cold deepened and the stars began to appear in the darkening sky.
 
