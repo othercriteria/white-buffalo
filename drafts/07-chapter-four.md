@@ -8,11 +8,41 @@ I rode steady, making fifteen miles a day when the weather held, less when it di
 
 At night I made camp wherever I could find shelter—a stand of cottonwoods, a hollow in the hills, the lee side of an abandoned sod house. I built small fires and cooked what I had and drank from my supply, which was holding but not increasing. I would need to resupply soon. Fort Kearny was ahead, and there would be whiskey there, or something close enough.
 
-The first week passed without incident. The second began the same way.
+The first week passed without incident. The second did not.
+
+On the ninth day the weather turned. I had been watching the sky all morning—the clouds thickening in the northwest, the light going flat and gray—and I knew what was coming before the first flakes fell. By noon the snow was falling hard, driven sideways by a wind that cut through my coat like it was paper.
+
+I pushed on. The trail was still visible, and I told myself I could make the shelter of the next creek bottom before the worst of it hit.
+
+I was wrong.
+
+By mid-afternoon the trail had disappeared under a blanket of white, and the wind had risen to a howl, and I could not see twenty feet in any direction. The horse balked, turning his head away from the driving snow, and I could feel the tremor in his muscles—not exhaustion yet, but the beginning of it.
+
+I dismounted and led him by the reins, one hand on his neck, feeling my way forward through the white. The cold was a living thing now, pressing against me from all sides, finding every gap in my clothing. My beard froze solid. The moisture in my breath turned to ice on my collar.
+
+I found the creek by falling into it.
+
+The ice was thin at the edge, hidden under the snow, and my boot went through before I could stop myself. The water was not deep—perhaps a foot—but it was cold enough to stop my heart, and I pulled myself out gasping, my leg soaked to the knee.
+
+Wet is deadly. I knew that. I had seen men die from less. I had to find shelter. I had to build a fire.
+
+The creek bottom offered some protection from the wind. I led the horse into a hollow where a fallen cottonwood had made a kind of natural windbreak, and I got to work.
+
+My hands were shaking too badly to strike a match. It took me seven tries before one finally caught, and by then the shaking had spread to my whole body. I fed the flame with dead grass, then twigs, then larger branches, coaxing it to life with the desperation of a man who knows his life depends on it.
+
+The horse stood with his back to the wind, head down, snow crusting on his mane. He was shivering too—short bursts, then longer ones, the muscles of his flanks rippling under his coat. I had no blanket for him, nothing to offer except the hope that the fire would warm us both.
+
+I stripped off my boot and my sock and held my foot as close to the flames as I could bear. The skin was white, waxy, and I could not feel my toes. I rubbed them with my hands, forcing the blood back into the flesh, and gradually the feeling returned—pain at first, sharp and terrible, then a dull ache that was almost worse.
+
+I did not sleep that night. I fed the fire and rubbed my foot and talked to the horse, telling him things I had never told anyone, just to hear a human voice in the howling dark. He listened, or seemed to, his ears flicking toward me when I spoke, though he had no more answers than I did.
+
+By morning the storm had passed. The sky was clear and pale, the sun coming up cold and distant over a world made new by snow. I saddled the horse and we went on, both of us slower than before, both of us marked by what the night had cost.
+
+Fort Kearny was three days ahead. I made it in four.
 
 ---
 
-On the third day of the second week, I came upon a wagon that had broken an axle.
+On the second day after the storm, I came upon a wagon that had broken an axle.
 
 It was a heavy farm wagon, the kind emigrants used to haul their possessions west, and it had come to grief in a shallow draw where a creek crossed the trail. One rear wheel had dropped into a hole hidden by snow, and the axle had snapped under the weight. The wagon now sat at an angle, its contents spilling out onto the frozen ground.
 

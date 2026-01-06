@@ -122,8 +122,50 @@ But I had learned, over the years, to pay attention to coincidences. They were n
 
 ---
 
-I left the trading post at dawn, riding north along the frozen river. The country was empty and white and silent, and I did not see another living thing until midday, when a herd of antelope crossed my path a quarter mile ahead, their tan coats stark against the snow.
+I left the trading post at dawn, riding north along the frozen river. The first day I made good time. The sky was clear, the wind light, and the river showed me the way north as clearly as any road. I counted the creeks as I passed them, as the trader had instructed, and I camped that night in a stand of pines on a south-facing slope where the snow was thin and the deadfall plentiful.
 
-The river wound through the hills in long, lazy curves, its surface frozen solid, its banks lined with bare willows and cottonwoods. I followed it as the trader had directed, counting the creeks that fed into it from the north, waiting for the one that would lead me to the Hardins' homestead.
+The second day, the country began to look the same.
 
-On the second day, I found it.
+The hills rolled on in every direction, white and gray and featureless, each one identical to the last. The creeks that fed the river came down from the north at irregular intervals, some wide and obvious, others little more than frozen trickles that might have been creeks or might have been nothing at all. I counted them as I had been counting, but I began to lose confidence in my count.
+
+Had that been a creek, or just a fold in the land? Had I missed one earlier, passed it without noticing? The trader had said the Hardins' creek was the only one for ten miles, but how would I know? The country kept its secrets.
+
+I saw antelope that day, a small herd moving across a distant ridge, their tan coats stark against the white. I thought about hunting them—my supplies were adequate but not generous—but they were too far, and I had neither the time nor the ammunition to waste on a chase that might lead nowhere.
+
+That night I heard coyotes for the first time. They started after dark, a single voice rising from somewhere to the west, and then others answering—a chorus of yips and howls that seemed to come from everywhere and nowhere at once. The sound raised the hair on my neck. It was not threatening, exactly, but it was wild in a way that reminded me how far I was from anything I knew.
+
+The horse did not like it either. He stamped and snorted, pulling at his tether, and I had to speak to him softly for a long time before he settled.
+
+On the third day, I crossed a creek I thought was the one I was looking for, and followed it north for three hours before I realized my mistake. The valley narrowed to a dead end, the hills closing in on either side, and there was no homestead here, no sign that anyone had ever lived in this place.
+
+I turned back. Three hours wasted, and the short winter day already half-gone. I made camp early that night, in a hollow that offered little shelter, and I lay awake listening to the wind and thinking about how easy it would be to die out here. Not dramatically, not heroically, but simply—a wrong turn, a missed landmark, a night without fire, and in the morning nothing but a shape under the snow that no one would find until spring.
+
+The fourth day I found the right creek.
+
+I knew it as soon as I saw it—wider than the others, the valley opening out to the north, the willows along its banks brown and thick. I turned up it and felt something ease in my chest, some tension I had not known I was carrying.
+
+But the country was not done with me yet.
+
+The crossing looked easy enough—the ice was thick, the surface smooth, the far bank no more than twenty feet away. I started across without dismounting, the horse picking his way carefully, testing each step before committing his weight.
+
+We were halfway across when the ice cracked.
+
+It did not break—not entirely—but I heard it, a sound like a gunshot, and felt the surface shift beneath us. The horse lurched forward, panicking, his hooves scrabbling for purchase, and I threw myself from the saddle as the ice tilted and groaned.
+
+I hit the far bank on my hands and knees, scrambling up the frozen mud, and turned to see the horse still on the ice, frozen with fear, his legs splayed wide. The surface was buckled now, water seeping up through the cracks, and I could see the dark of the creek beneath.
+
+"Come on," I said. My voice was steadier than I felt. "Come on, boy. Easy now."
+
+He would not move. His eyes were wide and white, his whole body trembling, and I knew that if he panicked again—if he tried to run—the ice would give way beneath him and he would go through.
+
+I talked to him. I do not remember what I said, but I talked, keeping my voice low and steady, the way you talk to something that does not understand words but understands tone. Slowly, slowly, I moved back onto the ice, testing each step, feeling it flex beneath my weight.
+
+I reached him and took the reins. I could feel his fear through the leather, the way his whole body was strung tight, ready to bolt. I stroked his neck and talked to him and began to lead him forward, one step at a time, toward the bank.
+
+We made it. The ice held. But when we reached solid ground, my legs gave out beneath me and I sat in the snow for a long time, shaking, while the horse stood beside me and steamed in the cold air.
+
+That night I built a fire larger than I needed and sat close to it, feeling the warmth on my face, listening to the ice on the creek settle and crack in the darkness. I was close now. The homestead was perhaps a day's ride, maybe less.
+
+But the country had reminded me what it could do. The country did not care whether I found what I was looking for or not.
+
+On the sixth day, I found the homestead.

@@ -94,6 +94,40 @@ I mounted up and followed the tracks.
 
 ---
 
+The horse was failing.
+
+I had not wanted to see it, but by the afternoon I could no longer pretend otherwise. He was moving slowly, his head low, his steps heavy and uncertain. The deep snow was taking its toll—every step an effort, every yard a battle against the white that seemed to grip at his legs and hold him back.
+
+I dismounted and led him for a while, breaking trail with my own body, but I was not much stronger than he was. The shaking in my hands had spread to my legs, and the world kept going gray at the edges, and sometimes I forgot what I was doing and stood there in the snow until the cold reminded me to move.
+
+I tried to hunt. I saw a rabbit—just a flash of white against the snow, but I knew what it was—and I dismounted and loaded my rifle and stood there with the gun raised, waiting for it to move again.
+
+My hands would not stop shaking. The barrel wavered, describing circles in the air, and even when I braced it against a tree I could not hold it steady. The rabbit moved, and I fired, and the shot went wide by a foot or more, and the rabbit vanished into the white as if it had never been.
+
+I stood there for a long time, looking at the place where it had been, the smell of powder sharp in the cold air. I had perhaps two days of food left. The man I was following might have none.
+
+We were alike in that too.
+
+We stopped in a draw where the snow was shallower and the wind less fierce. The horse stood with his head down, breathing hard, his flanks dark with sweat despite the cold. I knew what that meant. A sweaty horse in winter is a dying horse, if you cannot get him dry.
+
+I found a stand of cottonwood and stripped bark from the branches—sweet cottonwood, I hoped, though I could not be sure until he tried it—and I piled it in front of him and waited.
+
+He ate. Not eagerly, but he ate, his teeth scraping the bark from the wood, his jaw working slowly. I watched him and felt something like hope.
+
+"We rest here," I told him. "Until you can go on."
+
+I made camp. I built a fire from the cottonwood and the deadfall I could gather, and I melted snow for water, and I ate the last of my bacon and most of my coffee. My supplies were running out. I had been too long on this trail, too many days in the white, and I had not planned for this.
+
+In the morning the horse was better. Not well—he would not be well until he had rest and food and shelter, none of which I could give him—but better. He ate more bark, and drank the water I melted for him, and when I saddled him he stood steady under my weight.
+
+"One more day," I said. "Just one more. Then we'll find him, and this will be over."
+
+I did not know what "over" meant. I did not let myself think about it.
+
+We went on.
+
+---
+
 The visions came back that night, worse than before.
 
 I made camp in a hollow between two ridges, building a small fire from the dead wood I had gathered along the way. The flames flickered and danced, casting shadows on the snow, and in those shadows I saw faces. My father, dead these twenty years. My mother, whom I had not seen since before the war. The men I had killed, in Mexico and after—their eyes watching me, their mouths moving without sound.

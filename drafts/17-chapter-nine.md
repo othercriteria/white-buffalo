@@ -94,6 +94,14 @@ I did not call out to him. I did not spur my horse forward. I simply watched, as
 
 The soldiers gathered around me, more of them than before. Catherine Hardin stood among them, her face pale, her eyes fixed on the scene ahead. They were all watching now. They were all waiting.
 
+The silence was not silent. I knew that now.
+
+There was the wind, always the wind, hissing across the snow, finding every gap in my clothing, speaking in a voice that might have been words if I could only understand them. There was the crunch of hooves on the frozen surface, and the creak of leather, and the horse's breathing, heavy and labored. There was the blood in my own ears, loud as a drum.
+
+And underneath it all, like a bass note too low to hear, there was the silence itself—the vast emptiness of the country pressing in from all sides, the weight of all that nothing bearing down on me until I felt I might be crushed by it.
+
+The soldiers made no sound as they walked beside me. Catherine Hardin drifted through the white without leaving tracks. Only the living made noise in this country, and there were so few of us left.
+
 I rode forward, slowly, keeping my distance. I did not know what I was going to do when I reached him. I did not know if there was anything left to do.
 
 But I kept riding. One step at a time, one yard at a time, into the white.

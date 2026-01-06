@@ -111,3 +111,5 @@ Two of them, side by side, covered in snow but still visible as low mounds in th
 I stood there for a long time, looking at the graves, while the light failed and the cold deepened and the stars began to appear in the darkening sky.
 
 Then I went back inside, built a fire in the stove, and waited for morning.
+
+In the night I heard the ice on the creek behind the house. It made sounds I had not expected—groans and cracks and sometimes a noise like something heavy being dragged across a wooden floor. The creek was freezing deeper, the ice thickening, and each expansion and contraction sent vibrations through the ground that I could feel in my bones. The dead slept under that sound, I thought. The Hardins, buried behind their barn, listened to the ice every night, and would go on listening until spring came and the water ran free again.
