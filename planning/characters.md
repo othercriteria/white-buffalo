@@ -170,17 +170,6 @@
 
 ---
 
-## Thomas Carver (Hired hand - deceased)
-
-**Age at death:** 22
-
-**Background:**
-- Local young man hired for the harvest
-- Wrong place, wrong time
-- Barely a character - more a fact of the tragedy
-
----
-
 ## The Lakota (Final scene)
 
 Three or four Lakota horsemen, leading the white buffalo away.

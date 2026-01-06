@@ -60,6 +60,38 @@ Research compiled for *White Buffalo* revision. Farrell's journey takes place No
 - With shelter, down to -40°F
 - Without shelter in wet/wind: deadly
 
+### Horse Trouble
+
+**Signs of Cold Stress:**
+- Shivering = first sign, means core temp has started dropping
+- "If they only do it for a little while, they'll be fine"
+- Continuous shivering for hours = serious, need intervention
+- Other signs: reluctance to move, cold back, lethargy, weak pulse
+
+**Wet is Deadly:**
+- Wet fur cannot insulate
+- Wet or damp horses highly susceptible to hypothermia
+- A sweaty horse in cold = major problem (must cool down properly)
+- Most hypothermia cases: horses falling through ice, stuck in mud
+
+**Exhaustion in Deep Snow:**
+- Deep snow = resistance training, hard work
+- Can cause tendon injuries in unfit horses
+- Signs of exhaustion: elevated pulse/respiration, depression, unwillingness to continue, weakness, stiffness
+- Unfit or unsound horses much more vulnerable
+
+**The Fall Rate:**
+- Horses fell on average once every 100 miles of travel
+- Ice, hidden holes, uneven ground all hazards
+- A lame horse in winter = potentially fatal situation
+
+**What They Need:**
+- Roughage (hay) generates heat through digestion
+- Must chop ice for water twice daily
+- Shelter from wind critical
+- Indian ponies "on lean times" in winter, usually not ridden much
+- Army horses struggled when they outran their supply trains
+
 ### Getting Lost/Stranded
 
 **The Martin Handcart Company (1856):**

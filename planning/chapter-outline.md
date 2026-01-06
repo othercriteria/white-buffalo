@@ -130,7 +130,7 @@ He picks up a trail - signs of someone moving through the snow, not long ago. A 
 ### Journal Entry VIII
 *~2,500 words*
 
-Late summer 1858. Morrow kills the Hardins. He writes about it factually. He approached at dawn. The man came out first. Then the woman. There was a hired hand who ran; Morrow tracked him down. He buried them himself, taking two days. He took nothing. He writes: "I did not know I would feel this. I thought I was past feeling."
+Late summer 1858. Morrow kills the Hardins. He writes about it factually. He approached at dawn. The man came out first. Then the woman came to the door. He buried them himself, taking two days. He took nothing. He writes: "I did not know I would feel this. I thought I was past feeling."
 
 ### Chapter 9 - [First person, Farrell]
 *~5,000 words*

@@ -40,9 +40,9 @@ I stood in the center of the room and tried to piece together what had happened.
 
 A struggle near the door—that was where it started, most likely. The man of the house, George Hardin, coming to answer a knock or confronting someone who had entered uninvited. The crack in the wall, the broken chair, the blood on the floor. Then something at the bed—the woman, Catherine, awakened by the noise, caught before she could flee or defend herself.
 
-Two graves. Two victims. One killer.
+Two graves. Two victims. But who had put them there?
 
-I did not know who had done this, not from what I could see here. The story was incomplete, the evidence partial. I was reading a book with pages torn out.
+I did not know, not from what I could see here. The story was incomplete, the evidence partial. I was reading a book with pages torn out.
 
 ---
 

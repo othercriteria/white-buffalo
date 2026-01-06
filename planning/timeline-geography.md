@@ -44,7 +44,7 @@ The protagonist and follower likely served in a New York volunteer regiment or a
 | Spring 1856 | Follower encounters white buffalo calf on the northern Plains |
 | 1856-1858 | Follower follows and protects the calf as it matures |
 | Spring 1857 | George and Catherine Hardin establish homestead on the Niobrara River |
-| Late summer 1858 | Follower kills the Hardins and their hired hand, perceiving threat to the buffalo |
+| Late summer 1858 | Follower kills the Hardins, perceiving threat to the buffalo |
 | October 1858 | Ephraim Aldridge, not having heard from Catherine in many months, seeks out protagonist in Oswego |
 | November 1858 | Protagonist departs eastward |
 | December 1858 - January 1859 | Protagonist crosses Iowa, enters Nebraska Territory. Hears rumors of "the man who follows the white buffalo." Alcohol supply becomes irregular. |
