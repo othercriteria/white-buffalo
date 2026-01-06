@@ -44,3 +44,32 @@ At ~60k words target, the full manuscript approaches context limits. Strategies:
 - Use grep/search to find specific passages rather than reading everything
 - Keep notes files focused and atomic
 - Summarize completed sections in planning/ to reduce need to re-read
+- For revision: use "masking" - read all but one section, write expectations, verify after compaction
+
+## Drafting Workflow
+
+1. **Before writing a chapter:** Re-read outline, check what precedes it, note what must be established
+2. **While drafting:** Stay in the voice, don't break for meta-commentary
+3. **After drafting:** Self-review against checklist (see planning/process.md), commit
+4. **After each Part:** Pause for consistency check, update continuity notes
+
+## Self-Review Principles
+
+- Does this feel like the same book as what came before?
+- Would a reader who knows this period find it credible?
+- Is there anything clever or cute? (If yes, cut it)
+- Does the prose call attention to itself? (If yes, simplify)
+- What does the reader know now that they didn't before?
+- What question makes them turn the page?
+
+## Quality Criteria
+
+**Voice:** Each narrator distinct. No anachronisms in language or concepts. Prose appropriate to stated style target.
+
+**Consistency:** Geography, timeline, character details, weather all internally coherent. Protagonist doesn't know things he hasn't learned.
+
+**Pacing:** Each chapter earns its length. Momentum toward the next. No wheel-spinning.
+
+**Authenticity:** Period-accurate material culture, social dynamics, speech patterns. No 21st-century framings imposed on 19th-century characters.
+
+**Restraint:** Play it straight. No meta-textual games, no winking at the reader, no over-explanation.

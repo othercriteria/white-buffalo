@@ -107,7 +107,7 @@ Farrell investigates the homestead. The door is not barred. Inside: signs of vio
 
 He considers his options. He could turn back now. He has enough evidence to report to Aldridge: the daughter is dead, the son-in-law probably too. But he doesn't turn back. He doesn't fully understand why. Perhaps he wants to see the white buffalo. Perhaps he's tired of turning back.
 
-He searches the homestead more carefully. Finds signs that someone else was here after the killings - the graves were not dug by whoever killed them. A journal page, fallen or dropped. Only a few words legible: "...the white buffalo... necessary... I am sorry for..."
+He searches the homestead more carefully. Finds signs that someone else was here after the killings - the graves were not dug by whoever killed them. Near the graves: a torn journal page, deliberately placed, weighted with a stone. Used to soak up blood from the burials. The writing is mostly obscured by dark stains, but a few words remain legible: "...the white buffalo..." and "...necessary..." The page was not lost; it was offered.
 
 ### Journal Entry VII
 *~2,000 words*
