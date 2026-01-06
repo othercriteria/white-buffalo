@@ -118,6 +118,8 @@ Somewhere in that emptiness, George and Catherine Hardin had built their homeste
 
 I folded the map and put it away. I had another drink, then another. The bottle was nearly empty by the time I finished.
 
-In the morning, I would cross the Mississippi and begin the real journey. Everything before this had been prelude, the easy part. What came next would be harder.
+In the morning, I would cross the Mississippi and begin the real journey. Everything before this had been prelude.
 
-I was ready for harder. I had been ready for a long time.
+I lay back on the bed and listened to the sounds of Chicago through the thin walls—men shouting, a woman laughing, the clatter of a wagon on the cobblestones. The sounds of people living their lives, going about their business, unaware of the emptiness that waited just beyond the edge of the world they knew.
+
+I finished the bottle and let it fall to the floor.

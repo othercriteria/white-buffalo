@@ -26,21 +26,23 @@ There were others waiting to cross—a family in a wagon, a merchant with a stri
 
 The brothers were talking. I did not mean to listen, but sound carried on the water, and they were not trying to be quiet.
 
-"I hear they killed another one in Lawrence," the older one said. "Shot him in his own house, in front of his wife."
+"You hear about McCrea?" the older one said.
 
-"Pro-slavery or free-state?"
+"Which one?"
 
-"Free-state. The border ruffians are getting bolder. They say Brown is coming back."
+"The one had the mill outside Osawatomie. They burned it last month. Him and his boy both."
 
-"Brown is a madman."
+"Christ." The younger brother spat over the side of the boat. "He pick a side, or just in the way?"
 
-"Maybe. But he's a madman who gets things done."
+"Does it matter anymore?"
 
-The younger brother spat over the side of the boat. "It's going to be war. Mark my words. The whole territory will burn before this is over."
+They were quiet for a moment. The water slapped against the hull.
 
-"The whole country will burn," the older one said. "Kansas is just the beginning."
+"Jim says he's not going back," the younger one said. "Says he's done with the whole territory. Going to try California."
 
-I watched the far shore grow closer and thought about what they had said. Kansas had been bleeding for years now, pro-slavery men fighting free-state men, raids and murders and reprisals. I had read about it in the newspapers, when I bothered to read newspapers. John Brown and his sons had killed five men with broadswords at Pottawatomie Creek. The border ruffians had sacked Lawrence twice. The territory was a war before the war, a rehearsal for what was coming.
+"Jim's smart. Whole country's going to hell. You watch."
+
+I watched the far shore grow closer. Kansas had been bleeding for years now, and the bleeding had started to spread. I had stopped reading the newspapers—the names and places blurred together after a while, one killing much like another—but you could not travel west without hearing the talk.
 
 I had served under men who would lead that war, when it came. I had seen what they were capable of. Zachary Taylor was dead now, president for a year and then gone, but there were others still living. Jefferson Davis, who had commanded the Mississippi Rifles at Buena Vista and now sat in the Senate speaking of states' rights and the honor of the South. Robert Lee, who had been an engineer in Mexico and was now superintending West Point. A dozen others, majors and colonels then, who would be generals when the time came.
 

@@ -48,11 +48,11 @@ Aldridge stood in the smoke and the noise and felt the accumulated exhaustion of
 
 "I'll wait," he said.
 
-The barman's expression flickered—something like amusement, or perhaps respect. "Suit yourself. Drink?"
+The barman's expression flickered—something like amusement, or perhaps respect. "As you like. Drink?"
 
 "No. Thank you."
 
-"Suit yourself," the barman said again, and turned away.
+The barman shrugged and turned away.
 
 Aldridge found a table near the window. He sat with his back to the wall, his hat on the table in front of him. The hat was beaver felt, well-made, incongruous. He left it there anyway.
 
@@ -122,7 +122,7 @@ Farrell watched him for a long moment. Then he said: "You want me to find your d
 
 "Deal with him how?"
 
-"However you see fit."
+"As you judge necessary."
 
 The silence stretched. Someone laughed at the bar, the sound jarringly normal. Aldridge waited.
 
@@ -154,7 +154,7 @@ He reached into his coat and withdrew an envelope. He had prepared this too, bac
 
 Farrell took it, glanced inside, did not count. He folded the envelope and put it in his own coat.
 
-"I'll need to know everything you know. Her letters, if you have them. The location of the homestead, as best you can determine. The husband's full name, his history, anything that might be useful."
+"I'll need to know everything you know. Her letters, if you have them. The location of the homestead, as best you can determine. The husband's name and history, anything that might be useful."
 
 "I have prepared a packet. It is at my room, at the boarding house."
 
