@@ -20,7 +20,7 @@ Soft budget: ~10 blocking stops across the project.
 
 | # | Point | Reason | Status |
 |---|-------|--------|--------|
-| 1 | After Part One | Verify voice, tone, opening frame working | ACTIVE |
+| 1 | After Part One | Verify voice, tone, opening frame working | RESOLVED |
 
 ---
 
