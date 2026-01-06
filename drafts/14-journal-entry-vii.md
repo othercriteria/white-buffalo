@@ -80,13 +80,11 @@ I have been watching them more closely these past days. Learning their routines,
 
 The man wakes before dawn and goes to the barn to tend the animals. He stays there for perhaps an hour, sometimes longer. Then he returns to the house and eats whatever the woman has prepared for him. Then he goes to the fields.
 
-The woman wakes later, after the man has left for the barn. She builds up the fire, prepares food, cleans. She spends most of her day in or near the house. She is carrying a child, I think—her belly has the roundness of early pregnancy, though it is hard to be certain at this distance.
+The woman wakes later, after the man has left for the barn. She builds up the fire, prepares food, cleans. She spends most of her day in or near the house. Sometimes she reads—I have seen her sitting by the window with a book in her hands, turning pages slowly, as if savoring each one.
 
-A child.
+She does not belong here. I can see that from a distance. The way she moves, the way she holds herself—she was made for a different kind of life, a softer life, a life with books and comfort and people to talk to. She came here for love, or for hope, or for some other reason I cannot fathom. And now she is going to die here.
 
-I have thought about this. I have tried to make it matter, to feel something about the fact that I am planning to kill a woman who carries a life inside her. But I cannot. The child is not real to me. It is a possibility, a potential, something that may or may not exist. She is real. The white buffalo is real. What I must do is real.
-
-The rest is abstraction.
+I have thought about this. I have tried to make it matter. But I cannot.
 
 ---
 
