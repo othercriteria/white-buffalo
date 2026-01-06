@@ -160,6 +160,16 @@ Given ~200k token limit with ~30% overhead, and a target manuscript of ~60k word
 
 ---
 
+## Collaboration Model
+
+**Andon Cord stops** (~10 budget): Blocking stops for significant issues. Tracked in `notes/andon-cord.md`. Reserved for structural problems, fundamental voice issues, major interpretive choices, and key checkpoints (end of Part One, before Part Five, after first draft).
+
+**Running questions** (non-blocking): Accumulated in `notes/questions-for-human.md`. Style micro-decisions, "does this work?" questions, things that don't stop work but benefit from feedback. Human may address opportunistically or at Andon Cord stops.
+
+**Default posture:** Keep working. Push through uncertainty. Revise later. Only pull the cord for things that would compound into larger problems if wrong.
+
+---
+
 ## Self-Review Questions
 
 After each chapter/entry, ask:
