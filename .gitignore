@@ -5,10 +5,8 @@ result-*
 # direnv
 .direnv/
 
-# Compiled outputs (regenerable)
-manuscript.md
-manuscript.pdf
-manuscript.epub
+# Build artifacts (regenerable via `make`)
+build/
 
 # OS
 .DS_Store
