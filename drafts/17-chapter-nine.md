@@ -58,7 +58,7 @@ The tracks were clearer now, fresher—he was slowing down, stopping more often,
 
 I followed. I did not think anymore about why. The reasons had fallen away somewhere back along the trail, lost in the snow like everything else. What remained was motion. What remained was the simple, animal need to see this thing through to the end.
 
-The soldiers walked with me. Catherine Hardin drifted in and out of the white. And somewhere up ahead, the man who followed the white buffalo waited for whatever he was waiting for.
+Somewhere up ahead, the man who followed the white buffalo waited for whatever he was waiting for.
 
 ---
 
@@ -92,7 +92,7 @@ I stopped my horse and watched. The distance was too great to make out details, 
 
 I did not call out to him. I did not spur my horse forward. I simply watched, as he watched, as the white buffalo stood in the snow and waited for whatever was coming.
 
-The soldiers gathered around me, more of them than before. Catherine Hardin stood among them, her face pale, her eyes fixed on the scene ahead. They were all watching now. They were all waiting.
+The soldiers had gathered around me, more of them than before. Catherine Hardin was among them now.
 
 The silence was not silent. I knew that now.
 
@@ -100,7 +100,7 @@ There was the wind, always the wind, hissing across the snow, finding every gap 
 
 And underneath it all, like a bass note too low to hear, there was the silence itself—the vast emptiness of the country pressing in from all sides, the weight of all that nothing bearing down on me until I felt I might be crushed by it.
 
-The soldiers made no sound as they walked beside me. Catherine Hardin drifted through the white without leaving tracks. Only the living made noise in this country, and there were so few of us left.
+Only the living made noise in this country, and there were so few of us left.
 
 I rode forward, slowly, keeping my distance. I did not know what I was going to do when I reached him. I did not know if there was anything left to do.
 

@@ -8,7 +8,7 @@ The man I had been following was gone. The tracks told me that much—a single s
 
 But I did not follow him. Not yet.
 
-I dismounted and tied my horse to a stunted pine at the edge of the camp. My hands were shaking—they had been shaking for days—and it took me three tries to secure the knot. The cold pressed in from all sides, and the light was failing, and the soldiers watched me from the edges of the darkness with their dead eyes and their silent mouths.
+I dismounted and tied my horse to a stunted pine at the edge of the camp. My hands were shaking—they had been shaking for days—and it took me three tries to secure the knot. The cold pressed in from all sides, and the light was failing, and the soldiers were there at the edges of the darkness, watching, patient as stones.
 
 "Wait here," I told them. They did not answer.
 

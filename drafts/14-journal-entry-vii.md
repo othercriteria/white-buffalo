@@ -95,35 +95,3 @@ The herd is still nearby. She grazes in the valley every day, visible from the h
 But he might look more closely tomorrow. He might notice. He might do something.
 
 I cannot wait any longer.
-
----
-
-*August the Ninth*
-
-It is done.
-
-I do not want to write about it. I have put off writing this entry for days, hoping that the need to record it would fade, that I could simply move forward without looking back. But that is not how this works. I have committed myself to honesty in these pages, and honesty requires that I set down what I have done.
-
-I came to the homestead at dawn, when the man was in the barn. I waited until he came out, waited until he saw me standing in his yard with my knife in my hand. He did not understand at first—I could see the confusion in his face, the struggle to make sense of what he was seeing.
-
-Then he understood, and he tried to fight.
-
-He was not a weak man. He had the strength of someone who has worked the land with his hands, the reflexes of someone who has survived two winters in hard country. He fought well. He almost won.
-
-But I have been fighting longer than he has. I have been fighting since Mexico, since Buena Vista, since I learned what I was and what I could do. He had no chance against me, really. I knew that before I started.
-
-The woman heard the noise and came to the door. I wish she had not. I wish she had stayed inside, had hidden, had given me a reason to spare her. But she came to the door and she saw her husband dying in the yard and she screamed, and then there was no choice left.
-
-Two of them. Two people who had done me no harm, who were simply in the wrong place at the wrong time, who died because a white buffalo happened to graze in their valley.
-
-I buried them behind the barn. It took me two days, digging in the hard ground, piling rocks over the graves to keep the wolves away. I cleaned what I could of the blood—not for their sake, but because I did not want to leave a mess. And then I left, following the herd, following her, as I have always done.
-
-I thought I would feel more.
-
-I thought the killing would change something in me, would break whatever was left of the man I used to be. But it did not. I feel nothing. The emptiness that has been inside me since Mexico is still there, unchanged, untroubled by what I have done.
-
-Perhaps that is the worst part. Not the killing itself, but the ease of it. The way it cost me nothing that I was not already willing to pay.
-
-I am almost done now. She is fully grown. She is ready.
-
-Soon, very soon, this will be over.
