@@ -36,7 +36,7 @@ On the third day, I understood something.
 
 It came to me as I sat by my fire, shaking, watching the soldiers watch me. I understood what I was following. Not just a man, not just a white buffalo, but something more. Something that connected him to me, and me to him, in a way I had not recognized before.
 
-We were the same. Not in what we had done—his crimes were his own, and mine were mine—but in what we had become. The war had hollowed us both out, had taken the parts of us that were human and replaced them with something else. We had both learned to kill without feeling, to survive without living, to move through the world like ghosts wearing the shapes of men.
+We were the same. Not in what we had done—his crimes were his own, and mine were mine—but in what we had become. Something had hollowed him out, as the war had hollowed me. I did not know what, but I recognized the shape of it. We had both learned to kill without feeling, to survive without living, to move through the world like ghosts wearing the shapes of men.
 
 The difference was in what we did with the emptiness.
 
