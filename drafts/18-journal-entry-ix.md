@@ -2,7 +2,7 @@
 
 *Undated*
 
-The sun will rise soon. I can see the first gray light in the eastern sky, the darkness giving way to something that is not yet day but is no longer night. The cold is severe—I can feel it pressing against the walls of the tent, trying to find a way in—but I do not mind. After today, the cold will not matter.
+The sun will rise soon. I can see the first gray light in the eastern sky, the darkness giving way to something that is not yet day but is no longer night. The cold is severe—I can feel it pressing in from all sides, finding every gap in my blanket—but I do not mind. After today, the cold will not matter.
 
 I have not slept. I tried, but sleep would not come, and eventually I stopped trying. I have been sitting here in the darkness, watching the light grow, writing these last words by the glow of a single candle.
 

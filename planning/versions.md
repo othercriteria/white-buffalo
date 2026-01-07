@@ -4,6 +4,17 @@ Brief record of meaningful manuscript states. For navigation, use git tags.
 
 ---
 
+## v0.4 - Continuity Pass (2026-01-07)
+
+- Eliminated tent/stove from Morrow's camp; now survives in natural shelters (hollows, cutbanks) consistent with his minimalist existence
+- Fixed winter count: "second winter" → "third winter" in Journal VIII
+- Fixed homesteader timeline: Hardins now arrive spring 1857 (consistent with Journal V first sighting), not 1856
+- Fixed Spirit Lake reference: "years ago" → "last year" (massacre was March 1857)
+
+~34k words. Timeline and material culture now internally consistent.
+
+---
+
 ## v0.3 - Revised (2026-01-06)
 
 - Cut murder confession from Journal Entry VII; revelation now through Farrell's reading in Ch 10

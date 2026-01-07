@@ -66,7 +66,7 @@ The tavern was half-full, men from the surrounding farms come to drink and talk 
 
 "Santee, they say. Killed a whole family, women and children both."
 
-"That was years ago. They caught the ones who did it."
+"That was last year. They caught the ones who did it."
 
 "They caught some of them. The rest are still out there."
 

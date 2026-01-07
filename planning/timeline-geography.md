@@ -91,7 +91,7 @@ Total distance: ~1,500 miles. In winter conditions, 2-3 months of hard travel.
 
 1. **Hardin homestead** - On or near the Niobrara River, perhaps where a creek joins it. Sod house or crude log structure.
 
-2. **Follower's camp** - Mobile, following the buffalo. When protagonist finds it: a canvas tent, few possessions, signs of long solitary habitation.
+2. **Follower's camp** - Mobile, following the buffalo. When protagonist finds it: a hollow in a cutbank, a bedroll, few possessions, signs of long solitary habitation.
 
 3. **The final scene** - Open prairie, perhaps a slight rise. The white buffalo visible. The follower's body in the snow. Lakota horsemen in the distance, leading the buffalo away toward the Black Hills.
 

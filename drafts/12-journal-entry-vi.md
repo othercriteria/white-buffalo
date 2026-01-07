@@ -32,7 +32,7 @@ The homesteaders are still here.
 
 I saw them again today, working in the field beside their sod house. The man was cutting hay—late in the season for it, but perhaps they had no choice. The woman was gathering something from a garden plot near the door, moving between the rows with a basket over her arm.
 
-They have been here for more than a year now. I remember seeing them arrive, back when she was still a calf and I was still learning how to follow her. They seemed so hopeful then, so certain that they were building something that would last.
+They have been here since early summer. I remember first seeing them then, working on the land with the hope that brings settlers to this country. They seemed so certain that they were building something that would last.
 
 I wonder if they still feel that way. The first winter is the hardest, they say, and they have survived it. But the winters do not get easier. The isolation does not get easier. The land does not soften to accommodate the people who try to live on it.
 

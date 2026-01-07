@@ -2,7 +2,7 @@
 
 I found the camp at dusk.
 
-It was a simple thing—a canvas tent pitched in the lee of a low hill, the fabric sagging under the weight of accumulated snow. A fire pit sat in front of it, cold, the ashes scattered by the wind. There were no animals, no supplies, no signs that anyone had lived here except the tent itself and the tracks that led away from it toward the north.
+It was a simple thing—a hollow in the lee of a low hill, where a cutbank offered shelter from the wind. A fire pit sat at the entrance, cold, the ashes scattered by the wind. There were no animals, no supplies, no signs that anyone had lived here except a bedroll laid out in the hollow and the tracks that led away toward the north.
 
 The man I had been following was gone. The tracks told me that much—a single set of footprints, fresh enough that the wind had not yet filled them in, leading out of the camp and down into the valley below. He had left this morning, perhaps, or late last night. He was not far.
 
@@ -12,11 +12,11 @@ I dismounted and tied my horse to a stunted pine at the edge of the camp. My han
 
 "Wait here," I told them. They did not answer.
 
-I walked to the tent and pulled back the flap.
+I walked to the hollow and knelt at its edge.
 
 ---
 
-Inside, the air was stale and cold, the canvas walls doing little to keep out the weather. A bedroll lay against the far wall, the blankets neatly arranged, waiting for someone who would not return. A small stove sat in the corner, cold, its pipe rising through a hole in the fabric above. A few possessions were scattered about—a knife, a tin cup, a bundle of clothes so worn they barely deserved the name.
+The hollow was perhaps six feet deep, carved by water or wind into the side of the hill. A bedroll lay at the back, the blankets neatly arranged, waiting for someone who would not return. A few possessions were scattered about—a knife, a tin cup, a bundle of clothes so worn they barely deserved the name.
 
 And on the bedroll, sitting as if left to be found, a leather-bound book.
 
@@ -30,7 +30,7 @@ I sat down on the cold ground and began to read.
 
 ---
 
-I read until the light failed completely, and then I built a fire outside the tent and read by its light. I read through the night, turning page after page, watching a man's life unfold in careful, formal handwriting.
+I read until the light failed completely, and then I built a fire at the mouth of the hollow and read by its light. I read through the night, turning page after page, watching a man's life unfold in careful, formal handwriting.
 
 His name was Josiah Morrow. He was from Virginia. He had served in the Mexican War, in the same battles I had served in, under officers whose names I recognized. He had come back from the war broken in a way I understood, and he had spent years looking for something to make him whole again.
 

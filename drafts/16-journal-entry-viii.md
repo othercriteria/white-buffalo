@@ -72,7 +72,7 @@ It is not a complicated plan. It does not need to be. What matters is not the ho
 
 *November the Eighth*
 
-The cold has come again. The second winter I will spend in her company, though I do not expect to see the spring.
+The cold has come again. The third winter I will spend in her company, though I do not expect to see the spring.
 
 The herd has settled into a valley north of the river, a sheltered place where the wind cannot reach and the snow does not drift so deep. She is with them, standing apart as she always does, her white coat bright against the brown of the dead grass.
 

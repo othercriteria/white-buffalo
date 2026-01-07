@@ -14,7 +14,7 @@ I have been watching them for a week.
 
 They are still here, still working their little patch of land, still living their little lives. The man is out early every morning, tending to the animals, working the fields, repairing the endless small damages that the land inflicts on anything built upon it. The woman is never far from the house, cooking and cleaning and doing whatever it is that women do to keep a home running.
 
-They have survived two winters now. That is more than most.
+They have survived their first winter. That is more than some.
 
 I do not know why I am watching them so closely. They are not a threat to her—not yet, at least. They are too far away, too occupied with their own concerns, to have even noticed the herd grazing in the valley to the north. But something keeps drawing my attention back to them.
 
