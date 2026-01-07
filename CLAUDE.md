@@ -73,3 +73,12 @@ At ~60k words target, the full manuscript approaches context limits. Strategies:
 **Authenticity:** Period-accurate material culture, social dynamics, speech patterns. No 21st-century framings imposed on 19th-century characters.
 
 **Restraint:** Play it straight. No meta-textual games, no winking at the reader, no over-explanation.
+
+## Versioning
+
+Mark meaningful manuscript states with git tags (`v0.1-first-draft`, `v0.2-expanded`, etc.).
+
+- **Tags** for navigation: `git checkout v0.1-first-draft`
+- **planning/versions.md** for context: what changed and why at each milestone
+
+Not every commit is a version. Tag when the manuscript reaches a state worth returning to—complete drafts, significant revisions, submissions.
