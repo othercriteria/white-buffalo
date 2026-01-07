@@ -4,6 +4,19 @@ Brief record of meaningful manuscript states. For navigation, use git tags.
 
 ---
 
+## v0.5 - Ending Revision (2026-01-07)
+
+- Cut Chapter Twelve entirely (Lakota POV, intercut structure); moved to scratch/
+- Cut rescue fragments and thematic summary from end of Chapter Eleven
+- Added Lakota acknowledgment: leader sees Farrell, chooses to turn away
+- Added horse presence at end: lifeline made explicit, survival path clear
+- Expanded homestead supplies passage in Chapter Six (cache as waypoint)
+- New final line: "nothing left to follow"
+
+~33k words (down from ~34k). Ending now earns its ambiguity rather than evading commitment. Farrell's survival is plausible but undetermined; the novel ends at the moment before decision.
+
+---
+
 ## v0.4 - Continuity Pass (2026-01-07)
 
 - Eliminated tent/stove from Morrow's camp; now survives in natural shelters (hollows, cutbanks) consistent with his minimalist existence

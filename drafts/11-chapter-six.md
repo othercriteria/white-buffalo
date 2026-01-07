@@ -100,9 +100,11 @@ The letter was unfinished. It broke off in the middle of a sentence about the co
 
 I put it back in the box and continued searching.
 
-There was food in the pantry—dried beans and flour and salt pork, the supplies that would keep through a winter. There was firewood stacked beside the stove, enough for a week or more. There was everything a family would need to survive the season.
+There was food in the pantry—dried beans and flour and salt pork, the supplies that would keep through a winter. There was firewood stacked beside the stove, enough for a week or more. Grain for animals in the barn. A root cellar dug into the hillside behind the house, its door frozen shut but intact.
 
-Everything except the family.
+They had been ready. That was the thing I could not stop thinking about as I stood in that cold room. They had done everything right—built the house, dug the well, laid in stores against the cold. They had prepared for the worst the land could offer, and the land had not killed them. Something else had.
+
+Everything a family would need to survive the season. Everything except the family.
 
 I went back outside. The light was fading, the short winter day already ending. I walked around the house, looking for anything I might have missed.
 

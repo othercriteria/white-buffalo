@@ -66,30 +66,12 @@ They came from the north, three or four of them, appearing on the ridge like fig
 
 Lakota, I thought. Or perhaps not. Perhaps they were something else entirely—another vision, another gift from the fever that was burning through my mind, another impossible thing in a day full of impossible things.
 
+One of them looked toward me. The one in front—the leader, perhaps. His eyes found me across the meadow, a figure kneeling in the snow beside a body, blood on the ground. He looked at me for a long moment. Then he turned away.
+
 The white buffalo reached them. They turned their horses, and she fell in among them, and together they began to move north, toward the ridges, toward the sacred places, toward wherever it was that sacred things went when their work was done.
 
-I watched until they disappeared over the ridge. I watched until there was nothing left to watch—just the empty valley, and the body beside me, and the blood on the snow.
+I watched until they disappeared over the ridge. I watched until there was nothing left to watch.
 
-Then I lay back in the snow and closed my eyes and let the cold take me.
+Behind me, the horse waited. I could hear him shifting in the snow, his breath coming in slow clouds. He would carry me south if I could reach him—back to the creek, back to the homestead where the Hardins had laid in enough supplies to last a winter, back to the living world. He would carry me, if I could make myself move.
 
----
-
-I do not remember what happened next.
-
-There are fragments—a sensation of being lifted, of movement, of voices speaking in a language I did not understand. There is a memory of warmth, of fire, of something that might have been a face looking down at me. There is the taste of bitter liquid on my tongue, and the feeling of hands on my body, and a darkness that was not quite sleep and not quite death.
-
-And then there is nothing.
-
-The next thing I remember clearly is waking in a place I did not recognize, in a bed I had not seen before, with the sun coming through a window and a woman I did not know standing beside me.
-
-But that is another story, and it does not belong here.
-
-What belongs here is the valley. The body. The white buffalo and the men who led her away. The peace I felt as I lay in the snow, not knowing if I would live or die, not caring, simply existing in a moment that felt, for the first and only time in my life, like enough.
-
-That is where this story ends. Not with answers, but with silence. Not with understanding, but with acceptance.
-
-The white buffalo is gone. The man who followed her is dead. And I am still here, somehow, carrying the journal and the memories and the questions that will never be answered.
-
-Perhaps that is enough.
-
-Perhaps that is all any of us can hope for.
+I was not moving. I was kneeling in an empty valley beside a man I had never met, with blood on the snow and nothing left to follow.
