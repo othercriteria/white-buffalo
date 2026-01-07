@@ -78,6 +78,8 @@ I stood in the doorway and let my eyes adjust.
 
 A table and two chairs. A bed against the far wall, the blankets neatly made. A cast-iron stove, cold, its pipe rising through the sod roof. Shelves along one wall holding dishes, a few books, the accumulated necessities of a frontier life. A woman's dress hanging from a peg near the door, next to a man's coat.
 
+Two chairs. One bed. No cradle, no child's things, nothing to suggest that anyone but a man and a woman had lived here. The letters had been silent on this point, and the house confirmed the silence.
+
 Everything in its place. Everything orderly. As if the people who lived here had simply stepped out for a moment and not returned.
 
 But the dust on the table was thick, and the cold inside was the same as the cold outside, and the blankets on the bed had not been slept in for a very long time.

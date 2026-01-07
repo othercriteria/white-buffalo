@@ -37,19 +37,47 @@ The protagonist and follower likely served in a New York volunteer regiment or a
 
 ## Story Timeline
 
-| Year | Event |
+### Morrow's Timeline (fixed—dates appear in journal entries)
+
+| Date | Event |
 |------|-------|
-| 1846-1848 | Both men serve in Mexican-American War, do not meaningfully interact |
-| 1848-1855 | Years of drifting. Protagonist descends into alcoholism. Follower's fixation develops. |
-| Spring 1856 | Follower encounters white buffalo calf on the northern Plains |
-| 1856-1858 | Follower follows and protects the calf as it matures |
-| Spring 1857 | George and Catherine Hardin establish homestead on the Niobrara River |
-| Late summer 1858 | Follower kills the Hardins, perceiving threat to the buffalo |
-| October 1858 | Ephraim Aldridge, not having heard from Catherine in many months, seeks out protagonist in Oswego |
-| November 1858 | Protagonist departs eastward |
-| December 1858 - January 1859 | Protagonist crosses Iowa, enters Nebraska Territory. Hears rumors of "the man who follows the white buffalo." Alcohol supply becomes irregular. |
-| Late January 1859 | Protagonist reaches Hardin homestead, finds graves. DTs setting in. |
-| Early February 1859 | Protagonist tracks to follower's camp. Finds journal. Finds body. Sees Lakota leading the white buffalo away. |
+| 1846-1848 | Serves in Mexican-American War (Mississippi Rifles, Buena Vista) |
+| 1848-1856 | Years of drifting; emptiness deepens; leaves Virginia |
+| April 1856 | First sees white buffalo calf on the northern Plains |
+| 1856-1858 | Follows the calf as it matures |
+| June 1857 | First notices the Hardin homestead from a distance |
+| August 1858 | Kills George and Catherine Hardin; buries them himself |
+| November 1858 | Final journal entries; approaches the buffalo; dies |
+
+### Hardins' Timeline
+
+| Date | Event |
+|------|-------|
+| Summer 1855 | Catherine Aldridge and George Hardin marry (against Ephraim's wishes) |
+| Fall 1855 | Depart New York for Nebraska Territory |
+| Early 1856 | Arrive at homestead site on the Niobrara; begin building |
+| Spring-Summer 1856 | Establish homestead; Catherine writes hopeful early letters to her father |
+| Winter 1856-57 | First full winter (survive) |
+| 1857 | Second year on the land; letters continue but grow more guarded |
+| Winter 1857-58 | Second full winter; Catherine's letters hint at difficulties, isolation, absence of children |
+| March 1858 | Catherine's last letter ("winter is finally breaking") |
+| August 1858 | Killed by Morrow |
+
+**Note on childlessness:** After nearly three years of marriage, Catherine and George have no children. Catherine's later letters touch on this obliquely—hopes deferred, silence where news might have been. Aldridge interprets this as further evidence of an unhappy marriage; the truth may be simpler grief. The homestead shows no signs of children: two chairs, two graves.
+
+### Aldridge/Farrell Timeline
+
+| Date | Event |
+|------|-------|
+| Summer 1855 | Reluctantly allows Catherine to marry George Hardin |
+| 1855-1858 | Receives regular letters from Catherine; relationship remains strained but ongoing |
+| March 1858 | Receives Catherine's last letter |
+| April-October 1858 | Growing alarm; writes to territorial authorities, military posts; receives no useful information |
+| November 1858 | Hires Farrell in upstate New York; provides letters, map, daguerreotype |
+| November 1858 | Farrell departs westward |
+| December 1858 | Farrell crosses Iowa, enters Nebraska Territory; hears rumors of "the man who follows the white buffalo"; whiskey supply dwindles |
+| Late December 1858 | Farrell reaches Hardin homestead, finds graves; DTs setting in |
+| January 1859 | Farrell tracks north; finds Morrow's camp and journal; finds Morrow's body; witnesses Lakota leading the white buffalo away |
 
 ## Geography
 

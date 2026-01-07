@@ -68,7 +68,7 @@ The trader considered this. His face was weathered past any particular age, the 
 
 "You said you haven't seen them since summer."
 
-"That's right. They came in once, early on, for supplies. Seemed like decent people. The woman was Eastern, you could tell—didn't know what she was getting into. The man knew, but he was the kind who thought he could handle anything." The trader shook his head. "Most of them are, when they start. Most of them learn different."
+"That's right. They came through a few times, when they first settled. Seemed like decent people. The woman was Eastern, you could tell—didn't know what she was getting into. The man knew, but he was the kind who thought he could handle anything." The trader shook his head. "Most of them are, when they start. Most of them learn different."
 
 "You think something happened to them?"
 

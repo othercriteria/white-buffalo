@@ -44,7 +44,7 @@ He had watched them for weeks, he wrote. He had seen them building their home, w
 
 *I did not know I would feel this,* he had written afterward. *I thought I was past feeling.*
 
-But he was not past feeling. The killing had troubled him, had disturbed the careful emptiness he had cultivated. He had buried them himself, taken two days to do it properly, left a page from his journal as a marker or a confession. And then he had moved on, following the white buffalo, waiting for the end.
+But he was not past feeling. The killing had troubled him, had disturbed the careful emptiness he had cultivated. He had buried them himself, taken two days to do it properly, piling stones on the graves to keep the animals away. And then he had moved on, following the white buffalo, waiting for the end.
 
 ---
 

@@ -60,7 +60,9 @@ The afternoon passed. Men came and went. Some of them glanced at Aldridge; most 
 
 He had not approved of the marriage. George Hardin was a farmer's son from Ohio, a man with more ambition than sense, who had filled Catherine's head with talk of land and opportunity and the future that awaited them in the West. Aldridge had argued against it. He had threatened to cut her off. In the end, he had done neither, because she was his only child and her mother was dead and he could not bear to lose her entirely.
 
-So he had let her go. And now she was gone.
+So he had let her go. Nearly three years now, and no grandchildren. He had expected—hoped, at least—that a child might bring her back East, or bring him West to meet it. Her letters had said nothing on the subject, which he took as its own kind of answer. Another sign that the marriage was not what it should be. Another reason to worry.
+
+And now she was gone.
 
 The door opened, letting in a gust of cold air. A man entered, and Aldridge knew at once that this was Farrell.
 
@@ -88,7 +90,7 @@ Farrell considered this distinction. "Why?"
 
 Aldridge had rehearsed this too. He had written it out, back in Oswego, before he left. He had refined it during the journey, honing each phrase until it conveyed precisely what he needed to convey and nothing more. Now the words seemed foolish, inadequate.
 
-"My daughter," he said. "Her name is Catherine. She married a man named George Hardin two years ago, against my wishes. They went west. Nebraska Territory, or thereabouts. She wrote to me regularly—every month, sometimes more often. Her letters stopped in March."
+"My daughter," he said. "Her name is Catherine. She married a man named George Hardin nearly three years ago, against my wishes. They went west. Nebraska Territory, or thereabouts. She wrote to me regularly—every month, sometimes more often. Her letters stopped in March."
 
 Farrell's expression did not change. He was listening, but not reacting. Aldridge found this more unnerving than hostility would have been.
 

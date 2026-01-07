@@ -54,35 +54,19 @@ There was blood here too. A splash of it on the doorframe, another smear on the 
 
 I went around to the back of the barn, to where the graves lay.
 
-In the daylight I could see something I had missed the night before. Near the head of the nearest grave, half-buried in the snow, there was a piece of paper.
+In the daylight I could see things I had missed the night before. The snow around the graves had been disturbed—not recently, but within the past months. Someone had walked here, knelt here, worked here. The impressions were softened by subsequent snows but still visible to someone who knew how to look.
 
-I knelt and brushed the snow away.
+And there were tracks leading away.
 
-It was a page torn from a journal or notebook, the paper thick and yellowed. It had been placed deliberately, I could see now—weighted with a small stone, positioned as if it were meant to be found. But the paper was stained, dark marks obscuring most of what had been written there.
+I followed them to the edge of the clearing, where the ground sloped down toward the creek. The tracks were old, filled in and covered over, but the shape of them was still there. Two sets. One large—very large, the deep hoofprints of an animal heavier than any horse. The other smaller, the boot-prints of a man.
 
-Blood. The page had been used to soak up blood—from the burials, I thought, from the handling of the bodies. Whoever had placed it here had done so after using it for that grim purpose.
+A buffalo had been here. A man had followed it.
 
-I picked it up carefully and turned it toward the light.
+I stood at the edge of the trees and looked north, at the tracks disappearing into the white. I thought about the stories I had heard—from the trader, from the mail carrier, from the trapper at Fort Kearny. A man who followed a white buffalo across the plains. A man with nothing in his eyes. A man who looked at you like you were not there.
 
-Most of the writing was illegible, obscured by the dark stains. But a few words remained visible, scattered across the page like survivors of a shipwreck.
+The trader had seen him pass, maybe four months back. That would have been August, September. Around the time the Hardins stopped writing letters.
 
-*...the white buffalo...*
-
-*...necessary...*
-
-*...I am sorry for...*
-
-The handwriting was neat, almost formal—the hand of someone who had learned to write carefully, who took pride in the forming of letters. Not the hand of George Hardin, I thought, though I had nothing to compare it to. Not the hand of a farmer.
-
-I read the visible words again. *The white buffalo. Necessary. I am sorry for.*
-
-The man who followed the white buffalo. The one the trapper had seen, and the mail carrier, and the trader. The one who walked behind the sacred animal like a dog following its master, his eyes empty, his soul already gone.
-
-He had been here. He had done this.
-
-I did not know why. The words on the page offered no explanation—*necessary* was not an explanation, *sorry* was not an explanation. But I knew, with a certainty I could not have defended, that the man who followed the white buffalo had killed the Hardins and buried them behind their barn and left this page as a marker or a confession or a prayer.
-
-I folded the page and put it in my pocket.
+I did not know why he had killed them. I did not know if there was a reason that would make sense to anyone but him. But I knew, with a certainty I could not have defended, that the man who followed the white buffalo had come to this homestead and killed the people who lived here and buried them behind their barn. Then he had walked away, following his sacred animal north, leaving nothing behind but two graves and the tracks of his passage.
 
 ---
 
