@@ -62,7 +62,7 @@ wordcount:
 	@wc -w $(SOURCES) | head -n -1 | awk '{printf "  %-40s %5d words\n", $$2, $$1}'
 
 transcripts:
-	@echo "Exporting session transcripts..."
+	@echo "Exporting session transcripts to transcripts/..."
 	@python3 scripts/export-transcripts.py
 
 clean:

@@ -3,9 +3,13 @@
 
 import json
 import os
+import re
 import sys
 from datetime import datetime
 from pathlib import Path
+
+# Strip ANSI escape codes
+ANSI_ESCAPE = re.compile(r'\x1b\[[0-9;]*m|\[38;2;[0-9;]+m|\[39m')
 
 def get_project_sessions_dir():
     """Get the Claude sessions directory for this project."""
@@ -63,11 +67,32 @@ def format_session_markdown(messages, session_id):
     for msg in messages:
         role = msg['role'].upper()
         content = msg['content']
+        # Strip ANSI escape codes
+        content = ANSI_ESCAPE.sub('', content)
         lines.append(f"## {role}\n")
         lines.append(content)
         lines.append("\n---\n")
 
     return '\n'.join(lines)
+
+def get_session_date(filepath):
+    """Get the earliest timestamp from a session file."""
+    with open(filepath, 'r') as f:
+        for line in f:
+            line = line.strip()
+            if not line:
+                continue
+            try:
+                obj = json.loads(line)
+                # Check for timestamp in snapshot (file-history-snapshot entries)
+                snapshot = obj.get('snapshot', {})
+                ts = snapshot.get('timestamp')
+                if ts and isinstance(ts, str):
+                    # ISO format: 2026-01-06T17:41:57.023Z
+                    return ts[:10]  # Just the date part
+            except (json.JSONDecodeError, ValueError, TypeError):
+                continue
+    return 'unknown'
 
 def main():
     sessions_dir = get_project_sessions_dir()
@@ -76,7 +101,7 @@ def main():
         print(f"No sessions found at {sessions_dir}", file=sys.stderr)
         sys.exit(1)
 
-    output_dir = Path('build/transcripts')
+    output_dir = Path('transcripts')
     output_dir.mkdir(parents=True, exist_ok=True)
 
     session_files = sorted(sessions_dir.glob('*.jsonl'))
@@ -94,8 +119,11 @@ def main():
             print(f"  (no messages)")
             continue
 
+        # Get session date for filename
+        session_date = get_session_date(session_file)
+
         markdown = format_session_markdown(messages, session_id)
-        output_file = output_dir / f"{session_id}.md"
+        output_file = output_dir / f"{session_date}-{session_id[:8]}.md"
         output_file.write_text(markdown)
         print(f"  -> {output_file} ({len(messages)} messages)")
 
