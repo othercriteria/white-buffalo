@@ -26,7 +26,7 @@ DOCX_OPTS = $(PANDOC_OPTS) --reference-doc=reference/template.docx 2>/dev/null |
 METADATA = --metadata title="$(TITLE)" \
            --metadata author="Ben Cohen and Daniel Klein"
 
-.PHONY: all manuscript pdf epub docx wordcount clean
+.PHONY: all manuscript pdf epub docx wordcount transcripts clean
 
 all: manuscript pdf epub docx
 
@@ -60,6 +60,10 @@ wordcount:
 	@echo ""
 	@echo "Per chapter:"
 	@wc -w $(SOURCES) | head -n -1 | awk '{printf "  %-40s %5d words\n", $$2, $$1}'
+
+transcripts:
+	@echo "Exporting session transcripts..."
+	@python3 scripts/export-transcripts.py
 
 clean:
 	rm -rf $(OUTPUT_DIR)
