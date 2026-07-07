@@ -98,7 +98,7 @@ Before committing a chapter, verify:
 
 ## Context Management Strategy
 
-Given ~200k token limit with ~30% overhead, and a target manuscript of ~60k words (~80k tokens):
+Given context limits and a manuscript of ~33k words (no fixed target; see CLAUDE.md "Length"):
 
 ### During Drafting
 - Work on one chapter at a time
