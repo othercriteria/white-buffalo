@@ -1,6 +1,9 @@
 # Andon Cord Stops
 
-Soft budget: ~10 blocking stops across the project.
+No strict budget (per 2026-07-07 direction): pull the cord when a decision
+genuinely needs the human — neither rationing stops nor spamming them. The
+collaboration mode is director-style: the human gives taste-level notes on
+concrete work products; bring them things to react to, not open-ended questions.
 
 **When to pull the cord:**
 - Structural problem discovered (outline doesn't work as written)

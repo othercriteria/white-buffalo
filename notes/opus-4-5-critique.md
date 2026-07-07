@@ -71,6 +71,12 @@ page on which only two stories were written" (17:87); two ruined letters in thre
 chapters (09:23, 11:97). Nothing in the book exists merely because it is true. The
 one near-exception (Gunderson's broken axle, 07:45-85) still resolves to a moral.
 
+*Prescription amended (2026-07-07, human direction): the flag is not significance
+itself but significance running smooth, tidy, and announced. Don't force inert
+filler as a corrective — instead license weird/sweaty/idiosyncratic significant
+details. It's acceptable for payoffs to be orphaned in revision or missed by
+readers; what's not acceptable is every detail signifying in the same polished way.*
+
 **Emotion named, not dramatized.** "…I felt something I had not felt in longer than
 I could remember. / Peace." (20:33-35). "I felt nothing. I expected to feel
 something." — the same beat run twice (10:79, 12:75-79).
@@ -309,7 +315,9 @@ Reading checks, per chapter:
 1. Does the section end on a cadence line? Could it end on an action or object instead?
 2. Is any emotion named that the scene could dramatize? ("Peace." → what does peace do?)
 3. Count negation-restatements; keep at most the best one per scene.
-4. Does any detail exist that does NOT signify? If no, add one or let one go slack.
+4. Is the detail-texture uniformly tidy — every detail signifying in the same
+   polished, announced way? If so, roughen it: prefer weird/idiosyncratic
+   significance over inert filler; let some payoffs stay private or orphaned.
 5. Does weather ever fail to match mood? Let it, at least once per Part.
 6. Is an announced parallel cuttable? (The reader has the journal; trust them.)
 7. Any phrase feel familiar? Grep it — assume self-plagiarism until shown otherwise.

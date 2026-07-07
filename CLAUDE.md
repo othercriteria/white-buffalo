@@ -77,7 +77,7 @@ Top red flags when revising (full list and grep patterns in the profile):
 - Every section closing on a groomed cadence line
 - Verbatim phrase recycling, including across the two narrators — grep any phrase that feels familiar
 - "perhaps" as ambient hedge (96× in draft); ambiguity firing where certainty costs nothing
-- Every detail made to signify; weather always agreeing with mood; parallels announced rather than left for the reader
+- Significance running smooth and uniform: weather always agreeing with mood, parallels announced rather than left for the reader, every detail polished to the same sheen. The fix is not inert filler — license weird/idiosyncratic significant details instead; orphaned or reader-missed payoffs are acceptable
 
 Note also §8 of the profile (strengths): procedural concreteness, material culture,
 lean dialogue, and earned restraint must survive revision untouched.
