@@ -98,7 +98,9 @@ Before committing a chapter, verify:
 
 ## Context Management Strategy
 
-Given context limits and a manuscript of ~33k words (no fixed target; see CLAUDE.md "Length"):
+Largely historical (written for a ~200k-token context; the primary model now has
+~1M tokens and the ~33k-word manuscript fits comfortably — see CLAUDE.md "Context
+Management"). Kept as working discipline:
 
 ### During Drafting
 - Work on one chapter at a time

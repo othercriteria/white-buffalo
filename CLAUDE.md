@@ -45,12 +45,16 @@ priority than continuity and prose quality; grow only where the book asks for it
 
 ## Context Management
 
-At full-manuscript scale, the text approaches context limits. Strategies:
+The primary model context is ~1M tokens (2026); the full manuscript (~45k tokens)
+fits comfortably, and even subagents (~200k) hold the whole text plus working
+material. Whole-book reads are fine when the task warrants. The habits below
+remain useful as attention and cost discipline, not as hard constraints:
 - Work on one chapter at a time when drafting
 - Use grep/search to find specific passages rather than reading everything
 - Keep notes files focused and atomic
 - Summarize completed sections in planning/ to reduce need to re-read
-- For revision: use "masking" - read all but one section, write expectations, verify after compaction
+- "Masking" (read all but one section, write expectations, verify) is still a
+  useful verification technique even though limits no longer force it
 
 ## Drafting Workflow
 

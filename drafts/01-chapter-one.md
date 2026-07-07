@@ -34,7 +34,7 @@ The barman considered this. Then he turned and spoke to someone Aldridge could n
 
 "He was. He left an hour ago."
 
-Aldridge felt something tighten in his chest. He had been traveling for four days. The first day by coach to Syracuse, then the railroad to Rochester, then another coach north into country that grew steadily wilder and less familiar. He had not expected the search itself to be easy, but he had expected that when he found the man, the man would be there to be found.
+Aldridge felt something tighten in his chest. He had been traveling for four days. The first day by railroad to Syracuse, then the cars north from Rome to Watertown, then a coach east into country that grew steadily wilder and less familiar. He had not expected the search itself to be easy, but he had expected that when he found the man, the man would be there to be found.
 
 "Where did he go?"
 

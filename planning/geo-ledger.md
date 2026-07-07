@@ -14,7 +14,7 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Place | Lat, Long | Basis / notes |
 |---|---|---|
 | Oswego, NY | 43.46, -76.51 | Real. Aldridge's home (01) |
-| Unnamed logging town | ~43.30, -77.70 | "Coach north of Rochester" (01:37). **FLAG G1:** north of Rochester is Lake Ontario plain, not logging country; see findings |
+| Unnamed logging town | ~43.75, -75.60 | Tug Hill fringe east of Watertown (01:37, fixed). ~45 mi from Lake Ontario — "fifty miles from any water that would require an oar" (01:5) ✓ |
 | Buffalo → Cleveland → Chicago | 42.89,-78.88 → 41.50,-81.69 → 41.88,-87.63 | Real; rail (Ch 2) |
 | Mississippi crossing (Rock Island) | 41.51, -90.58 | Rail-era ferry crossing (05:19-23) |
 | Council Bluffs | 41.26, -95.85 | Real (05:89) |
@@ -80,16 +80,27 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Jan 7 | valley | Final dated entry: "Tomorrow, I think" (16:85-95) |
 | Jan 8 (dawn) | meadow | JE IX written pre-dawn (18); walks out; dies |
 
-## Open geography flags
+## Geography flags
 
-- **G1 — New York routing:** Aldridge travels "coach to Syracuse, then the railroad
-  to Rochester, then another coach north into country that grew steadily wilder"
-  (01:37) — north of Rochester runs into Lake Ontario within ~15 mi of farm plain;
-  1850s logging country is Tug Hill / Adirondack fringe (north/east of Syracuse,
-  wrong direction from Rochester). Farrell later entrains at Rochester (03:53).
-  Proposed minimal fix: route both men through Syracuse northward (drop Rochester),
-  Farrell entraining at Syracuse. Not yet applied — touches Ch 1 and Ch 2.
+- **G1 — New York routing: RESOLVED (2026-07-07, researched).** Old text sent
+  Aldridge "coach to Syracuse, then the railroad to Rochester, then another coach
+  north" — but north of Rochester is Lake Ontario farm plain, and the Oswego &
+  Syracuse RR had run since May 1848 (no coach needed). Fixed: Aldridge rails
+  Oswego→Syracuse, cars north from Rome to Watertown (Watertown & Rome RR, opened
+  Sept 1851), coach east into Tug Hill logging country. Farrell reverses: "cars
+  from Watertown to Buffalo, changing at Rome" (03:53); "railroad had come...
+  seven years earlier" (03:51, was ten). Sources: Wikipedia (Oswego & Syracuse
+  RR; Rome, Watertown & Ogdensburg RR), memoryln.net Watertown stations.
 - **G2 — "South toward the river" out of Chicago (05:5):** Rock Island is WSW;
   "south" is loose but survivable as a road description. Leave.
 - **G3 — Herd's Loup loop:** requires the herd ~40 mi south of the winter valley in
   late Nov, back by late Dec. Within buffalo ranging behavior; acceptable.
+- **G4 — Iowa rail context (researched, no prose change):** the Mississippi &
+  Missouri RR railhead sat at Iowa City from Jan 1856 until 1860, so "the railroad
+  did not extend much past the Mississippi" (03:89) is period-accurate. Farrell
+  riding from Chicago rather than railing to Iowa City with the horse in a stock
+  car is a defensible character choice; if a line ever wants to acknowledge it,
+  the fact is available. The Rock Island rail bridge (first over the Mississippi,
+  Apr 1856; burned by the Effie Afton May 1856, repaired by Sept 1856) was
+  operating in Nov 1858 — Farrell's horse-ferry crossing alongside it is fine.
+  Sources: National Archives (Rock Island bridge), ouriowaheritage.com (M&M RR).

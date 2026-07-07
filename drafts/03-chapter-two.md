@@ -48,9 +48,9 @@ On the morning of the third day, I left.
 
 ---
 
-The railroad had come to this part of the country ten years earlier, and it had changed everything. Towns that had been weeks apart by coach were now hours apart by rail. Goods moved faster. People moved faster. The whole pace of life had accelerated in ways that still felt strange to me, though I had lived through it.
+The railroad had come to this part of the country seven years earlier, and it had changed everything. Towns that had been weeks apart by coach were now hours apart by rail. Goods moved faster. People moved faster. The whole pace of life had accelerated in ways that still felt strange to me, though I had lived through it.
 
-I took the train from Rochester to Buffalo, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families relocating west. Children ran up and down the aisles while their mothers called after them. Men smoked cigars and talked business and politics. Women sat with their hands folded and their eyes on the passing scenery.
+I took the cars from Watertown to Buffalo, changing at Rome, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families relocating west. Children ran up and down the aisles while their mothers called after them. Men smoked cigars and talked business and politics. Women sat with their hands folded and their eyes on the passing scenery.
 
 I sat by the window and watched the land go by. It was familiar country at first—the rolling hills of western New York, the farms with their tidy fences, the small towns clustered around their stations. Then it flattened out as we approached the lake, and I could see the gray expanse of Erie stretching to the horizon.
 
