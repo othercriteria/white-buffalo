@@ -4,6 +4,26 @@ Brief record of meaningful manuscript states. For navigation, use git tags.
 
 ---
 
+## v0.6 - Continuity Complete (2026-07-08)
+
+- Full physical/spatial audit: visual bible (notes/visual-bible.md) and geo-ledger
+  (planning/geo-ledger.md) built from text with citations; all findings fixed
+- Timeline dislocation resolved: Morrow's final entries re-dated Jan 1/Jan 7 1859;
+  death dawn Jan 8, Farrell finds the body dawn Jan 9
+- Iowa crossing physically possible (17 days Chicago→Council Bluffs, was 7);
+  NY routing corrected to Watertown/Tug Hill per 1858 railroad research
+- Creek distances reconciled across trader/Ch 5/Ch 6
+- Buffalo "wrong twice over" made deliberate: "An autumn calf, born when no calf
+  is born"; "Grown early... early in everything since"
+- Sharps anachronism removed; whiskey arithmetic, herd presence, letters
+  selection, food gap all closed
+- Model-author critique profile (notes/opus-4-5-critique.md) and process rules
+  added; no fixed word-count target
+
+~32.8k words. The physical world now computes; style pass (tic reduction) next.
+
+---
+
 ## v0.5 - Ending Revision (2026-01-07)
 
 - Cut Chapter Twelve entirely (Lakota POV, intercut structure); moved to scratch/
