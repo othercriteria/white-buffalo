@@ -47,7 +47,7 @@ The protagonist and follower likely served in a New York volunteer regiment or a
 | 1856-1858 | Follows the calf as it matures |
 | June 1857 | First notices the Hardin homestead from a distance |
 | August 1858 | Kills George and Catherine Hardin; buries them himself |
-| November 1858 | Final journal entries; approaches the buffalo; dies |
+| January 1859 | Final journal entries (Jan 1, Jan 7); walks out at dawn Jan 8; dies |
 
 ### Hardins' Timeline
 
@@ -74,10 +74,11 @@ The protagonist and follower likely served in a New York volunteer regiment or a
 | March 1858 | Receives Catherine's last letter |
 | April-October 1858 | Growing alarm; writes to territorial authorities, military posts; receives no useful information |
 | November 1858 | Hires Farrell in upstate New York; provides letters, map, daguerreotype |
-| November 1858 | Farrell departs westward |
-| December 1858 | Farrell crosses Iowa, enters Nebraska Territory; hears rumors of "the man who follows the white buffalo"; whiskey supply dwindles |
-| Late December 1858 | Farrell reaches Hardin homestead, finds graves; DTs setting in |
-| January 1859 | Farrell tracks north; finds Morrow's camp and journal; finds Morrow's body; witnesses Lakota leading the white buffalo away |
+| November 1858 | Farrell departs westward (~Nov 3); crosses Iowa; Council Bluffs Nov 24 |
+| December 1858 | Fort Kearny Dec 9; rumors of "the man who follows the white buffalo"; trading post Dec 20; homestead Dec 27; DTs setting in |
+| January 1859 | Farrell tracks north; camp and journal Jan 8; body, buffalo, Lakota at dawn Jan 9 |
+
+Day-level positions and nominal coordinates: see planning/geo-ledger.md.
 
 ## Geography
 

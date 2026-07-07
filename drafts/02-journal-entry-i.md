@@ -40,7 +40,7 @@ I could have run to her. I could have thrown myself in her path, forced her to t
 
 But I did not.
 
-She is too small. She is only a calf, perhaps six months old. Her hooves are soft. Her weight is nothing. If I threw myself before her she would shy away, or she would step on me and I would be bruised but not broken. She could not kill me. Not yet.
+She is too small. She is only a calf, perhaps six months old. An autumn calf, born when no calf is born. Her hooves are soft. Her weight is nothing. If I threw myself before her she would shy away, or she would step on me and I would be bruised but not broken. She could not kill me. Not yet.
 
 I must wait.
 

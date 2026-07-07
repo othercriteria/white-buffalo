@@ -64,7 +64,7 @@ The trader considered this. His face was weathered past any particular age, the 
 
 "Where's their place?"
 
-"Up the river, maybe two days' ride if the snow holds. There's a creek comes in from the north—can't miss it, it's the only one for ten miles. Their place is a mile or so up that creek. Sod house, like this one, only smaller."
+"Up the river, maybe two days' ride if the snow holds. There's a creek comes in from the north—can't miss it, it's the only one for ten miles. Their place is three days up that creek, maybe four in this snow. Sod house, like this one, only smaller."
 
 "You said you haven't seen them since summer."
 
@@ -168,4 +168,4 @@ That night I built a fire larger than I needed and sat close to it, feeling the 
 
 But the country had reminded me what it could do. The country did not care whether I found what I was looking for or not.
 
-On the sixth day, I found the homestead.
+On the seventh day, I found the homestead.

@@ -2,7 +2,7 @@
 
 *June the Fourteenth, Eighteen Fifty-Eight*
 
-The herd has turned south again, following the grass into the valleys where the creeks run full from the spring thaw. She is with them, as always, her white coat bright against the green of the early summer meadows. She is magnificent now—fully grown, or nearly so, a thousand pounds of muscle and bone and sacred purpose.
+The herd has turned south again, following the grass into the valleys where the creeks run full from the spring thaw. She is with them, as always, her white coat bright against the green of the early summer meadows. She is magnificent now—grown beyond her years, a thousand pounds of muscle and bone and sacred purpose.
 
 And she has led me back to the homesteaders.
 

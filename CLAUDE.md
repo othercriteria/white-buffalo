@@ -37,9 +37,15 @@ pandoc drafts/*.md -o manuscript.md
 pandoc drafts/*.md -o manuscript.pdf
 ```
 
+## Length
+
+No fixed word-count target (decision 2026-07-07; supersedes the original ~60k
+aim). v0.5's ~33k felt right for the story. Expansion is welcome but lower
+priority than continuity and prose quality; grow only where the book asks for it.
+
 ## Context Management
 
-At ~60k words target, the full manuscript approaches context limits. Strategies:
+At full-manuscript scale, the text approaches context limits. Strategies:
 - Work on one chapter at a time when drafting
 - Use grep/search to find specific passages rather than reading everything
 - Keep notes files focused and atomic

@@ -6,7 +6,7 @@ I turned up the creek and followed it north.
 
 The country here was rougher than the river valley—broken hills and shallow draws, patches of pine on the northern slopes where the sun could not reach. The wind was less fierce, blocked by the terrain, but the cold was no less bitter. My breath froze in my beard, and the horse's breath hung in the air behind us like a trailing ghost.
 
-I had been riding for nearly a month now. December had come and was half-gone, and I had not spoken to another person since leaving the trading post. The silence of the country had seeped into me, filling the spaces where conversation used to be.
+I had been riding for nearly a month now. December had come and was more than half-gone, and I had not spoken to another person since leaving the trading post. The silence of the country had seeped into me, filling the spaces where conversation used to be.
 
 Christmas would come soon. I had not thought about Christmas in years—had no reason to, no family to celebrate with, no traditions to observe. But out here, in the empty white, I found myself counting the days nonetheless. December twenty-fifth would pass like any other day, unmarked, unremarked. I would ride and camp and ride again, and the year would turn without ceremony.
 

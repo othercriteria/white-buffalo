@@ -14,7 +14,7 @@ And she is ready.
 
 I have been watching her these past weeks with a new kind of attention. Before, I watched to learn—to understand her movements, her habits, the rhythms of her life. Now I watch to assess. To measure. To know.
 
-She is fully grown. I am certain of this now. Her body has reached its final form—the massive shoulders, the great humped back, the horns that have curved and thickened over the two years I have followed her. She stands taller than any cow in the herd, and she carries herself with a weight and presence that sets her apart even more than her color does.
+She is grown. I am certain of this now. Grown early—no cow reaches her size in three summers, but she was born out of season and has been early in everything since. The massive shoulders, the great humped back, the horns that have curved and thickened over the two years I have followed her. She stands taller than any cow in the herd, and she carries herself with a weight and presence that sets her apart even more than her color does.
 
 When she walks, the ground trembles. When she runs, the thunder of her hooves drowns out all other sound. When she turns her head to look at something—a noise in the grass, a movement on the ridge—there is a terrible deliberation in the motion, a promise of violence held in check.
 
@@ -70,7 +70,7 @@ It is not a complicated plan. It does not need to be. What matters is not the ho
 
 ---
 
-*November the Eighth*
+*January the First, Eighteen Fifty-Nine*
 
 The cold has come again. The third winter I will spend in her company, though I do not expect to see the spring.
 
@@ -82,7 +82,7 @@ I have waited two years. I can wait a little longer.
 
 ---
 
-*November the Twentieth*
+*January the Seventh*
 
 Soon.
 

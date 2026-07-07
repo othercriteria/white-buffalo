@@ -76,6 +76,23 @@ graves/torn-page drift fixed; drift note added to outline header.
 arithmetic), B3 (vanished herd), C (buffalo biology knot — lean (c)), D-letters,
 D-food-gap.
 
+**Status (same day, v0.6 batch 2 — geo-ledger pass, see planning/geo-ledger.md):**
+FIXED — A (JE VIII tail re-dated Jan 1 / Jan 7, 1859; death now dawn Jan 8, Farrell
+at camp that dusk, body found dawn Jan 9 — "not long" dead now true); B1 (trader:
+"three days up that creek, maybe four in this snow"; Ch 5 homestead on the seventh
+day; consistent with Ch 6's fourth-day-up-the-creek); B4 (JE VI anniversary → "a
+year and a half"; the brown-grass detail stands — April plains grass is brown);
+C (implemented per direction, lampshade spent here: JE I "An autumn calf, born when
+no calf is born"; JE VIII "Grown early—no cow reaches her size in three summers,
+but she was born out of season and has been early in everything since"; JE VII
+"grown beyond her years"); NEW-Iowa (Chicago→Mississippi now sixth day;
+Council Bluffs "seventeen days out of Chicago" — was 7 days for ~480 mi, physically
+impossible); Ch 6 "December... more than half-gone" (arrival Dec 27).
+Timeline-geography.md tables updated; canonical calendar in planning/geo-ledger.md.
+**Still open:** B2 (whiskey arithmetic), B3 (vanished herd), D-letters, D-food-gap,
+G1 (New York routing — north of Rochester isn't logging country; proposed Syracuse
+routing in geo-ledger).
+
 ### A. Timeline dislocation (~5 weeks) — the big one
 JE VIII's last entry is Nov 20, 1858, ending "Tomorrow, I think" (16:95); JE IX
 reads as that next dawn → Morrow dies ~Nov 21. But Farrell's clock (Ch 6 "December

@@ -16,7 +16,7 @@ The night was quiet except for the wind and the occasional call of an owl somewh
 
 The next days blurred together. I rode from dawn to dusk, stopping only to rest the horse and to eat and drink. The country did not change—flat fields, bare trees, distant farmhouses. The sky stayed gray, threatening snow that did not come.
 
-On the fourth day I reached the Mississippi.
+On the sixth day I reached the Mississippi.
 
 I had seen the river before, years ago, but it still surprised me. The sheer width of it, the dark water moving with a power that suggested depths I could not imagine. The far shore was visible but distant, a line of trees at the edge of the world.
 
@@ -86,7 +86,7 @@ I would find out what. That was my job.
 
 ---
 
-I reached Council Bluffs on the seventh day of my journey, riding into town as the sun was setting behind the bluffs that gave the place its name. It was the last significant settlement before the territories, a jumping-off point for everyone heading west.
+I reached Council Bluffs seventeen days out of Chicago, riding into town as the sun was setting behind the bluffs that gave the place its name. It was the last significant settlement before the territories, a jumping-off point for everyone heading west.
 
 The town was busy despite the season. Traders and trappers and settlers preparing for the final push, or else waiting out the winter before continuing in spring. There were soldiers too—a small detachment from Fort Kearny, I gathered, come to resupply.
 

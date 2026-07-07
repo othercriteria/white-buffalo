@@ -2,9 +2,9 @@
 
 *September the Eighth, Eighteen Fifty-Seven*
 
-One year.
+A year and a half.
 
-It has been one year since I first saw her, white against the brown grass, moving apart from the herd. One year since I understood what I must do, and what I must wait for. One year of walking and watching and surviving through a winter that tried its best to kill me.
+It has been a year and a half since I first saw her, white against the brown grass, moving apart from the herd. A year and a half since I understood what I must do, and what I must wait for. Eighteen months of walking and watching and surviving through a winter that tried its best to kill me.
 
 She has changed in that year. So have I.
 
