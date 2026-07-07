@@ -22,6 +22,8 @@ The white buffalo stood perhaps fifty yards away, watching me. Her coat was brig
 
 She did not move. She did not make any sound. She simply stood there, massive and still, her breath steaming in the cold air.
 
+Beyond her, at the far end of the valley, the herd stood bunched and dark. None of them came near.
+
 I had my rifle. I could have raised it, sighted on her, put a bullet through her heart. She was close enough that I could not have missed. One shot, and the thing that had killed Josiah Morrow would be dead.
 
 I did not raise the rifle.

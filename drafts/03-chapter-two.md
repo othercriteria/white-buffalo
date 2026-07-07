@@ -1,6 +1,6 @@
 # Chapter Two
 
-The packet Aldridge gave me contained seven letters, a hand-drawn map, and a daguerreotype of a woman I assumed was Catherine Hardin. The letters were written in a neat, educated hand on good paper, the kind that costs money. The map was useless—a sketch of rivers and landmarks that could have been anywhere west of the Mississippi. The daguerreotype showed a young woman with dark hair and pale eyes, her expression composed in the way that daguerreotypes require, holding still for the long exposure. She looked like her father. I did not tell him this.
+The packet Aldridge gave me contained seven letters—the ones he could bear to part with, I supposed—a hand-drawn map, and a daguerreotype of a woman I took to be Catherine Hardin. The letters were written in a neat, educated hand on good paper, the kind that costs money. The map was useless—a sketch of rivers and landmarks that could have been anywhere west of the Mississippi. The daguerreotype showed a young woman with dark hair and pale eyes, her expression composed in the way that daguerreotypes require, holding still for the long exposure. She looked like her father. I did not tell him this.
 
 I read the letters that night in my room at the boarding house. Mrs. Canfield's place, on the edge of town, where I had been staying when I was not in the woods. She charged fifty cents a night and did not ask questions, which was worth more to me than clean sheets.
 

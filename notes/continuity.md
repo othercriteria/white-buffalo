@@ -89,9 +89,16 @@ but she was born out of season and has been early in everything since"; JE VII
 Council Bluffs "seventeen days out of Chicago" — was 7 days for ~480 mi, physically
 impossible); Ch 6 "December... more than half-gone" (arrival Dec 27).
 Timeline-geography.md tables updated; canonical calendar in planning/geo-ledger.md.
-**Still open:** B2 (whiskey arithmetic), B3 (vanished herd), D-letters, D-food-gap,
-G1 (New York routing — north of Rochester isn't logging country; proposed Syracuse
-routing in geo-ledger).
+**Status (2026-07-08, v0.6 batch 3):** FIXED — B2 (whiskey: "the trader's cloudy
+bottle had gone first, then two of the three from Fort Kearny"; 4 bottles since
+the post now accounted); B3 (herd: Ch 11 adds "Beyond her, at the far end of the
+valley, the herd stood bunched and dark. None of them came near." — Ch 9's
+two-track stretch reads as her habitual standing-apart, canon since JE II);
+D-letters ("the ones he could bear to part with, I supposed"); D-food-gap (Ch 9:
+"The last of my food had gone two days back... The want of drink had crowded out
+every smaller want."); G1 (NY routing via Watertown/Tug Hill, researched — see
+planning/geo-ledger.md). ALL AUDIT FINDINGS NOW CLOSED except style-pass items
+tracked in notes/opus-4-5-critique.md §12.
 
 ### A. Timeline dislocation (~5 weeks) — the big one
 JE VIII's last entry is Nov 20, 1858, ending "Tomorrow, I think" (16:95); JE IX

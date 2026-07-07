@@ -16,7 +16,7 @@ It did not trouble me. Very little troubled me anymore.
 
 The whiskey was running low.
 
-I had rationed carefully since leaving the trading post, measuring my drinks by the swallow rather than the cup, but even so the bottles were emptying faster than I had hoped. Two were gone entirely, their glass discarded along the trail. The third was perhaps a quarter full.
+I had rationed carefully since leaving the trading post, measuring my drinks by the swallow rather than the cup, but even so the bottles were emptying faster than I had hoped. The trader's cloudy bottle had gone first, then two of the three from Fort Kearny, their glass discarded along the trail. The last was perhaps a quarter full.
 
 I knew what would happen when it ran out. I had seen it before, in other men and in myself. The shaking would start first—a tremor in the hands that spread to the arms, the legs, the whole body. Then the sweating, even in the cold. Then the sleeplessness, the racing heart, the visions.
 

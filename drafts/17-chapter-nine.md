@@ -56,6 +56,8 @@ The trail led north, always north.
 
 The tracks were clearer now, fresher—he was slowing down, stopping more often, perhaps waiting for something. The weather had been clear for days, and the snow showed every mark. Buffalo tracks, deep and regular. Human tracks, lighter but just as steady. Two creatures moving together across the empty land.
 
+The last of my food had gone two days back, a heel of hardtack chewed in the saddle. I was not hungry. The want of drink had crowded out every smaller want.
+
 I followed. I did not think anymore about why. The reasons had fallen away somewhere back along the trail, lost in the snow like everything else. What remained was motion. What remained was the simple, animal need to see this thing through to the end.
 
 Somewhere up ahead, the man who followed the white buffalo waited for whatever he was waiting for.
