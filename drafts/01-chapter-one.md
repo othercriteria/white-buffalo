@@ -48,7 +48,7 @@ Aldridge stood in the smoke and the noise and felt the accumulated exhaustion of
 
 "I'll wait," he said.
 
-The barman's expression flickered—something like amusement, or perhaps respect. "As you like. Drink?"
+The barman's expression flickered. "As you like. Drink?"
 
 "No. Thank you."
 
@@ -70,11 +70,11 @@ He was not what Aldridge had expected. The men at the lumber office had spoken o
 
 Farrell's eyes moved across the room, taking inventory. They stopped on Aldridge for a moment—the only man sitting alone, the only man who did not belong—and then moved on. He walked to the bar.
 
-The barman spoke to him, low. Farrell listened without expression. Then he turned and looked at Aldridge again, this time with something more than casual interest.
+The barman spoke to him, low. Farrell listened. Then he turned and looked at Aldridge again, this time with something more than casual interest.
 
 He crossed the room and stood at Aldridge's table. Up close, his eyes were pale, the color difficult to determine in the lamplight. He did not sit.
 
-"You've been waiting," he said. It was not a question.
+"You've been waiting," he said.
 
 "Yes."
 
@@ -142,7 +142,7 @@ Aldridge had not prepared for this question. He found he did not have an answer.
 
 "Then you tell me," he said finally. "And I will decide what to do."
 
-Farrell nodded slowly. He seemed to be calculating something—distances, perhaps, or odds, or the measure of the man across from him. "It will cost you."
+Farrell nodded slowly. He seemed to be calculating something. "It will cost you."
 
 "I expected as much."
 
@@ -162,7 +162,7 @@ Farrell took it, glanced inside, did not count. He folded the envelope and put i
 
 "I'll come by in the morning."
 
-Farrell stood. He looked down at Aldridge, and his expression shifted—something flickered across it that might have been pity, or might have been recognition.
+Farrell stood. He looked down at Aldridge.
 
 "You should prepare yourself, Mr. Aldridge. For what I might find."
 
@@ -172,7 +172,7 @@ Farrell stood. He looked down at Aldridge, and his expression shifted—somethin
 
 He turned and walked to the bar, spoke briefly with the barman, and then was gone, out into the night. The door closed behind him, and the cold air that had followed him in dissipated, absorbed into the warmth of the room.
 
-Aldridge sat at his table for a long time. The beaver-felt hat sat before him, as incongruous as ever. He did not touch his pocket, did not check that the packet of letters was still there, though he wanted to. He had read them so many times that he knew them by heart. The early ones, full of hope and descriptions of the land. The middle ones, more measured, the hope beginning to curdle. And the last one, dated March the fourteenth, in which Catherine had written that the winter was finally breaking and that the snow was melting and that she hoped the worst was behind them.
+Aldridge sat at his table for a long time, the beaver-felt hat before him. He did not touch his pocket, did not check that the packet of letters was still there, though he wanted to. He had read them so many times that he knew them by heart. The early ones, full of hope and descriptions of the land. The middle ones, more measured, the hope beginning to curdle. And the last one, dated March the fourteenth, in which Catherine had written that the winter was finally breaking and that the snow was melting and that she hoped the worst was behind them.
 
 He had not known, when he read it, that it would be the last.
 
@@ -194,6 +194,6 @@ He had done what he could. He had sent a man to find his daughter, to learn the 
 
 He went back inside, packed his bag, and began the long journey home. The country outside the coach window was bleak and cold, the fields fallow, the trees bare. He watched it pass and thought of Catherine, and of the man he had hired to find her, and of what that man might do when he did.
 
-He found that he did not want to think about that last part too closely. He found that this was why he had hired Farrell in the first place—so that he would not have to.
+He did not want to think about that last part too closely. He found that this was why he had hired Farrell in the first place—so that he would not have to.
 
-The coach rattled on, east toward Oswego, toward the lake, toward home.
+The coach rattled on, east toward Oswego, toward home.

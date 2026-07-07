@@ -337,8 +337,9 @@ analysis for credit formats is in transcripts/2026-01-07-9520044c.md (~660–730
 
 Known open items (found during this audit, not yet fixed):
 - "dead eyes and their silent mouths" survives at 17:7 — v0.3 claimed this was varied.
-- "like a ship through water" duplicated at 06:9 and 20:61 — decide: deliberate echo
-  (keep exactly one earlier instance so the finale reads as rhyme) or accident (vary one).
+- "like a ship through water" duplicated at 06:9 and 20:61 — RESOLVED (v0.7): keep
+  both, ruled a diegetic echo. Farrell uses it only after reading the journal
+  (Jan 8 night); the borrowed simile is Morrow's language surfacing in him.
 - "They did not answer. They never answered." verbatim twice within Ch 8 (15:31, 15:139).
 - Ch 9/Ch 10 state the forge/kiln thesis twice (17:39-51, 19:59-61) — outline says
   neither should exist; at most one, stripped, might survive.

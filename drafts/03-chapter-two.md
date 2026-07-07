@@ -56,11 +56,11 @@ I sat by the window and watched the land go by. It was familiar country at first
 
 I thought about Mexico.
 
-I had not thought about Mexico in some time. I had trained myself not to. But something about this journey—the movement, perhaps, or the sense of going toward something instead of away from it—brought it back.
+I had not thought about Mexico in some time. I had trained myself not to. But this journey—moving toward something instead of away from it—brought it back.
 
 I had been twenty years old when I enlisted. A young man full of notions about glory and duty and the honor of serving one's country. Those notions had not survived the first month. By the time we reached Monterrey I had forgotten why I had come. By the time we reached Mexico City I had forgotten that I had ever been anyone other than what the war had made me.
 
-The train rattled on. The other passengers talked and laughed and conducted their business. I sat with my bag between my feet and my rifle case beside me and I let the memories come and go without trying to hold them or push them away.
+The train rattled on. The other passengers talked and laughed and conducted their business. I sat with my bag between my feet and my rifle case beside me and let the memories come as they would.
 
 What I remembered most was the waiting. The long hours before an assault, sitting in trenches or behind walls, listening to the guns. The longer hours after, when the fighting was done and there was nothing to do but count the dead and wonder why you were not among them. I had been good at waiting. I had been good at most of what the army required. That was why I had survived.
 
@@ -68,13 +68,13 @@ The train pulled into Cleveland as the sun was setting. I found a hotel near the
 
 I ate at a chophouse near the hotel. The food was adequate. The whiskey was better. I had two glasses and then went back to my room and had two more from my own supply.
 
-I thought about Catherine Hardin, alone on a homestead somewhere in the Nebraska Territory. I thought about her husband, who might have killed her, or might simply have failed to protect her from whatever had happened. I thought about Aldridge, back in Oswego now, waiting for news.
+I thought about Catherine Hardin, alone on a homestead somewhere in the Nebraska Territory. I thought about her husband, who might have killed her, or might simply have failed to protect her from whatever had happened. Aldridge would be back in Oswego by now, waiting for news.
 
 I thought about what I would do when I found the truth.
 
 The answer was simple enough. If she was alive, I would bring word back to her father. If she was dead and her husband had killed her, I would kill him. If she was dead and her husband had not killed her—if some other fate had befallen them both—I would bring that word back too.
 
-It was not complicated. These things rarely were, once you stripped away the emotion.
+It was not complicated. These things rarely were.
 
 I finished the whiskey and lay down on the bed without undressing. The ceiling was water-stained, the plaster cracked. I watched the cracks in the lamplight until my eyes grew heavy, and then I closed them.
 
@@ -116,12 +116,12 @@ That night I spread my map on the bed and studied it by lamplight. The hand-draw
 
 The Niobrara River was there, a thin line running west to east across the northern part of Nebraska Territory. The country around it was largely blank—no towns, no roads, just the shapes of rivers and the word SIOUX written in large letters across the emptiness.
 
-Somewhere in that emptiness, George and Catherine Hardin had built their homestead. Somewhere in that emptiness, I would find out what had happened to them.
+Somewhere in that emptiness, George and Catherine Hardin had built their homestead, and I would find out what had happened to them.
 
 I folded the map and put it away. I had another drink, then another. The bottle was nearly empty by the time I finished.
 
-In the morning, I would cross the Mississippi and begin the real journey. Everything before this had been prelude.
+In the morning, I would ride west toward the Mississippi and begin the real journey. Everything before this had been prelude.
 
-I lay back on the bed and listened to the sounds of Chicago through the thin walls—men shouting, a woman laughing, the clatter of a wagon on the cobblestones. The sounds of people living their lives, going about their business, unaware of the emptiness that waited just beyond the edge of the world they knew.
+I lay back on the bed and listened to the sounds of Chicago through the thin walls—men shouting, a woman laughing, the clatter of a wagon on the cobblestones. The sounds of people living their lives, going about their business.
 
 I finished the bottle and let it fall to the floor.

@@ -18,7 +18,7 @@ The next days blurred together. I rode from dawn to dusk, stopping only to rest 
 
 On the sixth day I reached the Mississippi.
 
-I had seen the river before, years ago, but it still surprised me. The sheer width of it, the dark water moving with a power that suggested depths I could not imagine. The far shore was visible but distant, a line of trees at the edge of the world.
+I had seen the river before, years ago, but it still surprised me. The sheer width of it, the dark water moving with a power that suggested depths I could not imagine. The far shore was visible but distant, a thin line of trees.
 
 The ferry was a flat-bottomed boat large enough for a dozen horses and twice as many men. The ferryman was a thick-bodied man with a face like weathered stone and hands that looked strong enough to strangle a bear. He took my money without comment and waved me aboard.
 
@@ -80,7 +80,7 @@ The conversation moved on. I finished my drink and went up to my room and lay on
 
 I thought about what I was riding toward. The Nebraska Territory was wilder than Iowa, emptier, more dangerous. The Sioux were there, and other tribes. The winters were worse. The law was whatever a man could make of it with his own two hands.
 
-And somewhere in that emptiness, George and Catherine Hardin had tried to make a home. Somewhere in that emptiness, something had happened to them.
+And somewhere in that emptiness, George and Catherine Hardin had tried to make a home, and something had happened to them.
 
 I would find out what. That was my job.
 
@@ -120,14 +120,12 @@ The conversation moved on, but I did not stop thinking about it.
 
 A man who followed a white buffalo. It meant nothing to me, not then. Just another strange story from a strange country.
 
-But I remembered it. I would have cause to remember it later.
-
 ---
 
-I stayed in Council Bluffs for two more days, buying supplies and asking questions. No one knew anything useful about the Hardins. The territory was too large, too empty, too unknown.
+I stayed in Council Bluffs for two more days, buying supplies and asking questions. No one knew anything useful about the Hardins. The territory was too large and too empty.
 
 On the third morning I packed my things and saddled my horse and rode out of town, following the trail that led along the Platte River into the west.
 
-The sky was gray, heavy with the promise of snow. The wind was cold, blowing down from the north, carrying with it the smell of ice and distance. Winter was coming, and I was riding into it.
+The sky was gray, heavy with the promise of snow. The wind blew down from the north, carrying the smell of ice and distance.
 
 I did not look back.
