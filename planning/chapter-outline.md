@@ -1,5 +1,10 @@
 # Chapter Outline
 
+> **Drift note (2026-07-07):** This is the original plan; the drafts are canon where
+> they differ. Known remaining drift: drafts merge this outline's JE IX–X into
+> JE VIII–IX (drafts have 9 journal entries); Chapter 12 was cut in v0.5 (lives in
+> scratch/). Drift log: notes/continuity.md §E.
+
 ## Structure
 
 The novel alternates between:
@@ -103,11 +108,11 @@ Autumn 1857. Morrow writes about the white buffalo's first year completed. She i
 ### Chapter 7 - [First person, Farrell]
 *~5,000 words*
 
-Farrell investigates the homestead. The door is not barred. Inside: signs of violence, long-cleaned. He finds the graves behind the barn. Three of them. Dug by hand, covered with rocks to keep animals out. No markers.
+Farrell investigates the homestead. The door is not barred. Inside: signs of violence, long-cleaned. He finds the graves behind the barn. Two of them. Dug by hand, covered with rocks to keep animals out. No markers.
 
 He considers his options. He could turn back now. He has enough evidence to report to Aldridge: the daughter is dead, the son-in-law probably too. But he doesn't turn back. He doesn't fully understand why. Perhaps he wants to see the white buffalo. Perhaps he's tired of turning back.
 
-He searches the homestead more carefully. Finds signs that someone else was here after the killings - the graves were not dug by whoever killed them. Near the graves: a torn journal page, deliberately placed, weighted with a stone. Used to soak up blood from the burials. The writing is mostly obscured by dark stains, but a few words remain legible: "...the white buffalo..." and "...necessary..." The page was not lost; it was offered.
+He searches the homestead more carefully. Near the graves, old tracks still readable: the deep hoofprints of a buffalo heavier than any horse, and a man's boot-prints, leaving together, north. The stories connect — the man who follows the white buffalo was here.
 
 ### Journal Entry VII
 *~2,000 words*

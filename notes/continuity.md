@@ -63,7 +63,18 @@
 ## Continuity audit findings (2026-07-07, visual-bible extraction pass)
 
 Full physical spec with citations: notes/visual-bible.md. Findings ordered by
-severity. None fixed yet; fixes belong to the v0.6 pass.
+severity.
+
+**Status (same day, v0.6 batch 1):** FIXED — B5 (white-on-white sighting rewritten),
+B6 (Sharps → unspecified war rifle; "powder and ball" now consistent with 15:9),
+B7 ("at Monterrey as I had"), B8 (candle stub, pencil, flint and steel added to
+camp inventory 19:19), B9 ("spring thaw"), D-fire/pencil (kit at 06:21 amended),
+D-frozen-men ("On my walk out I saw a man frozen..."; wandering duration now
+"months"), D-page-turning (stillness inference: "Reading, I suppose"). Outline
+graves/torn-page drift fixed; drift note added to outline header.
+**Still open:** A (timeline dislocation), B1 (creek distance), B2 (whiskey
+arithmetic), B3 (vanished herd), C (buffalo biology knot — lean (c)), D-letters,
+D-food-gap.
 
 ### A. Timeline dislocation (~5 weeks) — the big one
 JE VIII's last entry is Nov 20, 1858, ending "Tomorrow, I think" (16:95); JE IX

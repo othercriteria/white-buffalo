@@ -27,13 +27,12 @@ all" (07:183). "My clothes hang loose" (04:13); "my body is thinner than it has
 ever been" (12:63). Blood froze in his beard eating raw meat (08:27).
 
 **Kit (complete, as text states it).** "No gun, only a knife" (02:13); "a blanket,
-a knife, this journal" (06:21); gloves (08:9); tin cup (19:19); bedroll with
-blankets (19:19); "a bundle of clothes so worn they barely deserved the name"
-(19:19); knife dull by Oct 1857 (12:63). Candle on the final night (18:7 — NOT in
-the Ch 10 camp inventory; see findings). [gap] coat/hat/boots — nothing described,
-ever; [gap] fire-starting method (fires at 02:53, 12:113 with no flint/steel in
-kit); [gap] writing implement (ink freezes; pencil never mentioned); [gap] food in
-final months ("No animals, no supplies," 19:5).
+a knife, flint and steel, this journal and a pencil" (06:21); gloves (08:9); camp
+inventory: knife, tin cup, flint and steel, candle stub, pencil worn short, bedroll
+with blankets, "a bundle of clothes so worn they barely deserved the name" (19:19);
+knife dull by Oct 1857 (12:63); candle on the final night (18:7). [gap] coat/hat/
+boots — nothing described, ever; [gap] food in final months ("No animals, no
+supplies," 19:5).
 
 **Food when specified.** Wolf-kill leavings (02:13); roots, berries, ground-nest
 eggs (04:13); raw frozen buffalo meat hacked with the knife (08:27).
@@ -76,10 +75,9 @@ campaign (17:27–29, 15:147). Beard on the trail — freezes solid (07:21, 11:7
 for the journey (03:43); boots (01:69, 07:35); hat (07:85). [gap] all colors,
 materials, cuts.
 
-**Gear.** Rifle: "a Sharps carbine I had carried since the war" (03:43 — see
-findings: anachronism); rifle case (03:63), scabbard (11:65); sleeps with hand on
-it (13:103); loads with loose powder when shaking (15:9 — check against final
-weapon choice). Knife (03:43); matches (07:31); coffee pot (15:9); dried meat and
+**Gear.** Rifle: "the one I had carried since the war" — type unspecified;
+muzzleloader implied by "powder and ball" (03:43, 03:111) and loose-powder loading
+(15:9); rifle case (03:63), scabbard (11:65); sleeps with hand on it (13:103). Knife (03:43); matches (07:31); coffee pot (15:9); dried meat and
 hardtack (03:43); the packet — seven letters, hand-drawn map, daguerreotype (03:3);
 printed settlers' map from Cleveland (03:115); $200 fee, half in advance, crisp
 bills (01:149–155).

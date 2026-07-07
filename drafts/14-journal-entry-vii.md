@@ -2,7 +2,7 @@
 
 *June the Fourteenth, Eighteen Fifty-Eight*
 
-The herd has turned south again, following the grass into the valleys where the creeks run full from the mountain snows. She is with them, as always, her white coat bright against the green of the early summer meadows. She is magnificent now—fully grown, or nearly so, a thousand pounds of muscle and bone and sacred purpose.
+The herd has turned south again, following the grass into the valleys where the creeks run full from the spring thaw. She is with them, as always, her white coat bright against the green of the early summer meadows. She is magnificent now—fully grown, or nearly so, a thousand pounds of muscle and bone and sacred purpose.
 
 And she has led me back to the homesteaders.
 
@@ -80,7 +80,7 @@ I have been watching them more closely these past days. Learning their routines,
 
 The man wakes before dawn and goes to the barn to tend the animals. He stays there for perhaps an hour, sometimes longer. Then he returns to the house and eats whatever the woman has prepared for him. Then he goes to the fields.
 
-The woman wakes later, after the man has left for the barn. She builds up the fire, prepares food, cleans. She spends most of her day in or near the house. Sometimes she reads—I have seen her sitting by the window with a book in her hands, turning pages slowly, as if savoring each one.
+The woman wakes later, after the man has left for the barn. She builds up the fire, prepares food, cleans. She spends most of her day in or near the house. Sometimes she sits by the window for an hour, hardly moving. Reading, I suppose. I cannot think what else would hold her so still.
 
 She does not belong here. I can see that from a distance. The way she moves, the way she holds herself—she was made for a different kind of life, a softer life, a life with books and comfort and people to talk to. She came here for love, or for hope, or for some other reason I cannot fathom. And now she is going to die here.
 

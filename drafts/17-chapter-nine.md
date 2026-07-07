@@ -86,7 +86,7 @@ The sun rose on a landscape I did not recognize.
 
 The hills had given way to something flatter, more open—a wide valley stretching between ridges that seemed too far away to matter. The snow was deep here, untouched by wind, a blank white page on which only two stories were written: the tracks of the buffalo, and the tracks of the man who followed her.
 
-I could see them both now. Far ahead, perhaps a mile, a dark shape moved against the white—the buffalo, grazing or walking or simply standing. And behind her, smaller, barely visible, another shape. A man.
+I could see them both now. Far ahead, perhaps a mile, a dark shape moved against the white—the man. The buffalo I could not find at first. She was white on white, and I found her only when she moved.
 
 I stopped my horse and watched. The distance was too great to make out details, but I could see the way he moved—slow, deliberate, as if every step required careful thought. He was watching her, I knew. Waiting for something.
 

@@ -18,7 +18,7 @@ I do not try to approach her. I keep my distance, as I have since the beginning.
 
 The herd has been moving south, following the river toward the lower country. The nights are growing cold, and the buffalo know what is coming. They have been making this journey for longer than men have been here to see it.
 
-I move with them. I have no gear to speak of—a blanket, a knife, this journal—and so I can travel as fast as they do. Sometimes I walk beside them, a hundred yards off, keeping pace with the slow roll of their movement. Sometimes I sit on a rise and watch them pass, counting the animals as they go, looking for her white form among the brown.
+I move with them. I have no gear to speak of—a blanket, a knife, flint and steel, this journal and a pencil—and so I can travel as fast as they do. Sometimes I walk beside them, a hundred yards off, keeping pace with the slow roll of their movement. Sometimes I sit on a rise and watch them pass, counting the animals as they go, looking for her white form among the brown.
 
 She is always there. Always visible, even at a distance. A bright spot moving through the herd, like a star fallen to earth and walking among cattle.
 

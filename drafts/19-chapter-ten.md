@@ -16,7 +16,7 @@ I walked to the hollow and knelt at its edge.
 
 ---
 
-The hollow was perhaps six feet deep, carved by water or wind into the side of the hill. A bedroll lay at the back, the blankets neatly arranged, waiting for someone who would not return. A few possessions were scattered about—a knife, a tin cup, a bundle of clothes so worn they barely deserved the name.
+The hollow was perhaps six feet deep, carved by water or wind into the side of the hill. A bedroll lay at the back, the blankets neatly arranged, waiting for someone who would not return. A few possessions were scattered about—a knife, a tin cup, a flint and steel, a stub of candle, a pencil worn down short, a bundle of clothes so worn they barely deserved the name.
 
 And on the bedroll, sitting as if left to be found, a leather-bound book.
 
@@ -32,7 +32,7 @@ I sat down on the cold ground and began to read.
 
 I read until the light failed completely, and then I built a fire at the mouth of the hollow and read by its light. I read through the night, turning page after page, watching a man's life unfold in careful, formal handwriting.
 
-His name was Josiah Morrow. He was from Virginia. He had served in the Mexican War, in the same battles I had served in, under officers whose names I recognized. He had come back from the war broken in a way I understood, and he had spent years looking for something to make him whole again.
+His name was Josiah Morrow. He was from Virginia. He had served in the Mexican War, at Monterrey as I had, under officers whose names I recognized. He had come back from the war broken in a way I understood, and he had spent years looking for something to make him whole again.
 
 He had found the white buffalo.
 

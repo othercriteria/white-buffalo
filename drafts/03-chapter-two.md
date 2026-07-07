@@ -40,7 +40,7 @@ He looked at me for a moment, then shrugged. "There'll be work when you get back
 
 He didn't look convinced. I didn't particularly care.
 
-I bought supplies: a heavy coat, wool blankets, dried meat and hardtack, a new knife. I already had a rifle, a Sharps carbine I had carried since the war. I cleaned it, checked the action, loaded it. It had not failed me yet.
+I bought supplies: a heavy coat, wool blankets, dried meat and hardtack, a new knife. I already had a rifle, the one I had carried since the war. I cleaned it, checked the lock, loaded it. It had not failed me yet.
 
 I bought whiskey. Three bottles, wrapped in cloth so they would not clink. This was the supply I cared about most. I knew what waited for me if the supply ran out. I had seen it happen to other men, the shaking and the fever and the visions. I had come close to it myself, once, when a winter storm trapped me in a cabin for two weeks with nothing to drink. I did not intend to come close to it again.
 
@@ -108,7 +108,7 @@ He looked at me, taking my measure. "Winter's coming hard this year. Word from t
 
 He shrugged. "Your funeral. What do you need?"
 
-I bought a horse—a sturdy bay gelding with a calm disposition and good teeth—and tack and saddlebags. I bought additional supplies: more dried food, grain for the horse, ammunition for the Sharps. And I bought three more bottles of whiskey, despite the price, because Hennessey was right about the winter and I knew I would need it.
+I bought a horse—a sturdy bay gelding with a calm disposition and good teeth—and tack and saddlebags. I bought additional supplies: more dried food, grain for the horse, powder and ball for the rifle. And I bought three more bottles of whiskey, despite the price, because Hennessey was right about the winter and I knew I would need it.
 
 The total came to more than I had expected. I paid from Aldridge's money and did not worry about it. If I came back, I would collect the other half of my fee. If I did not come back, the money would not matter.
 

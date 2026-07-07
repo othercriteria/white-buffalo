@@ -2,11 +2,11 @@
 
 *April the Nineteenth, Eighteen Fifty-Six*
 
-I have walked a long time. I do not know how long. The days blur together on the plains, each one the same as the last, the grass moving under the wind like the surface of a sea. I have lost count of the weeks. Perhaps months.
+I have walked a long time. I do not know how long. The days blur together on the plains, each one the same as the last, the grass moving under the wind like the surface of a sea. I have lost count of the months.
 
 I came out here to die. I should write that down plainly so that whoever reads this will understand. I am not mad, though I know how this will sound. I came out here because I could not die in the places where men live, among their noise and their commerce and their endless small concerns. I needed a place large enough for what I intended.
 
-I thought at first that the land itself would kill me. The winters here are terrible. I have seen men frozen solid where they sat, their eyes open, their hands still raised as if in conversation. I have seen storms roll in from the north with no warning, the sky turning from blue to black in the space of an hour, and I have thought: this is how it will happen. But the storms pass and I remain. I am difficult to kill. I learned this in Mexico, though I did not want to learn it.
+I thought at first that the land itself would kill me. The winters here are terrible. On my walk out I saw a man frozen solid where he sat, his eyes open, his hands still raised as if in conversation. I have seen storms roll in from the north with no warning, the sky turning from blue to black in the space of an hour, and I have thought: this is how it will happen. But the storms pass and I remain. I am difficult to kill. I learned this in Mexico, though I did not want to learn it.
 
 I thought perhaps the Sioux would kill me. I have crossed their lands without permission, without weapons sufficient to defend myself. I have seen their camps from a distance, the smoke rising in the cold air, the horses moving on the hillsides. They have seen me too. But they do not approach. Perhaps they think me mad, and mad men are sacred to them, or perhaps they simply do not care. I am one man, alone, walking. I am not worth the trouble.
 
