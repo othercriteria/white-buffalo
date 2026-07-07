@@ -2,11 +2,11 @@
 
 The main trail continued west along the Platte, toward Fort Laramie and the mountains beyond. I turned north.
 
-The country changed as soon as I left the river. The flat bottomland gave way to rolling hills, then to a landscape of broken ridges and deep draws that seemed to have been made by a god who could not decide what he wanted. The trail—if you could call it a trail—was little more than a track worn by animals and the occasional traveler, winding through the hills in a way that suggested it was following the path of least resistance rather than any particular destination.
+The country changed as soon as I left the river. The flat bottomland gave way to rolling hills, then to a landscape of broken ridges and deep draws with no plan to it. The trail—if you could call it a trail—was little more than a track worn by animals and the occasional traveler, winding through the hills in a way that suggested it was following the path of least resistance rather than any particular destination.
 
 The snow was deeper here, where the wind had less chance to scour it away. Some mornings I woke to find drifts piled against the side of my shelter that reached higher than my horse's head. Some days the going was so slow that I made less than five miles between dawn and dark.
 
-I rationed my whiskey carefully. Two drinks at night, no more, regardless of how much I wanted. The bottles were half-empty now, and I did not know when I would find more. The want was a constant presence, a pressure behind my eyes, a tremor in my hands that I had learned to ignore. I had been through worse, years ago, when I had run out entirely and had to wait three days for a supply train that never came. I could manage this.
+I rationed my whiskey carefully. Two drinks at night, no more, regardless of how much I wanted. The bottles were half-empty now, and I did not know when I would find more. The want was a constant presence, a pressure behind my eyes, a tremor in my hands that I had learned to ignore. I had been through worse, years ago, in the cabin winter when the whiskey ran out entirely. I could manage this.
 
 The cold was another kind of want. It wanted inside me, wanted to curl up in my bones and sleep there until spring. I fought it with fire and with movement and with the stubborn conviction that I would not die in a place this empty, for a reason this trivial. I had survived Mexico. I had survived ten years of slow drowning in whiskey and regret. I would survive this.
 
@@ -14,7 +14,7 @@ The cold was another kind of want. It wanted inside me, wanted to curl up in my 
 
 On the fourth day north, I came across a dead man.
 
-He was frozen solid, lying in a draw where the snow had drifted over him almost to the top of his head. I might have passed him by if I hadn't noticed the hand—pale and stiff, reaching up out of the white as if grasping for something he could not quite reach.
+He was frozen solid, lying in a draw where the snow had drifted over him almost to the top of his head. I might have passed him by if I hadn't noticed the hand—pale and stiff, reaching up out of the white.
 
 I dismounted and dug him out. It took the better part of an hour, working with my knife and my hands, the frozen snow crumbling away in chunks. He was a young man, perhaps twenty-five, dressed in the clothes of a settler or a small trader. No coat—he had either lost it or never had one. No supplies, no weapon, no horse.
 
@@ -32,7 +32,7 @@ The trading post appeared on the sixth day, squatting at the junction of two fro
 
 I dismounted and tied my horse beside the other and went inside.
 
-The interior was a single room, perhaps twenty feet by fifteen, lit by a pair of candles and the glow of a cast-iron stove in the corner. The walls were lined with shelves holding the kind of goods a man might need in this country: traps and ammunition, blankets and flour, tobacco and salt. A counter made of rough-hewn planks divided the space in two, and behind it sat a man who looked like he had been waiting there since the ice age.
+The interior was a single room, perhaps twenty feet by fifteen, lit by a pair of candles and the glow of a cast-iron stove in the corner. The walls were lined with shelves holding the kind of goods a man might need in this country: traps and ammunition, blankets and flour, tobacco and salt. A counter made of rough-hewn planks divided the space in two, and behind it sat a man who looked like he had been waiting there since the flood.
 
 "Close the door," he said. "You're letting in the cold."
 
@@ -50,11 +50,11 @@ He named a price that would have made the sutler at Fort Kearny weep with envy. 
 
 "Information. I'm looking for a homestead. Family named Hardin. Man and wife, settled somewhere up the Niobrara."
 
-The trader's eyes narrowed slightly. "You law?"
+The trader's eyes narrowed slightly. "You a lawman?"
 
 "No."
 
-"Bounty hunter?"
+"Hunting a bounty?"
 
 "No. I've been hired by the woman's father. He hasn't heard from her in months."
 
@@ -92,7 +92,7 @@ The trader's expression changed—not much, but enough that I noticed.
 
 "What did he look like?"
 
-"Tall. Thin. Beard like a bird's nest. Clothes that looked like they'd been through a war and lost. And his eyes—" Another pause. "You ever see a man who's given up? Not on a particular thing, but on everything? On being a man, on being alive, on giving a damn about anything this side of the grave?"
+"Tall. Thin. Beard like a bird's nest. Clothes that looked like they'd been through a war and lost. And his eyes—" Another pause. "You ever see a man who's given up? Not on one thing. On all of it?"
 
 "I've seen men like that."
 
@@ -122,15 +122,15 @@ But the timing sat wrong with me, and I fell asleep still turning it over.
 
 ---
 
-I left the trading post at dawn, riding north along the frozen river. The first day I made good time. The sky was clear, the wind light, and the river showed me the way north as clearly as any road. I counted the creeks as I passed them, as the trader had instructed, and I camped that night in a stand of pines on a south-facing slope where the snow was thin and the deadfall plentiful.
+I left the trading post at dawn, riding north along the frozen river. The first day I made good time. The sky was clear, the wind light, and the river showed me the way north as clearly as any road. I watched for the creek the trader had described, and I camped that night in a stand of cedar on a south-facing slope where the snow was thin and the deadfall plentiful.
 
 The second day, the country began to look the same.
 
-The hills rolled on in every direction, white and gray and featureless, each one identical to the last. The creeks that fed the river came down from the north at irregular intervals, some wide and obvious, others little more than frozen trickles that might have been creeks or might have been nothing at all. I counted them as I had been counting, but I began to lose confidence in my count.
+The hills rolled on in every direction, white and gray and featureless, each one identical to the last. The creeks that fed the river came down from the north at irregular intervals, some wide and obvious, others little more than frozen trickles that might have been creeks or might have been nothing at all. I began to doubt myself.
 
-Had that been a creek, or just a fold in the land? Had I missed one earlier, passed it without noticing? The trader had said the Hardins' creek was the only one for ten miles, but how would I know? The country kept its secrets.
+Had that been a creek, or just a fold in the land? Had I missed it earlier, passed it without noticing? The trader had said the Hardins' creek was the only one for ten miles, but how would I know when ten miles had passed? The country kept its secrets.
 
-I saw antelope that day, a small herd moving across a distant ridge, their tan coats stark against the white. I thought about hunting them—my supplies were adequate but not generous—but they were too far, and I had neither the time nor the ammunition to waste on a chase that might lead nowhere.
+I saw antelope that day, a small herd moving across a distant ridge, their tan coats stark against the white. I thought about hunting them—my supplies were adequate but not generous—but they were too far, and I had neither the time nor the ammunition to waste on a chase that might lead nowhere. I watched them out of sight. It was the first thing I had seen move in days that was not snow.
 
 That night I heard coyotes for the first time. They started after dark, a single voice rising from somewhere to the west, and then others answering—a chorus of yips and howls that seemed to come from everywhere and nowhere at once. The sound raised the hair on my neck. It was wild in a way that reminded me how far I was from anything I knew.
 
@@ -143,8 +143,6 @@ I turned back. Three hours wasted, and the short winter day already half-gone. I
 The fourth day I found the right creek.
 
 I knew it as soon as I saw it—wider than the others, the valley opening out to the north, the willows along its banks brown and thick. I turned up it and felt something ease in my chest.
-
-But the country was not done with me yet.
 
 The crossing looked easy enough—the ice was thick, the surface smooth, the far bank no more than twenty feet away. I started across without dismounting, the horse picking his way carefully, testing each step before committing his weight.
 
@@ -167,5 +165,3 @@ We made it. The ice held. But when we reached solid ground, my legs gave out ben
 That night I built a fire larger than I needed and sat close to it, feeling the warmth on my face, listening to the ice on the creek settle and crack in the darkness. I was on the right creek now. Two days more, maybe three.
 
 But the country had reminded me what it could do.
-
-On the seventh day, I found the homestead.

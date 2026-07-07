@@ -72,7 +72,7 @@ I do not want her pity. I want her to kill me. But she is not ready, and so I am
 
 The worst of the cold has broken. The snow is still deep, but the wind has shifted, coming now from the west instead of the north, and there is a softness in it that promises spring.
 
-The herd has begun to move again, drifting north along the river valleys. I follow. My body has adapted to the cold, or perhaps simply given up protesting it. I no longer feel the pain I felt in December. I no longer feel much of anything.
+The herd has begun to stir again, working along the river valleys. I follow. My body has adapted to the cold, or perhaps simply given up protesting it. I no longer feel the pain I felt in December. I no longer feel much of anything.
 
 She has grown through the winter. I had not thought that possible—I had assumed she would simply endure, as I have endured, waiting for the spring to bring growth and strength. But she is larger than she was in November. Her shoulders are broader, her hump more pronounced. She moves with a new confidence, a new power.
 
@@ -84,12 +84,8 @@ We are both almost ready.
 
 *February the Fourteenth*
 
-I have survived the winter.
+I have survived the deep of the winter. March will try again—the old men in Virginia said March kills more than January—but the days are lengthening.
 
-I did not think I would. There were nights when I lay in the snow and watched my breath freeze in the air and thought: this is how it ends, not by her hooves but by the cold, not with meaning but with simple failure. But I woke each morning, and I found her each day, and I kept walking.
-
-The herd is strong. She is strong. The spring will bring grass and warmth and the beginning of a new cycle.
+I did not think I would last this far. There were nights when I lay in the snow and watched my breath freeze in the air and thought: this is how it ends, not by her hooves but by the cold, not with meaning but with simple failure. But I woke each morning, and I found her each day, and I kept walking.
 
 And next winter, or the winter after, she will be ready.
-
-I can wait.

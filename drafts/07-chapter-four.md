@@ -12,7 +12,7 @@ The first week passed without incident. The second did not.
 
 On the ninth day the weather turned. I had been watching the sky all morning—the clouds thickening in the northwest, the light going flat and gray—and I knew what was coming before the first flakes fell. By noon the snow was falling hard, driven sideways by a wind that cut through my coat like it was paper.
 
-I pushed on. The trail was still visible, and I told myself I could make the shelter of the next creek bottom before the worst of it hit.
+I pushed on. The trail was still visible, and I judged I could make the shelter of the next creek bottom before the worst of it hit.
 
 I was wrong.
 
@@ -44,7 +44,7 @@ Fort Kearny was three days ahead. I made it in four.
 
 On the second day after the storm, I came upon a wagon that had broken an axle.
 
-It was a heavy farm wagon, the kind emigrants used to haul their possessions west, and it had come to grief in a shallow draw where a creek crossed the trail. One rear wheel had dropped into a hole hidden by snow, and the axle had snapped under the weight. The wagon now sat at an angle, its contents spilling out onto the frozen ground.
+It was a heavy farm wagon, the kind emigrants used to haul their possessions west, and it had come to grief in a shallow draw where a creek crossed the trail. One rear wheel had dropped into a hole hidden by snow, and the axle had snapped under the weight. The wagon now sat at an angle, its contents spilling out onto the frozen ground. The mules stood unhitched nearby, heads down, rumps to the wind.
 
 The owner was a man named Gunderson—a Swede, by his accent—and he was standing beside the wreckage with the expression of a man who has just realized that his life has taken a turn he did not expect. His wife sat on a trunk nearby, wrapped in a blanket, her face pale. Two children, a boy and a girl of perhaps six and eight, were collecting scattered belongings from the snow.
 
@@ -62,7 +62,7 @@ I looked at the wagon, at the broken axle, at the contents strewn across the gro
 
 "Two days. Maybe three. Depends on the snow."
 
-I did the calculation in my head. Two days back, however long it took to find or make an axle, two days forward again. A week, at least, more likely ten days. By then the snow would be deeper and the cold would be worse and the trip would be harder.
+I made the count in my head. Two days back, however long it took to find or make an axle, two days forward again. A week, at least, more likely ten days. By then the snow would be deeper and the cold would be worse and the trip would be harder.
 
 "You can't stay here," I said.
 
@@ -86,7 +86,7 @@ I did not wait for him to answer. I touched my hat to the woman, nodded to the c
 
 ---
 
-Fort Kearny appeared on the twelfth day, rising out of the flat land like a collection of boxes dropped by a careless god. It was not much to look at—a cluster of wood and sod buildings arranged around a parade ground, with a stockade that would not have stopped a determined child—but it was civilization, of a sort. It was a place where a man could buy supplies and hear news and drink whiskey that had not been carried a thousand miles on muleback.
+Fort Kearny appeared on the thirteenth day, rising out of the flat land like a collection of boxes dropped by a careless god. It was not much to look at—a cluster of wood and sod buildings arranged around a parade ground, open to the plains on every side—but it was civilization, of a sort. It was a place where a man could buy supplies and hear news and drink whiskey that had not been carried a thousand miles on muleback.
 
 I stabled my horse and found the sutler's store and bought what I needed. Coffee, flour, bacon, ammunition. And whiskey, three bottles, at a price that would have bought a case in Cleveland. The sutler was a thin man with sharp eyes and a sharper sense of profit, and he watched me count out the money with an expression of professional satisfaction.
 
@@ -98,13 +98,13 @@ I stabled my horse and found the sutler's store and bought what I needed. Coffee
 
 "When are they not restless?"
 
-He shrugged. "Fair point. You look like a man who can handle himself. Just saying, if you're heading into that country, keep your eyes open."
+He shrugged. "Maybe so. You look like a man who can handle himself. All the same, if you're heading into that country, keep your eyes open."
 
 I thanked him for the advice and carried my supplies out into the cold.
 
 The fort was busy for the season. Soldiers moved between the buildings, their breath steaming in the air. A handful of civilians—traders, trappers, men whose business I did not ask about—sat on benches outside the barracks, smoking and talking. I found a spot near the stove in the trading post and listened.
 
-Most of the talk was what you would expect. The weather, the Indians, the price of goods. A complaint about an officer who had been too free with the lash. A rumor about a gold strike somewhere in the mountains that no one quite believed but everyone half-wanted to check on.
+Most of the talk was what you would expect. The weather, the Indians, the price of goods. A complaint about an officer who had been too free with the lash. A rumor about a gold strike somewhere in the mountains that no one quite believed but no one could leave alone.
 
 And then, in a lull in the conversation, I heard it again.
 

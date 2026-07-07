@@ -1,14 +1,14 @@
 # Chapter Six
 
-The creek the trader had described was easy enough to find. It came down from the north through a narrow valley, its banks lined with willows that had turned brown and brittle in the cold. The ice on its surface was cloudy, thick enough to walk on, and I could see where deer or antelope had crossed it, their hoofprints frozen into the snow on either side.
+The creek came down from the north through a narrow valley, its banks lined with willows that had turned brown and brittle in the cold. After the crossing I kept off the ice and rode the bank, where deer had beaten a narrow path through the snow.
 
-I turned up the creek and followed it north.
+I followed it north.
 
-The country here was rougher than the river valley—broken hills and shallow draws, patches of pine on the northern slopes where the sun could not reach. The wind was less fierce, blocked by the terrain, but the cold was no less bitter. My breath froze in my beard, and the horse's breath hung in the air behind us like a trailing ghost.
+The country here was rougher than the river valley—broken hills and shallow draws, patches of pine on the northern slopes where the sun could not reach. The wind was less fierce, blocked by the terrain, but the cold was no less bitter. The horse's breath hung in the air behind us like a trailing ghost.
 
 I had been riding for nearly a month now. December had come and was more than half-gone, and I had not spoken to another person since leaving the trading post. The silence of the country had seeped into me, filling the spaces where conversation used to be.
 
-Christmas would come soon. I had not thought about Christmas in years—had no reason to, no family to celebrate with, no traditions to observe. But out here, in the empty white, I found myself counting the days nonetheless. December twenty-fifth would pass like any other day, unmarked, unremarked. I would ride and camp and ride again, and the year would turn without ceremony.
+Christmas would come soon. I had not thought about Christmas in years—had no reason to, no family to celebrate with, no traditions to observe. But out here, in the empty white, I found myself counting the days nonetheless. December twenty-fifth would pass like any other day. I would ride and camp and ride again, and the year would turn without ceremony.
 
 It did not trouble me. Very little troubled me anymore.
 
@@ -28,17 +28,17 @@ So I rationed, and I counted the swallows that remained, and I tried not to thin
 
 ---
 
-The first symptoms came on the third day up the creek.
+The shaking came on the third day up the creek.
 
 I noticed the tremor first, a slight unsteadiness in my hands as I saddled the horse in the morning. I told myself it was the cold, but I knew better. The cold made your hands clumsy, made your fingers slow. It did not make them shake.
 
-That night I slept badly. I woke several times from dreams I could not remember, my heart pounding, my skin damp despite the freezing air. The horse was restless too, shifting and snorting in the darkness, as if he could sense something wrong.
+That night I slept badly. I woke several times from dreams I could not remember, my heart pounding, my skin damp despite the freezing air. The horse was restless too, shifting and snorting in the darkness.
 
 I had perhaps two days' worth of whiskey left. Maybe three, if I was careful.
 
 I was not going to be careful.
 
-I took a long drink and felt the warmth spread through my chest, felt the tremor in my hands ease, felt the knot of anxiety in my gut begin to loosen. The relief was immediate and profound, and I knew that it would not last—that each time I drank the relief would be shorter, the return of symptoms faster, until there was nothing left to drink and the real trouble began.
+I took a long drink and felt the warmth spread through my chest, felt the tremor in my hands ease, felt the knot of anxiety in my gut begin to loosen. The relief was immediate and profound, and I knew that it would not last—that each drink would buy less than the one before, until there was nothing left to buy with.
 
 But that was tomorrow's problem. Tonight, I had whiskey, and I had warmth, and I had the knowledge that I was close.
 

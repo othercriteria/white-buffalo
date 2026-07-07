@@ -34,7 +34,7 @@ I saw them again today, working in the field beside their sod house. The man was
 
 They have been here since early summer. I remember first seeing them then, working on the land with the hope that brings settlers to this country. They seemed certain the land would keep them.
 
-I wonder if they still feel that way. The first winter is the hardest, they say, and they have survived it. But the winters do not get easier. The isolation does not get easier. The land does not soften.
+I wonder if they still feel that way. Their first winter is coming. The first winter is the hardest, they say, and after it the land does not soften.
 
 ---
 
@@ -42,13 +42,11 @@ I wonder if they still feel that way. The first winter is the hardest, they say,
 
 I have been thinking about time.
 
-Before I came out here, time meant something. The days had names and the weeks had purposes and the years accumulated into something that could be measured, counted, compared. I was thirty-two years old when I left Virginia. I knew that number, held it in my mind as a fact about myself, one of many facts that together made up the shape of who I was.
+Before I came out here, time meant something. The days had names and the weeks had purposes and the years accumulated into something that could be measured, counted, compared. I was thirty-two years old when I left Virginia. I knew that number as I knew my own name.
 
-Now I am thirty-three, or perhaps thirty-four. I have lost track. The days still pass, but they have lost their names. The seasons change, but they do not mean what they used to mean. I am no longer measuring my life in years. I am measuring it by her—her growth, the slow gathering of the power that will end me.
+Now I am thirty-three, or perhaps thirty-four. I have lost track. I still set a date at the head of these pages, out of an old habit of order, and I believe it less each time I write it. I am no longer measuring my life in years. I am measuring it by her—her growth, the slow gathering of the power that will end me.
 
-This is a better way to measure, I think. Time moves differently when you stop counting it.
-
-I am here, now, watching her. That is the only measurement that matters.
+She is the only calendar I keep now.
 
 ---
 
@@ -68,7 +66,7 @@ I have become simpler. Stripped of everything not needed.
 
 I watched the homesteaders again today. Closer this time—perhaps a quarter mile from their house, hidden in a stand of cottonwoods on the ridge above them.
 
-The woman was hanging laundry. The man was repairing something on the barn. They moved around each other with the easy familiarity of people who have lived together for a long time, anticipating each other's movements, filling each other's silences. Once, the woman laughed at something the man said, and the sound carried up to where I sat, clear and bright against the gray of the autumn sky.
+The man was mending harness by the door. The woman came out to him with something steaming in a cup, and she stood beside him while he drank it, her hand on his shoulder, neither of them speaking. They moved around each other with the ease of people who have long since stopped needing words.
 
 I felt nothing. Not envy, not regret. I watched them as I would watch birds or deer, creatures going about their business. They are not part of the world I inhabit now.
 
