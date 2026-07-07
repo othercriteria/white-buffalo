@@ -4,7 +4,7 @@ I did not sleep well.
 
 The stove kept the worst of the cold at bay, but it could not keep out the dreams. I woke several times in the night, my heart racing, my hands shaking, the walls of the sod house pressing in around me. The tremors were worse now, and the sweating had started—I could feel the dampness on my skin despite the chill air.
 
-I knew what was happening. The whiskey was nearly gone, and my body was beginning to protest its absence. Another day, maybe two, and the real symptoms would begin. The visions. The terror. The sense that the world was coming apart at the seams.
+I knew what was happening. The whiskey was nearly gone, and my body was beginning to protest its absence. Another day, maybe two, and the real trouble would begin. The visions. The terror.
 
 I had one drink left. I saved it for morning.
 
@@ -42,7 +42,7 @@ A struggle near the door—that was where it started, most likely. The man of th
 
 Two graves. Two victims. But who had put them there?
 
-I did not know, not from what I could see here. The story was incomplete, the evidence partial. I was reading a book with pages torn out.
+I did not know, not from what I could see here. The story was incomplete.
 
 ---
 
@@ -82,9 +82,7 @@ But I did not turn back.
 
 I told myself it was because the job was not finished. Aldridge had hired me to deal with whoever had killed his daughter, and the killer was still out there, following his white buffalo across the frozen plains. The money in my pocket was half of what I had been promised, and the other half depended on completing what I had started.
 
-But that was not the real reason.
-
-The real reason was simpler and stranger. I wanted to see him. The man who followed the white buffalo. The man with the empty eyes and the blood on his hands. I wanted to find him and look at him and understand what he was.
+But the truth was simpler. I wanted to see him. The man who followed the white buffalo. The man with the empty eyes and the blood on his hands. I wanted to find him and look at him and understand what he was.
 
 I had known men like him, or thought I had. In Mexico, during the war, I had seen what happened to men who lost something essential inside themselves. The ones who kept fighting after the fear had burned away, who killed without hesitation and slept without dreaming, who moved through the world like ghosts wearing the shapes of men.
 
@@ -92,7 +90,7 @@ I had been one of them, for a time. I had felt the emptiness they felt, had done
 
 The man who followed the white buffalo had not come back. He was still out there, still empty, still moving toward something I did not understand.
 
-I wanted to see where he was going. I wanted to know how the story ended.
+I wanted to see where he was going.
 
 ---
 
@@ -108,6 +106,6 @@ The man who followed the white buffalo was out there somewhere, in the frozen em
 
 I would find him. I did not know what I would do when I did—whether I would kill him, as Aldridge expected, or simply look at him and try to understand what I was seeing. But I would find him.
 
-The trail was there, buried under the snow but still visible to someone who knew how to look. The track of a large animal, moving north. The smaller track of a man, following behind.
+The trail was there, buried under the snow but still readable. The track of a large animal, moving north. The smaller track of a man, following behind.
 
 I followed them both.

@@ -62,7 +62,7 @@ I sat on my horse at the edge of the clearing and studied the place. The silence
 
 No answer.
 
-I rode closer, slowly, keeping my hand near the rifle in its scabbard. The horse's hooves crunched in the snow, the only sound in the white world.
+I rode closer, slowly, keeping my hand near the rifle in its scabbard. The horse's hooves crunched in the snow, the only sound.
 
 The front door of the sod house was closed but not barred. I could see that from ten feet away—the simple wooden latch was in the up position, holding the door shut but not locked. Anyone could have opened it. Anyone could have gone in.
 
@@ -80,7 +80,7 @@ A table and two chairs. A bed against the far wall, the blankets neatly made. A 
 
 Two chairs. One bed. No cradle, no child's things, nothing to suggest that anyone but a man and a woman had lived here. The letters had been silent on this point, and the house confirmed the silence.
 
-Everything in its place. Everything orderly. As if the people who lived here had simply stepped out for a moment and not returned.
+Everything in its place, as if the people who lived here had stepped out for a moment and not returned.
 
 But the dust on the table was thick, and the cold inside was the same as the cold outside, and the blankets on the bed had not been slept in for a very long time.
 
@@ -102,18 +102,16 @@ I put it back in the box and continued searching.
 
 There was food in the pantry—dried beans and flour and salt pork, the supplies that would keep through a winter. There was firewood stacked beside the stove, enough for a week or more. Grain for animals in the barn. A root cellar dug into the hillside behind the house, its door frozen shut but intact.
 
-They had been ready. That was the thing I could not stop thinking about as I stood in that cold room. They had done everything right—built the house, dug the well, laid in stores against the cold. They had prepared for the worst the land could offer, and the land had not killed them. Something else had.
-
-Everything a family would need to survive the season. Everything except the family.
+They had been ready. They had done everything right—built the house, dug the well, laid in stores against the cold. They had prepared for the worst the land could offer, and the land had not killed them. Something else had.
 
 I went back outside. The light was fading, the short winter day already ending. I walked around the house, looking for anything I might have missed.
 
 Behind the barn, I found the graves.
 
-Two of them, side by side, covered in snow but still visible as low mounds in the flat ground. Someone had piled rocks on top of each one—to keep the animals away, I supposed, or perhaps just to mark the spot. There were no crosses, no headstones, nothing to indicate who lay beneath.
+Two of them, side by side, covered in snow but still visible as low mounds in the flat ground. Someone had piled rocks on top of each one—to keep the animals away, I supposed. There were no crosses, no headstones, nothing to indicate who lay beneath.
 
-I stood there for a long time, looking at the graves, while the light failed and the cold deepened and the stars began to appear in the darkening sky.
+I stood there for a long time, looking at the graves, while the light failed and the stars came out.
 
 Then I went back inside, built a fire in the stove, and waited for morning.
 
-In the night I heard the ice on the creek behind the house. It made sounds I had not expected—groans and cracks and sometimes a noise like something heavy being dragged across a wooden floor. The creek was freezing deeper, the ice thickening, and each expansion and contraction sent vibrations through the ground that I could feel in my bones. The dead slept under that sound, I thought. The Hardins, buried behind their barn, listened to the ice every night, and would go on listening until spring came and the water ran free again.
+In the night I heard the ice on the creek behind the house. It made sounds I had not expected—groans and cracks and sometimes a noise like something heavy being dragged across a wooden floor. The creek was freezing deeper, the ice thickening, and each expansion and contraction sent vibrations through the ground that I could feel in my bones. The Hardins slept under that sound, behind their barn, and would go on sleeping under it until spring came and the water ran free.

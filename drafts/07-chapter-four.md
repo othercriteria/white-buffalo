@@ -18,7 +18,7 @@ I was wrong.
 
 By mid-afternoon the trail had disappeared under a blanket of white, and the wind had risen to a howl, and I could not see twenty feet in any direction. The horse balked, turning his head away from the driving snow, and I could feel the tremor in his muscles—not exhaustion yet, but the beginning of it.
 
-I dismounted and led him by the reins, one hand on his neck, feeling my way forward through the white. The cold was a living thing now, pressing against me from all sides, finding every gap in my clothing. My beard froze solid. The moisture in my breath turned to ice on my collar.
+I dismounted and led him by the reins, one hand on his neck, feeling my way forward through the white. The cold bore down as I walked, and the world shrank to the few feet I could see. My beard froze solid. The moisture in my breath turned to ice on my collar.
 
 I found the creek by falling into it.
 
@@ -36,7 +36,7 @@ I stripped off my boot and my sock and held my foot as close to the flames as I 
 
 I did not sleep that night. I fed the fire and rubbed my foot and talked to the horse, telling him things I had never told anyone, just to hear a human voice in the howling dark. He listened, or seemed to, his ears flicking toward me when I spoke, though he had no more answers than I did.
 
-By morning the storm had passed. The sky was clear and pale, the sun coming up cold and distant over a world made new by snow. I saddled the horse and we went on, both of us slower than before, both of us marked by what the night had cost.
+By morning the storm had passed. The sky was clear and pale, the sun coming up cold and distant over a world made new by snow. I saddled the horse and we went on, both of us slower than before.
 
 Fort Kearny was three days ahead. I made it in four.
 
@@ -82,7 +82,7 @@ He looked at me as if I had suggested he abandon one of his children.
 
 "Is wood and iron. It will still be here when the snow melts, or something like it will be. Your wife and children won't be."
 
-I did not wait for him to answer. I touched my hat to the woman, nodded to the children, and rode on. I did not look back to see what he decided. It was not my business what he decided. I had said what I had to say.
+I did not wait for him to answer. I touched my hat to the woman, nodded to the children, and rode on. What he decided was not my business.
 
 ---
 
@@ -118,7 +118,7 @@ The speaker was a trapper, an old man with a face like worn leather and hands th
 
 "Could have been any man. Could have been a hunter."
 
-"No hunter walks behind his prey. And this man—" The trapper shook his head. "There was something wrong with him. The way he moved. The way he looked. Like he wasn't all there, if you know what I mean. Like part of him had gone somewhere else and left the rest behind."
+"No hunter walks behind his prey. And this man—" The trapper shook his head. "There was something wrong with him. The way he moved. Steady. Not fast, not slow, never once stopping to look around. No man walks like that. Not out here."
 
 The soldier shrugged. "The territory's full of strange ones. Doesn't mean anything."
 
@@ -126,17 +126,13 @@ The soldier shrugged. "The territory's full of strange ones. Doesn't mean anythi
 
 I finished my drink and stood up. The trapper glanced at me as I passed, but said nothing. I went out into the cold and stood for a moment, looking north, toward the country I would be entering.
 
-A man who followed a white buffalo. A man with something wrong with him, something missing.
+A man who followed a white buffalo.
 
 I had heard the stories in Council Bluffs, and now I was hearing them here. The stories were moving south with the season, spreading along the trails and through the forts, growing with each telling. Soon everyone would have a cousin who had seen the man, a friend who had spoken to someone who knew someone who had watched him pass.
 
 Most of the stories would be lies, or exaggerations, or simple mistakes. A white buffalo was rare but not impossible, and a man alone on the plains was common enough. Put them together and you had a story, but stories were not evidence.
 
 Still. The Niobrara. That was where the Hardins had gone. That was where I was heading.
-
-Perhaps the man who followed the white buffalo had nothing to do with what I was looking for. Perhaps he was just another lost soul, wandering the territory with his own reasons and his own griefs.
-
-Or perhaps not.
 
 I collected my horse and rode out of the fort, heading west along the river, toward the place where the trail turned north.
 

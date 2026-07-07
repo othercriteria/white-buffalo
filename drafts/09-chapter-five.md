@@ -18,7 +18,7 @@ He was frozen solid, lying in a draw where the snow had drifted over him almost 
 
 I dismounted and dug him out. It took the better part of an hour, working with my knife and my hands, the frozen snow crumbling away in chunks. He was a young man, perhaps twenty-five, dressed in the clothes of a settler or a small trader. No coat—he had either lost it or never had one. No supplies, no weapon, no horse.
 
-His face was peaceful. Whatever had killed him, he had not fought it at the end.
+His face was calm. Whatever had killed him, he had not fought it at the end.
 
 I searched his pockets and found a handful of coins, a folding knife, and a letter that had been ruined by the wet and the cold. I could make out a few words—*dearest* and *hope* and *soon*—but nothing that told me who he was or where he had been going.
 
@@ -96,7 +96,7 @@ The trader's expression changed—not much, but enough that I noticed.
 
 "I've seen men like that."
 
-"Then you know what I'm talking about. That's what he looked like. Like he was already dead and just hadn't stopped moving yet."
+"Then you know what I'm talking about. That's what he looked like."
 
 I finished the whiskey in my cup and poured another. The trader watched me but did not comment.
 
@@ -118,7 +118,7 @@ That night I lay in the straw, wrapped in my blankets, listening to the wind how
 
 Maybe it meant nothing. The territory was large, and coincidences were common, and a man who followed a buffalo had no obvious reason to harm a settler family who happened to live nearby.
 
-But I had learned, over the years, to pay attention to coincidences. They were not always what they seemed.
+But the timing sat wrong with me, and I fell asleep still turning it over.
 
 ---
 
@@ -132,17 +132,17 @@ Had that been a creek, or just a fold in the land? Had I missed one earlier, pas
 
 I saw antelope that day, a small herd moving across a distant ridge, their tan coats stark against the white. I thought about hunting them—my supplies were adequate but not generous—but they were too far, and I had neither the time nor the ammunition to waste on a chase that might lead nowhere.
 
-That night I heard coyotes for the first time. They started after dark, a single voice rising from somewhere to the west, and then others answering—a chorus of yips and howls that seemed to come from everywhere and nowhere at once. The sound raised the hair on my neck. It was not threatening, exactly, but it was wild in a way that reminded me how far I was from anything I knew.
+That night I heard coyotes for the first time. They started after dark, a single voice rising from somewhere to the west, and then others answering—a chorus of yips and howls that seemed to come from everywhere and nowhere at once. The sound raised the hair on my neck. It was wild in a way that reminded me how far I was from anything I knew.
 
 The horse did not like it either. He stamped and snorted, pulling at his tether, and I had to speak to him softly for a long time before he settled.
 
 On the third day, I crossed a creek I thought was the one I was looking for, and followed it north for three hours before I realized my mistake. The valley narrowed to a dead end, the hills closing in on either side, and there was no homestead here, no sign that anyone had ever lived in this place.
 
-I turned back. Three hours wasted, and the short winter day already half-gone. I made camp early that night, in a hollow that offered little shelter, and I lay awake listening to the wind and thinking about how easy it would be to die out here. Not dramatically, not heroically, but simply—a wrong turn, a missed landmark, a night without fire, and in the morning nothing but a shape under the snow that no one would find until spring.
+I turned back. Three hours wasted, and the short winter day already half-gone. I made camp early that night, in a hollow that offered little shelter, and I lay awake listening to the wind and thinking about how easy it would be to die out here. A wrong turn, a missed landmark, a night without fire, and in the morning nothing but a shape under the snow that no one would find until spring.
 
 The fourth day I found the right creek.
 
-I knew it as soon as I saw it—wider than the others, the valley opening out to the north, the willows along its banks brown and thick. I turned up it and felt something ease in my chest, some tension I had not known I was carrying.
+I knew it as soon as I saw it—wider than the others, the valley opening out to the north, the willows along its banks brown and thick. I turned up it and felt something ease in my chest.
 
 But the country was not done with me yet.
 
@@ -164,8 +164,8 @@ I reached him and took the reins. I could feel his fear through the leather, the
 
 We made it. The ice held. But when we reached solid ground, my legs gave out beneath me and I sat in the snow for a long time, shaking, while the horse stood beside me and steamed in the cold air.
 
-That night I built a fire larger than I needed and sat close to it, feeling the warmth on my face, listening to the ice on the creek settle and crack in the darkness. I was close now. The homestead was perhaps a day's ride, maybe less.
+That night I built a fire larger than I needed and sat close to it, feeling the warmth on my face, listening to the ice on the creek settle and crack in the darkness. I was on the right creek now. Two days more, maybe three.
 
-But the country had reminded me what it could do. The country did not care whether I found what I was looking for or not.
+But the country had reminded me what it could do.
 
 On the seventh day, I found the homestead.

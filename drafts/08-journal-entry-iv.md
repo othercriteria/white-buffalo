@@ -26,7 +26,7 @@ She endures. The herd endures. I endure because I must.
 
 Found a buffalo carcass today, frozen solid. Wolves had been at it, but there was meat left. I hacked off what I could carry with my knife and ate it raw. The blood froze on my beard before I could wipe it away.
 
-The herd is still moving. She is still with them. That is all that matters.
+The herd is still moving. She is still with them.
 
 ---
 
@@ -40,7 +40,7 @@ I can see her from here. She stands near the center of the herd, surrounded by o
 
 I wonder what my family would think if they could see me now. My father is dead—died the year I enlisted, though I did not learn of it until after the war. My mother may still be living, in the house where I was born, in the valley where I grew up. I have not written to her in years. I do not know if she thinks of me, or what she thinks.
 
-It does not matter. That life is over. This is the life I have now.
+That life is over.
 
 ---
 
@@ -52,9 +52,7 @@ They watched for a long time. I did not move. The herd did not move. She did not
 
 Then they turned and rode north, and I did not see them again.
 
-I wonder what they think of me. I wonder if they know what the white buffalo means. They must. It is their story, their prophecy, their sacred thing. And here I am, a white man, following it across their land, waiting for it to kill me.
-
-Perhaps they think I am mad. Perhaps they are right.
+I wonder if they know what the white buffalo means. They must. It is their story, their sacred thing. And here I am, a white man, following it across their land, waiting for it to kill me.
 
 ---
 
@@ -64,7 +62,7 @@ The cold is a living thing. It has a weight, a presence. It presses against you 
 
 I have stopped feeling my feet. I have stopped feeling my hands. I move because I must move, because if I stop moving I will die, and I am not ready to die. Not yet. Not like this.
 
-She is still there. I saw her this morning, grazing at the edge of the herd, pawing through the snow to reach the dead grass beneath. She looked at me as I passed, and I thought I saw something in her eyes. Recognition, perhaps. Or pity.
+She is still there. I saw her this morning, grazing at the edge of the herd, pawing through the snow to reach the dead grass beneath. She looked at me as I passed, and I thought I saw something in her eyes. Pity, perhaps.
 
 I do not want her pity. I want her to kill me. But she is not ready, and so I am not ready, and so we both endure.
 
@@ -78,7 +76,7 @@ The herd has begun to move again, drifting north along the river valleys. I foll
 
 She has grown through the winter. I had not thought that possible—I had assumed she would simply endure, as I have endured, waiting for the spring to bring growth and strength. But she is larger than she was in November. Her shoulders are broader, her hump more pronounced. She moves with a new confidence, a new power.
 
-She is becoming what she needs to be. And I am becoming what I need to be—less than a man, something stripped down and simplified, something that exists only for this one purpose.
+She is becoming what she needs to be. So am I—less than a man, stripped down, kept for one use only.
 
 We are both almost ready.
 

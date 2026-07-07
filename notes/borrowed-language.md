@@ -29,7 +29,7 @@ does — the whole journal predates the reading).
 
 | Phrase | Morrow | Farrell (pre-reading) | Fix side |
 |---|---|---|---|
-| "the cold was/is a living thing... press(es/ing) against ... from all sides" | 08:63 (JE IV) | 07:21 (Ch 4) | Vary Farrell's — Ch 4 predates any contact |
+| "the cold was/is a living thing... press(es/ing) against ... from all sides" | 08:63 (JE IV) | ~~07:21 (Ch 4)~~ FIXED v0.7 — Farrell's varied; Morrow now sole owner | done |
 | "finding every gap in my clothing/blanket" | 18:5 (JE IX) | 07:21 (Ch 4), 17:99 (Ch 9) | Vary Farrell's (both pre-reading) |
 | "pressed in from all sides" | 18:5 | 17:79 (Ch 9), 19:11 (Ch 10 pre-reading section) | Vary Farrell's |
 | hollow-lexicon ("hollowed out") | 18:37, 18:55 | 17:39 (Ch 9) | 17:39 forge passage slated for cutting anyway |
