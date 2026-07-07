@@ -88,6 +88,7 @@ Before committing a chapter, verify:
 - [ ] Social dynamics appropriate to 1858
 
 ### Craft
+- [ ] Checked against model-author red flags (notes/opus-4-5-critique.md §10)
 - [ ] No over-writing (purple prose, excessive interiority)
 - [ ] No under-writing (rushed, thin)
 - [ ] Sensory details present but not overdone
