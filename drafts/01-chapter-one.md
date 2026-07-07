@@ -34,7 +34,7 @@ The barman considered this. Then he turned and spoke to someone Aldridge could n
 
 "He was. He left an hour ago."
 
-Aldridge felt something tighten in his chest. He had been traveling for four days. The first day by railroad to Syracuse, then the cars north from Rome to Watertown, then a coach east into country that grew steadily wilder and less familiar. He had not expected the search itself to be easy, but he had expected that when he found the man, the man would be there to be found.
+Aldridge felt something tighten in his chest. He had been traveling for four days. The first day by railroad to Syracuse and Rome, then the cars north to Watertown, then a coach east into country that grew steadily wilder and less familiar. He had not expected the search itself to be easy, but he had expected that when he found the man, the man would be there to be found.
 
 "Where did he go?"
 
@@ -68,7 +68,7 @@ The door opened, letting in a gust of cold air. A man entered, and Aldridge knew
 
 He was not what Aldridge had expected. The men at the lumber office had spoken of him in terms that suggested something dangerous, something barely contained. But the man who stood in the doorway, stamping snow from his boots, looked merely tired. He was of medium height, lean, with a face that had been weathered past his years. His coat was worn but adequate. He carried no visible weapon, though Aldridge supposed a man like this would not need to make such things visible.
 
-Farrell's eyes moved across the room, taking inventory. They stopped on Aldridge for a moment—the only man sitting alone, the only man who did not belong—and then moved on. He walked to the bar.
+Farrell's eyes went around the room once. They stopped on Aldridge for a moment—the only man sitting alone, the only man who did not belong—and then moved on. He walked to the bar.
 
 The barman spoke to him, low. Farrell listened. Then he turned and looked at Aldridge again, this time with something more than casual interest.
 
@@ -172,13 +172,13 @@ Farrell stood. He looked down at Aldridge.
 
 He turned and walked to the bar, spoke briefly with the barman, and then was gone, out into the night. The door closed behind him, and the cold air that had followed him in dissipated, absorbed into the warmth of the room.
 
-Aldridge sat at his table for a long time, the beaver-felt hat before him. He did not touch his pocket, did not check that the packet of letters was still there, though he wanted to. He had read them so many times that he knew them by heart. The early ones, full of hope and descriptions of the land. The middle ones, more measured, the hope beginning to curdle. And the last one, dated March the fourteenth, in which Catherine had written that the winter was finally breaking and that the snow was melting and that she hoped the worst was behind them.
+Aldridge sat at his table for a long time, the beaver-felt hat before him. The letters were back at the boarding house, waiting for the man who would carry them west. He did not need to look at them again. He had read them so many times that he knew them by heart. The early ones, full of hope and descriptions of the land. The middle ones, more measured, the hope beginning to curdle. And the last one, dated March the fourteenth, in which she had hoped the worst was behind them.
 
 He had not known, when he read it, that it would be the last.
 
 The barman came by, asked again if he wanted a drink. This time Aldridge said yes. He drank it without tasting it, paid, and left. The night was cold, colder than it had been when he arrived, and the walk back to the boarding house was long. But he walked it, because there was nothing else to do.
 
-In the morning, Farrell came for the packet. They spoke briefly, exchanged what information there was to exchange. Aldridge gave him the letters, and a map he had drawn from memory and hope, and a description of George Hardin that relied too much on his own animosity to be trusted. Farrell took it all without comment.
+In the morning, Farrell came for the packet. He untied it at the table, counted the letters, and held the daguerreotype to the window light for a long moment before putting it away. Aldridge gave him the map he had drawn from memory and hope, and a description of George Hardin that relied too much on his own animosity to be trusted. Farrell took it all without comment.
 
 "How long?" Aldridge asked.
 

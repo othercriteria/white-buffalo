@@ -48,7 +48,7 @@ On the morning of the third day, I left.
 
 ---
 
-The railroad had come to this part of the country seven years earlier, and it had changed everything. Towns that had been weeks apart by coach were now hours apart by rail. Goods moved faster. People moved faster. The whole pace of life had accelerated in ways that still felt strange to me, though I had lived through it.
+The railroad had come to this part of the country seven years earlier. Towns that had been weeks apart by coach were now a day apart on the cars. It still felt strange to me, though I had watched it happen.
 
 I took the cars from Watertown to Buffalo, changing at Rome, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families relocating west. Children ran up and down the aisles while their mothers called after them. Men smoked cigars and talked business and politics. Women sat with their hands folded and their eyes on the passing scenery.
 
@@ -56,13 +56,13 @@ I sat by the window and watched the land go by. It was familiar country at first
 
 I thought about Mexico.
 
-I had not thought about Mexico in some time. I had trained myself not to. But this journey—moving toward something instead of away from it—brought it back.
+I had not thought about Mexico in some time. I had trained myself not to. But this journey brought it back.
 
 I had been twenty years old when I enlisted. A young man full of notions about glory and duty and the honor of serving one's country. Those notions had not survived the first month. By the time we reached Monterrey I had forgotten why I had come. By the time we reached Mexico City I had forgotten that I had ever been anyone other than what the war had made me.
 
 The train rattled on. The other passengers talked and laughed and conducted their business. I sat with my bag between my feet and my rifle case beside me and let the memories come as they would.
 
-What I remembered most was the waiting. The long hours before an assault, sitting in trenches or behind walls, listening to the guns. The longer hours after, when the fighting was done and there was nothing to do but count the dead and wonder why you were not among them. I had been good at waiting. I had been good at most of what the army required. That was why I had survived.
+What I remembered most was the waiting. The hours before an assault, and the longer hours after, when the fighting was done and there was nothing to do but count the dead and wonder why you were not among them. I had been good at waiting. I had been good at most of what the army required. That was why I had survived.
 
 The train pulled into Cleveland as the sun was setting. I found a hotel near the station, paid for a room, and went to find something to eat. The city was larger than I expected, louder, more crowded. Gaslights lined the main streets, their flames flickering behind glass. People hurried past in both directions, their faces set with purpose.
 
@@ -84,9 +84,9 @@ The next morning I took the train west to Chicago. The journey took most of the 
 
 I had been to Chicago once before, years ago, before the war. It had been a rough town then, a place where the prairie met the lake and men did business in mud and blood. It was larger now, more established, but the roughness was still there underneath. You could see it in the faces of the men on the streets, in the way they walked, in the way they looked at strangers.
 
-I found a hotel near the rail yard. The room was small and dirty, but it had a bed and a lock on the door, which was all I required. I stowed my gear and went out to see about transportation west.
+I found a hotel near the rail yard. The room was small and dirty, but it had a bed and a lock on the door. I stowed my gear and went out to see about transportation west.
 
-The railroad did not extend much past the Mississippi, not yet. There was talk of a transcontinental line, but the talk had been going on for years and would probably go on for years more. For now, if you wanted to go west, you went by coach or by wagon or by horse.
+The railroad did not extend much past the Mississippi, not yet. There was talk of a Pacific road, but the talk had been going on for years and would probably go on for years more. For now, if you wanted to go west, you went by coach or by wagon or by horse.
 
 I found a livery stable that sold horses and supplies. The man who ran it was named Hennessey, a thick-necked Irishman with a politician's smile and a horse trader's eyes.
 
@@ -98,21 +98,21 @@ I found a livery stable that sold horses and supplies. The man who ran it was na
 
 "Yes."
 
-He looked at me, taking my measure. "Winter's coming hard this year. Word from the plains is it'll be a bad one. Snow already in the Dakotas."
+He looked at me, taking my measure. "Winter's coming hard this year. Word from the plains is it'll be a bad one. Snow already on the upper Missouri."
 
 "I've seen snow."
 
-"Not like this you haven't. The Sioux call this kind of winter a white death. Whole camps freeze in their sleep. Whole herds of buffalo drop where they stand."
+"Not like this you haven't. Whole camps freeze in their sleep out there. Whole herds of buffalo drop where they stand."
 
 "I'll take my chances."
 
-He shrugged. "Your funeral. What do you need?"
+He shrugged. "Suit yourself. What do you need?"
 
 I bought a horse—a sturdy bay gelding with a calm disposition and good teeth—and tack and saddlebags. I bought additional supplies: more dried food, grain for the horse, powder and ball for the rifle. And I bought three more bottles of whiskey, despite the price, because Hennessey was right about the winter and I knew I would need it.
 
 The total came to more than I had expected. I paid from Aldridge's money and did not worry about it. If I came back, I would collect the other half of my fee. If I did not come back, the money would not matter.
 
-That night I spread my map on the bed and studied it by lamplight. The hand-drawn sketch from Aldridge's packet was useless, but I had bought a proper map in Cleveland, printed by a company that sold such things to settlers and speculators. It showed the rivers and trails, the military posts and trading stations, the boundaries of the territories.
+That night I spread my maps on the bed and studied them by lamplight. Aldridge's sketch showed rivers without names and a square marked HARDIN. The proper map I had bought that afternoon, printed by a company that sold such things to settlers and speculators, showed the rivers and trails, the military posts and trading stations, the boundaries of the territories.
 
 The Niobrara River was there, a thin line running west to east across the northern part of Nebraska Territory. The country around it was largely blank—no towns, no roads, just the shapes of rivers and the word SIOUX written in large letters across the emptiness.
 
@@ -122,6 +122,6 @@ I folded the map and put it away. I had another drink, then another. The bottle 
 
 In the morning, I would ride west toward the Mississippi and begin the real journey. Everything before this had been prelude.
 
-I lay back on the bed and listened to the sounds of Chicago through the thin walls—men shouting, a woman laughing, the clatter of a wagon on the cobblestones. The sounds of people living their lives, going about their business.
+I lay back on the bed and listened to the sounds of Chicago through the thin walls—men shouting, a woman laughing, the clatter of a wagon on the planking. The sounds of people living their lives, going about their business.
 
 I finished the bottle and let it fall to the floor.

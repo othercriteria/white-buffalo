@@ -113,10 +113,10 @@ in the finale, "breath coming in slow clouds" (20:75).
 ## The white buffalo
 
 Development timeline (all cites):
-- **Apr 19, 1856** — calf "perhaps six months old" (02:43 — see findings: birth
-  season); trails herd by ~50 yards (02:25); "White. The color of snow, of bone, of
-  the clouds that pile up over the mountains before a storm... Not pale, not
-  cream-colored" (02:27); "hooves are soft. Her weight is nothing" (02:43).
+- **Apr 19, 1856** — calf "perhaps six months old. An autumn calf, born when no
+  calf is born" (02:43); trails herd by ~50 yards (02:25); "White. The color of
+  snow, of bone, of the clouds that pile up over the mountains before a storm...
+  Not pale, not cream-colored" (02:27); could knock a man down, not kill him (02:43).
 - **Summer 1856** — legs longer, body fuller, coat "pure, unmarked" by dust/mud that
   stains the others (04:7); center of the herd among cows, given space (04:11);
   shoulders thickening, "first hints of the hump" (04:55).

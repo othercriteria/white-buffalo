@@ -26,7 +26,7 @@ She was apart from the others, trailing behind the herd by perhaps fifty yards. 
 
 She was white. Not pale, not cream-colored, not the faded tan of an old hide. White. Her coat was the color of snow, of bone, of the clouds that pile up over the mountains before a storm. She moved through the brown grass like a ghost.
 
-I have heard of white buffalo. The Indians hold them sacred. They believe a white buffalo calf woman brought them their most holy things, their pipe, their rituals. To kill one is the greatest of sins. To see one is a blessing or a curse, depending on who sees it and why.
+I have heard of white buffalo—trader's talk, at the posts on the Missouri, before I walked out past the last of them. The Indians hold them sacred. They believe a white buffalo calf woman brought them their most holy things, their pipe, their rituals. To kill one is the greatest of sins. To see one is a blessing or a curse, depending on who sees it and why.
 
 I watched her move through the grass and I knew what I had been waiting for.
 
@@ -40,7 +40,7 @@ I could have run to her. I could have thrown myself in her path, forced her to t
 
 But I did not.
 
-She is too small. She is only a calf, perhaps six months old. An autumn calf, born when no calf is born. Her hooves are soft. Her weight is nothing. If I threw myself before her she would shy away, or she would step on me and I would be bruised but not broken. She could not kill me. Not yet.
+She is too small. She is only a calf, perhaps six months old. An autumn calf, born when no calf is born. If I threw myself before her she would shy away, or she would knock me down and I would be bruised but not broken. She could not kill me. Not yet.
 
 I must wait.
 

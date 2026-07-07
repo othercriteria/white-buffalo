@@ -10,7 +10,7 @@ The herd has accepted my presence, or at least they no longer flee when I approa
 
 The calf is always near the center of the herd, surrounded by cows. I have noticed that the other animals treat her differently than they treat the ordinary calves. They give her more space. They watch her more carefully. Whether this is because of her color or for some other reason I cannot say.
 
-I eat when I can. The wolves are generous in their leavings, and I have found other sources—roots, berries, the eggs of ground-nesting birds. I am growing thinner. My clothes hang loose. But I do not need much to sustain myself. The body needs less than it believes. Mine is learning.
+I eat when I can. The wolves are generous in their leavings, and I have found other sources—roots, berries, the eggs of ground-nesting birds. I am growing thinner. My clothes hang loose. But I do not need much to sustain myself. The flesh asks for more than it needs. Mine is learning to do without.
 
 I sleep poorly. The dreams are bad. I do not write them down. There is no point.
 
@@ -38,19 +38,19 @@ The things I carried with me—memories, desires, the weight of what I was—are
 
 In Mexico I was made into a weapon. That is the truth of it, however I might wish to say it differently. They took the boy I was and they filed him down and they put an edge on him and they pointed him at other men. I was good at it. That is the other truth, the one I wish I could deny.
 
-I killed seventeen men with certainty and perhaps more. Some of them I saw clearly, their faces visible in the instant before I fired. Some of them I did not see at all—just shapes in the smoke, falling when I pulled the trigger. After a time I stopped counting. After a time I stopped thinking about it. The weapon does not question its use.
+I killed seventeen men with certainty and perhaps more. Some of them I saw clearly, their faces visible in the instant before I fired. Some of them I did not see at all—just shapes in the smoke, falling when I pulled the trigger. After a time I stopped thinking about it. The weapon does not question its use.
 
 But the war ended and they sent me home and I was expected to become a man again. I tried. I went back to Virginia and I worked my father's land and I attended church on Sundays and I said the words one says when one is trying to be human. None of it took. The weapon remained, even when there was nothing to cut.
 
 That is why I need what she can give me.
 
-A weapon must be used or destroyed. I am choosing destroyed.
+A weapon must be used or destroyed. There is no more use in me.
 
 ---
 
 *July the Nineteenth*
 
-I have not written in some time. The days blend together. Walk, watch, sleep, wake. The sun rises and sets and rises again and I am still here, still following, still waiting.
+I have not written in some time. Walk, watch, sleep, wake. The sun rises and sets and rises again and I am still here, still following, still waiting.
 
 She is larger now. Her shoulders have begun to thicken, the first hints of the hump that will develop as she grows. Her coat is still white, impossibly white, as if she were made of a different substance than the other animals. Perhaps she was.
 
