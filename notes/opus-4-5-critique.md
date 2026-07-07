@@ -120,6 +120,11 @@ inventions without registering them as repeats — self-echo is unflagged, so de
 echo (which this book's structure invites) and accidental echo are indistinguishable
 to it.
 
+*Update (v0.7): deliberate echo is now a sanctioned device with a grounding rule —
+Morrow's phrasing may surface in Farrell's narration only after the reading night.
+Every instance is tracked in notes/borrowed-language.md; the table above feeds its
+bleed list.*
+
 ## 4. Diction fingerprint (counts, full manuscript, ~32.6k words)
 
 - **"something" 141 / "nothing" 63** — the load-bearing mystifier, usually with
