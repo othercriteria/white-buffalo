@@ -88,3 +88,28 @@ rhyme_scan.py if adopted). Same aspect ratio is required.
 A hybrid is available: one register for narrative chapters, wet-plate for
 evidence/portrait plates. But a single register keeps the book's uniform
 restraint. Decision is DK's (plan step 5).
+
+## Plate 1: morrow-hollow (2026-07-08) — the engine's first full cycle
+
+Three seeds at the original prompt: identity/kit/register all passed
+(no horse, no gun, no tent — the absences held), but the HOLLOW never
+rendered — figure-forward composition, shelter reduced to background
+noise, across all three seeds.
+
+Bounced off the text: NOT a text gap. The manuscript is concrete here
+(12:113 "hollow in the bluffs where the wind cannot reach"; 19:5 "six
+feet deep," cutbank). Failure was prompt attention order.
+
+**Rule (generalizes):** when architecture is load-bearing, LEAD the
+prompt with it and seat the figure inside it afterward ("a deep hollow
+eroded into the face of a bluff... jmorrow, the man seated within it").
+Figure-first prompts let the character eat the composition. Applies to:
+trading-post, homestead, reading-night, final-camp scenes.
+
+Environment LoRA (DK): compositionally available (multi-adapter, own
+trigger, reduced stacked weights, figure-free training captions) —
+RESERVED for when a recurring location needs cross-plate consistency
+(the homestead family of scenes is the likely first case). Not needed
+for single-plate geometry; prompt-ordering sufficed.
+
+Pick: s45 → art/morrow-hollow.png. s46 = variance confirmation.

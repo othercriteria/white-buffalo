@@ -80,10 +80,11 @@ underdetermined = ["coat/hat/boots — never described (bible gap; keep him dist
 dni = "clean"
 
 [morrow-hollow]
-prompt = "A gaunt bearded man wrapped in a blanket in a snow hollow in the lee of a bluff, out of the wind, a small fire, writing in a leather-bound journal with a pencil worn short, deep winter, night coming on, 1850s plains"
+prompt = "a deep hollow eroded into the face of a snow-covered bluff, earthen walls rising close around a small camp, jmorrow, the tall thin bearded man seated within it wrapped in a worn blanket, a small fire burning low at the hollow mouth, writing in a leather-bound journal with a short pencil, deep winter, night coming on, 1850s plains"
 aspect = "portrait"
+lora = "morrow-ep12"
 citations = ["08:37, 12:113 (hollow in the bluffs, small fires)", "06:21 (blanket, journal, pencil)", "19:19 (pencil worn short, bedroll)", "19:21-23 (leather-bound journal)"]
-underdetermined = ["his clothing specifics (bible gap)"]
+underdetermined = ["coat/boot colors (reference choices, locked by LoRA)"]
 dni = "clean"
 
 [offering-stake]

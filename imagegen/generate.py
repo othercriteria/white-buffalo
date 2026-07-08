@@ -27,6 +27,16 @@ ASPECTS = {
     "square": (1024, 1024),
 }
 
+# Character LoRAs (imagegen/loras/, diffusers format). Recipe per
+# morrow-reference.md: "morrow" (final ckpt) for portraits, "morrow-ep12"
+# for narrative scene plates. Prompts must carry the trigger "jmorrow"
+# plus light descriptors; the register negative is load-bearing.
+LORAS = {
+    "morrow": "loras/morrow_engraving_v1_diffusers.safetensors",
+    "morrow-ep12": "loras/morrow_engraving_v1_ep12_diffusers.safetensors",
+}
+DEFAULT_LORA_WEIGHT = 1.3
+
 
 def load_toml(name: str) -> dict:
     with open(HERE / name, "rb") as f:
@@ -53,6 +63,11 @@ def main():
     )
     parser.add_argument("--output-dir", type=Path, default=HERE / "output")
     parser.add_argument("--list", action="store_true", help="List scenes and styles")
+    parser.add_argument(
+        "--lora",
+        help="Character LoRA: name or name@weight (see LORAS). Overrides the "
+        "scene's 'lora' field; scene entries may set lora = 'name@weight'.",
+    )
     args = parser.parse_args()
 
     catalog = load_toml("catalog.toml")
@@ -71,11 +86,16 @@ def main():
             if k not in catalog:
                 parser.error(f"unknown scene {k!r} (see --list)")
         jobs = [
-            (k, catalog[k]["prompt"], catalog[k].get("aspect", "landscape"))
+            (
+                k,
+                catalog[k]["prompt"],
+                catalog[k].get("aspect", "landscape"),
+                catalog[k].get("lora"),
+            )
             for k in scene_keys
         ]
     else:
-        jobs = [(args.name, args.prompt, args.aspect or "landscape")]
+        jobs = [(args.name, args.prompt, args.aspect or "landscape", None)]
 
     style_keys = (
         list(styles) if args.style == "all" else [args.style] if args.style else [None]
@@ -86,13 +106,33 @@ def main():
 
     args.output_dir.mkdir(parents=True, exist_ok=True)
 
+    def parse_lora(spec):
+        if not spec:
+            return None
+        name, _, w = spec.partition("@")
+        if name not in LORAS:
+            parser.error(f"unknown lora {name!r} (have: {', '.join(LORAS)})")
+        return name, float(w) if w else DEFAULT_LORA_WEIGHT
+
     print(f"Loading {MODEL} @ {REVISION[:8]}...")
     pipe = ZImagePipeline.from_pretrained(
         MODEL, revision=REVISION, torch_dtype=torch.bfloat16
     )
+    loaded_loras = set()
     pipe.enable_model_cpu_offload()
 
-    for job_name, base_prompt, aspect in jobs:
+    for job_name, base_prompt, aspect, scene_lora in jobs:
+        lora = parse_lora(args.lora or scene_lora)
+        if lora:
+            name, weight = lora
+            if name not in loaded_loras:
+                pipe.load_lora_weights(HERE / LORAS[name], adapter_name=name)
+                loaded_loras.add(name)
+            pipe.set_adapters([name], adapter_weights=[weight])
+        elif loaded_loras:
+            pipe.set_adapters(
+                list(loaded_loras), adapter_weights=[0.0] * len(loaded_loras)
+            )
         width, height = ASPECTS[args.aspect or aspect]
         for style_key in style_keys:
             if style_key:
