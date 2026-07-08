@@ -26,7 +26,7 @@ Brief record of meaningful manuscript states. For navigation, use git tags.
 - Continuity catches during the pass: JE IX felt-nothing vs the quoted killing
   entry; Morrow's Chapultepec slip; packet location; Ch 2 morning Mississippi
 
-~29.7k words (from ~32.6k at v0.6). The prose now reads as chosen rather than
+~30.3k words (from ~32.6k at v0.6). The prose now reads as chosen rather than
 generated; the additive pass (expansion-hooks) remains future work.
 
 ---

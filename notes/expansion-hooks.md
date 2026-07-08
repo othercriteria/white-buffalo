@@ -45,6 +45,20 @@ critique §6). Candidates, in rough order of value:
 4. **The Watertown coach leg (Ch 2 opening).** Town-to-railhead by coach; last
    look at the country he's leaving; cheap texture if the chapter wants a beat.
 
+## From the v0.7 final critic (additive candidates)
+
+5. **The Lakota and the unclaimed buffalo.** The deepest thinness the cold read
+   found: a white buffalo cow of this significance going unclaimed, and her white
+   shadow unconfronted, for nearly three years — glossed only by Morrow's "they
+   are waiting to see what I will do" (16:49). Any additive work here must
+   respect the book's Lakota-at-distance rule (no interiority); the room is in
+   what Farrell and Morrow *see*: more sign of presence, an approach declined, a
+   marker left. Research first (reference/lakota-white-buffalo.md; likely more
+   needed). Highest-value, highest-care item on this list.
+6. **The sound of the death.** Both narrators miss the kill by design; the final
+   critic felt the absence as absence. If anything is ever added it is one
+   sensory trace in Ch 10's bridge morning (distant, unidentifiable), no more.
+
 ## Guardrails
 
 - Each hook must survive the tic checklist (planning/process.md; critique §10) —
