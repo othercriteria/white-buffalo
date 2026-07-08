@@ -1,0 +1,26 @@
+[project]
+name = "white-buffalo-imagegen"
+version = "0.1.0"
+description = "Illustration pipeline for White Buffalo"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    # Pins carried over from the known-working ../z-image environment
+    # (RTX 4090, Z-Image via diffusers). Revisit if we adopt a successor model.
+    "torch>=2.5,<2.7",
+    "torchvision>=0.20,<0.22",
+    "diffusers @ git+https://github.com/huggingface/diffusers@a2ea45a5da7f9d4b197ee5da7481768bf865f7d1",
+    "transformers==4.56.1",
+    "accelerate==1.6.0",
+    "huggingface-hub==0.34.3",
+    "safetensors==0.4.5",
+    "pillow>=10.0",
+    "sentencepiece>=0.2",
+    "bitsandbytes",
+    "einops==0.7.0",
+    "toml==0.10.2",
+    "tqdm",
+]
+
+[tool.uv]
+find-links = ["https://download.pytorch.org/whl/cu124"]
+environments = ["sys_platform == 'linux'"]

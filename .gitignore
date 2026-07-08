@@ -8,6 +8,12 @@ result-*
 # Build artifacts (regenerable via `make`)
 build/
 
+# Image generation: Python venv, model weights, and working outputs stay
+# out of git. Curated images are promoted to art/ (LFS-tracked).
+imagegen/.venv/
+imagegen/models/
+imagegen/output/
+
 # OS
 .DS_Store
 
