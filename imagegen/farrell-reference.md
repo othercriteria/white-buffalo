@@ -33,3 +33,13 @@ underdetermined-by-text choices fixed for visual consistency only.
 - Kit when shown: broad-brimmed low felt hat, heavy dark winter coat,
   rifle in scabbard or crooked in arm — the armed, provisioned man
   against Morrow's "no gun, only a knife."
+
+## Anchors (DK, 2026-07-08)
+
+s701 = Farrell BEFORE the journey (fuller face, composed, folded hands);
+s702 = Farrell AFTER, if he survives (hollowed, harder, the trail's cost
+in the face) — "which is sort of the conceit of the text's existence,
+even if the text is coy about it." Any Farrell plate should pick its
+moment on that axis: pre-departure scenes read s701, post-homestead
+scenes drift toward s702. The withdrawal arc (visual-bible §Farrell)
+gives the interpolation.

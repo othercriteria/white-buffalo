@@ -94,8 +94,31 @@ directives; back/distance shots must be prompted WITHOUT the identity
 block, which is fine since they never need the LoRA), s611 (summer beard
 inflation again), s612 (proportion failure).
 
-**FINAL TRAINING SET (15), pending DK sign-off:** s121, s125, s126, s301,
-s302, s303, s304, s211, s215, s401, s402, s405, s411, s511, s311.
+**FINAL TRAINING SET (15), SIGNED OFF (DK, 2026-07-08, no notes):** s121,
+s125, s126, s301, s302, s303, s304, s211, s215, s401, s402, s405, s411,
+s511, s311.
+
+## Training results (2026-07-08) — VALIDATED
+
+morrow_engraving_v1: dim 32, 16 epochs (~2,400 steps, ~1h40m on the
+4090), Z-Image Base, recipe per musubi docs/zimage.md. Checkpoint grid
+(2 prompts × baseline/ep4/8/12/16, seed 42) in
+training/output/validate/checkpoint-grid.png.
+
+- **Identity: learned and generalizes.** The novel-scene probe (wolf-kill
+  carcass, 08:27 — never in the training set) renders the trained Morrow
+  in an invented kneeling pose at multipliers 1.3-1.6.
+- **Recipe: multiplier ~1.3 + light descriptors.** The bare trigger with
+  "the man" at multiplier 1.0 loses to the base model's priors (young
+  gentleman; trigger rendered as plate text). "the tall thin bearded man"
+  + jmorrow at 1.3 locks identity and keeps scene texture; 1.6 starts
+  flattening backgrounds; 2.0 washes the register.
+- **Deployment:** imagegen/loras/ holds the musubi original and the
+  diffusers conversion (convert_lora.py --target other); the diffusers
+  file loads in generate.py's pipeline via peft
+  (load_lora_weights + set_adapters weight 1.3). Verified end to end.
+- Epoch 16 (final) shows no overcooking vs ep12 at these multipliers;
+  using final.
 
 ## Training notes
 
