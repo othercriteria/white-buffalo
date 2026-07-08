@@ -107,6 +107,13 @@ citations = ["19:5-21 (hollow in the lee of a low hill, cutbank windbreak, fire 
 underdetermined = []
 dni = "clean"
 
+[journal-found]
+prompt = "An empty snow hollow camp at first light, a bed of blankets neatly arranged at the back, a leather-bound journal sitting on the blankets as if left to be found, a knife, a tin cup, a candle stub and a short pencil beside it, a cold fire pit at the entrance, a single line of footprints leading away down toward a valley, no people"
+aspect = "landscape"
+citations = ["19:5-7 (hollow, cutbank, cold fire pit, no supplies)", "19:21-23 (blankets neatly arranged; knife, tin cup, candle stub, pencil worn short; leather-bound journal 'as if left to be found')", "19:9 (single set of footprints leading out and down)"]
+underdetermined = ["journal dimensions (bible gap)"]
+dni = "clean — the book's central object as pure evidence; added after full read 2026-07-08"
+
 [finale-fifty-yards]
 prompt = "A white buffalo standing motionless at fifty yards facing a ragged man on foot in a snow-covered valley meadow at first light, her breath steaming, dried blood crusted dark on her chest and forelegs, sky the color of steel with first hints of gold, a saddled bay horse waiting behind the man, ridges to the north"
 aspect = "landscape"

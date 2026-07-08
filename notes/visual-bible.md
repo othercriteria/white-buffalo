@@ -34,9 +34,13 @@ ever been" (12:63). Blood froze in his beard eating raw meat (08:27).
 a knife, flint and steel, this journal and a pencil" (06:21); gloves (08:9); camp
 inventory: knife, tin cup, flint and steel, candle stub, pencil worn short, bedroll
 with blankets, "a bundle of clothes so worn they barely deserved the name" (19:19);
-knife dull by Oct 1857 (12:63); candle on the final night (18:7). [gap] coat/hat/
-boots — nothing described, ever; [gap] food in final months ("No animals, no
-supplies," 19:5).
+knife dull by Oct 1857 (12:63); candle on the final night (18:7). Clothing
+attested (full-read 2026-07-08): a coat and a shirt on the corpse ("His coat
+was torn, his shirt beneath it shredded," 20:13); worn boots via his tracks
+("the print of worn boots," 15:87; "boot-prints of a man," 13:61). [gap]
+narrows to: hat (never mentioned in 2.5 years — bareheaded is licensed),
+colors/materials/cuts of coat and boots; [gap] food in final months ("No
+animals, no supplies," 19:5).
 
 **Food when specified.** Wolf-kill leavings (02:13); roots, berries, ground-nest
 eggs (04:13); raw frozen buffalo meat hacked with the knife (08:27).
@@ -153,7 +157,8 @@ Development timeline (all cites):
 Constant features: eyes "dark, liquid, the eyes of any buffalo" (04:61); wakes
 before the herd, stands apart testing the air (04:21, 06:9); selective grazer
 (04:23); moves "like a ship through water" (06:9 — duplicated at 20:61, see
-critique §12). [gap] horn specifics (length, curve, color).
+critique §12). Horns "curved and thickened over the two years" by Sep 1858
+(16:17); [gap] remaining: length and color.
 
 Herd: ~200 animals 1856, cows/calves center, bulls on the edges (02:21); bulls "a
 thousand pounds or more" (02:57); ~100 animals 1858 (14:37); winters in a sheltered

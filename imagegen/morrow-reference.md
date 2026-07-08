@@ -28,8 +28,11 @@ The old ../z-image Morrow LoRA is not reused: trained on non-canon refs
   (Text gives nothing; dark reads as default for engraving contrast.)
 - Face: long, high-boned, deep-set eyes — supports "nothing in his eyes"
   read at plate resolution.
-- Coat: shapeless dark wool coat, badly worn (text: [gap] coat/hat/boots —
-  bible flags this gap; the coat must exist for winter plates).
+- Coat: shapeless dark wool coat, badly worn. UPGRADE (full-read
+  2026-07-08): the coat and a shirt are canon — the corpse wears both
+  ("His coat was torn, his shirt beneath it shredded," 20:13) — and worn
+  boots are canon via his tracks (15:87). Only color/material/cut remain
+  reference choices.
 - Hat: none. (Never mentioned in 2.5 years of text; bareheaded is the
   bolder and equally licensed choice, and distinguishes him from Farrell,
   who has a hat, 07:85.) Survivability rider (DK): in winter plates the
@@ -47,6 +50,21 @@ The old ../z-image Morrow LoRA is not reused: trained on non-canon refs
 - Period: late (1858) look — the emaciated vigil-keeper. All witnessed
   descriptions are from 1858; early-period Morrow (1856, fresh from
   Virginia) appears in no illustratable scene.
+
+## Bearing (full-read 2026-07-08 — key art direction)
+
+Morrow is a soldier gone to rags, NOT a wild man. What unnerves every
+witness is his composure, not his dishevelment: the walk is "steady. Not
+fast, not slow, never once stopping to look around" (07:121), "like he had
+all the time in the world" (07:175); the handwriting is "careful, formal"
+across years (19:35); the camp is neat, blankets "neatly arranged," the
+journal set out "as if left to be found" (19:21-23); the graves he dug are
+deliberate, stones "placed just so" (13:17-23). Eyes read as FLAT and
+still — "nothing in his eyes. Nothing at all" (07:179) — never intense,
+never crazed. The wildness lives in beard and rags only; the posture is
+erect, the movements deliberate. In prompts: "quiet unhurried bearing,"
+"level far-off gaze," never "wild-eyed" — and reject candidates whose
+gaze does the Monster Manual work the text refuses.
 
 ## Training notes
 

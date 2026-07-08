@@ -1,5 +1,10 @@
 # Continuity Notes
 
+> NOTE (2026-07-08): the "Current State (v0.5)" block below is a historical
+> snapshot and is stale in places — it predates v0.4's own Hardin-arrival fix
+> and v0.6's re-dating. Where it conflicts with the text, the text rules.
+> Corrected timeline and new findings: see "Full-read pass (v0.8)" at the end.
+
 ## Current State (v0.5)
 
 ### Word count: ~32,600 words
@@ -180,3 +185,59 @@ Check "the third winter" (16:75) still holds (it does: 1856-57, 57-58, 58-59).
   JE IX; drafts have 9 journal entries, 11 chapters after the Ch 12 cut).
 - This file's header sections were refreshed 2026-07-07; trust versions.md +
   git tags for revision history.
+
+## Full-read pass (2026-07-08, v0.8, whole book in one context)
+
+Corrected Hardin timeline (text-derived, supersedes the v0.5 block above):
+married early 1856 ("nearly three years" from Nov 1858, 01:61-63); arrived
+the Niobrara spring 1857 (JE V, 10:41: first seen building June 4, 1857);
+survived ONE winter (JE VII, 14:17: "They have survived their first
+winter"); killed early August 1858 (JE VII ends Aug 3; trader saw Morrow
+pass ~mid-August; "since last summer," 09:63).
+
+### OPEN — the letters-timing seam (needs DK adjudication)
+
+Farrell twice anchors his Morrow-is-the-killer inference to "around the
+time the letters stopped" (09:117, 13:67). But the letters stopped in
+MARCH 1858 (01:93; last letter dated March 14, 03:13 — Farrell has read
+it), while Morrow passed the post and the killings happened in AUGUST — a
+five-month gap. Partially defensible: 13:71 explicitly marks Farrell's
+motivated reasoning ("I made it fit, because the tracks said what they
+said"), and the March cutoff can be read as the Hardins ceasing post
+trips (trader: "They stopped coming in") months before they died — itself
+a quiet, dark implication. But a reader doing the arithmetic will likely
+read it as an error, not as unreliability. Options: (a) leave as
+unreliable-Farrell texture; (b) retie the inference to the trader's
+last-saw-them date ("the summer — about when the trader had last seen the
+Hardins alive"), which is factually tight and costs nothing; (c) re-date
+the last letter. Related, milder: monthly letters for ~3 years (01:93)
+vs. the Hardins' rare post visits after settling — Aldridge's compression
+of a 3-year average is livable, but (b) would ease this too.
+
+### Verified sound on this pass
+
+- The Loup Fork (07:175) vs Niobrara sightings: reconciled IN TEXT at
+  13:107 ("Buffalo drift with the feed in winter, and the man drifted
+  with the buffalo").
+- JE VII "tried to make it matter. But I cannot" (14:87) → unseen killing
+  entry ("I have written of what was done in it," 16:5) → JE IX "cost me
+  something—I wrote of it at the time" (18:53): a coherent progression,
+  not a contradiction.
+- Morrow age arithmetic: born early 1824 (18:17), left Virginia at 32
+  (12:47) → departure Jan-Feb 1856, walked out late winter, first sees
+  the calf Apr 19, 1856. Coheres, but only just — "I have lost count of
+  the months" (02:5) strains against a ~2-3 month walk. Tolerable.
+- Frozen-man rhyme: JE I's frozen man (02:9) and Ch 5's calm-faced frozen
+  stranger (09:15-27) both prefigure Morrow's corpse (20:11). Reads as
+  deliberate design; leave unannounced.
+- Both hauntings wear blue: Farrell's DT soldiers (15:21, US blue) and
+  Morrow's Buena Vista dead (18:33, Mexican regulars — historically
+  correct). Accidental-but-true resonance; no action.
+
+### Morrow appearance (fed to visual bible + imagegen specs)
+
+Coat and shirt attested (20:13); worn boots attested via tracks (15:87,
+13:61); horns "curved and thickened" (16:17); the bearing finding —
+witnesses are unnerved by his COMPOSURE (steady unvarying walk, careful
+formal hand, neat camp, deliberate graves), not wildness — is now the
+controlling art direction in imagegen/morrow-reference.md.
