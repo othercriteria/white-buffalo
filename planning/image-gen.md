@@ -80,7 +80,11 @@ training hyperparameters are still settling; budget iteration.
 4. Prompt catalog v1 from visual bible (scenes + citations + DNI enforcement)
 5. ~~Style A/B~~ (done 2026-07-08: **engraving**, DK's pick from the 12-image
    grid; register behaviors in imagegen/findings.md)
-6. Character reference sets from bible spec; LoRA training (Morrow first)
+6. ~~Character reference sets; Morrow LoRA~~ (done 2026-07-08: 15-image
+   set signed off, morrow_engraving_v1 trained on Base, validated on a
+   novel-scene probe, deployed at multiplier ~1.3 — see
+   imagegen/morrow-reference.md §Training results. Farrell stays
+   prompt-only with s701/s702 as before/after anchors.)
    - Plate-gibberish ladder (DK, 2026-07-08): (1) negative prompt — in test;
      (2) style-LoRA SFT on curated caption-free engraving plates — likely the
      robust fix, can also target the register's narrative-calming pull via
