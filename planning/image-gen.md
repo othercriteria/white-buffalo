@@ -33,6 +33,25 @@ either the text is thin there or the detail is deliberately unspecified.
   battlefield-carnage scenes — non-canon details and direct violations of the
   do-not-illustrate rule. Nothing from it is reused verbatim.
 
+## Model decision (2026-07-08, from commissioned survey)
+
+**Stay on Z-Image; train LoRAs against Z-Image (Base).** No successor exists:
+"Z-Image 2" was never released, and Z-Image-Edit / Omni-Base remain
+unpublished (Tongyi-MAI HF org checked). The material update is **Z-Image
+(Base)**, the non-distilled foundation checkpoint (Jan 2026, 6B, Apache-2.0,
+diffusers support merged upstream) — it removes the late-2025 pain point of
+LoRA-training against the distilled Turbo. musubi-tuner supports it
+first-class (docs/zimage.md), though community reports (issue #908) say Base
+training hyperparameters are still settling; budget iteration.
+
+- Inference: Turbo for fast drafts, Base (28–50 steps, CFG 3–5) for finals.
+- Fallback if Z-Image LoRA fidelity disappoints: FLUX.2 klein 4B base
+  (Jan 2026, Apache-2.0, ~13 GB bf16, LoRA-trainable on a 4090 in ~1 h).
+  Ruled out: Qwen-Image-2.0 (API-only), Ideogram 4.0 (non-commercial
+  license), FLUX.2 dev (32B, non-commercial).
+- Watch: Z-Image-Edit, if ever released — instruction-based editing would
+  help character-consistent scene variants without a stack change.
+
 ## Rules
 
 1. **Prompt-extraction discipline.** Every visual claim in a prompt must trace
@@ -54,7 +73,7 @@ either the text is thin there or the detail is deliberately unspecified.
 
 1. ~~Flake + LFS + imagegen scaffold~~ (done 2026-07-08)
 2. Session restart in `nix develop`; `uv sync`; smoke-test generation
-3. Model decision: Z-Image vs successor (survey commissioned 2026-07-08)
+3. ~~Model decision~~ (done 2026-07-08: Z-Image, Base for training; see above)
 4. Prompt catalog v1 from visual bible (scenes + citations + DNI enforcement)
 5. Style A/B on 2-3 scenes → DK picks register
 6. Character reference sets from bible spec; LoRA training (Morrow first)
