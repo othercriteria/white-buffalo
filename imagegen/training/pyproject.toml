@@ -1,0 +1,15 @@
+[project]
+name = "white-buffalo-lora-training"
+version = "0.1.0"
+description = "Character LoRA training env (musubi-tuner on Z-Image Base)"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "musubi-tuner[cu124]",
+]
+
+[tool.uv]
+find-links = ["https://download.pytorch.org/whl/cu124"]
+environments = ["sys_platform == 'linux'"]
+
+[tool.uv.sources]
+musubi-tuner = { path = "musubi-tuner", editable = true }

@@ -1,0 +1,15 @@
+# Morrow character LoRA dataset (15 curated images, DK signed off 2026-07-08)
+# Trigger: "jmorrow"; style token captioned explicitly so identity binds to
+# the trigger. Recipe per musubi-tuner docs/zimage.md (Base model).
+
+[general]
+resolution = [1024, 1024]
+caption_extension = ".txt"
+batch_size = 1
+enable_bucket = true
+bucket_no_upscale = false
+
+[[datasets]]
+image_directory = "/home/dlk/workspace/white-buffalo/imagegen/training/dataset/morrow"
+cache_directory = "/home/dlk/workspace/white-buffalo/imagegen/training/cache/morrow"
+num_repeats = 10
