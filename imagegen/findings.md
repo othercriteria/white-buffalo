@@ -64,6 +64,25 @@ cinematic. Grid: output/style-ab-contact-sheet.png.
   (background riders), loose spatial staging (horse drifts into the
   hollow; invented dugout door at s44).
 
+## Shared-seed rhyme (DK observation from ../z-image, confirmed 2026-07-08)
+
+Same seed + same dimensions → same initial latent → shared low-frequency
+blocking across different prompts; the prompt decides only what the masses
+become. DK's example (06_homesteaders ↔ 07_buena_vista: foreground furrows
+become bodies) measures +0.713 low-freq luminance correlation vs +0.38
+median across all final/ pairings. Both eye-legible and measurable.
+
+Exploitable as deliberate visual rhyme — a parallel left for the reader,
+never announced (inside the tic discipline). Candidate pairs:
+- morrow-hollow ↔ reading-night (Morrow writing / Farrell reading — the
+  book's central transaction as shared bones)
+- first-sighting ↔ finale-fifty-yards (calf trailing the herd / cow facing
+  Farrell)
+- offering-stake ↔ graves (the two markers left in the ground)
+Method: for an intended pair, sweep seeds and keep the seed maximizing the
+correlation metric (script in this repo's history; formalize as
+rhyme_scan.py if adopted). Same aspect ratio is required.
+
 ### Implications for the pick
 
 A hybrid is available: one register for narrative chapters, wet-plate for

@@ -22,7 +22,7 @@ The old ../z-image Morrow LoRA is not reused: trained on non-canon refs
 - Corpse posture (if ever needed): on his back, arms wide, face peaceful,
   eyes open (20:5-11) — DNI: traces only.
 
-## Reference choices (underdetermined; proposed, need DK sign-off)
+## Reference choices (underdetermined; DK signed off 2026-07-08)
 
 - Hair: dark, gone long and unkempt; grayed at the temples by 1858.
   (Text gives nothing; dark reads as default for engraving contrast.)
@@ -32,7 +32,18 @@ The old ../z-image Morrow LoRA is not reused: trained on non-canon refs
   bible flags this gap; the coat must exist for winter plates).
 - Hat: none. (Never mentioned in 2.5 years of text; bareheaded is the
   bolder and equally licensed choice, and distinguishes him from Farrell,
-  who has a hat, 07:85.)
+  who has a hat, 07:85.) Survivability rider (DK): in winter plates the
+  blanket — the one head-covering his cited kit actually contains (06:21)
+  — may be worn over head and shoulders; period-true, consistent with how
+  the text has him survive (buried in snow 08:5, hollows 08:37), and it
+  strengthens the silhouette. Bareheaded proper is for fair-weather and
+  portrait plates.
+- Mexican War flashback (DK): if ever illustrated, he IS hatted —
+  Mississippi Rifles campaign kit was famously red shirt, white duck
+  trousers, broad-brimmed black felt hat. Note: 1846-47 Morrow (early 20s,
+  fed, soldierly) is a different visual identity, outside this LoRA's
+  scope; he would be prompted fresh, not LoRA'd. No war scene is in
+  catalog v1.
 - Period: late (1858) look — the emaciated vigil-keeper. All witnessed
   descriptions are from 1858; early-period Morrow (1856, fresh from
   Virginia) appears in no illustratable scene.
