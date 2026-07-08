@@ -19,20 +19,20 @@ does — the whole journal predates the reading).
 |---|---|---|---|
 | "like a ship through water" | 06:9 (JE III) | 20:61 (Ch 11) | KEEP — ruled deliberate (v0.7); the book's central image, borrowed at the only moment borrowing is true |
 
-## Candidates (post-reading, could be sanctioned or cut in the Part 4–5 pass)
+## Sanctioned echoes (grounded) — additions
 
-| Phrase | Morrow source | Farrell site | Note |
+| Phrase | Morrow source | Farrell echo | Status |
 |---|---|---|---|
-| clay/kiln formulation of the two-men thesis | (concept throughout journal) | 19:59-61 (Ch 10, post-reading) | §12 says forge (17:39-51, PRE-reading) and kiln both overstate; if one survives it must be the kiln — it's grounded, the forge is not |
+| "the same clay" (two-men thesis, stripped) | (journal's whole argument) | 19:59 (Ch 10, post-reading) | KEPT stripped in v0.7; the ungrounded forge version (Ch 9) cut — recognition there is now stated without shared-origin metaphor |
+| "She is waiting." / "The white buffalo was waiting." | 18:59-81 (JE IX) | 19:75 (Ch 10 close) | KEEP — Farrell has just read those words; the chapter close answers the journal |
 
-## Accidental bleed (pre-reading — fix in Parts Two–Four passes)
+## Accidental bleed — ALL RESOLVED (v0.7)
 
-| Phrase | Morrow | Farrell (pre-reading) | Fix side |
+| Phrase | Morrow (owner) | Farrell (was) | Resolution |
 |---|---|---|---|
-| "the cold was/is a living thing... press(es/ing) against ... from all sides" | 08:63 (JE IV) | ~~07:21 (Ch 4)~~ FIXED v0.7 — Farrell's varied; Morrow now sole owner | done |
-| "finding every gap in my clothing/blanket" | 18:5 (JE IX) | 07:21 (Ch 4), 17:99 (Ch 9) | Vary Farrell's (both pre-reading) |
-| "pressed in from all sides" | 18:5 | 17:79 (Ch 9), 19:11 (Ch 10 pre-reading section) | Vary Farrell's |
-| hollow-lexicon ("hollowed out") | 18:37, 18:55 | 17:39 (Ch 9) | 17:39 forge passage slated for cutting anyway |
+| "cold was/is a living thing... presses from all sides" | 08:63, 12:119, 18:5 | 07:21, 17:5, 17:79, 17:103, 19:11 | All Farrell instances varied/cut; Morrow sole owner |
+| "finding every gap in my clothing/blanket" | 18:5 | 07:21, 17:99 | Farrell's varied ("working into my collar and cuffs") |
+| hollow-lexicon ("hollowed out," "hollow thing") | 18:37, 18:55 | 17:39 | Cut with the forge passage |
 
 ## Maintenance
 

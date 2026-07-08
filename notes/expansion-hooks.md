@@ -4,6 +4,12 @@ Candidate growth points, per the no-fixed-target length decision (CLAUDE.md
 "Length"): expansion only where the book asks for it, lower priority than
 continuity and prose quality. Logged 2026-07-08 from discussion.
 
+Direction (2026-07-08, after v0.7 Parts One–Two): the subtractive pass is
+approved; an ADDITIVE pass is expected eventually — likely landing with the
+image-gen phase (visual-bible gaps and illustration-prompt failures will point
+at what's thin) or another future stage. The ~1,100 words cut so far are
+budget, not just trim.
+
 ## Farrell and reading (conception, agreed direction)
 
 Canon: Farrell reads only as work — Catherine's letters forensically (03:3-19),

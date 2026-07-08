@@ -2,9 +2,9 @@
 
 The world had become unreliable.
 
-I no longer knew which things were real and which were not. The snow was real—I could feel it beneath my horse's hooves, could see it stretching away in all directions. The cold was real—it pressed against me from all sides, a constant presence that never let me forget where I was. But the other things, the things I saw and heard and felt at the edges of my perception, I could not be sure about.
+I no longer knew which things were real and which were not. The snow was real—I could feel it beneath my horse's hooves, could see it stretching away in all directions. The cold was real—a constant presence that never let me forget where I was. But the other things, the things I saw and heard and felt at the edges of my perception, I could not be sure about.
 
-The soldiers were still with me. They had been with me for days now, walking alongside my horse, standing watch while I slept, watching me with their dead eyes and their silent mouths. I had stopped trying to make them go away. They were as much a part of this journey as the snow and the cold.
+The soldiers were still with me. They had been with me for days now, walking alongside my horse, standing watch while I slept, saying nothing. I had stopped trying to make them go away. They were as much a part of this journey as the snow and the cold.
 
 And they were not the only ones.
 
@@ -34,21 +34,11 @@ I had buried all of this. I had used whiskey and time and the simple practice of
 
 On the third day, I understood something.
 
-It came to me as I sat by my fire, shaking, watching the soldiers watch me. I understood what I was following. Not just a man, not just a white buffalo, but something more. Something that connected him to me, and me to him, in a way I had not recognized before.
+It came to me as I sat by my fire, shaking, watching the soldiers watch me. I did not admire the man I was following. I did not sympathize with him. What he had done to the Hardins was monstrous, whatever his reasons.
 
-We were the same. Not in what we had done—his crimes were his own, and mine were mine—but in what we had become. Something had hollowed him out, as the war had hollowed me. I did not know what, but I recognized the shape of it. We had both learned to kill without feeling, to survive without living, to move through the world like ghosts wearing the shapes of men.
+But I recognized him. I knew what he was, because I knew what I was.
 
-The difference was in what we did with the emptiness.
-
-I had tried to fill it. I had used whiskey and work and the endless small distractions of a life lived day to day. I had told myself that eventually the emptiness would close, that I would feel things again, that I would become the man I had been before Mexico.
-
-He had not tried to fill it. He had accepted it, embraced it, made it the center of his existence. And then he had gone looking for something large enough to give his empty life meaning. A sacred death. An end that would transform everything that came before it.
-
-I did not admire him. I did not sympathize with him. What he had done to the Hardins was monstrous, regardless of the reasons.
-
-But I recognized him. I knew what he was, because I knew what I was. We had both been made in the same forge. We had both come out broken.
-
-The only difference was the way we chose to break.
+I had tried to fill the emptiness—whiskey, work, the small distractions of a life lived day to day. He had gone looking for something large enough to swallow it whole. That was the difference, and I did not like how small it was.
 
 ---
 
@@ -58,9 +48,9 @@ The tracks were clearer now, fresher—he was slowing down, stopping more often,
 
 The last of my food had gone two days back, a heel of hardtack chewed in the saddle. I was not hungry. The want of drink had crowded out every smaller want.
 
-I followed. I did not think anymore about why. The reasons had fallen away somewhere back along the trail, lost in the snow like everything else. What remained was motion. What remained was the simple, animal need to see this thing through to the end.
+I followed. I did not think anymore about why. The reasons had fallen away somewhere back along the trail, lost in the snow like everything else. What remained was motion, and the simple animal need to see this thing through.
 
-Somewhere up ahead, the man who followed the white buffalo waited for whatever he was waiting for.
+Somewhere up ahead, the man who followed the white buffalo waited.
 
 ---
 
@@ -78,7 +68,7 @@ I did not remember, afterward, how many I had killed. I did not want to remember
 
 And when it was over, when the room was silent and the bodies lay in heaps and the smoke hung thick in the air, I looked down at my hands and they were covered in blood. They have been covered in blood ever since.
 
-I woke in the darkness, gasping, my heart pounding in my chest. The fire had burned down to coals. The cold pressed in from all sides. And somewhere to the north, a man was waiting to die.
+I woke in the darkness, gasping, my heart pounding in my chest. The fire had burned down to coals. The cold had come into everything. And somewhere to the north, a man was waiting to die.
 
 I got up and saddled my horse and rode on into the dark.
 
@@ -92,18 +82,18 @@ I could see them both now. Far ahead, perhaps a mile, a dark shape moved against
 
 I stopped my horse and watched. The distance was too great to make out details, but I could see the way he moved—slow, deliberate, as if every step required careful thought. He was watching her, I knew. Waiting for something.
 
-I did not call out to him. I did not spur my horse forward. I simply watched, as he watched, as the white buffalo stood in the snow and waited for whatever was coming.
+I did not call out to him. I did not spur my horse forward. I simply watched, as he watched, as the white buffalo stood in the snow and waited.
 
 The soldiers had gathered around me, more of them than before. Catherine Hardin was among them now.
 
 The silence was not silent. I knew that now.
 
-There was the wind, always the wind, hissing across the snow, finding every gap in my clothing, speaking in a voice that might have been words if I could only understand them. There was the crunch of hooves on the frozen surface, and the creak of leather, and the horse's breathing, heavy and labored. There was the blood in my own ears, loud as a drum.
+There was the wind, always the wind, hissing across the snow, working into my collar and cuffs, speaking in a voice that might have been words if I could only understand them. There was the crunch of hooves on the frozen surface, and the creak of leather, and the horse's breathing, heavy and labored. There was the blood in my own ears, loud as a drum.
 
-And underneath it all, like a bass note too low to hear, there was the silence itself—the vast emptiness of the country pressing in from all sides, the weight of all that nothing bearing down on me until I felt I might be crushed by it.
+And underneath it all, like a bass note too low to hear, there was the silence itself—the vast emptiness of the country, the weight of all that nothing bearing down on me until I felt I might be crushed by it.
 
 Only the living made noise in this country, and there were so few of us left.
 
 I rode forward, slowly, keeping my distance. I did not know what I was going to do when I reached him. I did not know if there was anything left to do.
 
-But I kept riding. One step at a time, one yard at a time, into the white.
+But I kept riding. One step at a time, one yard at a time.

@@ -2,7 +2,7 @@
 
 The trail was there, but it was old.
 
-The snow had fallen twice since whoever made these tracks had passed this way, filling in the prints, softening the edges, turning clear signs into vague suggestions. I followed what I could see—the faint depressions where hooves had struck the ground, the subtle differences in the texture of the snow where a large animal had walked. It was not easy. It required a kind of attention I found increasingly difficult to maintain.
+The snow had fallen twice since whoever made these tracks had passed this way, filling in the prints, softening the edges, turning clear signs into vague suggestions. I followed what I could see—the faint depressions where hooves had struck the ground, the subtle differences in the texture of the snow where a large animal had walked. It was not easy. It required attention, and attention was becoming hard to come by.
 
 The tremors were constant now.
 
@@ -14,7 +14,7 @@ And the shaking was not the worst of it.
 
 The visions had begun to come.
 
-At first they were small things—shadows that moved at the edge of my sight, sounds that came from nowhere, a sense of being watched by something I could not see. I told myself it was the emptiness of the country playing tricks on my mind, the isolation working on my senses. I told myself I was fine.
+At first they were small things—shadows that moved at the edge of my sight, sounds that came from nowhere, a sense of being watched. I told myself it was the country working on my senses.
 
 Then I started seeing the men.
 
@@ -24,7 +24,7 @@ I knew they were not real. I knew my mind was producing them, feeding on the mem
 
 They followed me as I followed the trail. They watched me as I made camp at night. They stood in circles around my fire, their dead eyes reflecting the flames, and they did not speak and they did not move and they did not leave.
 
-I talked to them, sometimes. I could not help it. The silence was too complete, the isolation too profound, and the words came out of me whether I wanted them to or not.
+I talked to them, sometimes. I could not help it. The silence was too complete, and the words came out of me whether I wanted them to or not.
 
 "I'm sorry," I told them. "I'm sorry for what happened. I'm sorry I lived and you didn't."
 
@@ -44,19 +44,19 @@ I could do that. No one would blame me. No one would even know.
 
 But I did not turn back.
 
-I do not know why. The reasons that had made sense before—the money, the job, the need to finish what I had started—seemed small and distant now, like things that belonged to someone else. What remained was something harder to name. A compulsion, perhaps. A need to see this through to whatever end was waiting.
+I do not know why. The reasons that had made sense before—the money, the job, the need to finish what I had started—seemed small and distant now, like things that belonged to someone else. What remained was harder to name.
 
-Or perhaps it was simpler than that. Perhaps I was just tired of turning back.
+Or perhaps it was simple. Perhaps I was just tired of turning back.
 
 ---
 
 I rode north.
 
-It was not a decision exactly—more like an instinct, a pull I could not explain. The man who followed the white buffalo had been heading north when the trader saw him, north when the mail carrier passed him, north when the trapper watched him cross the frozen river. North was where the emptiest country lay, the land where no one lived, where a man could walk for days without seeing another soul.
+It was not a decision exactly. The man who followed the white buffalo had been heading north when the trader saw him, north when the mail carrier passed him, north when the trapper watched him cross the frozen river. North was where the emptiest country lay, the land where no one lived, where a man could walk for days without seeing another soul.
 
-If I were him—if I were a man seeking something I could not name, following something I could not explain—that is where I would go.
+If I were him, that is where I would go.
 
-So I went north, into the white, into the silence, into whatever was waiting there.
+So I went north, into the white.
 
 ---
 
@@ -68,11 +68,11 @@ Then the shaking started.
 
 It was not like the tremors I had felt before. This was something else—a full-body convulsion that seized me and would not let go, that rattled my teeth and wrenched my spine and left me gasping for air like a fish thrown up on the shore. It lasted for what felt like hours, though it was probably only minutes, and when it finally stopped I was lying in the snow outside my blankets, my face wet with sweat and tears.
 
-I lay there for a long time, too weak to move, watching the sky lighten above me. The clouds were thin and gray, letting through a pale light that hurt my eyes. The wind was quiet. The world was silent.
+I lay there for a long time, too weak to move, watching the sky lighten above me. The clouds were thin and gray, letting through a pale light that hurt my eyes. The wind had died.
 
-I thought about dying. I thought about how easy it would be to simply stay where I was, to let the cold take me, to slip away into the white and never be found. It would be a clean death, a simple death, far better than I deserved.
+I thought about dying. I thought about how easy it would be to simply stay where I was, to let the cold take me, to slip away into the white and never be found. It would be a clean death, better than I deserved.
 
-But I did not die. Something in me would not allow it—some stubborn core that refused to give up, that had carried me through Mexico and through the years of drinking and through all the miles of empty country between here and the life I had left behind.
+But I did not die. Something in me would not allow it—the same stubbornness that had carried me through Mexico and the drinking years.
 
 I got up. I saddled my horse. I rode on.
 
@@ -96,7 +96,7 @@ I mounted up and followed the tracks.
 
 The horse was failing.
 
-I had not wanted to see it, but by the afternoon I could no longer pretend otherwise. He was moving slowly, his head low, his steps heavy and uncertain. The deep snow was taking its toll—every step an effort, every yard a battle against the white that seemed to grip at his legs and hold him back.
+I had not wanted to see it, but by the afternoon I could no longer pretend otherwise. He was moving slowly, his head low, his steps heavy and uncertain. The deep snow was taking its toll—every step an effort against the snow that gripped his legs.
 
 I dismounted and led him for a while, breaking trail with my own body, but I was not much stronger than he was. The shaking in my hands had spread to my legs, and the world kept going gray at the edges, and sometimes I forgot what I was doing and stood there in the snow until the cold reminded me to move.
 
@@ -105,8 +105,6 @@ I tried to hunt. I saw a rabbit—just a flash of white against the snow, but I 
 My hands would not stop shaking. The barrel wavered, describing circles in the air, and even when I braced it against a tree I could not hold it steady. The rabbit moved, and I fired, and the shot went wide by a foot or more, and the rabbit vanished into the white as if it had never been.
 
 I stood there for a long time, looking at the place where it had been, the smell of powder sharp in the cold air. I had perhaps two days of food left. The man I was following might have none.
-
-We were alike in that too.
 
 We stopped in a draw where the snow was shallower and the wind less fierce. The horse stood with his head down, breathing hard, his flanks dark with sweat despite the cold. I knew what that meant. A sweaty horse in winter is a dying horse, if you cannot get him dry.
 
@@ -120,9 +118,7 @@ I made camp. I built a fire from the cottonwood and the deadfall I could gather,
 
 In the morning the horse was better. Not well—he would not be well until he had rest and food and shelter, none of which I could give him—but better. He ate more bark, and drank the water I melted for him, and when I saddled him he stood steady under my weight.
 
-"One more day," I said. "Just one more. Then we'll find him, and this will be over."
-
-I did not know what "over" meant. I did not let myself think about it.
+"One more day," I said. "Just one more."
 
 We went on.
 
@@ -136,8 +132,6 @@ And others. People I did not recognize, strangers who seemed to know me, who loo
 
 "Who are you?" I asked them. "What do you want?"
 
-They did not answer. They never answered.
-
 I sat by the fire and shook and sweated and watched the dead watch me, and eventually, without meaning to, I slept.
 
 ---
@@ -148,7 +142,7 @@ I was in Mexico, in a village I recognized—a place we had passed through durin
 
 At the end of the street there was a white buffalo.
 
-She stood in the middle of the road, enormous, impossible, her coat bright against the brown of the buildings around her. She watched me with eyes that were not the eyes of an animal—dark and deep and full of something I could not name.
+She stood in the middle of the road, enormous, impossible, her coat bright against the brown of the buildings around her. She watched me with eyes that were not the eyes of an animal—dark and deep.
 
 "I'm looking for a man," I said. "A man who follows you."
 

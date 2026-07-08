@@ -2,7 +2,7 @@
 
 *June the Fourteenth, Eighteen Fifty-Eight*
 
-The herd has turned south again, following the grass into the valleys where the creeks run full from the spring thaw. She is with them, as always, her white coat bright against the green of the early summer meadows. She is magnificent now—grown beyond her years, a thousand pounds of muscle and bone and sacred purpose.
+The herd has turned south again, following the grass into the valleys where the creeks run full from the spring thaw. She is with them, as always, her white coat bright against the green of the early summer meadows. She is magnificent now—grown beyond her years, a thousand pounds of muscle and bone.
 
 And she has led me back to the homesteaders.
 
@@ -12,13 +12,13 @@ And she has led me back to the homesteaders.
 
 I have been watching them for a week.
 
-They are still here, still working their little patch of land, still living their little lives. The man is out early every morning, tending to the animals, working the fields, repairing the endless small damages that the land inflicts on anything built upon it. The woman is never far from the house, cooking and cleaning and doing whatever it is that women do to keep a home running.
+They are still here, working their little patch of land, living their little lives. The man is out early every morning, tending to the animals, working the fields, repairing the endless small damages that the land inflicts on anything built upon it. The woman is never far from the house, cooking and cleaning and doing whatever it is that women do to keep a home running.
 
 They have survived their first winter. That is more than some.
 
 I do not know why I am watching them so closely. They are not a threat to her—not yet, at least. They are too far away, too occupied with their own concerns, to have even noticed the herd grazing in the valley to the north. But something keeps drawing my attention back to them.
 
-Perhaps it is simply that they are the only other people in this country. Perhaps I have been alone so long that even the sight of strangers at a distance feels significant.
+Perhaps it is only that they are the only other people in this country.
 
 Or perhaps it is something else. Something I do not want to name.
 
@@ -32,7 +32,7 @@ She leads them now—I have noticed this over the past months. The older cows st
 
 And she has led them to within a mile of the homestead.
 
-I do not think she is aware of the significance. She is following the grass, the water, the instincts that have guided her kind for longer than men have walked this land. But I am aware. I see the homesteaders' sod house from the ridge where I sit, see the smoke from their chimney, see the man working in his field.
+I do not think she knows what she has done. She is following the grass, the water, the instincts that have guided her kind for longer than men have walked this land. But I am aware. I see the homesteaders' sod house from the ridge where I sit, see the smoke from their chimney, see the man working in his field.
 
 They will notice the herd soon, if they have not already. A hundred buffalo grazing in the next valley is not something that can be overlooked.
 
@@ -44,11 +44,11 @@ And when they notice the herd, they may notice her.
 
 I have been thinking about what to do.
 
-The homesteaders are not a threat. I must be clear about this in my own mind, must not deceive myself into believing something that is not true. They are two people—a man and a woman—living alone on the edge of the wilderness. They have no weapons that I have seen beyond what any homesteader would keep for protection. They have no interest in buffalo, sacred or otherwise. They are simply here, living their lives, posing no danger to anyone.
+The homesteaders are not a threat. I must be clear about this in my own mind. They are two people—a man and a woman—living alone on the edge of the wilderness. They have no weapons that I have seen beyond what any homesteader would keep for protection. They have no interest in buffalo, sacred or otherwise. They are simply here, living their lives, posing no danger to anyone.
 
 But they are in the way.
 
-I do not mean this the way a man might mean it when he speaks of obstacles or inconveniences. I mean something more fundamental. They are in the path that she has chosen. They are occupying ground that she may need to cross. They are a presence in this country that could, under certain circumstances, become a problem.
+I do not mean it the way a man means it when he speaks of obstacles. I mean it the way one speaks of a stone in a field that must be moved before plowing. They are in the path she has chosen. They are on ground she may need.
 
 If they see her—if they notice her white coat among the brown—what will they do? They might do nothing. They might simply observe her and wonder at her strangeness and go about their business. That is what most people would do.
 
@@ -62,13 +62,13 @@ I cannot allow that.
 
 I have made my decision.
 
-I have wrestled with it for weeks, turning it over in my mind, examining it from every angle. I have tried to find another way, a solution that does not require what I am about to do. I have failed.
+I have wrestled with it for weeks. I have tried to find another way. I have failed.
 
 The homesteaders must be removed.
 
-I do not write this with pleasure. I do not write it with anger or malice or any of the feelings that might make such a decision comprehensible. I write it as a simple statement of fact, a conclusion that follows inevitably from the premises I have accepted.
+I do not write this with pleasure. I do not write it with anger or malice or any of the feelings that might make such a decision comprehensible. I write it as a plain statement of fact, a conclusion that follows from what I have already accepted.
 
-She is sacred. She is more important than I am, more important than the homesteaders, more important than anything else in this world. She is the vessel through which my death will have meaning, the only chance I will ever have to make something clean and right out of the wreckage of my life.
+She is sacred. She is more important than I am, more important than the homesteaders. She is the only chance I will ever have to make something clean out of the wreckage of my life.
 
 I will not let anyone take that from me.
 
@@ -82,7 +82,7 @@ The man wakes before dawn and goes to the barn to tend the animals. He stays the
 
 The woman wakes later, after the man has left for the barn. She builds up the fire, prepares food, cleans. She spends most of her day in or near the house. Sometimes she sits by the window for an hour, hardly moving. Reading, I suppose. I cannot think what else would hold her so still.
 
-She does not belong here. I can see that from a distance. The way she moves, the way she holds herself—she was made for a different kind of life, a softer life, a life with books and comfort and people to talk to. She came here for love, or for hope, or for some other reason I cannot fathom. And now she is going to die here.
+She does not belong here. I can see that from a distance. The way she moves, the way she holds herself—she was made for a softer life, a life with books and people to talk to. She came here for love, or for hope. And now she is going to die here.
 
 I have thought about this. I have tried to make it matter. But I cannot.
 
@@ -90,7 +90,7 @@ I have thought about this. I have tried to make it matter. But I cannot.
 
 *August the Third*
 
-The herd is still nearby. She grazes in the valley every day, visible from the homestead if anyone cared to look. The man has noticed the buffalo—I saw him standing at the edge of his field yesterday, watching them move across the grass. But he did not seem to notice her. Perhaps his eyes are not trained to see what does not belong. Perhaps he simply did not look closely enough.
+The herd is still nearby. She grazes in the valley every day, visible from the homestead if anyone cared to look. The man has noticed the buffalo—I saw him standing at the edge of his field yesterday, watching them move across the grass. But he did not seem to notice her. Perhaps his eyes are not trained to see what does not belong.
 
 But he might look more closely tomorrow. He might notice. He might do something.
 

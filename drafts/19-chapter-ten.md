@@ -8,9 +8,9 @@ The man I had been following was gone. The tracks told me that much—a single s
 
 But I did not follow him. Not yet.
 
-I dismounted and tied my horse to a stunted pine at the edge of the camp. My hands were shaking—they had been shaking for days—and it took me three tries to secure the knot. The cold pressed in from all sides, and the light was failing, and the soldiers were there at the edges of the darkness, watching, patient as stones.
+I dismounted and tied my horse to a stunted pine at the edge of the camp. My hands were shaking—they had been shaking for days—and it took me three tries to secure the knot. The light was failing, and the soldiers were there at the edges of the darkness, watching, patient as stones.
 
-"Wait here," I told them. They did not answer.
+"Wait here," I told them.
 
 I walked to the hollow and knelt at its edge.
 
@@ -44,7 +44,7 @@ He had watched them for weeks, he wrote. He had seen them building their home, w
 
 *I did not know I would feel this,* he had written afterward. *I thought I was past feeling.*
 
-But he was not past feeling. The killing had troubled him, had disturbed the careful emptiness he had cultivated. He had buried them himself, taken two days to do it properly, piling stones on the graves to keep the animals away. And then he had moved on, following the white buffalo, waiting for the end.
+He had buried them himself, taken two days to do it properly, piling stones on the graves to keep the animals away. And then he had moved on, following the white buffalo, waiting for the end.
 
 ---
 
@@ -56,13 +56,13 @@ I set the journal down and looked into the fire. The flames danced and flickered
 
 I had come all this way to find a killer. I had found something else instead.
 
-I had found a man who was not so different from me. A man shaped by the same war, broken by the same violence, hollowed out by the same emptiness. He had made different choices—worse choices, choices I could not forgive—but the raw material was the same. We were two men formed from the same clay, fired in the same kiln.
+I had found a man who was not so different from me. He had made worse choices—choices I could not forgive—but the clay was the same.
 
 The difference was that he had found something to die for. And I had not.
 
 ---
 
-I slept for a few hours, the journal clutched to my chest like a talisman. The dreams were bad—Mexico, always Mexico, the blood and the smoke and the faces of the dead—but I was used to bad dreams. I woke before dawn and lay in the cold, listening to the wind, thinking about what I was going to do.
+I slept for a few hours, the journal clutched to my chest. The dreams were bad—Mexico, always Mexico, the blood and the smoke and the faces of the dead—but I was used to bad dreams. I woke before dawn and lay in the cold, listening to the wind, thinking about what I was going to do.
 
 I could turn back. The journal was evidence, proof of what had happened to the Hardins, a document that could be taken to Aldridge and presented as the resolution of his commission. The man who killed your daughter is dead, I could tell him. This is his confession. Justice has been done, or something close to it.
 
@@ -70,6 +70,6 @@ But the man who killed his daughter was not dead. Not yet.
 
 The tracks leading from the camp were still fresh enough to follow. The valley below, where I had seen him yesterday, was perhaps a mile away. If I moved now, in the gray light before sunrise, I might find him. I might see, at last, the thing he had been seeking.
 
-I did not know why I wanted to see it. I did not know what I expected to find. But I gathered my things and saddled my horse and rode down into the valley, the journal in my saddlebag, the dead men following behind.
+I did not know what I expected to find. But I gathered my things and saddled my horse and rode down into the valley, the journal in my saddlebag, the dead men following behind.
 
 The white buffalo was waiting.
