@@ -23,10 +23,16 @@ does — the whole journal predates the reading).
 
 | Phrase | Morrow source | Farrell echo | Status |
 |---|---|---|---|
-| "the same clay" (two-men thesis, stripped) | (journal's whole argument) | 19:59 (Ch 10, post-reading) | KEPT stripped in v0.7; the ungrounded forge version (Ch 9) cut — recognition there is now stated without shared-origin metaphor |
+| ~~"the same clay"~~ | — | ~~19:59~~ | UN-SANCTIONED (v0.7 final critic): Ch 9 owns sameness (pre-reading recognition), Ch 10 owns only the difference ("he had found something to die for. And I had not."). No shared-origin metaphor survives in either voice |
 | "She is waiting." / "The white buffalo was waiting." | 18:59-81 (JE IX) | 19:75 (Ch 10 close) | KEEP — Farrell has just read those words; the chapter close answers the journal |
 
 ## Accidental bleed — ALL RESOLVED (v0.7)
+
+Late finds (final critic), also resolved: Ch 8 dream's "coat bright against the
+brown" (Morrow's signature construction, pre-reading) → "her whiteness wrong
+against the brown"; "white on white" reserved to Ch 11 (17's pre-reading instance
+→ "lost in the white"); Farrell's pre-reading "stood in the snow and waited" →
+"stood motionless" (waiting-motif is Morrow's until the journal is read).
 
 | Phrase | Morrow (owner) | Farrell (was) | Resolution |
 |---|---|---|---|

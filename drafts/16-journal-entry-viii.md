@@ -2,7 +2,7 @@
 
 *September the Third, Eighteen Fifty-Eight*
 
-The summer has passed. The grass has begun to turn, the green fading to brown, the land preparing for the winter that will come. The herd is moving again, drifting south in the long slow patterns of their kind.
+The summer has passed. I have written of what was done in it, and I will not write of it again. The grass has begun to turn, the green fading to brown, the land preparing for the winter that will come. The herd is moving again, drifting south in the long slow patterns of their kind.
 
 She is with them. She is always with them.
 

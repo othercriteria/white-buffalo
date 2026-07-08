@@ -28,7 +28,7 @@ And so will I.
 
 *September the Twenty-Ninth*
 
-The homesteaders are still here.
+The settlers are still here.
 
 I saw them again today, working in the field beside their sod house. The man was cutting hay—late in the season for it, but perhaps they had no choice. The woman was gathering something from a garden plot near the door, moving between the rows with a basket over her arm.
 
@@ -64,13 +64,13 @@ I have become simpler. Stripped of everything not needed.
 
 *November the Fifth*
 
-I watched the homesteaders again today. Closer this time—perhaps a quarter mile from their house, hidden in a stand of cottonwoods on the ridge above them.
+I watched the settlers again today. Closer this time—perhaps a quarter mile from their house, hidden in a stand of cottonwoods on the ridge above them.
 
 The man was mending harness by the door. The woman came out to him with something steaming in a cup, and she stood beside him while he drank it, her hand on his shoulder, neither of them speaking. They moved around each other with the ease of people who have long since stopped needing words.
 
 I felt nothing. Not envy, not regret. I watched them as I would watch birds or deer, creatures going about their business. They are not part of the world I inhabit now.
 
-The herd moved on, and I moved with it. The homesteaders stayed where they were, in their little house, with their little life.
+The herd moved on, and I moved with it. The settlers stayed where they were, in their little house, with their little life.
 
 I do not wish them ill. I do not wish them anything.
 
@@ -104,7 +104,7 @@ The snow has begun to fall, and the herd has settled into its winter patterns, m
 
 I have found a place to shelter—a hollow in the bluffs where the wind cannot reach, where I can build small fires and survive the worst of the cold. It is not far from where the herd has gathered. I can watch them from here, can see her white form moving among the brown, can keep the vigil I have kept and will keep for however long it takes.
 
-The homesteaders will be in their sod house now, huddled around their stove, waiting out the winter as I wait out the winter. I wonder if they think of the spring, of the planting and building they will do when the snow melts. I wonder if they dream of the future, of children and harvests and years stretching out before them.
+The settlers will be in their sod house now, huddled around their stove, waiting out the winter as I wait out the winter. I wonder if they think of the spring, of the planting and building they will do when the snow melts. I wonder if they dream of the future, of children and harvests and years stretching out before them.
 
 I do not dream anymore. I do not think of the future beyond the moment when she and I will face each other for the last time.
 

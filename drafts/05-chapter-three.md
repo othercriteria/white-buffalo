@@ -94,7 +94,7 @@ I found a livery stable where I could board my horse, then found a hotel where I
 
 That evening I went out to see what could be learned.
 
-The saloons were full of men who knew the territory, or claimed to. I bought drinks and listened and occasionally asked questions. Yes, there were homesteaders on the Niobrara. Not many—the country was hard and the Indians were a problem—but some. No, no one knew the Hardins specifically. There were a lot of homesteaders, and they did not come to town often, and the territory was large.
+The saloons were full of men who knew the territory, or claimed to. I bought drinks and listened and occasionally asked questions. Yes, there were settlers on the Niobrara. Not many—the country was hard and the Indians were a problem—but some. No, no one knew the Hardins specifically. There were a lot of settlers, and they did not come to town often, and the territory was large.
 
 I asked about the route. Up the Platte, they said, following the emigrant trail toward Fort Kearny. Then north, into the sand hills, into the emptiness. It would be hard going in winter. A man could die out there, alone, if he was not careful.
 

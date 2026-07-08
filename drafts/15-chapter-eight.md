@@ -20,7 +20,7 @@ Then I started seeing the men.
 
 They were soldiers, most of them. Men in blue coats, men I had served with, men I had watched die in the streets of Monterrey and on the slopes of Chapultepec. They stood at the edges of my vision, watching me, their faces pale and still. When I turned to look at them directly, they were gone.
 
-I knew they were not real. I knew my mind was producing them, feeding on the memories I had tried to bury, bringing them back now that the whiskey was no longer there to keep them down. But knowing did not make them go away.
+I knew they were not real. I knew they came out of me, out of the memories I had tried to bury, now that the whiskey was no longer there to keep them down. But knowing did not make them go away.
 
 They followed me as I followed the trail. They watched me as I made camp at night. They stood in circles around my fire, their dead eyes reflecting the flames, and they did not speak and they did not move and they did not leave.
 
@@ -66,11 +66,11 @@ I woke before dawn to find that I could not move. My body was rigid, frozen in t
 
 Then the shaking started.
 
-It was not like the tremors I had felt before. This was something else—a full-body convulsion that seized me and would not let go, that rattled my teeth and wrenched my spine and left me gasping for air like a fish thrown up on the shore. It lasted for what felt like hours, though it was probably only minutes, and when it finally stopped I was lying in the snow outside my blankets, my face wet with sweat and tears.
+It was not like the tremors I had felt before. This was something else—a full-body convulsion that seized me and would not let go, that rattled my teeth and wrenched my spine and left me gasping for air like a fish thrown up on the shore. It went on and on, and when it finally stopped I was lying in the snow outside my blankets, my face wet with sweat and tears.
 
 I lay there for a long time, too weak to move, watching the sky lighten above me. The clouds were thin and gray, letting through a pale light that hurt my eyes. The wind had died.
 
-I thought about dying. I thought about how easy it would be to simply stay where I was, to let the cold take me, to slip away into the white and never be found. It would be a clean death, better than I deserved.
+I thought about dying. I thought about how easy it would be to simply stay where I was, to let the cold take me, to slip away and never be found. It would be a clean death, better than I deserved.
 
 But I did not die. Something in me would not allow it—the same stubbornness that had carried me through Mexico and the drinking years.
 
@@ -88,7 +88,7 @@ I dismounted and knelt beside the tracks, my hands shaking as I brushed the snow
 
 He was close. A day ahead of me, maybe less.
 
-I stood up and looked north, into the white. I could see nothing—no movement, no sign of life, just the endless roll of snow-covered hills stretching to the horizon. But I knew he was out there. I could feel it.
+I stood up and looked north. I could see nothing—no movement, no sign of life, just the endless roll of snow-covered hills stretching to the horizon. But I knew he was out there. I could feel it.
 
 I mounted up and followed the tracks.
 
@@ -102,7 +102,7 @@ I dismounted and led him for a while, breaking trail with my own body, but I was
 
 I tried to hunt. I saw a rabbit—just a flash of white against the snow, but I knew what it was—and I dismounted and loaded my rifle and stood there with the gun raised, waiting for it to move again.
 
-My hands would not stop shaking. The barrel wavered, describing circles in the air, and even when I braced it against a tree I could not hold it steady. The rabbit moved, and I fired, and the shot went wide by a foot or more, and the rabbit vanished into the white as if it had never been.
+My hands would not stop shaking. The barrel wavered, describing circles in the air, and even when I braced it against a tree I could not hold it steady. The rabbit moved, and I fired, and the shot went wide by a foot or more, and the rabbit vanished as if it had never been.
 
 I stood there for a long time, looking at the place where it had been, the smell of powder sharp in the cold air. I had perhaps two days of food left. The man I was following might have none.
 
@@ -142,7 +142,7 @@ I was in Mexico, in a village I recognized—a place we had passed through durin
 
 At the end of the street there was a white buffalo.
 
-She stood in the middle of the road, enormous, impossible, her coat bright against the brown of the buildings around her. She watched me with eyes that were not the eyes of an animal—dark and deep.
+She stood in the middle of the road, enormous, impossible, her whiteness wrong against the brown of the buildings around her. She watched me with eyes that were not the eyes of an animal—dark and deep.
 
 "I'm looking for a man," I said. "A man who follows you."
 

@@ -16,10 +16,14 @@ Maintenance: update when drafts change. A fact without a citation doesn't belong
 
 ## Josiah Morrow
 
-**Person.** Born Virginia 1824 (18:17); youngest of four (18:17); left Virginia at
-thirty-two (12:47); "thirty-three, or perhaps thirty-four. I have lost track"
-(Oct 1857, 12:49); "thirty-four years feeling nothing" (18:53). Corporal then
-sergeant, Monterrey and Buena Vista — Taylor's campaign (06:29–31, 18:21–23).
+**Person.** Born Virginia 1824 (18:17); youngest of four (18:17); left Virginia
+young for the river trade, at Vicksburg when the war came, joined the volunteers
+1846 — Mississippi Rifles, Davis's regiment (18:19, v0.7: was regular-army 1845,
+historically impossible for Buena Vista); after the war went back to Virginia and
+worked his father's land (04:43); left Virginia again at thirty-two (12:47);
+"thirty-three, or perhaps thirty-four. I have lost track" (Oct 1857, 12:49);
+"thirty-four years feeling nothing" (18:53). Corporal then sergeant, Monterrey
+and Buena Vista — on the plateau with the Rifles (06:29–31, 18:21–31).
 Witness descriptions (no self-description exists): "thin as a rail, beard down to
 his chest" (05:117); "Thin as a rail, beard down past his chest" (07:179); "Tall.
 Thin. Beard like a bird's nest" (09:95); eyes — "nothing in his eyes. Nothing at
@@ -56,10 +60,12 @@ Nineteenth, Eighteen Fifty-Six (19:27, matching 02:3). [gap] dimensions/page cou
 required careful thought" (17:91); watches from rises/ridges at 100 yards–half a
 mile (04:57, 10:15, 12:71).
 
-**Corpse (Ch 11).** Face-down, arms spread, half-buried in a drift formed around
-him; snow churned for yards, streaked dark with blood (20:5). Face peaceful, eyes
-open to the gray sky (20:11); chest crushed, ribs staved in, coat torn, shirt
-shredded and dark with frozen blood; "trampled, gored, broken" (20:13).
+**Corpse (Ch 11).** On his back, arms flung wide, half-buried in drifted snow
+(20:5, v0.7 — was face-down; a day-frozen face had to be legible); ground churned
+and trampled, streaked dark (20:5). Farrell brushes snow from the face (20:9);
+face peaceful, eyes open to the gray sky (20:11); chest crushed, ribs staved in,
+coat torn, shirt shredded and dark with frozen blood; "trampled, gored, broken"
+(20:13).
 
 ## Henry Farrell
 

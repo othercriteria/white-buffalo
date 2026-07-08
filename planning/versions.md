@@ -4,6 +4,33 @@ Brief record of meaningful manuscript states. For navigation, use git tags.
 
 ---
 
+## v0.7 - Style Pass (2026-07-08)
+
+- Full-book tic reduction against the Opus 4.5 profile (notes/opus-4-5-critique.md):
+  ~150 edits across all 20 files, each Part cold-read by a fresh-context critic
+  and adjudicated (three critic rounds; findings/rejections logged in commits)
+- Structural: Ch 5/6 double narration of the creek journey resolved (Ch 6 owns
+  the discovery); Ch 10 opens with a bridge accounting for the lost day between
+  the sunrise sighting and the camp; forge/kiln two-men thesis reduced to
+  outline spec (Ch 9 recognition compressed, Ch 10 keeps only the difference)
+- Historical: Morrow now a Vicksburg volunteer of 1846 (Mississippi Rifles at
+  Monterrey and Buena Vista — was an impossible 1845 regular); Fort Kearny
+  unstockaded; Lee to Texas cavalry; "homesteaders" → "settlers" (post-1862
+  word); "bedroll," "Just saying," "You law?" and ~20 other period breaks fixed
+- Voice: all cross-narrator bleed resolved per notes/borrowed-language.md;
+  sanctioned post-reading echoes only ("ship through water," "her nature
+  demanded," "at peace," "was waiting")
+- Ending: hedging machinery removed from the climax (rifle decision now
+  declarative); "Peace." folded flat; ancestor-ghosts cut; final line untouched,
+  "nothing left to follow" now the chapter's only "nothing left"
+- Continuity catches during the pass: JE IX felt-nothing vs the quoted killing
+  entry; Morrow's Chapultepec slip; packet location; Ch 2 morning Mississippi
+
+~29.7k words (from ~32.6k at v0.6). The prose now reads as chosen rather than
+generated; the additive pass (expansion-hooks) remains future work.
+
+---
+
 ## v0.6 - Continuity Complete (2026-07-08)
 
 - Full physical/spatial audit: visual bible (notes/visual-bible.md) and geo-ledger

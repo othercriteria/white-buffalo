@@ -64,7 +64,7 @@ Perhaps she is becoming what she always was, and I am only now seeing it clearly
 
 *August the Second*
 
-The homesteaders are still there. I passed near enough to see their progress yesterday, keeping to the ridges where I would not be seen. They have built a sod house—small, crude, but solid enough to survive a winter if they know what they are doing. They have plowed a field and planted something. They have dug a well.
+The settlers are still there. I passed near enough to see their progress yesterday, keeping to the ridges where I would not be seen. They have built a sod house—small, crude, but solid enough to survive a winter if they know what they are doing. They have plowed a field and planted something. They have dug a well.
 
 The woman was outside when I watched, hanging clothes on a line strung between two posts. She was young, younger than I had expected. Her hair was dark, and the wind kept catching it and blowing it across her face, and she kept pushing it back with a gesture that looked habitual, practiced.
 
@@ -74,7 +74,7 @@ I did not feel anything, watching them. I expected to. But there was nothing. Th
 
 The herd is moving north again, following the grass. She is with them, and I am with her.
 
-The homesteaders will stay or go. It does not concern me.
+The settlers will stay or go. It does not concern me.
 
 ---
 

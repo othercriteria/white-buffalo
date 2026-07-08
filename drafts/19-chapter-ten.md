@@ -1,8 +1,10 @@
 # Chapter Ten
 
+I lost them within the hour. The valley folded into a maze of draws, and the ground took my sightline away, and by the time I had worked through to open country the light was failing and there was nothing ahead of me but snow. I camped where I stopped. In the morning I found their trail again and followed it along the rim of the valley through the whole of the short day.
+
 I found the camp at dusk.
 
-It was a simple thing—a hollow in the lee of a low hill, where a cutbank offered shelter from the wind. A fire pit sat at the entrance, cold, the ashes scattered by the wind. There were no animals, no supplies, no signs that anyone had lived here except a bedroll laid out in the hollow and the tracks that led away toward the north.
+It was a simple thing—a hollow in the lee of a low hill, where a cutbank offered shelter from the wind. A fire pit sat at the entrance, cold, the ashes scattered by the wind. There were no animals, no supplies, no signs that anyone had lived here except a bed of blankets laid out in the hollow and the tracks that led away toward the north.
 
 The man I had been following was gone. The tracks told me that much—a single set of footprints, fresh enough that the wind had not yet filled them in, leading out of the camp and down into the valley below. He had left this morning, perhaps, or late last night. He was not far.
 
@@ -12,13 +14,13 @@ I dismounted and tied my horse to a stunted pine at the edge of the camp. My han
 
 "Wait here," I told them.
 
-I walked to the hollow and knelt at its edge.
+I walked to it and knelt at the edge.
 
 ---
 
-The hollow was perhaps six feet deep, carved by water or wind into the side of the hill. A bedroll lay at the back, the blankets neatly arranged, waiting for someone who would not return. A few possessions were scattered about—a knife, a tin cup, a flint and steel, a stub of candle, a pencil worn down short, a bundle of clothes so worn they barely deserved the name.
+The hollow was perhaps six feet deep, carved by water or wind into the side of the hill. His blankets lay at the back, neatly arranged, waiting for someone who would not return. A few possessions were scattered about—a knife, a tin cup, a flint and steel, a stub of candle, a pencil worn down short, a bundle of clothes so worn they barely deserved the name.
 
-And on the bedroll, sitting as if left to be found, a leather-bound book.
+And on the blankets, sitting as if left to be found, a leather-bound book.
 
 I picked it up. It was heavier than it looked, the pages thick and dense with writing. The cover was stained—dirt, and something darker that might have been blood—but the binding was intact. Someone had taken care of this book. Someone had written in it, day after day, for what looked like years.
 
@@ -30,7 +32,7 @@ I sat down on the cold ground and began to read.
 
 ---
 
-I read until the light failed completely, and then I built a fire at the mouth of the hollow and read by its light. I read through the night, turning page after page, watching a man's life unfold in careful, formal handwriting.
+I read until the light failed completely, and then I built a fire at its mouth and read by the flames. I read through the night, turning page after page, watching a man's life unfold in careful, formal handwriting.
 
 His name was Josiah Morrow. He was from Virginia. He had served in the Mexican War, at Monterrey as I had, under officers whose names I recognized. He had come back from the war broken in a way I understood, and he had spent years looking for something to make him whole again.
 
@@ -52,13 +54,11 @@ The fire burned low as I read the final entries. He had grown calm as the end ap
 
 *She can take this hollow thing I have become and unmake it,* he had written. *She can give my death a meaning that my life never had.*
 
-I set the journal down and looked into the fire. The flames danced and flickered, casting shadows on the snow. The soldiers stood around me in a circle, watching, waiting. Catherine Hardin was among them now, her pale face turned toward me, her eyes asking questions I could not answer.
+I set the journal down and looked into the fire. The flames danced and flickered, casting shadows on the snow. The soldiers stood around me in a circle, watching, waiting. Catherine Hardin stood with them, her pale face turned toward me, her eyes asking questions I could not answer.
 
 I had come all this way to find a killer. I had found something else instead.
 
-I had found a man who was not so different from me. He had made worse choices—choices I could not forgive—but the clay was the same.
-
-The difference was that he had found something to die for. And I had not.
+He had made worse choices than mine—choices I could not forgive. But he had found something to die for. And I had not.
 
 ---
 
@@ -68,7 +68,7 @@ I could turn back. The journal was evidence, proof of what had happened to the H
 
 But the man who killed his daughter was not dead. Not yet.
 
-The tracks leading from the camp were still fresh enough to follow. The valley below, where I had seen him yesterday, was perhaps a mile away. If I moved now, in the gray light before sunrise, I might find him. I might see, at last, the thing he had been seeking.
+The tracks leading from the camp were still fresh enough to follow. The valley below was perhaps a mile away. If I moved now, in the gray light before sunrise, I might find him. I might see, at last, the thing he had been seeking.
 
 I did not know what I expected to find. But I gathered my things and saddled my horse and rode down into the valley, the journal in my saddlebag, the dead men following behind.
 

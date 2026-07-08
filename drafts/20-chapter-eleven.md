@@ -2,13 +2,13 @@
 
 I found him where the valley opened into a wide meadow, lying in the snow beneath a sky the color of steel.
 
-He was face-down, his arms spread wide, his body half-buried in the drift that had formed around him. The snow was disturbed for yards in every direction—churned up, trampled, painted with streaks of dark that I knew, even from a distance, was blood.
+He lay on his back, his arms flung wide, half-buried in the snow that had drifted against him. The ground around him still held the marks of it—churned, trampled, streaked with dark that I knew, even from a distance, for blood.
 
-I dismounted and walked toward him. My legs did not want to work properly. The shaking had spread from my hands to my whole body, a constant tremor that made every step uncertain. The soldiers walked beside me, their blue coats bright against the white, their faces turned toward the man on the ground.
+I dismounted and walked toward him. My legs did not want to work properly. The shaking had spread from my hands to my whole body, a constant tremor that made every step uncertain. The soldiers walked beside me, their blue coats vivid against the white, their faces turned toward the man on the ground.
 
-I knelt beside him and rolled him over.
+I knelt beside him and brushed the snow from his face.
 
-His face was peaceful. That was the first thing I noticed—the absolute stillness of his features, the absence of pain or fear or anything else. His eyes were open, staring up at the gray sky, and there was something in them that might have been satisfaction. He had gotten what he wanted. The end he had sought for so long had finally come.
+His face was peaceful. That was the first thing I noticed—the absolute stillness of his features, the absence of pain or fear or anything else. His eyes were open, staring up at the gray sky. He had gotten what he wanted.
 
 The rest of him was not so peaceful. His chest was crushed, the ribs staved in, the shape of his body wrong in ways that spoke of massive force. His coat was torn, his shirt beneath it shredded and dark with frozen blood. He had been trampled, gored, broken—killed by something with the weight and power to destroy a man completely.
 
@@ -28,7 +28,7 @@ I had my rifle. I could have raised it, sighted on her, put a bullet through her
 
 I did not raise the rifle.
 
-I do not know why. Perhaps I was too tired, or too sick. Or perhaps I understood that she was not my enemy. She had done what her nature demanded.
+She was not my enemy. She had done what her nature demanded.
 
 I sat back on my heels and looked at her. She looked back at me. For the first time in longer than I could remember, I was at peace.
 
@@ -38,9 +38,7 @@ The visions came again, but they were different now.
 
 The soldiers were still there, standing in their silent circle, but they no longer seemed threatening. They were just men—dead men, men I had known, men I had fought beside and watched die. They had followed me all this way, and now they stood witness.
 
-Catherine Hardin was there too. She stood beside the body of the man who had killed her, her face calm, her hands folded in front of her. She did not look at me. She was looking at the white buffalo, her expression one of wonder rather than fear.
-
-And there were others now. People I did not recognize—a man and a woman, older, dressed in the clothes of an earlier time.
+Catherine Hardin was there too. She stood beside the body of the man who had killed her, her face calm, her hands folded in front of her. She did not look at me. She was watching the white buffalo, and there was no fear in her.
 
 I sat in the snow among the dead and the living and the things that were neither, and I watched the white buffalo watching me.
 
@@ -60,9 +58,9 @@ I watched her go. Her white coat moved through the snow like a ship through wate
 
 She was halfway across the meadow when I saw the others.
 
-They came from the north, three or four of them, appearing on the ridge like figures out of a dream. Men on horseback, dressed in furs and leather, their faces painted or simply weathered to the color of old copper. They sat their horses and watched as the white buffalo approached, and their expressions were impossible to read.
+They came from the north, three or four of them, on the ridge. Men on horseback, dressed in furs and leather, dark against the snow. They sat their horses and watched as the white buffalo approached.
 
-Lakota, I thought. Or another vision—another gift from the fever, in a day full of impossible things.
+Lakota, I thought. Or another vision—another gift from the fever.
 
 One of them looked toward me. The one in front—the leader, perhaps. His eyes found me across the meadow, a figure kneeling in the snow beside a body, blood on the ground. He looked at me for a long moment. Then he turned away.
 

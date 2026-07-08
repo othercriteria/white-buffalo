@@ -4,7 +4,7 @@
 
 The herd has turned south again, following the grass into the valleys where the creeks run full from the spring thaw. She is with them, as always, her white coat bright against the green of the early summer meadows. She is magnificent now—grown beyond her years, a thousand pounds of muscle and bone.
 
-And she has led me back to the homesteaders.
+And she has led me back to the settlers.
 
 ---
 
@@ -12,7 +12,7 @@ And she has led me back to the homesteaders.
 
 I have been watching them for a week.
 
-They are still here, working their little patch of land, living their little lives. The man is out early every morning, tending to the animals, working the fields, repairing the endless small damages that the land inflicts on anything built upon it. The woman is never far from the house, cooking and cleaning and doing whatever it is that women do to keep a home running.
+They are still here, working their little patch of land, living their little lives. The man is out early every morning, tending to the animals, working the fields, repairing the endless small damages that the land inflicts on anything built upon it. The woman is never far from the house, cooking and washing and carrying.
 
 They have survived their first winter. That is more than some.
 
@@ -32,7 +32,7 @@ She leads them now—I have noticed this over the past months. The older cows st
 
 And she has led them to within a mile of the homestead.
 
-I do not think she knows what she has done. She is following the grass, the water, the instincts that have guided her kind for longer than men have walked this land. But I am aware. I see the homesteaders' sod house from the ridge where I sit, see the smoke from their chimney, see the man working in his field.
+I do not think she knows what she has done. She is following the grass, the water, the instincts that have guided her kind for longer than men have walked this land. But I am aware. I see the settlers' sod house from the ridge where I sit, see the smoke from their chimney, see the man working in his field.
 
 They will notice the herd soon, if they have not already. A hundred buffalo grazing in the next valley is not something that can be overlooked.
 
@@ -44,7 +44,7 @@ And when they notice the herd, they may notice her.
 
 I have been thinking about what to do.
 
-The homesteaders are not a threat. I must be clear about this in my own mind. They are two people—a man and a woman—living alone on the edge of the wilderness. They have no weapons that I have seen beyond what any homesteader would keep for protection. They have no interest in buffalo, sacred or otherwise. They are simply here, living their lives, posing no danger to anyone.
+The settlers are not a threat. I must be clear about this in my own mind. They are two people—a man and a woman—living alone on the edge of the wilderness. They have no weapons that I have seen beyond what any settler would keep for protection. They have no interest in buffalo, sacred or otherwise. They are simply here, living their lives, posing no danger to anyone.
 
 But they are in the way.
 
@@ -64,11 +64,11 @@ I have made my decision.
 
 I have wrestled with it for weeks. I have tried to find another way. I have failed.
 
-The homesteaders must be removed.
+The settlers must be removed.
 
 I do not write this with pleasure. I do not write it with anger or malice or any of the feelings that might make such a decision comprehensible. I write it as a plain statement of fact, a conclusion that follows from what I have already accepted.
 
-She is sacred. She is more important than I am, more important than the homesteaders. She is the only chance I will ever have to make something clean out of the wreckage of my life.
+She is sacred. She is more important than I am, more important than the settlers. She is the only chance I will ever have to make something clean out of the wreckage of my life.
 
 I will not let anyone take that from me.
 

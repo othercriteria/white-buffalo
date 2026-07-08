@@ -1,8 +1,6 @@
 # Chapter Nine
 
-The world had become unreliable.
-
-I no longer knew which things were real and which were not. The snow was real—I could feel it beneath my horse's hooves, could see it stretching away in all directions. The cold was real—a constant presence that never let me forget where I was. But the other things, the things I saw and heard and felt at the edges of my perception, I could not be sure about.
+I no longer knew which things were real and which were not. The snow was real—I could feel it beneath my horse's hooves, could see it stretching away in all directions. The cold was real—a constant presence that never let me forget where I was. But the other things, the things I saw and heard at the edge of sight and hearing, I could not be sure about.
 
 The soldiers were still with me. They had been with me for days now, walking alongside my horse, standing watch while I slept, saying nothing. I had stopped trying to make them go away. They were as much a part of this journey as the snow and the cold.
 
@@ -16,7 +14,7 @@ She was walking ahead of me, her dark hair blowing in the wind, her Eastern dres
 
 "I'm sorry," I told her. "I came too late. There was nothing I could do."
 
-She did not answer. She never answered.
+She did not answer. She only walked.
 
 After a while she faded into the white, and I was alone again—alone with the soldiers and the wind and the endless trail of tracks stretching north.
 
@@ -28,11 +26,11 @@ I would be riding, my mind as empty as the country around me, and suddenly I wou
 
 I remembered things I had not thought about in years. The face of a man I had killed in the fighting for the Bishop's Palace—young, younger than I was, his eyes wide with surprise as my bayonet went into his chest. The sound a woman made when she found her husband's body in the street, a sound that was not quite screaming and not quite sobbing and not quite anything I had words for. The smell of the hospital tents, where men lay in rows and died by the dozens and the surgeons worked until they could not stand.
 
-I had buried all of this. I had used whiskey and time and the simple practice of not thinking to put it somewhere I did not have to see it. But now the walls I had built were crumbling, and the memories came flooding through, and there was nothing I could do to stop them.
+I had buried all of this. I had used whiskey and time and the simple practice of not thinking to keep it where I did not have to see it. Now it came back, and there was nothing I could do to stop it.
 
 ---
 
-On the third day, I understood something.
+Somewhere on that trail, I understood something.
 
 It came to me as I sat by my fire, shaking, watching the soldiers watch me. I did not admire the man I was following. I did not sympathize with him. What he had done to the Hardins was monstrous, whatever his reasons.
 
@@ -44,7 +42,7 @@ I had tried to fill the emptiness—whiskey, work, the small distractions of a l
 
 The trail led north, always north.
 
-The tracks were clearer now, fresher—he was slowing down, stopping more often, perhaps waiting for something. The weather had been clear for days, and the snow showed every mark. Buffalo tracks, deep and regular. Human tracks, lighter but just as steady. Two creatures moving together across the empty land.
+The tracks were clearer now, fresher—and they had changed. The stride that had never varied now stopped and started. He was waiting for something. The weather had been clear for days, and the snow showed every mark. Buffalo tracks, deep and regular. Human tracks, lighter but just as steady. Two creatures moving together across the empty land.
 
 The last of my food had gone two days back, a heel of hardtack chewed in the saddle. I was not hungry. The want of drink had crowded out every smaller want.
 
@@ -78,11 +76,11 @@ The sun rose on a landscape I did not recognize.
 
 The hills had given way to something flatter, more open—a wide valley stretching between ridges that seemed too far away to matter. The snow was deep here, untouched by wind, a blank white page on which only two stories were written: the tracks of the buffalo, and the tracks of the man who followed her.
 
-I could see them both now. Far ahead, perhaps a mile, a dark shape moved against the white—the man. The buffalo I could not find at first. She was white on white, and I found her only when she moved.
+I could see them both now. Far ahead, perhaps a mile, a dark shape moved against the white—the man. The buffalo I could not find at first. She was lost in the white, and I found her only when she moved.
 
 I stopped my horse and watched. The distance was too great to make out details, but I could see the way he moved—slow, deliberate, as if every step required careful thought. He was watching her, I knew. Waiting for something.
 
-I did not call out to him. I did not spur my horse forward. I simply watched, as he watched, as the white buffalo stood in the snow and waited.
+I did not call out to him. I did not spur my horse forward. I simply watched, as he watched, as the white buffalo stood motionless in the snow.
 
 The soldiers had gathered around me, more of them than before. Catherine Hardin was among them now.
 
