@@ -117,8 +117,19 @@ training/output/validate/checkpoint-grid.png.
   diffusers conversion (convert_lora.py --target other); the diffusers
   file loads in generate.py's pipeline via peft
   (load_lora_weights + set_adapters weight 1.3). Verified end to end.
-- Epoch 16 (final) shows no overcooking vs ep12 at these multipliers;
-  using final.
+- **Checkpoint split (round-2 grid, multiplier 1.3 + descriptors, proper
+  baselines — training/output/validate2/checkpoint-grid-m13.png):**
+  identity ramps monotonically ep4→final; the trigger stops rendering as
+  plate text by final; ep12 keeps the richest scene detail while final
+  mildly simplifies the world. PRODUCTION: **final @1.3 for portraits,
+  ep12 @1.3 for narrative scene plates.** Both in imagegen/loras/.
+- Baseline control: descriptors alone ("tall thin bearded man") give a
+  groomed Victorian gentleman + the trigger as caption text — the LoRA
+  supplies the specific man, not the words.
+- **The negative prompt is load-bearing for the register**: "photograph,
+  color" steers toward the antique-print cream ground and "border"
+  suppresses plate furniture. Omitting it at high multiplier bleaches
+  the page (interaction confirmed by probes m20_withneg / m13_noneg).
 
 ## Training notes
 
