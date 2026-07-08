@@ -15,6 +15,11 @@
 # graves, scrubbed stain, broken chair), no Morrow death event (traces only:
 # churned snow, the corpse as found, blood on her chest/forelegs), no ending
 # resolution, no Lakota interiority. Each entry notes its DNI posture.
+#
+# PLATE POLICY (2026-07-08, planning/image-gen.md): journal entries may show
+# Morrow (LoRA'd); Farrell chapters contribute evidence/places only; FARRELL
+# IS NEVER DEPICTED — compose from behind his eyes where his position
+# matters. Entries conflicting with this are marked shelved-by-policy.
 
 [cover]
 prompt = "A mature white buffalo cow standing alone in deep snow, coat white with a silver sheen, massive shoulders and great humped back, taller than any cow of a distant dark herd, dark liquid eyes, breath steaming in severe cold, vast winter prairie under a gray sky, 1850s Nebraska Territory"
@@ -31,6 +36,8 @@ underdetermined = []
 dni = "clean"
 
 [broken-oar]
+# SHELVED-BY-POLICY: Farrell at the table is the scene. Recompose option:
+# Aldridge alone waiting, hat on the table (01:57) — viable if Ch 1 wants a plate.
 prompt = "Interior of a low-ceilinged frontier tavern, pipe smoke, a single window with November light, weathered men at tables; a lean man of medium height with a face weathered past his years and pale eyes sits opposite a prosperous older gentleman, papers and a small packet between them, 1850s upstate New York"
 aspect = "landscape"
 citations = ["01:3-5 (low ceiling, pipe smoke, single window, town's edge)", "01:69 (medium height, lean, weathered past his years)", "01:75 (pale eyes)", "03:3 (the packet)"]
@@ -38,6 +45,8 @@ underdetermined = ["Farrell's hair/beard color, coat color (bible gaps)", "Aldri
 dni = "clean"
 
 [blizzard]
+# SHELVED-BY-POLICY: the rider is Farrell. Recompose options: from behind his
+# eyes (the horse's crusted mane against the white wall) or shelve.
 prompt = "A rider leading a bay gelding through a whiteout blizzard, visibility under twenty feet, snow crusting the horse's mane, the man's beard frozen solid, flat Platte river country erased by driving snow, 1850s Nebraska Territory"
 aspect = "landscape"
 citations = ["07:13-19 (blizzard day 9, visibility <20 ft)", "07:19-33 (horse shivering, snow-crusted mane)", "07:21 (beard freezes solid)", "03:111 (sturdy bay gelding)"]
@@ -102,21 +111,24 @@ underdetermined = ["all gear/horse detail (bible gap — deliberate thinness; ke
 dni = "distance enforced: no faces, no interiority"
 
 [reading-night]
-prompt = "A small camp at night in a snow hollow beneath a cutbank, a stunted pine at its edge with a horse tied to it, a fire at the entrance, a man sitting close to the flame reading a leather-bound journal by firelight, severe cold, stars or overcast above"
+# SHELVED-BY-POLICY: the scene needs the reader at the fire. The rhyme role
+# passes to journal-found (writing/found). Outside-the-camp recomposition
+# rejected as too clever. Three generated candidates remain in output/plates.
+prompt = "a snow hollow carved beneath a cutbank in the lee of a low hill at night, a stunted pine standing at its edge with a horse tied to it, a fire burning at the hollow mouth; seated close inside the firelight, a lean hollow-cheeked man in a broad-brimmed hat and heavy dark coat, a short rough beard, reading a leather-bound journal, severe cold, deep darkness beyond the fire"
 aspect = "portrait"
-citations = ["19:5-21 (hollow in the lee of a low hill, cutbank windbreak, fire pit at entrance, stunted pine, bedroll, journal)", "19:11 (horse tied to the pine)"]
-underdetermined = []
+citations = ["19:5-7 (hollow in the lee of a low hill, cutbank windbreak, fire pit at entrance)", "19:11 (stunted pine, horse tied to it)", "19:23-31 (the leather-bound journal, reading by the fire)", "07:85 (hat), 03:43 (heavy coat)", "farrell-reference.md (post-homestead = s702 axis: hollowed, harder)"]
+underdetermined = ["Farrell's colors (reference choices)"]
 dni = "clean"
 
 [journal-found]
-prompt = "An empty snow hollow camp at first light, a bed of blankets neatly arranged at the back, a leather-bound journal sitting on the blankets as if left to be found, a knife, a tin cup, a candle stub and a short pencil beside it, a cold fire pit at the entrance, a single line of footprints leading away down toward a valley, no people"
-aspect = "landscape"
+prompt = "an empty snow hollow carved beneath a cutbank at first light, a bed of blankets neatly arranged at the back, a leather-bound journal sitting on the blankets as if left to be found, a knife, a tin cup, a candle stub and a short pencil beside it, a cold fire pit at the hollow mouth, a single line of footprints leading away down toward a valley, no people"
+aspect = "portrait"  # matches morrow-hollow for the shared-seed rhyme (writing/found)
 citations = ["19:5-7 (hollow, cutbank, cold fire pit, no supplies)", "19:21-23 (blankets neatly arranged; knife, tin cup, candle stub, pencil worn short; leather-bound journal 'as if left to be found')", "19:9 (single set of footprints leading out and down)"]
 underdetermined = ["journal dimensions (bible gap)"]
 dni = "clean — the book's central object as pure evidence; added after full read 2026-07-08"
 
 [finale-fifty-yards]
-prompt = "A white buffalo standing motionless at fifty yards facing a ragged man on foot in a snow-covered valley meadow at first light, her breath steaming, dried blood crusted dark on her chest and forelegs, sky the color of steel with first hints of gold, a saddled bay horse waiting behind the man, ridges to the north"
+prompt = "A white buffalo standing motionless at fifty yards facing the viewer across a snow-covered valley meadow at first light, her breath steaming, dried blood crusted dark on her chest and forelegs, sky the color of steel with first hints of gold, ridges beyond her to the north, the herd bunched dark at the far end of the valley"
 aspect = "landscape"
 citations = ["20:21 (fifty yards; blood dried and frozen on chest and forelegs)", "20:23 (breath steaming, motionless)", "20:3-55 (steel sky, hints of gold)", "20:75 (horse behind, breath in slow clouds)", "19:71 (valley meadow, ridges north)"]
 underdetermined = []

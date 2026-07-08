@@ -55,6 +55,21 @@ training hyperparameters are still settling; budget iteration.
 - Watch: Z-Image-Edit, if ever released — instruction-based editing would
   help character-consistent scene variants without a stack change.
 
+## Plate policy (DK + model aligned, 2026-07-08)
+
+**Journal entries may show Morrow (LoRA'd); Farrell chapters contribute
+evidence and places only; Farrell himself is never depicted.** Farrell is
+the seer, not the seen — the plates show what witness shows: Morrow's
+world as the journal describes it, the evidence as Farrell finds it.
+Rationale: a generic Farrell would contrast distractingly off Morrow's
+LoRA-locked specificity; omission is cheaper and truer than a second
+LoRA. The coherence engine keeps full-text coverage via figureless
+evidence plates. Where a Farrell-chapter scene demands his position,
+compose from BEHIND his eyes (e.g., the finale: the buffalo faces the
+viewer). If he's ever wanted (frontispiece pair), the breeding+training
+machinery is proven (~an afternoon; before/after states per
+farrell-reference.md anchors s701/s702 as caption tokens).
+
 ## Rules
 
 1. **Prompt-extraction discipline.** Every visual claim in a prompt must trace
