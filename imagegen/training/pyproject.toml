@@ -10,6 +10,9 @@ dependencies = [
 [tool.uv]
 find-links = ["https://download.pytorch.org/whl/cu124"]
 environments = ["sys_platform == 'linux'"]
+# The nix profile python has no dev headers; triton's runtime JIT needs
+# Python.h. uv-managed pythons (python-build-standalone) bundle them.
+python-preference = "only-managed"
 
 [tool.uv.sources]
 musubi-tuner = { path = "musubi-tuner", editable = true }
