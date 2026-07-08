@@ -8,15 +8,14 @@ time. Free-prompt mode (--prompt) exists for smoke tests and probes only.
 """
 
 import argparse
-import tomllib
 from pathlib import Path
 
+import tomllib
 import torch
 from diffusers import ZImagePipeline
 
-# Known-working revision carried over from ../z-image. The Jan 2026 Base
-# checkpoint may live at a newer revision of this repo; reconcile before
-# LoRA training (planning/image-gen.md, "Model decision").
+# This pinned revision == hub main as of 2026-01-28, i.e. the Z-Image (Base)
+# release state (verified 2026-07-08). Turbo is a separate repo/cache.
 MODEL = "Tongyi-MAI/Z-Image"
 REVISION = "04cc4abb7c5069926f75c9bfde9ef43d49423021"
 

@@ -45,6 +45,9 @@ first-class (docs/zimage.md), though community reports (issue #908) say Base
 training hyperparameters are still settling; budget iteration.
 
 - Inference: Turbo for fast drafts, Base (28–50 steps, CFG 3–5) for finals.
+- Revision reconciled 2026-07-08: the pinned `04cc4abb` in generate.py equals
+  hub main (lastModified 2026-01-28 = Base release); the cached 20 GB
+  snapshot in /fastcache IS the Base checkpoint. Both repos cached locally.
 - Fallback if Z-Image LoRA fidelity disappoints: FLUX.2 klein 4B base
   (Jan 2026, Apache-2.0, ~13 GB bf16, LoRA-trainable on a 4090 in ~1 h).
   Ruled out: Qwen-Image-2.0 (API-only), Ideogram 4.0 (non-commercial
