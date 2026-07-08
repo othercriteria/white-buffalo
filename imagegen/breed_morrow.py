@@ -25,7 +25,7 @@ IDENTITY = (
     "eyes with a level far-off gaze, alive and quiet, full head of long lank "
     "dark hair grayed at the temples and parted in the center, a very long "
     "tangled dark beard reaching well down past his chest, shapeless dark "
-    "wool coat so worn it barely deserves the name, bareheaded"
+    "wool coat so worn it barely deserves the name, worn boots, bareheaded"
 )
 
 STYLE = (
@@ -144,6 +144,44 @@ VARIANTS = [
         "portrait, summer prairie and a high sky behind him, 1857",
         "portrait",
         603,
+    ),
+    # Top-up round (2026-07-08): boots now in the identity block; re-tries
+    # for the barefoot/staging failures of round 1
+    (
+        "full-fire-b",
+        "crouched on his heels by a small fire in a snow hollow, a tin cup in his hands, worn boots on his feet, full figure, 1858",
+        "portrait",
+        411,
+    ),
+    (
+        "full-back",
+        "walking away from the viewer across snowy prairie, his back to us, following a buffalo herd far ahead in the distance, full figure seen from behind, 1858",
+        "portrait",
+        412,
+    ),
+    (
+        "full-summer-b",
+        "standing in tall summer prairie grass, his beard down past his chest, clothes hanging loose, worn boots, full figure, 1857",
+        "portrait",
+        611,
+    ),
+    (
+        "bust-summer-b",
+        "portrait of the same lean weathered man, summer prairie behind him, 1857",
+        "portrait",
+        612,
+    ),
+    (
+        "full-following",
+        "a lean ragged figure walking a hundred yards behind a buffalo herd, steady unhurried stride, seen from the side at middle distance, winter prairie, 1858",
+        "landscape",
+        511,
+    ),
+    (
+        "bust-threequarter-b",
+        "three-quarter view portrait looking off to the left, winter prairie, 1858",
+        "portrait",
+        311,
     ),
 ]
 

@@ -66,6 +66,29 @@ erect, the movements deliberate. In prompts: "quiet unhurried bearing,"
 "level far-off gaze," never "wild-eyed" — and reject candidates whose
 gaze does the Monster Manual work the text refuses.
 
+## Breed round 1 curation (2026-07-08)
+
+Identity held across all 18 — the block is working. Failures are kit/
+staging drift, not face drift.
+
+KEEP (12): bust-anchor s121, bust-anchor-b s125, bust-anchor-c s126,
+bust-threequarter s301, bust-profile s302, bust-firelight s303,
+bust-blanket-hood s304 (the winter blanket-hood look works), full-anchor
+s211, full-anchor-b s215, full-writing s402 (also a plate candidate),
+full-blanket-wrapped s405, full-walking s401 (staging off-canon — herd
+beside not ahead — but identity and kit right; LoRA learns appearance,
+not staging).
+
+DROP (6): full-fire s403 and full-behind s404 (barefoot — boots were
+missing from the identity block, now added), full-summer s601 and
+full-autumn s602 (beard inflates to waist-length; s602 also barefoot),
+bust-summer s603 (age drift, corner signature), distant-ridge s501
+(composition fail — gave a foreground bust; note: distant plates don't
+need the identity block or LoRA at all).
+
+Top-up round queued for the six failures (seeds 311, 411-412, 511,
+611-612). Target: ~16-18 curated before training.
+
 ## Training notes
 
 - Register: train on engraving-style refs so identity and the book's
