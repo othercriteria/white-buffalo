@@ -195,7 +195,25 @@ survived ONE winter (JE VII, 14:17: "They have survived their first
 winter"); killed early August 1858 (JE VII ends Aug 3; trader saw Morrow
 pass ~mid-August; "since last summer," 09:63).
 
-### OPEN — the letters-timing seam (needs DK adjudication)
+### RESOLVED (2026-07-08, DK: option b + partial c) — the letters-timing seam
+
+Fix applied: last letter re-dated March 14 → May 20, 1858, content
+season-corrected ("The garden is in... and the creek is running high" —
+sand-hills creeks do run high into late spring). Aldridge carries the
+marginal cadence shift in his own voice ("This past year they came a
+little slower, but they came," 01:93) — per DK, the Hardins' troubles
+slow the letters at the margins, no regime shift; the cross-hatched
+drafts in the letter box (11:95) already embody the sitting-longer.
+Farrell's two inferences retied to the trader's testimony (09:117 "the
+same summer the trader had last seen the Hardins. The letters had gone
+quiet in May."; 13:67 "the same summer the Hardins had dropped from
+sight"). Net: three independent clocks now converge honestly — letters
+quiet in May, post visits ending in early summer, Morrow passing in
+August — and Aldridge's inquiry runway (last arrival ~July, alarm by
+August, Farrell hired November) tightens to something more urgent than
+the old eight months. Original finding below for the record.
+
+### The original finding (now resolved)
 
 Farrell twice anchors his Morrow-is-the-killer inference to "around the
 time the letters stopped" (09:117, 13:67). But the letters stopped in

@@ -64,7 +64,7 @@ A buffalo had been here. A man had followed it.
 
 I stood at the edge of the trees and looked north, at the tracks disappearing into the white. I thought about the stories I had heard—from the trader, from the mail carrier, from the trapper at Fort Kearny. A man who followed a white buffalo across the plains. A man with nothing in his eyes. A man who looked at you like you were not there.
 
-The trader had seen him pass four months back. I had made that count already, lying in the trading-post stable, and it came out the same here: around the time the letters stopped.
+The trader had seen him pass four months back. I had made that count already, lying in the trading-post stable, and it came out the same here: the same summer the Hardins had dropped from sight.
 
 I did not know why he had killed them. I did not know if there was a reason that would make sense to anyone but him. But I knew, with a certainty I could not have defended, that the man who followed the white buffalo had come to this homestead and killed the people who lived here and buried them behind their barn. Then he had walked away, following his sacred animal north, leaving nothing behind but two graves and the tracks of his passage.
 
