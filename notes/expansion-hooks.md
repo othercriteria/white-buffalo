@@ -47,14 +47,47 @@ critique §6). Candidates, in rough order of value:
 
 ## From the v0.7 final critic (additive candidates)
 
-5. **The Lakota and the unclaimed buffalo.** The deepest thinness the cold read
-   found: a white buffalo cow of this significance going unclaimed, and her white
-   shadow unconfronted, for nearly three years — glossed only by Morrow's "they
-   are waiting to see what I will do" (16:49). Any additive work here must
-   respect the book's Lakota-at-distance rule (no interiority); the room is in
-   what Farrell and Morrow *see*: more sign of presence, an approach declined, a
-   marker left. Research first (reference/lakota-white-buffalo.md; likely more
-   needed). Highest-value, highest-care item on this list.
+5. **The Lakota and the unclaimed buffalo — RESEARCHED, beats designed
+   (2026-07-08; full findings in reference/lakota-white-buffalo.md §First Sioux
+   War).** The structural answer: the book runs entirely inside the post–Blue
+   Water dictated peace (massacre Sept 1855 in adjacent country; Fort Pierre
+   terms March 1856 — one month before Morrow sees the calf). Brulé distance
+   from a white-shadowed wakan animal in 1856–58 is historically correct
+   behavior, not thinness. The additive work is to let the reader feel that
+   without a word of explanation. Candidate beats, all strictly within what the
+   narrators can SEE (no interiority — the book's rule holds):
+
+   - **B1 — The offering (JE IV, Jan 1857, extending the existing sighting).**
+     After the three riders watch and go (08:49-53), Morrow, moving with the
+     herd days later, passes where they stood: a peeled stake, a strip of red
+     cloth tied to it, weathered. He notes it plainly and does not touch it.
+     Rough draft: *"Where they had sat their horses I later found a peeled
+     stake set upright in the ground, with a strip of red cloth tied at its
+     head. It had been there some while. The wind had worked the cloth to
+     threads. I did not touch it, and I did not camp near it."* — The buffalo
+     is attended, has been all along; both men's accounts simply couldn't read
+     it. Retroactively deepens the ending: the riders were never absent.
+   - **B2 — The band that keeps wide (JE VI or VIII, one sentence).** Morrow
+     sees, at horizon distance, a village moving — travois, dogs, families —
+     bending its line of march to keep clear of him. E.g.: *"They passed a
+     half-day to the west of me, and it seemed to me their line bent wider as
+     they came abreast, the way a river bends around a snag."* — Post-Harney
+     avoidance made visible; Morrow reads it as being shunned, which suits him.
+   - **B3 — Sharpen the seed already in text (Ch 4, 07:97).** The sutler's
+     "Sioux been restless since Blue Water" could gain the trapper's or
+     Creighton's correction — the white man who knows better: *"Restless ain't
+     the word. Harney did his work on the Blue Water. They keep wide of us now,
+     and I don't fault them."* — One voice in the book allowed to say the true
+     thing sideways.
+   - **B4 — REJECTED: winter-count beat.** The Lakota record of her is real
+     background (see reference), but neither narrator can see it; it would be
+     authorial knowledge in costume. It stays out of the text and informs the
+     ending's meaning silently.
+
+   Sizing: B1 ~60 words, B2 ~35, B3 ~25. All three together shift the book's
+   Lakota presence from "mute validating chorus" (the v0.7 critic's phrase) to
+   an attested, reasoning offstage presence — still at distance, still never
+   explained. Recommend B1 + B3 at minimum; B2 if the entry welcomes it.
 6. **The sound of the death.** Both narrators miss the kill by design; the final
    critic felt the absence as absence. If anything is ever added it is one
    sensory trace in Ch 10's bridge morning (distant, unidentifiable), no more.

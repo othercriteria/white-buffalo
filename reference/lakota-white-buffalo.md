@@ -91,6 +91,62 @@ Research compiled for *White Buffalo* revision. The ending involves Lakota rider
 - Passed down through lineage for 19 generations
 - Original pipe from White Buffalo Calf Woman still exists
 
+## The First Sioux War and the Dictated Peace (researched 2026-07-08 — the gap's answer)
+
+**The timeline lock.** The novel runs April 1856 – January 1859. Blue Water Creek
+(Battle of Ash Hollow) was September 3, 1855: Harney's punitive expedition killed
+86 of Little Thunder's Brulé — women and children among them — north of the Platte
+in present Garden County, Nebraska, i.e., the country just southwest of the book's
+setting. Little Thunder, Spotted Tail, and Iron Shell tried to parley under a white
+flag; Harney refused. In March 1856 Harney summoned the leaders of the seven Lakota
+bands to Fort Pierre and dictated terms — "essentially, obedience and docility" —
+releasing his Blue Water prisoners in exchange. What followed was roughly ten years
+of restrained peace in which the Lakota "tried to ignore" the emigrants crossing
+their land.
+
+**What this means for the book:** Morrow first sees the calf seven months after the
+massacre and one month after the Fort Pierre council. The Brulé bands of this exact
+country spent 1856–58 keeping deliberate distance from white men — grieving,
+watched by the Army, under dictated terms, with their own leaders (Spotted Tail
+foremost, after his surrender and imprisonment) counseling restraint. A band
+observing a wakan animal shadowed by a solitary white man has, in this precise
+window, every historical reason to watch and wait rather than approach: approaching
+her means dealing with him, and dealing with any white man is what the peace
+forbids and prudence rejects. **The three-year distance is not thin; it is 1856.**
+The text already carries the seed — the Fort Kearny sutler's "Sioux been restless
+since Blue Water" (07:97) — the white man's obtuse reading of a people keeping wide.
+
+## Historical treatment of actual white buffalo
+
+- White hides were supreme ceremonial objects plains-wide. Catlin (1832) saw a
+  white buffalo robe raised on a pole in the Mandan village as an offering to the
+  Great Spirit — killed by Blackfeet, purchased by the Mandans for eight horses
+  and a quantity of goods. In the early 1800s "few Indians would part with white
+  or partly white buffalo robes."
+- So a living white cow was not automatically inviolate everywhere — some
+  traditions took the animal ceremonially for the consecrated hide. Treatment
+  varied by nation and by the animal (a cow vs. bull, calf vs. grown).
+- For the novel this means leaving her alive and attended is a CHOICE with weight,
+  not a default — which the Ptesáŋwiŋ tradition (the living calf as her sign, per
+  the departure story: black, red, yellow, white) and the post-Harney moment both
+  support. The ending — leading her away live toward the sacred places — sits
+  inside the reverence-for-the-living-sign tradition.
+- Offerings of cloth and goods to wakan things/places are attested practice;
+  visible, legible-at-distance acts of attendance are available to the narrators'
+  eyes without any interiority.
+
+## Winter counts
+
+Lakota winter counts (Lone Dog's, High Dog's, Iron Hawk's, etc.) named each year
+for its most notable event; buffalo-related events and ceremonies appear
+throughout (e.g., Iron Hawk 1824, the whitened buffalo-horn ceremony). A white
+buffalo cow in a band's country is exactly the class of event the counts recorded.
+Specific "white buffalo" year-entries are reported in the winter-count literature —
+VERIFY in Greene & Thornton, *The Year the Stars Fell*, before leaning on any
+specific count. Note: neither narrator could know this — it is background truth
+for the authors, not text. It means the Lakota's record of her predates and
+outlasts both men's accounts; the book's two documents are not the only documents.
+
 ## Application to the Novel
 
 **What the Lakota Would See:**
@@ -121,6 +177,12 @@ Research compiled for *White Buffalo* revision. The ending involves Lakota rider
 
 ## Sources
 
+- [Wikipedia: Battle of Ash Hollow](https://en.wikipedia.org/wiki/Battle_of_Ash_Hollow)
+- [Smithsonian: Recovering the History of a Little-Known Lakota Massacre](https://www.smithsonianmag.com/history/how-recovering-history-little-known-lakota-massacre-could-heal-generation-pain-180985226/)
+- [NPS: Harney Re-Examined, Part II](https://www.nps.gov/articles/000/harney-re-examined-part-ii-harney-s-treatment-of-native-americans.htm)
+- [All About Bison: White Buffalo — Myths and Realities (Catlin/Mandan robe)](https://allaboutbison.com/white-buffalo/)
+- [Wikipedia: Winter count](https://en.wikipedia.org/wiki/Winter_count)
+- [The First Scout: The High Dog Winter Count](http://thefirstscout.blogspot.com/2015/12/the-high-dog-winter-count.html)
 - [Wikipedia: White Buffalo Calf Woman](https://en.wikipedia.org/wiki/White_Buffalo_Calf_Woman)
 - [World History Encyclopedia: White Buffalo Calf Woman](https://www.worldhistory.org/article/2277/white-buffalo-calf-woman/)
 - [Akta Lakota Museum: Seven Sacred Rites](https://aktalakota.stjo.org/lakota-culture/seven-sacred-rites/)
