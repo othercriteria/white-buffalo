@@ -78,6 +78,14 @@ training hyperparameters are still settling; budget iteration.
 2. Session restart in `nix develop`; `uv sync`; smoke-test generation
 3. ~~Model decision~~ (done 2026-07-08: Z-Image, Base for training; see above)
 4. Prompt catalog v1 from visual bible (scenes + citations + DNI enforcement)
-5. Style A/B on 2-3 scenes → DK picks register
+5. ~~Style A/B~~ (done 2026-07-08: **engraving**, DK's pick from the 12-image
+   grid; register behaviors in imagegen/findings.md)
 6. Character reference sets from bible spec; LoRA training (Morrow first)
+   - Plate-gibberish ladder (DK, 2026-07-08): (1) negative prompt — in test;
+     (2) style-LoRA SFT on curated caption-free engraving plates — likely the
+     robust fix, can also target the register's narrative-calming pull via
+     curation; (3) cropping as the acknowledged fallback.
+   - SFT data options: self-distillation (train on our own cropped
+     generations — no sourcing needed) or public-domain 19th-c. plates
+     (Internet Archive, Old Book Illustrations) for compositional variety.
 7. Catalog run; coherence findings filed; curation to art/

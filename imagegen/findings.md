@@ -47,6 +47,23 @@ cinematic. Grid: output/style-ab-contact-sheet.png.
 - No text-driven (bible-level) contradictions surfaced this round — all
   mismatches trace to register priors, not to gaps in the visual bible.
 
+## Gibberish suppression (2026-07-08, rounds v2-v3)
+
+- v2 (negatives only: "text, letters, caption, ..."): 1/3 clean. Negatives
+  alone don't reliably beat the register prior.
+- v3 (also removed "book illustration" and "antique print" from the PREFIX,
+  added "the engraved image itself filling the entire frame edge to edge"):
+  4/4 free of captions. The furniture was invited by the positive tokens,
+  not under-suppressed by the negative. Lesson generalizes: debug the
+  positive prompt before stacking negatives.
+- Residue: occasional thin plate margins and a faint corner signature —
+  trivially croppable; acceptable. SFT rung not needed for gibberish.
+- Still open (register prior, SFT-curation targets if we train a style
+  LoRA): narrative calming (blizzard still comes back as brisk winter
+  riding, rider mounted despite "leading"), occasional invented staffage
+  (background riders), loose spatial staging (horse drifts into the
+  hollow; invented dugout door at s44).
+
 ### Implications for the pick
 
 A hybrid is available: one register for narrative chapters, wet-plate for

@@ -5,10 +5,11 @@
 # Note the book itself contains a daguerreotype (03:3) — the wet-plate
 # register is the only one that exists inside the story's world.
 
+# DECIDED 2026-07-08: engraving is the book's register (DK, style A/B round 1).
 [engraving]
-prefix = "1850s steel engraving, 19th century book illustration, fine crosshatching, monochrome ink on cream paper, detailed linework, antique print"
-negative = "color, photograph, modern, digital, painting, soft focus"
-note = "Period book-illustration register; matches how an 1859 edition would actually have been illustrated."
+prefix = "1850s steel engraving artwork, fine crosshatching, monochrome ink on cream paper, detailed linework, the engraved image itself filling the entire frame edge to edge"
+negative = "color, photograph, modern, digital, painting, soft focus, text, letters, words, caption, title, inscription, signature, plate number, border, frame, margin"
+note = "Period book-illustration register; matches how an 1859 edition would actually have been illustrated. Known behaviors (findings.md): invents plate furniture (hence the text/border negatives) and calms narrative scenes — violent-weather prompts need explicit force."
 
 [painterly]
 prefix = "19th century American landscape oil painting, luminist light, muted earth palette, visible brushwork, museum fine art"
