@@ -15,7 +15,8 @@ dependencies = [
     "safetensors==0.4.5",
     "pillow>=10.0",
     "sentencepiece>=0.2",
-    "bitsandbytes",
+    # bitsandbytes deliberately absent: training-only, and its eager triton
+    # import breaks on NixOS (JIT gcc compile). Training env is separate.
     "einops==0.7.0",
     "toml==0.10.2",
     "tqdm",

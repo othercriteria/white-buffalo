@@ -1,0 +1,115 @@
+# White Buffalo — illustration prompt catalog v1
+#
+# Discipline (planning/image-gen.md): every visual claim below traces to
+# notes/visual-bible.md and through it to a cited line in drafts/. Citations
+# are file:line into drafts/. Anything the text leaves open is listed under
+# `underdetermined` — the model may fill it, but no prompt may assert it.
+# Character consistency for underdetermined features comes later via LoRA
+# reference sets (DK approves the reference before training locks a face).
+#
+# Prompts are STYLE-FREE scene content. Style register (engraving / painterly /
+# photographic) is applied as a prefix at generation time; candidates live in
+# styles.toml pending the A/B decision (plan step 5).
+#
+# Do-not-illustrate (visual-bible §DNI): no Hardin killings (traces only:
+# graves, scrubbed stain, broken chair), no Morrow death event (traces only:
+# churned snow, the corpse as found, blood on her chest/forelegs), no ending
+# resolution, no Lakota interiority. Each entry notes its DNI posture.
+
+[cover]
+prompt = "A mature white buffalo cow standing alone in deep snow, coat white with a silver sheen, massive shoulders and great humped back, taller than any cow of a distant dark herd, dark liquid eyes, breath steaming in severe cold, vast winter prairie under a gray sky, 1850s Nebraska Territory"
+aspect = "portrait"
+citations = ["16:17 (massive shoulders, humped back, taller than any cow)", "10:27 (silver sheen)", "12:17 (silver undertone, winter coat)", "04:61 (dark liquid buffalo eyes)", "12:111 (near-invisible against snow)", "20:23 (breath steaming)"]
+underdetermined = ["horn length/curve/color (bible gap)"]
+dni = "clean"
+
+[first-sighting]
+prompt = "A white buffalo calf, about six months old, trailing fifty yards behind a herd of some two hundred brown buffalo on spring prairie, coat white as snow and bone, not cream, sun breaking through shifting clouds, brown grass of April, seen from a distant rise"
+aspect = "landscape"
+citations = ["02:43 (six months, autumn calf)", "02:25 (trails by ~50 yards; sun through shifting clouds)", "02:27 (white as snow/bone, not pale, not cream)", "02:21 (~200 animals, cows center, bulls on edges)"]
+underdetermined = []
+dni = "clean"
+
+[broken-oar]
+prompt = "Interior of a low-ceilinged frontier tavern, pipe smoke, a single window with November light, weathered men at tables; a lean man of medium height with a face weathered past his years and pale eyes sits opposite a prosperous older gentleman, papers and a small packet between them, 1850s upstate New York"
+aspect = "landscape"
+citations = ["01:3-5 (low ceiling, pipe smoke, single window, town's edge)", "01:69 (medium height, lean, weathered past his years)", "01:75 (pale eyes)", "03:3 (the packet)"]
+underdetermined = ["Farrell's hair/beard color, coat color (bible gaps)", "Aldridge's appearance beyond 'prosperous'"]
+dni = "clean"
+
+[blizzard]
+prompt = "A rider leading a bay gelding through a whiteout blizzard, visibility under twenty feet, snow crusting the horse's mane, the man's beard frozen solid, flat Platte river country erased by driving snow, 1850s Nebraska Territory"
+aspect = "landscape"
+citations = ["07:13-19 (blizzard day 9, visibility <20 ft)", "07:19-33 (horse shivering, snow-crusted mane)", "07:21 (beard freezes solid)", "03:111 (sturdy bay gelding)"]
+underdetermined = ["coat/hat colors and cuts (bible gaps)"]
+dni = "clean"
+
+[fort-kearny]
+prompt = "Fort Kearny in early winter, wood-and-sod buildings scattered on an open parade ground like boxes dropped by a careless god, no stockade, snow on the ground, the flat gray Platte corridor beyond, a lone rider approaching, 1858"
+aspect = "landscape"
+citations = ["07:89-105 (wood-and-sod, parade ground, 'boxes dropped by a careless god', unstockaded, sutler's store)", "07:5 (flat wide gray corridor)"]
+underdetermined = []
+dni = "clean"
+
+[trading-post]
+prompt = "A low sod trading post with a sagging log-and-turf roof and a lean-to stable at the junction of two frozen creeks, deep snow, candlelight in one small window at dusk, broken hills and drifts beyond, 1850s Nebraska Territory"
+aspect = "landscape"
+citations = ["09:31-35 (junction of two frozen creeks, low sod house, sagging log-and-turf roof, lean-to stable, two candles)", "09:5-7 (broken ridges, drifts higher than a horse's head)"]
+underdetermined = []
+dni = "clean"
+
+[homestead]
+prompt = "A snow-buried sod house of cut-earth blocks in a small clearing where a creek bends around a low hill, one small window, cold stovepipe with no smoke, a lean-to barn behind, a well with wooden frame and pulley, a clothesline between two posts, willow-lined valley with pines on the north slopes, December, utterly still"
+aspect = "landscape"
+citations = ["11:53-79 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:3-7 (willow-lined valley, broken hills, pines on north slopes)", "10:75 (clothesline)", "11:9 (December, no smoke)"]
+underdetermined = []
+dni = "traces-only: exterior desolation; no interior violence evidence in this frame"
+
+[graves]
+prompt = "Two low grave mounds side by side under rock cairns in rough rectangles, unmarked, behind a lean-to barn, snow partially covering the stones, a sod homestead in the middle distance, gray winter light"
+aspect = "landscape"
+citations = ["11:111-113, 13:17-21 (two graves, side by side, rock cairns, rough rectangles, unmarked, behind the barn)"]
+underdetermined = []
+dni = "canonical trace of the killings — the permitted evidence, nothing more"
+
+[morrow-witnessed]
+prompt = "Far across winter prairie, a tall gaunt man on foot follows a buffalo herd at a hundred yards, thin as a rail, beard down past his chest, clothes hanging loose, walking with a steady unvarying pace, seen small and distant from horseback, gray sky"
+aspect = "landscape"
+citations = ["05:117, 07:179 (thin as a rail, beard down past his chest)", "07:117 (~100 yards behind the herd)", "04:13 (clothes hang loose)", "15:87 (pace steady, never varying)"]
+underdetermined = ["coat/hat/boots — never described (bible gap; keep him distant/small partly for this reason)"]
+dni = "clean"
+
+[morrow-hollow]
+prompt = "A gaunt bearded man wrapped in a blanket in a snow hollow in the lee of a bluff, out of the wind, a small fire, writing in a leather-bound journal with a pencil worn short, deep winter, night coming on, 1850s plains"
+aspect = "portrait"
+citations = ["08:37, 12:113 (hollow in the bluffs, small fires)", "06:21 (blanket, journal, pencil)", "19:19 (pencil worn short, bedroll)", "19:21-23 (leather-bound journal)"]
+underdetermined = ["his clothing specifics (bible gap)"]
+dni = "clean"
+
+[offering-stake]
+prompt = "A peeled wooden stake standing upright in snow-dusted prairie ground on a ridgeline, a strip of red cloth tied at its head weathered and worked to threads by the wind, facing a wide valley where a buffalo herd winters in the far distance, no people, hard winter light"
+aspect = "portrait"
+citations = ["08 (JE IV Jan 9 entry, v0.8: peeled stake, red cloth at its head, weathered to threads, standing since before the snow, facing the wintering valley)"]
+underdetermined = []
+dni = "clean — the object only; no maker shown (Lakota interiority stays off-page)"
+
+[village-passing]
+prompt = "A Lakota village on the move along a distant ridgeline two miles off, travois and dogs and riders strung out in a long line under an October sky, seen from far across open prairie, the line bending wide around the viewer's position, figures small with no faces legible"
+aspect = "landscape"
+citations = ["12:59 (travois, dogs, riders on a ridgeline two miles off; line bends wider as it comes abreast)"]
+underdetermined = ["all gear/horse detail (bible gap — deliberate thinness; keep the distance)"]
+dni = "distance enforced: no faces, no interiority"
+
+[reading-night]
+prompt = "A small camp at night in a snow hollow beneath a cutbank, a stunted pine at its edge with a horse tied to it, a fire at the entrance, a man sitting close to the flame reading a leather-bound journal by firelight, severe cold, stars or overcast above"
+aspect = "portrait"
+citations = ["19:5-21 (hollow in the lee of a low hill, cutbank windbreak, fire pit at entrance, stunted pine, bedroll, journal)", "19:11 (horse tied to the pine)"]
+underdetermined = []
+dni = "clean"
+
+[finale-fifty-yards]
+prompt = "A white buffalo standing motionless at fifty yards facing a ragged man on foot in a snow-covered valley meadow at first light, her breath steaming, dried blood crusted dark on her chest and forelegs, sky the color of steel with first hints of gold, a saddled bay horse waiting behind the man, ridges to the north"
+aspect = "landscape"
+citations = ["20:21 (fifty yards; blood dried and frozen on chest and forelegs)", "20:23 (breath steaming, motionless)", "20:3-55 (steel sky, hints of gold)", "20:75 (horse behind, breath in slow clouds)", "19:71 (valley meadow, ridges north)"]
+underdetermined = []
+dni = "trace posture: the blood is canon evidence; Morrow's body NOT in this frame; no resolution implied — she faces him, nothing more"

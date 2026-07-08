@@ -54,6 +54,8 @@
         ];
 
         shellHook = ''
+          # triton hardcodes /sbin/ldconfig to locate libcuda; short-circuit it
+          export TRITON_LIBCUDA_PATH=/run/opengl-driver/lib
           export HF_TOKEN=$(cat /etc/nixos/secrets/huggingface-token-2025-12-14 2>/dev/null || echo "")
           echo "White Buffalo environment ready."
           echo "GPU: $(nvidia-smi --query-gpu=name --format=csv,noheader 2>/dev/null || echo 'not detected')"

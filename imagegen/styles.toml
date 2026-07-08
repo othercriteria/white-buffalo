@@ -1,0 +1,26 @@
+# Candidate style registers for the A/B (planning/image-gen.md, step 5).
+# Applied as prefix + negative at generation time over the style-free
+# catalog.toml scenes. DK picks the register before any full catalog run.
+#
+# Note the book itself contains a daguerreotype (03:3) — the wet-plate
+# register is the only one that exists inside the story's world.
+
+[engraving]
+prefix = "1850s steel engraving, 19th century book illustration, fine crosshatching, monochrome ink on cream paper, detailed linework, antique print"
+negative = "color, photograph, modern, digital, painting, soft focus"
+note = "Period book-illustration register; matches how an 1859 edition would actually have been illustrated."
+
+[painterly]
+prefix = "19th century American landscape oil painting, luminist light, muted earth palette, visible brushwork, museum fine art"
+negative = "photograph, digital art, cartoon, illustration linework, oversaturated"
+note = "Hudson River School / luminist register; the plains rendered as the era's painters saw them."
+
+[wet-plate]
+prefix = "1850s wet plate collodion photograph, albumen print, shallow depth of field, long exposure stillness, silver tones, slight vignetting, period photography"
+negative = "color, modern photography, digital, sharp fast-motion capture, painting"
+note = "The register that exists inside the book (the daguerreotype, 03:3). Long-exposure stillness suits the book's restraint; motion scenes will fight it."
+
+[cinematic]
+prefix = "cinematic photograph, natural light, muted winter palette, film grain, 35mm, quiet composition"
+negative = "cartoon, anime, illustration, oversaturated, artificial, CGI"
+note = "Modern-eye control register; likely too contemporary for the book but useful as an A/B baseline."
