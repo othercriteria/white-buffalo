@@ -29,14 +29,18 @@ The v0.2 land-friction pass roughened the plains; the rail/urban half stayed
 frictionless (every train ran, every connection held — discovery-mode default,
 critique §6). Candidates, in rough order of value:
 
-1. **Rock Island bridge at the ferry crossing (05:19-23).** Farrell's horse-ferry
+1. **DONE (v0.8). Rock Island bridge at the ferry crossing (05:19-23).** Farrell's horse-ferry
    crosses beside the first rail bridge over the Mississippi — 18 months after the
    Effie Afton burned against it (May 1856; repaired Sept 1856; House Commerce
    Committee investigating 1858; river men vs. railroad men litigation national
    news). A ferryman muttering about the bridge while they cross under it: half a
    page, no invention needed, rhymes with the book (an old way of moving, staring
    at its replacement). Sources in planning/geo-ledger.md G4.
-2. **Newspaper on the cars (03:53 area or 05).** Bought at a depot stall or left
+2. **DONE (v0.8). Newspaper on the cars (03:53 area or 05).** Landed in Ch 2:
+   a left-behind paper, Davis unnamed ("a man I had watched lead his volunteers
+   into the streets of Monterrey" — both campaigns overlap at Monterrey ✓),
+   folded and put under the seat — enacting the stopped-reading that Ch 5
+   states. Original hook text below for the record. Bought at a depot stall or left
    on a seat; Kansas news; a name he served under, now a senator or
    superintendent. Already half-present at 05:47 (officer meditations) — a paper
    would give that passage a physical source.

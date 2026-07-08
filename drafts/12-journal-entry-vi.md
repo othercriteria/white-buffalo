@@ -4,7 +4,7 @@
 
 A year and a half.
 
-It has been a year and a half since I first saw her, white against the brown grass, moving apart from the herd. A year and a half since I understood what I must do, and what I must wait for. Eighteen months of walking and watching and surviving through a winter that tried its best to kill me.
+It was spring of eighteen fifty-six when I first saw her, white against the brown grass, moving apart from the herd—when I understood what I must do, and what I must wait for. Since then, two summers of walking and watching, and one winter that tried its best to kill me.
 
 She has changed in that time. So have I.
 

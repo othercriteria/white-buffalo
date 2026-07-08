@@ -4,6 +4,26 @@ Brief record of meaningful manuscript states. For navigation, use git tags.
 
 ---
 
+## v0.8 - First Additive Pass (2026-07-08)
+
+- The Lakota presence, grounded in research (reference/lakota-white-buffalo.md):
+  the book runs inside the post-Blue Water dictated peace, and the text now
+  carries it — the offering stake (JE IV, new Jan 9 entry), the village that
+  keeps wide (JE VI), Creighton's correction ("Harney did his work on the Blue
+  Water, and they keep wide of us now")
+- Winter-count link verified: White Cow Killer, documented Oglala count keeper —
+  killing a white cow was real, honored practice; the bands' choice to attend
+  her instead carries that weight (background, not text)
+- Transfer beats: the Rock Island bridge at the ferry crossing (the ferryman's
+  "She'll burn again, God willing"); the newspaper on the cars (Davis unnamed,
+  folded and put under the seat)
+- JE VI anniversary rework (season-counting replaces the unit-anaphora)
+
+~30.7k words. First additions since v0.2; every beat inside the narrators'-eyes
+rule and the tic discipline.
+
+---
+
 ## v0.7 - Style Pass (2026-07-08)
 
 - Full-book tic reduction against the Opus 4.5 profile (notes/opus-4-5-critique.md):

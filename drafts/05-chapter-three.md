@@ -24,6 +24,12 @@ The ferry was a flat-bottomed boat large enough for a dozen horses and twice as 
 
 There were others waiting to cross—a family in a wagon, a merchant with a string of pack mules, two men on horseback who had the look of brothers. We stood on the deck as the ferryman and his crew worked the ropes and the boat began its slow journey across.
 
+Upstream the railroad bridge stood black on its piers, the first ever thrown across the river. Its draw was open for a steamer coming down.
+
+"Burned once already," the ferryman said, to no one in particular. "Steamboat took a span out of her two years back. She'll burn again, God willing."
+
+No one answered him. The current worked against the hull, and the far shore came on slowly.
+
 The brothers were talking. I did not mean to listen, but sound carried on the water, and they were not trying to be quiet.
 
 "You hear about McCrea?" the older one said.

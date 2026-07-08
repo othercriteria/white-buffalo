@@ -52,6 +52,8 @@ The railroad had come to this part of the country seven years earlier. Towns tha
 
 I took the cars from Watertown to Buffalo, changing at Rome, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families relocating west. Children ran up and down the aisles while their mothers called after them. Men smoked cigars and talked business and politics. Women sat with their hands folded and their eyes on the passing scenery.
 
+Someone had left a newspaper on the seat across from me. I read it without meaning to. Kansas, mostly, and the Congress—a speech on the Southern question by a man I had watched lead his volunteers into the streets of Monterrey. I folded the paper and put it under the seat.
+
 I sat by the window and watched the land go by. It was familiar country at first—the rolling hills of western New York, the farms with their tidy fences, the small towns clustered around their stations. Then it flattened out as we approached the lake, and I could see the gray expanse of Erie stretching to the horizon.
 
 I thought about Mexico.

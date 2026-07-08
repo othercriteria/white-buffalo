@@ -348,6 +348,7 @@ Known open items (found during this audit, not yet fixed):
 - "They did not answer. They never answered." verbatim twice within Ch 8 (15:31, 15:139).
 - Ch 9/Ch 10 state the forge/kiln thesis twice (17:39-51, 19:59-61) — outline says
   neither should exist; at most one, stripped, might survive.
-- JE VI's "A year and a half" anaphora block (12:5-7, fixed from the false "one
-  year" in v0.6) is directionally correct but rhythmically awkward (per DK) —
-  rework the phrasing in the style pass without reintroducing the wrong number.
+- JE VI's "A year and a half" anaphora block — RESOLVED (v0.8): the unit-anaphora
+  replaced with season-counting ("It was spring of eighteen fifty-six... Since
+  then, two summers of walking and watching, and one winter that tried its best
+  to kill me."), which also seeds the entry's later calendar theme.
