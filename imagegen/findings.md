@@ -113,3 +113,23 @@ RESERVED for when a recurring location needs cross-plate consistency
 for single-plate geometry; prompt-ordering sufficed.
 
 Pick: s45 → art/morrow-hollow.png. s46 = variance confirmation.
+
+## Plate 2: journal-found (2026-07-08)
+
+Round 1 (full kit manifest in prompt): all three seeds strained — objects
+rendered as a floating still-life at postcard scale BESIDE a crater, not
+inside a hollow. DK's diagnosis: too many charges; scale coherence fails.
+
+**Rule (generalizes, joins prompt-order):** ~three compositional charges
+per frame (geometry, one subject, one trace). The text's full inventories
+stay in the text; the plate carries its one essential object. Kit manifest
+cut to journal-on-blankets + footprints → all three seeds coherent.
+
+Audit: s49 rejected FOR scale — a monumental grotto vs the text's
+"perhaps six feet deep" (19:5); the towering darkness announces grief
+(significance-smoothing, the register's version of a cadence line).
+s51 text-truest but domestic-plump bedding. s45: bedroll-true, modest
+scale, and the shared-seed rhyme with art/morrow-hollow.png measures
++0.668 vs +0.360/+0.434 for other seeds — the deliberate rhyme works
+when the paired scenes differ (writing/found). Pick: s45 →
+art/journal-found.png.

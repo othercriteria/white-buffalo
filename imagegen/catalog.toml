@@ -121,10 +121,13 @@ underdetermined = ["Farrell's colors (reference choices)"]
 dni = "clean"
 
 [journal-found]
-prompt = "an empty snow hollow carved beneath a cutbank at first light, a bed of blankets neatly arranged at the back, a leather-bound journal sitting on the blankets as if left to be found, a knife, a tin cup, a candle stub and a short pencil beside it, a cold fire pit at the hollow mouth, a single line of footprints leading away down toward a valley, no people"
+prompt = "the interior of an empty snow hollow beneath a cutbank, seen from its mouth at first light, a bed of blankets neatly arranged against the back wall, a single leather-bound journal lying on the blankets as if left to be found, a line of footprints leading away through the snow outside, no people"
 aspect = "portrait"  # matches morrow-hollow for the shared-seed rhyme (writing/found)
 citations = ["19:5-7 (hollow, cutbank, cold fire pit, no supplies)", "19:21-23 (blankets neatly arranged; knife, tin cup, candle stub, pencil worn short; leather-bound journal 'as if left to be found')", "19:9 (single set of footprints leading out and down)"]
 underdetermined = ["journal dimensions (bible gap)"]
+# Kit manifest (knife/cup/candle/pencil, 19:21) deliberately CUT from the
+# prompt: object-dense evidence scenes overload scale coherence (DK,
+# plates round 2). The journal carries the plate alone.
 dni = "clean — the book's central object as pure evidence; added after full read 2026-07-08"
 
 [finale-fifty-yards]
