@@ -86,8 +86,16 @@ bust-summer s603 (age drift, corner signature), distant-ridge s501
 (composition fail — gave a foreground bust; note: distant plates don't
 need the identity block or LoRA at all).
 
-Top-up round queued for the six failures (seeds 311, 411-412, 511,
-611-612). Target: ~16-18 curated before training.
+Top-up round (seeds 311, 411-412, 511, 611-612): KEEP s411 (fire, boots
+correct now), s311 (three-quarter full-length), s511 (following the herd
+— staging drift again, identity strong). DROP s412 ("back to us" still
+rendered a front view — the identity block's face tokens overpower view
+directives; back/distance shots must be prompted WITHOUT the identity
+block, which is fine since they never need the LoRA), s611 (summer beard
+inflation again), s612 (proportion failure).
+
+**FINAL TRAINING SET (15), pending DK sign-off:** s121, s125, s126, s301,
+s302, s303, s304, s211, s215, s401, s402, s405, s411, s511, s311.
 
 ## Training notes
 
