@@ -34,6 +34,10 @@
           cudaPackages.cudatoolkit
           cudaPackages.cudnn
 
+          # C compiler for triton's JIT (needed by the LoRA training env:
+          # bitsandbytes/musubi-tuner; inference doesn't touch it)
+          gcc
+
           # OpenCV runtime deps
           libGL
           libGLU
