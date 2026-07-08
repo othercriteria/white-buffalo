@@ -200,8 +200,14 @@ simply wandered off" (13:51).
 ## The Lakota
 
 Jan 1857: three, on horseback, on a ridge half a mile off; identified "by their
-dress and the way they sat their horses" (08:49). Autumn 1858: "small groups of
-riders on the ridges, watching from a distance, never approaching" (16:49).
+dress and the way they sat their horses" (08:49). **The offering stake (added
+v0.8, JE IV Jan 9 entry):** on that ridge, a peeled stake standing in the ground,
+a strip of red cloth tied at its head, weathered to threads, standing since
+before the snow, facing the herd's wintering valley; Morrow does not touch it or
+camp near it. Oct 1857 (JE VI): a village passing two miles west, travois and
+dogs and riders on a ridgeline, its line bending wider as it comes abreast of
+Morrow. Autumn 1858: "small groups of riders on the ridges, watching from a
+distance, never approaching" (16:49).
 Ch 11: "three or four," appearing on the northern ridge; "dressed in furs and
 leather, their faces painted or simply weathered to the color of old copper";
 expressions unreadable; a leader in front who looks at Farrell, then turns away;

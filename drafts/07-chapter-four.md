@@ -154,7 +154,7 @@ He was a mail carrier, he said, running dispatches between Fort Kearny and Fort 
 
 "North. The Niobrara country."
 
-He whistled softly. "That's hard territory. Sioux don't like strangers up there. What's your business?"
+He whistled softly. "That's hard territory. The fort people will tell you the Sioux are restless up there. Restless ain't the word. Harney did his work on the Blue Water, and they keep wide of us now. I don't fault them. What's your business?"
 
 "Looking for someone."
 

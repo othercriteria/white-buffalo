@@ -56,6 +56,14 @@ I wonder if they know what the white buffalo means. They must. It is their story
 
 ---
 
+*January the Ninth*
+
+The herd crossed the ridge where the riders had watched. Where they had sat their horses I found a peeled stake standing in the ground, a strip of red cloth tied at its head. It had been there since before the snow, by the way it stood, and the wind had worked the cloth to threads. It faced the valley where the herd winters.
+
+I did not touch it. I did not camp near it.
+
+---
+
 *January the Nineteenth*
 
 The cold is a living thing. It has a weight, a presence. It presses against you from all sides, squeezing the warmth out of your body, the life out of your limbs. At night, when the wind dies and the stars come out, you can hear it—a silence so deep it has a sound of its own, like the ringing in your ears after a cannon blast.

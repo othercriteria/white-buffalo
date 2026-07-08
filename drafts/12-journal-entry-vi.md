@@ -56,6 +56,8 @@ The herd is preparing for winter. I can see the signs—the restlessness, the mo
 
 I am learning to be more like them.
 
+A village passed to the west of me today, moving south with the season—travois and dogs and riders strung out along a ridgeline two miles off. Their line bent wider as it came abreast of me, the way a river bends around a snag, and by evening they were gone.
+
 The supplies I brought with me are nearly exhausted. My knife is dull, my clothes are worn, my body is thinner than it has ever been. But these things do not trouble me as they once would have. I have learned to eat what the land provides, to shelter where the wind is blocked, to move when movement is needed and rest when rest is possible.
 
 I have become simpler. Stripped of everything not needed.

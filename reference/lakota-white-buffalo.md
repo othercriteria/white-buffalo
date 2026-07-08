@@ -139,13 +139,27 @@ since Blue Water" (07:97) — the white man's obtuse reading of a people keeping
 
 Lakota winter counts (Lone Dog's, High Dog's, Iron Hawk's, etc.) named each year
 for its most notable event; buffalo-related events and ceremonies appear
-throughout (e.g., Iron Hawk 1824, the whitened buffalo-horn ceremony). A white
-buffalo cow in a band's country is exactly the class of event the counts recorded.
-Specific "white buffalo" year-entries are reported in the winter-count literature —
-VERIFY in Greene & Thornton, *The Year the Stars Fell*, before leaning on any
-specific count. Note: neither narrator could know this — it is background truth
-for the authors, not text. It means the Lakota's record of her predates and
-outlasts both men's accounts; the book's two documents are not the only documents.
+throughout (e.g., Iron Hawk 1824, the whitened buffalo-horn ceremony).
+
+**Verified (2026-07-08):** *White Cow Killer* was a real Oglala winter-count
+keeper — his count was collected by Corbusier and used in Mallery's Smithsonian
+comparative work ("White Cow Killer calls it..." runs through the BAE tables,
+e.g., his names for 1825-26 and 1828-29). A Lakota man named for killing a white
+buffalo cow, entrusted with his band's calendar: this verifies at once that white
+cows were killed by Lakota men, that the act was significant enough to confer a
+name, and that the white-buffalo and winter-count traditions intersect in a
+documented person. Also: Lone Dog's count names 1850-51 for a wondrous buffalo
+event ("buffalo cow was killed and an old woman found in her belly") — five years
+before this story; buffalo wonders were exactly winter-count material. For
+count-by-count detail, the full source is Greene & Thornton, *The Year the Stars
+Fell: Lakota Winter Counts at the Smithsonian* (2007).
+
+Note: neither narrator could know any of this — it is background truth for the
+authors, not text. It means the Lakota's record of her would predate and outlast
+both men's accounts; the book's two documents are not the only documents. (And
+White Cow Killer's existence sharpens the book's central tension: killing her was
+a real and honored practice — the choice to attend her instead, in the post-Harney
+years, carries that much more weight.)
 
 ## Application to the Novel
 
