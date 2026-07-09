@@ -221,3 +221,29 @@ walking profile, Hornaday posture) retained as a STUDY/REFERENCE for
 future buffalo plates — its stance and snow texture are the register's
 benchmark. s76/s77 rejected for an invented steam column near the herd
 (reads as campfire — an uncanonical presence in her wintering valley).
+
+## Plate 6: finale-fifty-yards + joint re-pick of the bookend pair (2026-07-09)
+
+Round 1 (4 seeds): three violations — the blood rendered RED (spot color:
+the announced red-thread we refused for the stake), Farrell summoned into
+frame by the vantage phrase "from a kneeling man's height" (name a thing,
+get the thing), and a fat sun disc vs canon's "invisible but present"
+(20:51 — the audit's first canonical-light catch). Round 2 fixed all
+three; the discriminator became blood PLACEMENT (canon: chest and
+forelegs, 20:21 — the mechanics of goring and trampling).
+
+Seed 57 (the rhyme seed) refused chest placement across three rolls: in
+three-quarter view the bison breast hides behind beard and foreleg mass,
+so stains land on the visible flank canvas. Frontal stance wouldn't take
+(the period-vantage negatives reinforce plate-classic side views).
+
+**Resolution: joint re-pick of the pair on seed 55.** finale-s55 lands
+the blood low-front correctly with rhyme +0.369 (≈ s57's +0.392);
+first-sighting-s55 (the aloneness alternate) re-audits as faithful — the
+view from Morrow's rise mid-pass, herd near below, calf hung back.
+Lesson: RHYME PAIRS ARE PICKED JOINTLY, never sequentially — locking one
+member first can strand the other on an unworkable seed.
+
+art/first-sighting.png := s55 (was s57); art/finale-fifty-yards.png :=
+s55. The book's frame closes on shared bones: the calf's latent skeleton
+carries the cow.
