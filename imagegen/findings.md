@@ -491,3 +491,24 @@ steps, ~1h40m). Validation grid (validate_village.sh, 14 images):
   out swapped in the grid; concept judgments unaffected).
 Registered in generate.py as "travois"; catalog village-passing set to
 travois@1.0. Production sweep seeds 130-135 rolling.
+
+## Village production sweep 1 (seeds 130-135): concept yes, physicality no
+
+DK's validation-grid diagnosis confirmed under production conditions —
+every seed renders a travois procession, none promotable. Defect
+taxonomy for continuation training:
+1. DETACHED POLES (worst, most common): poles as independent ground
+   rails, lashed to nothing (s132/s133 pick-up-sticks).
+2. Wrong attachment: chest/flank emergence instead of crossed-and-lashed
+   over withers/saddle (s130 foreground).
+3. Loads migrate to horseback (pack-saddle) instead of the pole rack.
+4. Near-field pull as predicted: fore/midground travois vs the text's
+   two-mile emptiness; s130/s131 carry good distant ridge-lines but
+   with crowded foregrounds.
+Plan (DK-directed): dataset v2 = +2 flagged photos (NARA Stump Horn is
+the textbook rigging profile) + ethnographic line diagrams (Wissler
+1910, Ewers BAE 159 — structure in the native register); captions name
+the mechanism ("two poles crossed and lashed over the saddle at the
+withers, butt ends dragging behind"); continuation from the final
+checkpoint via --network_weights, ~6 epochs, save every 2; try @0.8 in
+the next sweep against the near-field pull.
