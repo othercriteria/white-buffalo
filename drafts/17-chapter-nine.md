@@ -44,6 +44,8 @@ The trail led north, always north.
 
 The tracks were clearer now, fresher—and they had changed. The stride that had never varied now stopped and started. He was waiting for something. The weather had been clear for days, and the snow showed every mark. Buffalo tracks, deep and regular. Human tracks, lighter but just as steady. Two creatures moving together across the empty land.
 
+The tracks came down to a river I took to be the Niobrara, running low under old ice below a long bend. I dismounted and led the horse across, sounding the ice ahead of us with the butt of my rifle, the way I should have done at the creek weeks before. It held. On the far bank the tracks went on north, and I went on with them.
+
 The last of my food had gone two days back, a heel of hardtack chewed in the saddle. I was not hungry. The want of drink had crowded out every smaller want.
 
 I followed. I did not think anymore about why. The reasons had fallen away somewhere back along the trail, lost in the snow like everything else. What remained was motion, and the simple animal need to see this thing through.

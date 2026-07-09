@@ -46,11 +46,11 @@ On the second day after the storm, I came upon a wagon that had broken an axle.
 
 It was a heavy farm wagon, the kind emigrants used to haul their possessions west, and it had come to grief in a shallow draw where a creek crossed the trail. One rear wheel had dropped into a hole hidden by snow, and the axle had snapped under the weight. The wagon now sat at an angle, its contents spilling out onto the frozen ground. The mules stood unhitched nearby, heads down, rumps to the wind.
 
-The owner was a man named Gunderson—a Swede, by his accent—and he was standing beside the wreckage with the expression of a man who has just realized that his life has taken a turn he did not expect. His wife sat on a trunk nearby, wrapped in a blanket, her face pale. Two children, a boy and a girl of perhaps six and eight, were collecting scattered belongings from the snow.
+The owner was a man named Brandt—a German, by his accent—and he was standing beside the wreckage with the expression of a man who has just realized that his life has taken a turn he did not expect. His wife sat on a trunk nearby, wrapped in a blanket, her face pale. Two children, a boy and a girl of perhaps six and eight, were collecting scattered belongings from the snow.
 
 "Bad luck," I said.
 
-Gunderson looked up at me. His eyes were tired. "Ja. Bad luck. You have an axle? Trade maybe?"
+Brandt looked up at me. His eyes were tired. "Ja. Bad luck. You have an axle? Trade maybe?"
 
 "No."
 
@@ -70,7 +70,7 @@ I made the count in my head. Two days back, however long it took to find or make
 
 "You have family at the other end? Someone waiting?"
 
-Gunderson shook his head. "We were going to find land. Start new. There is supposed to be good land near the Elkhorn."
+Brandt shook his head. "We were going to find land. Start new. There is supposed to be good land along the Wood River."
 
 There probably was. There was good land everywhere out here, if you were willing to fight the weather and the Indians and your own ignorance to claim it. But good land did not help a man with a broken axle and two children and a wife who looked like she had not slept in days.
 

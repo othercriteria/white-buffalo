@@ -69,7 +69,7 @@ fall to the floor." (03:127) — a physical action allowed to carry the close.
 misses becomes "We were alike in that too" (15:107-109); snow becomes "a blank white
 page on which only two stories were written" (17:87); two ruined letters in three
 chapters (09:23, 11:97). Nothing in the book exists merely because it is true. The
-one near-exception (Gunderson's broken axle, 07:45-85) still resolves to a moral.
+one near-exception (Brandt's broken axle, 07:45-85) still resolves to a moral.
 
 *Prescription amended (2026-07-07, human direction): the flag is not significance
 itself but significance running smooth, tidy, and announced. Don't force inert
@@ -289,7 +289,7 @@ Functional list, not praise: these are the passages to protect while cutting tic
 - **Lean period dialogue** with distinct minor-character registers ("Ja. Bad luck.
   You have an axle? Trade maybe?").
 - **Restraint it achieves occasionally and should be held to**: Farrell riding off
-  without learning Gunderson's outcome; Catherine characterized entirely through
+  without learning Brandt's outcome; Catherine characterized entirely through
   inference from letters, childlessness noticed as an absence (03:11); Morrow's flat
   step-by-step account of deciding to kill (14:47-73) — the book's most chilling and
   least tic-ridden writing; "I am still waiting." (18:41) — an earned cadence line.

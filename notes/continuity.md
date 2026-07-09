@@ -319,18 +319,26 @@ three. The pattern should reward a re-reader, never announce itself.
 
 ### Log-only (no action)
 
-- JE VIII "valley north of the river" (16:77): if "the river" is the
-  Niobrara, Farrell crossed it unnarrated during the pursuit. The book's
-  geography is impressionistic by design; flag only if a map is ever
-  drawn.
+- RESOLVED (2026-07-09, DK): JE VIII "valley north of the river" (16:77)
+  implied an unnarrated Niobrara crossing. Ch 9 now carries a brief
+  procedural crossing in Farrell's register ("a river I took to be the
+  Niobrara" — hedged, keeping the geography impressionistic), placed in
+  the tracks section before the food runs out. He sounds the ice with
+  the rifle butt "the way I should have done at the creek weeks before"
+  — the Ch 5 near-drowning taught him something, quietly shown.
 - Witness-chain repetition-with-variation ("like a dog following its
   master" 03:119 → "like a dog that's lost its master" 09:87; two
   "thin as a rail" testimonies) reads as folklore forming in real time —
   thematized at 07:131 ("growing with each telling"). Deliberate-looking;
   keep.
-- Gunderson's "good land near the Elkhorn" (07:73) is ~150 mi east of
-  where he stands; DK left unruled — either his folly (unremarked) or a
-  future one-word swap.
+- RESOLVED (2026-07-09, DK): the wagon family's "good land near the
+  Elkhorn" (07:73) was ~150 mi east of where he stands — and DK vetoed
+  "Elkhorn" for its accidental Elkhorn Tavern / Pea Ridge rhyme.
+  Gunderson the Swede → Brandt, a German (the historically tight 1850s
+  Nebraska immigrant group; Grand Island's German colony dates 1857),
+  bound for "good land along the Wood River" — which parallels the
+  Platte just west of Kearny, so he is honestly on his road when Farrell
+  meets him. His "Ja" survives the nationality change.
 - Re-raised then withdrawn: JE VII window-sitting (14:83) — already the
   v0.6 batch-1 stillness-inference fix; settled.
 

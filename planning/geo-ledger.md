@@ -19,7 +19,7 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Mississippi crossing (Rock Island) | 41.51, -90.58 | Rail-era ferry crossing (05:19-23) |
 | Council Bluffs | 41.26, -95.85 | Real (05:89) |
 | Fort Kearny | 40.64, -99.01 | Real (07:89). Trail from CB ~190 mi |
-| Gunderson wagon | ~40.68, -98.65 | Second day after the storm, before the fort (07:45) |
+| Brandt wagon | ~40.68, -98.65 | Second day after the storm, before the fort (07:45) |
 | Creighton's camp | ~40.68, -99.85 | 3 days past the fort (07:145); mail route Kearny–Laramie |
 | Turn-north point | ~40.70, -99.95 | Ch 5 opening; leaves the Platte |
 | Frozen stranger | ~41.35, -100.05 | Day 4 north (09:15) |
@@ -45,7 +45,7 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Nov 24 | Council Bluffs | "Seventeen days out of Chicago" (05:89) — 300 mi at ~27/day ✓ |
 | Nov 27 | leaves CB | "Two more days" outfitting (05:127) + dawn start |
 | Dec 5 | Platte corridor | Blizzard, day 9 (07:13) |
-| Dec 7 | Gunderson | Second day after the storm (07:45) |
+| Dec 7 | Brandt | Second day after the storm (07:45) |
 | Dec 9 | Fort Kearny | "The thirteenth day" (07:89) — 190 mi at 15/day ✓; "early December" (07:3) ✓ |
 | Dec 12 | Creighton | Three days past the fort (07:145) |
 | Dec 13 | turn-north | Ch 5 opens |
