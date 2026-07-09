@@ -388,3 +388,14 @@ gate. → art/graves.png (landscape; in-text vignette per format doctrine).
   distances don't render). Re-roll with "separated from the herd by a
   long stretch of empty unbroken snow" + staff/spear/drover negatives
   (seeds 110-113).
+- morrow-witnessed round 2 (seeds 110-113): the gap-assertion language
+  worked — all four seeds detached the figure from the herd. s111
+  rejected (figure running), s113 rejected (herd toward viewer, figure
+  standing mid-column — a watcher, not a follower), s112 rejected on
+  vantage (best FIGURE of the set: chest-length beard, balding fringe,
+  reads as Morrow — but rendered large/close, violating rule #5 and the
+  distance rule). s110 PASSES: tiny bareheaded walking figure, empty
+  hands, open snow around him; gap reads ~30 yards, accepted — the
+  emptiness carries the trader's "dog that's lost its master" (09:87).
+  → art/morrow-witnessed.png. Batch4 closed; every batch scene except
+  village-passing (capability wall) is now in art/.
