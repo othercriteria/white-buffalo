@@ -155,3 +155,23 @@ negatives.
 Pick: s53 (cloth streaming in threads = the load-bearing detail; herd
 incidental; settled lean). s52 quieter but cloth reads as knotted wrap;
 s54 cloth oversized. → art/offering-stake.png
+
+## Plate 4: first-sighting (2026-07-09)
+
+Two failed rounds first: base-model "white buffalo calf" = white DAIRY
+calf (domestic morphology), herd drifts ox-ward, spring brown-grass
+scenes pull warm tint (winter plates held monochrome only because snow
+is achromatic), invented trees, "moving away" ignored.
+
+**Rule #4: anatomy can be prompted at species-and-age granularity.**
+The rescue block: positive morphology for BOTH herd ("shaggy dark humped
+shoulders, massive low-slung heads") and calf ("stocky, woolly-headed,
+first rise of a shoulder hump"); the whole domestic family negated
+("cattle, cows, oxen, dairy calf, livestock, farm animals"); "strictly
+monochrome ink" in the positive + "color, tinted, hand-colored" negated
+for any non-winter plate. Buffalo LoRA NOT forced — reserved for HER
+cross-plate identity at multiple ages (cover/finale will rule).
+
+Pick: s57 (receding column, calf trailing at the rear, real bison-calf
+morphology) → art/first-sighting.png. Seed 57 binds the finale rhyme
+sweep. s55 = strong alternate (aloneness inverted: calf far, herd near).

@@ -29,8 +29,12 @@ underdetermined = ["horn length/curve/color (bible gap)"]
 dni = "clean"
 
 [first-sighting]
-prompt = "A white buffalo calf, about six months old, trailing fifty yards behind a herd of some two hundred brown buffalo on spring prairie, coat white as snow and bone, not cream, sun breaking through shifting clouds, brown grass of April, seen from a distant rise"
-aspect = "landscape"
+# Rhyme partner: finale-fifty-yards (calf trailing the herd / cow facing the
+# viewer). Both landscape. When the finale generates, sweep ITS seeds against
+# this plate's seed and pick jointly (quality + correlation).
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, winter, snowy ground, cattle, cows, oxen, dairy calf, domestic livestock, farm animals, color, tinted, hand-colored"
+prompt = "strictly monochrome ink, seen from a low rise in bare rolling treeless sand hill country under a tall sky of shifting spring clouds, a herd of wild American bison walking away into the distance along a creek bottom, shaggy dark humped shoulders and massive low-slung heads, and far behind the herd, alone and apart with empty grass between, a single young bison calf, stocky and woolly-headed with the first rise of a shoulder hump, its coat white as snow against the brown April grass"
+aspect = "portrait"  # format doctrine: plates are portrait; rhyme bookend with finale
 citations = ["02:43 (six months, autumn calf)", "02:25 (trails by ~50 yards; sun through shifting clouds)", "02:27 (white as snow/bone, not pale, not cream)", "02:21 (~200 animals, cows center, bulls on edges)"]
 underdetermined = []
 dni = "clean"
