@@ -247,3 +247,23 @@ member first can strand the other on an unworkable seed.
 art/first-sighting.png := s55 (was s57); art/finale-fifty-yards.png :=
 s55. The book's frame closes on shared bones: the calf's latent skeleton
 carries the cow.
+
+## Bookend pair re-picked on s87 after DK's zoom catch (2026-07-09)
+
+DK caught a malformed calf and a three-legged bull in the promoted
+first-sighting s55 — figures small enough to pass contact-sheet review.
+**Process fix: mandatory 2x crop-zoom of all small figures before any
+promotion.** Guidance/steps jitter on the fixed seed could not rescue it
+(~30px calves are an anatomical lottery; a resolution floor, not a
+prompting problem).
+
+Joint sweep of 8 fresh seeds, both bookends screened together: 6/8
+first-sightings failed zoom (sheep-calves, lost whiteness, white ADULTS
+at wrong age — the model fights this subject constantly). s87 passed
+both gates on both scenes: a true bison calf trailing the column with a
+legible gap, and a finale where the frontal watching stance — which
+three rounds of prompting couldn't force on s57 — arrived free, with
+canonical chest/foreleg blood. Rhyme +0.492, the strongest measured
+pair. The zoom catch bought a better pair than the one it broke.
+
+art/first-sighting.png := s87; art/finale-fifty-yards.png := s87.
