@@ -108,3 +108,14 @@ farrell-reference.md anchors s701/s702 as caption tokens).
      generations — no sourcing needed) or public-domain 19th-c. plates
      (Internet Archive, Old Book Illustrations) for compositional variety.
 7. Catalog run; coherence findings filed; curation to art/
+
+## Format doctrine (DK, 2026-07-09)
+
+Book physicality: full-page plates are PORTRAIT (832x1216 ≈ a 6x9 page).
+Landscape compositions are not plates — they are candidate in-text
+vignettes (period practice: horizontal wood-engraved cuts embedded in
+letterpress), which maps onto the plate policy: journal-side scenes =
+full-page portrait plates; Farrell-side evidence/places = in-text
+landscape cuts set into his narration. One fold-out exception may exist;
+the candidate is village-passing (the panorama-shaped scene). Rhyme
+bookends (first-sighting/finale) recomposed portrait.
