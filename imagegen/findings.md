@@ -439,3 +439,28 @@ our known zombie failure — it was DK's ollama llama-server (different
 owner, 4 min old). The kill attempt failed on permissions, correctly.
 CHECK PROCESS OWNER AND CMD before killing anything holding VRAM; the
 sweep now queues behind a free-VRAM guard instead.
+
+## Rework rounds 2-3: the pair lands at s122 (2026-07-09)
+
+v2 (camp compressed, herd budget): vigil content landed — s122/s123/s124
+all massed the herd with a legible white cow — but the fire died (unlit
+stick piles; "burning almost flameless" had been cut to fund the herd).
+Rule reinforced: EVERY charge needs its state asserted — "a fire" buys
+sticks, not flame. v3 reinstated one clause ("burning before him, its
+low flame the one bright point in the hollow"), seeds 122-124:
+- s122 PASSES everything: white flame-star stick fire (the register's
+  only pure paper-white), best Morrow face of the rework (bareheaded,
+  blanket at shoulders), seepage-striped wall + ice forms at the lip
+  (both research details), massed herd with the white cow luminous and
+  slightly apart (08:39 nearly verbatim).
+- s123 DISQUALIFIED: letter-gibberish stamped mid-frame on the drift lip
+  (uncroppable) + marginal fire. s124: fire dead again.
+- Joint pick moved s123 -> s122; journal-found s122 then passed its full
+  gates (book on blankets, charred fire-pit patch beside the exiting
+  footprint line, single stunted pine, clean corners). Its landform is
+  the truest to 19:7 of all six seeds (hollow in a hillside lee, not a
+  crater).
+Pair correlation +0.562 (bookends +0.484; the old pair's +0.66 was
+inflated by twin cave-mouth compositions). PROMOTED:
+art/morrow-hollow.png + art/journal-found.png = the s122 pair.
+Occupied/abandoned axis: lit/unlit, him/his absence, night/dusk.

@@ -7,17 +7,18 @@ negatives, aspects, and LoRA specs from the production catalog/styles so
 the sweep tests exactly what generate.py would ship.
 """
 
+import tomllib
 from pathlib import Path
 
-import tomllib
 import torch
 from diffusers import ZImagePipeline
+
 from generate import ASPECTS, DEFAULT_LORA_WEIGHT, LORAS, MODEL, REVISION
 
 HERE = Path(__file__).parent
 OUT = HERE / "output" / "rework"
 SCENES = ["morrow-hollow", "journal-found"]
-SEEDS = [120, 121, 122, 123, 124, 125]
+SEEDS = [122, 123, 124]
 STYLE = "engraving"
 
 
