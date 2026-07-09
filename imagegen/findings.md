@@ -175,3 +175,22 @@ cross-plate identity at multiple ages (cover/finale will rule).
 Pick: s57 (receding column, calf trailing at the rear, real bison-calf
 morphology) → art/first-sighting.png. Seed 57 binds the finale rhyme
 sweep. s55 = strong alternate (aloneness inverted: calf far, herd near).
+
+## Plate 5: cover (2026-07-09)
+
+Round 1: 4/4 rendered a normal dark bison with a frosted hump — "wild
+American bison cow" led the prompt and the species token's brown prior
+beat the trailing whiteness clause. **Rule #1 generalizes to color: the
+defining attribute LEADS** ("a great pure white bison cow, white over
+her whole body..."). Round 2: 4/4 white, herd held dark — no
+contamination either direction.
+
+Morphology adjudication AGAINST further iteration: all seeds run
+bull-adjacent in horn mass and scale, and the text LICENSES it — horns
+"curved and thickened" (16:17), "no cow reaches her size in three
+summers," "biggest damn cow I ever saw" (07:179). She is a wrong-sized
+cow; almost-bull-but-cow is canon, not drift. Do not un-wrong her.
+
+Pick: s62 (whole-body white, breath steam, calm title sky, and her own
+deep track-line in the snow — unprompted, canon per 13:61) →
+art/cover.png.

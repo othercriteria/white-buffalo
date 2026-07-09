@@ -22,7 +22,10 @@
 # matters. Entries conflicting with this are marked shelved-by-policy.
 
 [cover]
-prompt = "A mature white buffalo cow standing alone in deep snow, coat white with a silver sheen, massive shoulders and great humped back, taller than any cow of a distant dark herd, dark liquid eyes, breath steaming in severe cold, vast winter prairie under a gray sky, 1850s Nebraska Territory"
+# The needle: cow-framed at bull scale (style A/B: everything drifts
+# bull-heavy). Sky left calm up top for eventual title space.
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored"
+prompt = "strictly monochrome ink, a great pure white bison cow, white over her whole body from her head to her hindquarters and legs, coat white as snow with a silver sheen, standing alone in deep snow, massive shoulders and a great humped back yet the narrower head and slender curved horns of a cow, the dark herd bunched small in the far distance behind her, breath steaming in severe cold, vast rolling treeless winter prairie under a calm gray sky"
 aspect = "portrait"
 citations = ["16:17 (massive shoulders, humped back, taller than any cow)", "10:27 (silver sheen)", "12:17 (silver undertone, winter coat)", "04:61 (dark liquid buffalo eyes)", "12:111 (near-invisible against snow)", "20:23 (breath steaming)"]
 underdetermined = ["horn length/curve/color (bible gap)"]
