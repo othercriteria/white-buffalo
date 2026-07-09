@@ -1,0 +1,18 @@
+# Travois / moving-village concept LoRA dataset (14 curated PD images:
+# Catlin, Bodmer, Eastman, Miller, Remington, Russell, Deming, Leslie's —
+# the imagined engraver's own reference corpus; see village_raw/manifest.md
+# for sources and PD rationale). Concept binds to the word "travois" with
+# structural glosses; media captioned honestly (engraving vs monochrome
+# painting) so the register tokens stay clean. Photos excluded.
+
+[general]
+resolution = [1024, 1024]
+caption_extension = ".txt"
+batch_size = 1
+enable_bucket = true
+bucket_no_upscale = false
+
+[[datasets]]
+image_directory = "/home/dlk/workspace/white-buffalo/imagegen/training/dataset/village"
+cache_directory = "/home/dlk/workspace/white-buffalo/imagegen/training/cache/village"
+num_repeats = 10
