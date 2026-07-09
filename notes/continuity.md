@@ -333,3 +333,24 @@ three. The pattern should reward a re-reader, never announce itself.
   future one-word swap.
 - Re-raised then withdrawn: JE VII window-sitting (14:83) — already the
   v0.6 batch-1 stillness-inference fix; settled.
+
+### Addendum (2026-07-09, DK ruled): JE VII watching made optically honest
+
+Direct observation SAVED (DK preference) rather than inference-from-
+absence: the July heat opens the window and she sits in its light
+(14:83) — a framed lit figure reads at long range; the text still claims
+only shape and stillness. Asymmetry dramatized, not explained: new beat
+where the man looks straight at the ridge and misses him ("I did not
+move... A man sitting still on a ridge is a tree, or a rock."). Notes:
+- "a tree, or a rock" deliberately INVERTS the trader's "like I was a
+  tree or a rock" (09:91; reader hits the trader first in book order):
+  Morrow's blindness to people / people's blindness to Morrow. PROTECTED
+  — do not dedup. Chronologically Morrow writes it first; the world
+  later confirms it.
+- "I did not move." reuses Morrow's own construction from the Lakota
+  beat (08:51) — his fixed response to being looked at. Deliberate.
+- Escalation with the existing Aug 3 beat: the man looks at the ridge
+  and sees nothing (July 25); looks at the herd and misses her (Aug 3).
+- JE VI 12:69 "hidden in a stand of cottonwoods" → occlusion wording
+  ("where the trees broke my shape against the sky") — position, not
+  concealment; Morrow does not skulk (DK).

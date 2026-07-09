@@ -80,7 +80,9 @@ I have been watching them more closely these past days. Learning their routines,
 
 The man wakes before dawn and goes to the barn to tend the animals. He stays there for perhaps an hour, sometimes longer. Then he returns to the house and eats whatever the woman has prepared for him. Then he goes to the fields.
 
-The woman wakes later, after the man has left for the barn. She builds up the fire, prepares food, cleans. She spends most of her day in or near the house. Sometimes she sits by the window for an hour, hardly moving. Reading, I suppose. I cannot think what else would hold her so still.
+The woman wakes later, after the man has left for the barn. She builds up the fire, prepares food, cleans. She spends most of her day in or near the house. The window stands open in the heat now. Sometimes she sits by it for an hour, hardly moving. Reading, I suppose. I cannot think what else would hold her so still.
+
+Once the man straightened in his field and looked a long while at the ridge where I sat. I did not move. After a time he bent back to his work. Their eyes are on their work from first light to dark. A man sitting still on a ridge is a tree, or a rock.
 
 She does not belong here. I can see that from a distance. The way she moves, the way she holds herself—she was made for a softer life, a life with books and people to talk to. She came here for love, or for hope. And now she is going to die here.
 

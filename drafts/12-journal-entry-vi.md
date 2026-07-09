@@ -66,7 +66,7 @@ I have become simpler. Stripped of everything not needed.
 
 *November the Fifth*
 
-I watched the settlers again today. Closer this time—perhaps a quarter mile from their house, hidden in a stand of cottonwoods on the ridge above them.
+I watched the settlers again today. Closer this time—perhaps a quarter mile from their house, in a stand of cottonwoods on the ridge above them, where the trees broke my shape against the sky.
 
 The man was mending harness by the door. The woman came out to him with something steaming in a cup, and she stood beside him while he drank it, her hand on his shoulder, neither of them speaking. They moved around each other with the ease of people who have long since stopped needing words.
 
