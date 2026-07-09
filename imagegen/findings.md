@@ -464,3 +464,30 @@ Pair correlation +0.562 (bookends +0.484; the old pair's +0.66 was
 inflated by twin cave-mouth compositions). PROMOTED:
 art/morrow-hollow.png + art/journal-found.png = the s122 pair.
 Occupied/abandoned axis: lit/unlit, him/his absence, night/dusk.
+
+## Village travois LoRA: trained and validated (2026-07-09)
+
+Trained on 14 curated PD images (the imagined engraver's reference
+corpus: Catlin, Bodmer, Eastman, Miller, Remington, Russell, Deming,
+Leslie's) — morrow recipe verbatim (dim 32, lr 1e-4, 16 epochs, 2240
+steps, ~1h40m). Validation grid (validate_village.sh, 14 images):
+- CONVERGENCE IS LATE: the wagon/cart/harness prior persists through
+  ep12; only the FINAL checkpoint drops wheels for true pole-drag
+  geometry on both the close probe and the production scene. Deploy
+  final only (unlike morrow's ep12 split).
+- The capability wall is DOWN: production-conditions probe at final
+  renders Catlin-grade travois (parallel drag lines, pole triangles,
+  procession) vs the baseline's harness-teams-with-wagon.
+- Multiplier: 1.0 and 1.3 both carry the concept; 1.0 composes closer
+  to the text's two-mile distance. Deploy @1.0.
+- REGISTER NEGATIVE IS LOAD-BEARING (again): under a light negative the
+  final ckpt drifts to grayscale-oil washes (P3 probe); under the full
+  production negative it stays crisp engraving. Scene negative hardened:
+  cart/wheels/sled/harness team/plow + oil painting/tonal wash.
+- Known pull to fight in production: the LoRA wants travois in the NEAR
+  field (dataset compositions are close views); the text pins the
+  village at two miles (12:59). Distance language must hold.
+- Harness note: musubi --image_size is HEIGHT WIDTH (P1/P2 aspects came
+  out swapped in the grid; concept judgments unaffected).
+Registered in generate.py as "travois"; catalog village-passing set to
+travois@1.0. Production sweep seeds 130-135 rolling.

@@ -8,9 +8,9 @@ time. Free-prompt mode (--prompt) exists for smoke tests and probes only.
 """
 
 import argparse
+import tomllib
 from pathlib import Path
 
-import tomllib
 import torch
 from diffusers import ZImagePipeline
 
@@ -34,6 +34,10 @@ ASPECTS = {
 LORAS = {
     "morrow": "loras/morrow_engraving_v1_diffusers.safetensors",
     "morrow-ep12": "loras/morrow_engraving_v1_ep12_diffusers.safetensors",
+    # Travois/moving-village concept (final ckpt only — wheels/harness
+    # persist through ep12; validation 2026-07-09). Deploy ~1.0; the full
+    # register negative is load-bearing (grayscale-oil drift otherwise).
+    "travois": "loras/village_travois_v1_diffusers.safetensors",
 }
 DEFAULT_LORA_WEIGHT = 1.3
 
@@ -140,7 +144,9 @@ def main():
                 style = styles[style_key]
                 prompt = f"{style['prefix']}, {base_prompt}"
                 negative = ", ".join(
-                    filter(None, [style.get("negative", ""), scene_negative, args.negative])
+                    filter(
+                        None, [style.get("negative", ""), scene_negative, args.negative]
+                    )
                 )
                 out_name = f"{job_name}_{style_key}_s{args.seed}.png"
             else:

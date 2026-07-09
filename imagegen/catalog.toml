@@ -145,7 +145,14 @@ dni = "clean — the object only; no maker shown (Lakota interiority stays off-p
 # JOURNAL-SIDE (JE VI) -> portrait plate per format doctrine. Also the
 # fold-out candidate if ever produced panoramic. DNI: distance enforced,
 # silhouettes only. Research: travois triangles are the signature.
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, wagons, covered wagons, tipis standing, dust cloud, color, tinted, hand-colored, artist signature, monogram, lettering"
+# CONCEPT LORA (2026-07-09): village_travois_v1 final ckpt @1.0 — trained
+# on the imagined engraver's reference corpus (Catlin/Bodmer/Eastman/
+# Miller/Remington). Known pull: LoRA wants travois in the NEAR field
+# (dataset compositions); the text pins the village two miles off —
+# distance language must hold the line. Negative hardened vs the LoRA's
+# leak modes (sled, wheels, oil-wash register).
+lora = "travois@1.0"
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, wagons, covered wagons, cart, wheels, sled, sledge, harness team, plow, tipis standing, dust cloud, oil painting, tonal wash, soft wash, color, tinted, hand-colored, artist signature, monogram, lettering"
 prompt = "strictly monochrome ink, horses dragging long lodge-poles that trail behind them on the ground in low triangles, pole-drags behind horse after horse, bundles slung between the trailing poles, small dog-drawn pole-drags low among them: a Lakota village moving as a broad loose procession of tiny dark silhouettes along a distant low ridgeline two miles off, riders scattered ahead and on the flanks, a separate loose mass of driven horses trailing, seen from far across open autumn prairie under a wide gray sky, figures far too small for faces, brown October grass in the empty foreground"
 aspect = "portrait"
 citations = ["12:59 (travois, dogs, riders on a ridgeline two miles off; line bends wider as it comes abreast)"]
