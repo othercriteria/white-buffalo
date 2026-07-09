@@ -294,3 +294,17 @@ on two background elements, and DK's questions opened a third:
 
 Plate held until the research reports; house/willow/stone fixes go into
 one re-roll.
+
+## Principle (DK, 2026-07-09): research-grounded specificity is the move
+
+The graves2 round (post-construction-research) is "more specific,
+interesting, and unsettling" than graves1 (generic priors) — DK. Why:
+generic priors produce generic mood ("frontier graves" as an
+illustration idea); researched specificity produces the documentary
+uncanny (a real soddy's stovepipe, stone that comes from somewhere).
+Correctness reads as evidence, not art — which is the manuscript's own
+register (procedural concreteness, critique §8) transferring to the
+plates. STANDING RULE: when material culture carries a scene, commission
+the research BEFORE prompt-craft. The reference docs
+(homestead-construction.md, lakota-white-buffalo.md, pd-engraving-
+sources.md) are now part of the prompt pipeline, not background.
