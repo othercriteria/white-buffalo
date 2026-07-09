@@ -91,11 +91,12 @@ def main():
                 catalog[k]["prompt"],
                 catalog[k].get("aspect", "landscape"),
                 catalog[k].get("lora"),
+                catalog[k].get("negative", ""),
             )
             for k in scene_keys
         ]
     else:
-        jobs = [(args.name, args.prompt, args.aspect or "landscape", None)]
+        jobs = [(args.name, args.prompt, args.aspect or "landscape", None, "")]
 
     style_keys = (
         list(styles) if args.style == "all" else [args.style] if args.style else [None]
@@ -121,7 +122,7 @@ def main():
     loaded_loras = set()
     pipe.enable_model_cpu_offload()
 
-    for job_name, base_prompt, aspect, scene_lora in jobs:
+    for job_name, base_prompt, aspect, scene_lora, scene_negative in jobs:
         lora = parse_lora(args.lora or scene_lora)
         if lora:
             name, weight = lora
@@ -139,11 +140,12 @@ def main():
                 style = styles[style_key]
                 prompt = f"{style['prefix']}, {base_prompt}"
                 negative = ", ".join(
-                    filter(None, [style.get("negative", ""), args.negative])
+                    filter(None, [style.get("negative", ""), scene_negative, args.negative])
                 )
                 out_name = f"{job_name}_{style_key}_s{args.seed}.png"
             else:
-                prompt, negative = base_prompt, args.negative
+                prompt = base_prompt
+                negative = ", ".join(filter(None, [scene_negative, args.negative]))
                 out_name = f"{job_name}_s{args.seed}.png"
 
             print(f"Generating {out_name} ({width}x{height})")

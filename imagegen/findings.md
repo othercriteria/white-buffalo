@@ -133,3 +133,25 @@ scale, and the shared-seed rhyme with art/morrow-hollow.png measures
 +0.668 vs +0.360/+0.434 for other seeds — the deliberate rhyme works
 when the paired scenes differ (writing/found). Pick: s45 →
 art/journal-found.png.
+
+## Plate 3: offering-stake (2026-07-09)
+
+The beat's first deep scrutiny (v0.8 addition): the timeline computes —
+stake predates first snow (pre-Nov 14), riders return to their own site
+Jan 3, herd crossing reveals it to Morrow Jan 9. "It faced the valley"
+is Morrow's intention-attribution, unrenderable literally; translated
+to position + streaming cloth. The cloth's RED is withheld from the
+plate (monochrome register); spot-color hand-tint available but would
+announce the cloth/blood red-thread — flagged, not used.
+
+**Rule #3: the engraving genre's landscape prior is ALPINE.** All three
+first-round seeds grew mountain crags in sand hills country (09:5 —
+"broken ridges and deep draws," nothing taller for 300 miles). Plains
+plates must assert landform positively ("low rolling treeless sand
+hills") AND negate mountains. Infrastructure: catalog entries now
+support per-scene `negative`; generate.py merges style + scene + CLI
+negatives.
+
+Pick: s53 (cloth streaming in threads = the load-bearing detail; herd
+incidental; settled lean). s52 quieter but cloth reads as knotted wrap;
+s54 cloth oversized. → art/offering-stake.png

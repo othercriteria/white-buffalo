@@ -97,10 +97,11 @@ underdetermined = ["coat/boot colors (reference choices, locked by LoRA)"]
 dni = "clean"
 
 [offering-stake]
-prompt = "A peeled wooden stake standing upright in snow-dusted prairie ground on a ridgeline, a strip of red cloth tied at its head weathered and worked to threads by the wind, facing a wide valley where a buffalo herd winters in the far distance, no people, hard winter light"
+negative = "mountains, peaks, crags, cliffs, alpine, forest"
+prompt = "the brow of a low wind-scoured ridge in rolling treeless sand hills, a wide shallow snow-covered valley below, a single peeled wooden stake standing settled and weathered in the frozen ground, snow packed undisturbed around its base, a narrow strip of dark cloth tied at its head frayed to threads and streaming in the wind, a buffalo herd small and dark on the valley floor, no people, hard winter light"
 aspect = "portrait"
-citations = ["08 (JE IV Jan 9 entry, v0.8: peeled stake, red cloth at its head, weathered to threads, standing since before the snow, facing the wintering valley)"]
-underdetermined = []
+citations = ["08:61-63 (peeled stake; red cloth at its head; worked to threads; standing since before the snow — hence settled/undisturbed base; faces the wintering valley — rendered as position + streaming cloth)"]
+underdetermined = ["stake height (text gap)", "cloth RED in text — monochrome register renders it dark; its redness lives in the text. Spot-color (period hand-tint) available but would announce the red-thread link (cloth/blood); withheld per restraint"]
 dni = "clean — the object only; no maker shown (Lakota interiority stays off-page)"
 
 [village-passing]
