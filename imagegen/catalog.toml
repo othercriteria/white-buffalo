@@ -107,8 +107,8 @@ dni = "canonical trace of the killings — the permitted evidence, nothing more"
 [morrow-witnessed]
 # Vignette. Distance rule: figure too small for the LoRA; identity
 # carried by silhouette (tall, thin, on foot, behind the herd).
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, oxen, farm animals, horse and rider in the scene, hat, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, far across open winter prairie under a gray sky, a herd of wild American bison with shaggy humped shoulders walking away in a loose column through the snow, and trailing a hundred yards behind the last animal, a single tiny figure of a tall thin long-bearded man on foot, bareheaded, dark-coated, walking after the herd with a steady unhurried stride, alone in the emptiness, seen level from a great distance"
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, oxen, farm animals, horse and rider in the scene, hat, staff, spear, lance, pole, walking stick, herding, shepherd, drover, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, far across open winter prairie under a gray sky, a herd of wild American bison with shaggy humped shoulders walking away in a loose column through the snow, and far behind the last animal, separated from the herd by a long stretch of empty unbroken snow, a single tiny figure of a tall thin long-bearded man on foot, bareheaded, dark-coated, his arms at his sides carrying nothing, walking after the herd with a steady unhurried stride, alone in the emptiness, seen level from a great distance"
 aspect = "landscape"
 citations = ["05:117, 07:179 (thin as a rail, beard down past his chest)", "07:117 (~100 yards behind the herd)", "04:13 (clothes hang loose)", "15:87 (pace steady, never varying)"]
 underdetermined = ["coat/hat/boots — never described (bible gap; keep him distant/small partly for this reason)"]

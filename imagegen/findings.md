@@ -368,3 +368,23 @@ gate. → art/graves.png (landscape; in-text vignette per format doctrine).
   plain riders). The forcing case for DK's predicted concept-LoRA has
   arrived: train a micro-LoRA on PD Catlin/Miller moving-village images
   (the imagined engraver's own reference corpus). Decision pending.
+
+## Batch round 3 (2026-07-09)
+
+- fort-kearny: s108 PASSES all gates at zoom — the flagstaff is a clean
+  bare pole with a small flag and visible halyard, NO smoke fusion (DK's
+  blocking catch resolved at prompt level: "nothing else on the pole" +
+  smoke explicitly bound to chimneys). Chimney smoke on the buildings,
+  parade ground open, unstockaded, cottonwood rows slender and bare.
+  Foreground model-fill: a hitching rail with a tied horse — period-
+  plausible, no human figure, accepted. s109 rejected (reads farmstead,
+  stray horizontal smoke streak in the sky). → art/fort-kearny.png
+- morrow-witnessed: s108 REJECTED — figure carries a long staff (reads
+  herder/drover) and walks abreast of the herd. s109 near: bareheaded,
+  dark-coated, empty-handed, following — but only ~20 yards off the last
+  animal; at that gap he reads as a drover, not the trader's "dog that's
+  lost its master." The GAP is a compositional charge and must be
+  asserted, not implied by "trailing a hundred yards behind" (numeric
+  distances don't render). Re-roll with "separated from the herd by a
+  long stretch of empty unbroken snow" + staff/spear/drover negatives
+  (seeds 110-113).
