@@ -75,7 +75,7 @@ dni = "clean"
 # Vignette. Research idiom: log walls banked with sod (Bordeaux analog);
 # reads as "sod house, low and rough" (09:31) from any distance.
 negative = "mountains, peaks, crags, cliffs, alpine, frame house, clapboard, brick chimney, masonry chimney, shingles, person, human figure, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a low rough trading post of cottonwood logs banked heavily with sod, its log-and-turf roof sagging along the middle under snow, a guyed stovepipe with a thread of smoke, firewood and stacked hides against the walls, a pole lean-to stable at one end, standing alone at the junction of two frozen creeks, candlelight in one small window at dusk, deep drifted snow and broken hills beyond"
+prompt = "strictly monochrome ink, a low rough trading post of cottonwood logs banked heavily with sod, its log-and-turf roof sagging along the middle under snow, a guyed stovepipe with a thread of smoke, firewood and stacked hides against the walls, a pole lean-to stable at one end, standing alone at the junction of two frozen creeks, one small window faintly lit from within, rendered in pale ink tone only, dusk, deep drifted snow and broken hills beyond"
 aspect = "landscape"
 citations = ["09:31-35 (junction of two frozen creeks, low sod house, sagging log-and-turf roof, lean-to stable, two candles)", "09:5-7 (broken ridges, drifts higher than a horse's head)"]
 underdetermined = []
@@ -86,7 +86,7 @@ dni = "clean"
 # details compressed per the attention-budget corollary. Clothesline and
 # garden dropped from the frame (snow-buried per text anyway).
 negative = "mountains, peaks, crags, cliffs, alpine, frame house, clapboard, brick chimney, masonry chimney, shingles, fence, smoke, person, human figure, weeping willow, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a low snow-buried sod house of cut-earth blocks in a small clearing where a frozen creek bends around a low hill, one small dark window, a cold stovepipe and no smoke, a pole lean-to behind it, a well frame with windlass near the door, brushy willow thickets along the creek, scattered pines on the far north-facing slope, December, utterly still"
+prompt = "strictly monochrome ink, a low snow-buried sod house, its walls of long flat-cut sod bricks laid in courses, in a small clearing where a frozen creek bends around a low hill, one small dark window, a cold stovepipe and no smoke, a pole lean-to behind it, a well frame with windlass near the door, brushy willow thickets along the creek, scattered pines on the far north-facing slope, December, utterly still"
 aspect = "landscape"
 citations = ["11:53-79 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:3-7 (willow-lined valley, broken hills, pines on north slopes)", "10:75 (clothesline)", "11:9 (December, no smoke)"]
 underdetermined = []
@@ -107,8 +107,8 @@ dni = "canonical trace of the killings — the permitted evidence, nothing more"
 [morrow-witnessed]
 # Vignette. Distance rule: figure too small for the LoRA; identity
 # carried by silhouette (tall, thin, on foot, behind the herd).
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, oxen, farm animals, horse and rider in the scene, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, far across open winter prairie under a gray sky, a herd of wild American bison with shaggy humped shoulders walking away in a loose column through the snow, and a hundred yards behind them a single tiny figure of a tall thin man on foot, walking with a steady unhurried stride, alone in the emptiness, seen level from a great distance"
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, oxen, farm animals, horse and rider in the scene, hat, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, far across open winter prairie under a gray sky, a herd of wild American bison with shaggy humped shoulders walking away in a loose column through the snow, and a hundred yards behind them a single tiny figure of a tall thin long-bearded man on foot, bareheaded, dark-coated, walking with a steady unhurried stride, alone in the emptiness, seen level from a great distance"
 aspect = "landscape"
 citations = ["05:117, 07:179 (thin as a rail, beard down past his chest)", "07:117 (~100 yards behind the herd)", "04:13 (clothes hang loose)", "15:87 (pace steady, never varying)"]
 underdetermined = ["coat/hat/boots — never described (bible gap; keep him distant/small partly for this reason)"]
@@ -135,7 +135,7 @@ dni = "clean — the object only; no maker shown (Lakota interiority stays off-p
 # fold-out candidate if ever produced panoramic. DNI: distance enforced,
 # silhouettes only. Research: travois triangles are the signature.
 negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, wagons, covered wagons, tipis standing, dust cloud, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, seen from far across open autumn prairie under a wide gray sky, a Lakota village on the move traversing a distant low ridgeline two miles off: a broad loose procession of tiny dark silhouettes, dozens of horses dragging travois poles that trail behind them at a low angle, low dog travois among them, riders scattered ahead and along the flanks, and a separate loose mass of driven horses trailing the column, everything at walking pace, figures far too small for faces, brown October grass in the empty foreground"
+prompt = "strictly monochrome ink, horses dragging long lodge-poles that trail behind them on the ground in low triangles, pole-drags behind horse after horse, bundles slung between the trailing poles, small dog-drawn pole-drags low among them: a Lakota village moving as a broad loose procession of tiny dark silhouettes along a distant low ridgeline two miles off, riders scattered ahead and on the flanks, a separate loose mass of driven horses trailing, seen from far across open autumn prairie under a wide gray sky, figures far too small for faces, brown October grass in the empty foreground"
 aspect = "portrait"
 citations = ["12:59 (travois, dogs, riders on a ridgeline two miles off; line bends wider as it comes abreast)"]
 underdetermined = ["all gear/horse detail (bible gap — deliberate thinness; keep the distance)"]

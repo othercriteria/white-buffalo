@@ -323,3 +323,25 @@ slabs scattered near (the hauling legible), willow thickets, sod massing
 at distance. Note: a weeping willow returned THROUGH the negative in
 s91 — negatives are probabilistic, not gates; the zoom check remains the
 gate. → art/graves.png (landscape; in-text vignette per format doctrine).
+
+## Batch round 1 status (2026-07-09)
+
+- fort-kearny: s103 PASSED all gates (frame + sod buildings legible,
+  flagstaff, young planted cottonwood rows — the research's flagged
+  absence rendered; no wall, no people) → art/fort-kearny.png. The
+  approach-view s104 rejected: "long low sod buildings" rendered as
+  anachronistic round hay bales.
+- trading-post: s104 near-final; single flaw = candlelit window rendered
+  warm yellow — spot color, same violation class as red blood/red cloth,
+  refused consistently. Re-roll with "pale ink tone" language.
+- village-passing: comprehensive fail round 1 — wagons THROUGH the
+  negative, zero travois triangles; a settler column in Lakota position.
+  Re-roll with the travois front-loaded and structural ("long
+  lodge-poles trailing in low triangles behind horse after horse").
+- homestead: s100 near (walls read cobble at zoom; sod-brick-course
+  language in re-roll). morrow-witnessed: s98 near (the tiny figure wore
+  a HAT — Farrell's marker on Morrow's silhouette; bareheaded/long-
+  bearded asserted in re-roll).
+- Color-leak pattern: autumn/dusk scenes leak tint (3/4 village seeds,
+  the warm window) — non-winter plates need the monochrome assertion AND
+  luck; the zoom gate catches what the negatives miss.
