@@ -399,3 +399,43 @@ gate. → art/graves.png (landscape; in-text vignette per format doctrine).
   emptiness carries the trader's "dog that's lost its master" (09:87).
   → art/morrow-witnessed.png. Batch4 closed; every batch scene except
   village-passing (capability wall) is now in art/.
+
+## Rework: morrow-hollow / journal-found round 2 (2026-07-09)
+
+DK verdict on the originals: "immature and awkward" against the later
+plates — confirmed on re-inspection: both violate rule #5 (viewer inside
+the camp), both render the hollow as a fairy-tale cave mouth, both
+predate the register negatives, and journal-found carries a canon error
+("first light"; Farrell finds the camp AT DUSK, 19:5). Research-first:
+reference/hollow-camp-research.md (scoop-not-cave cues, drift cornice /
+dry lee floor, engraved-nocturne conventions, hat-sized chip/brush
+fires). Rhyme reframed writing/found -> occupied/abandoned. rhyme.py
+added (reproduces logged pair values within resize noise).
+
+Sweep 1 (seeds 120-125, both scenes, shared seeds):
+- journal-found: transformed. All six render a modest scoop — no cave
+  mouth anywhere. s123 PASSES all zoom gates: single stunted pine, snow
+  cornice with drip forms, folded striped trade blankets (period-right),
+  the dark book legible, charred stick-ends + ash streak for the cold
+  fire (only seed where the pit is legible), clean single bootprint
+  line. Fire sits just inside the hollow — matches the research (fire
+  between man and opening). CANDIDATE FINAL.
+- morrow-hollow: camp nailed, vigil missed. s123's figure passes zoom
+  (LoRA legible at small scale: gaunt, long beard, bareheaded, blanket
+  over shoulders, worn boots, low stick fire, layered cutbank bedding)
+  but the herd rendered as TWO large bison close by, no white cow —
+  "I can see her from here" absent. All six seeds put the hollow in the
+  ground plane (blowout reading) rather than a bluff face; acceptable,
+  research-supported. v2: camp language compressed (attention-budget
+  corollary), freed budget spent on "hundreds of tiny dark animals
+  massed in the far distance" + white cow as "one small pale point."
+- Pair correlations sweep 1: s123 +0.601, s120 +0.527, s122 +0.463,
+  s124 +0.339, s125 +0.192, s121 +0.165. s123 won both scenes AND the
+  correlation — joint pick was unanimous; v2 re-measures after the
+  morrow-hollow re-prompt (same-seed kinship survives prompt changes).
+
+Process note: a 13GB GPU process appeared mid-rework and pattern-matched
+our known zombie failure — it was DK's ollama llama-server (different
+owner, 4 min old). The kill attempt failed on permissions, correctly.
+CHECK PROCESS OWNER AND CMD before killing anything holding VRAM; the
+sweep now queues behind a free-VRAM guard instead.

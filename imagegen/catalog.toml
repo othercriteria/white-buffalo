@@ -120,8 +120,13 @@ dni = "clean"
 # here." Scoop-not-cave landform + firelight nocturne conventions per
 # reference/hollow-camp-research.md. Rhyme partner: journal-found (his
 # camp with him in it / his camp without him) — sweep seeds jointly.
-negative = "cave, cavern, grotto, arched cave mouth, dark cave opening, tunnel, mountains, peaks, crags, cliffs, alpine, bonfire, tall flames, blazing fire, torch, lantern, glow, lens flare, orange, hat, tent, wagon, domestic cattle, farm animals"
-prompt = "strictly monochrome ink, a winter night on the plains, a wide shallow hollow eroded under the slumping lip of a pale crumbling sandstone bluff, a sculpted snowdrift curling over the lip, the floor beneath the bank bare and dark where the wind cannot reach, jmorrow, the tall thin bearded man seated small within the hollow, his back to the earthen wall, knees drawn up, a worn blanket hooded over his head and shoulders, a small low fire of thin sticks burning almost flameless before him, the fire the only bright point in the great darkness, and beyond the bluff a broad valley under moonlit cloud where a buffalo herd stands bunched dark on trampled snow, one animal among them pale against the rest, seen level from a distance across the snow"
+# v2 (2026-07-09): sweep 1 nailed the camp (s123 figure/fire/cutbank all
+# pass zoom) but rendered the herd as two large bison close by, no white
+# cow — the vigil missing. Camp language compressed per the attention-
+# budget corollary; freed budget spent on the herd as a distant massed
+# body with the white cow asserted as a pale point within it.
+negative = "cave, cavern, grotto, arched cave mouth, dark cave opening, tunnel, mountains, peaks, crags, cliffs, alpine, bonfire, tall flames, blazing fire, torch, lantern, glow, lens flare, orange, hat, tent, wagon, domestic cattle, farm animals, buffalo close by, large animal in the foreground"
+prompt = "strictly monochrome ink, a winter night on the plains, a wide shallow hollow eroded under the slumping lip of a pale crumbling sandstone bluff, a sculpted snowdrift curling over the lip, jmorrow, the tall thin bearded man seated small within the hollow, his back to the earthen wall, a worn blanket over his head and shoulders, a small low fire of thin sticks before him, and far beyond and below the camp, on the floor of a broad valley under moonlit cloud, a great buffalo herd bunched together, hundreds of tiny dark animals massed in the far distance, and within the distant herd a single buffalo cow of pure white, one small pale point against the dark mass, seen level from a distance across the snow"
 aspect = "portrait"
 lora = "morrow-ep12"
 citations = ["08:37 (sheltering in a hollow in the bluffs, out of the wind; herd clustered in a broad valley, snow beaten down by their hooves; 'I can see her from here')", "08:39 ('Even in the depths of winter, she glows')", "12:107 (hollow in the bluffs where the wind cannot reach, small fires, 'I can watch them from here')", "06:21 (his whole kit: a blanket, a knife, flint and steel, journal and pencil)"]
