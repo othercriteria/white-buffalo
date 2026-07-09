@@ -345,3 +345,26 @@ gate. → art/graves.png (landscape; in-text vignette per format doctrine).
 - Color-leak pattern: autumn/dusk scenes leak tint (3/4 village seeds,
   the warm window) — non-winter plates need the monochrome assertion AND
   luck; the zoom gate catches what the negatives miss.
+
+## Batch round 2 (2026-07-09)
+
+- trading-post: s104 re-roll PASSES (window in pale ink tone; log walls
+  banked with sod per the research — and now per the TEXT, DK-authorized
+  edit a8f8f41) → art/trading-post.png
+- homestead: s100 promoted WITH CAVEAT — wall texture reads lumpy-cobble
+  at 2x zoom but sod-course at vignette print size; the sod-brick
+  re-roll language produced log walls (the "courses" concept maps to
+  logs in the prior). Revisit if the vignette prints larger than
+  expected. → art/homestead.png
+- fort-kearny: PULLED from art/ (DK blocking catch: smoke rising from
+  the flagstaff top — the model fused flag and chimney into a
+  smokestack). Re-roll running with smoke bound to the buildings and the
+  staff explicitly bare.
+- morrow-witnessed: s107's bareheaded figure passes identity but stands
+  AMONG the herd (canon for JE II's acceptance, wrong for the witness
+  testimony that the scene illustrates). Walking-behind re-roll running.
+- village-passing: CAPABILITY WALL after 7 attempts — the model has no
+  visual concept for horse-travois (renders harness teams, wagons, or
+  plain riders). The forcing case for DK's predicted concept-LoRA has
+  arrived: train a micro-LoRA on PD Catlin/Miller moving-village images
+  (the imagined engraver's own reference corpus). Decision pending.

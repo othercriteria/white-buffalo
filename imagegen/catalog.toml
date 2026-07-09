@@ -65,7 +65,7 @@ dni = "clean"
 # photo = ground truth). POLICY: the "lone rider" removed — that rider
 # is Farrell; the plate IS his approach view.
 negative = "mountains, peaks, crags, cliffs, alpine, stockade, palisade, wall, fortification, person, human figure, rider, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a frontier army post seen from across dead-grass bottomland in early winter: long low sod and adobe buildings and a few unpainted two-story frame buildings scattered loosely around a wide open parade ground, a central flagstaff, a thin line of young bare cottonwood trees, no stockade and no wall, chimney smoke rising in the cold air, the flat gray river corridor beyond, snow patched on the ground"
+prompt = "strictly monochrome ink, a frontier army post seen from across dead-grass bottomland in early winter: long low sod and adobe buildings and a few unpainted two-story frame buildings scattered loosely around a wide open parade ground, a bare central flagstaff flying a small flag, nothing else on the pole, a thin line of young bare cottonwood trees, no stockade and no wall, smoke rising from the chimneys of the buildings, the flat gray river corridor beyond, snow patched on the ground"
 aspect = "landscape"
 citations = ["07:89-105 (wood-and-sod, parade ground, 'boxes dropped by a careless god', unstockaded, sutler's store)", "07:5 (flat wide gray corridor)"]
 underdetermined = []
@@ -108,7 +108,7 @@ dni = "canonical trace of the killings — the permitted evidence, nothing more"
 # Vignette. Distance rule: figure too small for the LoRA; identity
 # carried by silhouette (tall, thin, on foot, behind the herd).
 negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, oxen, farm animals, horse and rider in the scene, hat, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, far across open winter prairie under a gray sky, a herd of wild American bison with shaggy humped shoulders walking away in a loose column through the snow, and a hundred yards behind them a single tiny figure of a tall thin long-bearded man on foot, bareheaded, dark-coated, walking with a steady unhurried stride, alone in the emptiness, seen level from a great distance"
+prompt = "strictly monochrome ink, far across open winter prairie under a gray sky, a herd of wild American bison with shaggy humped shoulders walking away in a loose column through the snow, and trailing a hundred yards behind the last animal, a single tiny figure of a tall thin long-bearded man on foot, bareheaded, dark-coated, walking after the herd with a steady unhurried stride, alone in the emptiness, seen level from a great distance"
 aspect = "landscape"
 citations = ["05:117, 07:179 (thin as a rail, beard down past his chest)", "07:117 (~100 yards behind the herd)", "04:13 (clothes hang loose)", "15:87 (pace steady, never varying)"]
 underdetermined = ["coat/hat/boots — never described (bible gap; keep him distant/small partly for this reason)"]
