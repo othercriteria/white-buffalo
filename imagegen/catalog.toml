@@ -82,7 +82,12 @@ underdetermined = []
 dni = "traces-only: exterior desolation; no interior violence evidence in this frame"
 
 [graves]
-prompt = "Two low grave mounds side by side under rock cairns in rough rectangles, unmarked, behind a lean-to barn, snow partially covering the stones, a sod homestead in the middle distance, gray winter light"
+# Vignette-format pioneer (in-text landscape cut, format doctrine). The
+# audit line: UNMARKED — no crosses, no headstones (11:111); the model's
+# grave prior wants crosses. Trees allowed here: willows/pines are canon
+# at the homestead site (11:3-7).
+negative = "mountains, peaks, crags, cliffs, alpine, cross, crosses, headstone, gravestone, grave marker, fence, person, human figure, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, two low grave mounds side by side, each covered by a cairn of flat stones laid in a rough rectangle, unmarked, no cross and no headstone, snow partly covering the stones, the back wall of a low lean-to barn at the frame's edge, a small sod house in the middle distance beyond, bare willows along a frozen creek, gray winter light"
 aspect = "landscape"
 citations = ["11:111-113, 13:17-21 (two graves, side by side, rock cairns, rough rectangles, unmarked, behind the barn)"]
 underdetermined = []

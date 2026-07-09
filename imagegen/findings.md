@@ -267,3 +267,30 @@ canonical chest/foreleg blood. Rhyme +0.492, the strongest measured
 pair. The zoom catch bought a better pair than the one it broke.
 
 art/first-sighting.png := s87; art/finale-fifty-yards.png := s87.
+
+## Plate 7 in progress: graves (2026-07-09) — held for research
+
+s91 passes the core audit (flat-laid stones in rough rectangles, low
+mounds, NO crosses — the cross-negative beat the grave prior) but fails
+on two background elements, and DK's questions opened a third:
+
+- **House**: frame gable + masonry chimney vs canon cut-earth blocks,
+  sod roof, stovepipe (11:53-79).
+- **Willows (DK catch)**: the model drew WEEPING willows — an Asian
+  ornamental absent from 1858 Nebraska, supplied because weeping willow
+  is the century's mourning emblem: given graves + willows, the genre
+  prior reaches for cemetery iconography. Botanical error AND
+  announced-significance error in one. Real Niobrara creek flora:
+  sandbar willow THICKETS (the text's own "brown and thick," 11:3, is
+  correct) + peachleaf willow (small, upright); cottonwood as the big
+  watercourse tree; ponderosa on north slopes (11:7 is accurate — a
+  genuine Niobrara feature); treeless uplands. Fix: "low brushy willow
+  thickets" positive + "weeping willow" negative.
+- **Construction realism (DK)**: research agent out on what two people
+  could build in 16 months (house/barn/well/cellar/field) and — bearing
+  directly on this plate — whether flat cairn stones are even
+  gatherable in stone-poor sand hills country. If the text's specs fail
+  the research, that's the engine's first manuscript-level finding.
+
+Plate held until the research reports; house/willow/stone fixes go into
+one re-roll.
