@@ -30,7 +30,7 @@ I did not raise the rifle.
 
 She was not my enemy. She had done what her nature demanded.
 
-I sat back on my heels and looked at her. She looked back at me. For the first time in longer than I could remember, I was at peace.
+I sat back on my heels and looked at her. She looked back at me. For the first time in longer than I could remember, I felt a great and quiet peace.
 
 ---
 

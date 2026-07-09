@@ -52,7 +52,7 @@ Or perhaps it was simple. Perhaps I was just tired of turning back.
 
 I rode north.
 
-It was not a decision exactly. The man who followed the white buffalo had been heading north when the trader saw him, north when the mail carrier passed him, north when the trapper watched him cross the frozen river. North was where the emptiest country lay, the land where no one lived, where a man could walk for days without seeing another soul.
+It was not a decision exactly. The man who followed the white buffalo had been heading north when the trader saw him, north when the mail carrier passed him, north when the trapper watched him follow the frozen river. North was where the emptiest country lay, the land where no one lived, where a man could walk for days without seeing another soul.
 
 If I were him, that is where I would go.
 

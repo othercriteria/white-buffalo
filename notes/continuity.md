@@ -277,3 +277,59 @@ fifty yards" (02:25); the cow stands at "perhaps fifty yards" from
 Farrell (20:21). The gap she kept is the gap she grants — the same
 interval opens and closes the book, now embodied by the rhyme plates.
 Any future edit touching either distance should touch both knowingly.
+
+## Full-read pass 2 (2026-07-09, v0.8 + plate-informed, whole book in one context)
+
+Stress-tested timeline, witness chain, evidence trail, object continuity.
+Nearly every join held (whiskey ledger balances bottle-by-bottle; candle
+stub 19:21 = JE IX's writing light 18:7; three-point childlessness thread;
+Ch 7 evidence reads exactly against JE VII's documented routine; JE V/JE IV
+cross-references sound; day-grain of the final pursuit — sighting, lost
+hour, camp at dusk, reading night, body at dawn — internally exact).
+
+### FIXED this pass (DK ruled 2026-07-09)
+
+1. **Morrow age seam** — 12:47 "thirty-two years old when I left
+   Virginia" → "thirty-one". Supersedes the "coheres, but only just"
+   tolerance in the 2026-07-08 pass: at thirty-two the walk-out window
+   shrank to ~2-3 months against "I have lost count of the months"
+   (02:5). At thirty-one (departure mid/late 1855, born 1824 per 18:17):
+   months of walking by April 1856 ✓, "Now I am thirty-three, or perhaps
+   thirty-four" (Oct 1857) ✓ unchanged, "thirty-four years" at death
+   (18:53) ✓.
+2. **Ch 8 witness conflation** — 15:55 gave the trapper Creighton's
+   sighting ("cross the frozen river"; the trapper saw Morrow moving
+   ALONG the Niobrara bottom, 07:117; Creighton saw the Loup crossing,
+   07:175). Fixed one word: "watched him follow the frozen river."
+
+### PROTECTED BORROWINGS (deliberate device — do NOT "fix" as recycling)
+
+DK ruling 2026-07-09: the journal bleeds into Farrell's narration after
+the Ch 10 reading night. These repetitions are the device, not defects,
+despite matching the Opus-4.5 profile's verbatim-recycling red flag:
+- "like a ship through water" — Morrow 06:9 → Farrell 20:57.
+- "a great and quiet peace" — Morrow 16:97 (the night before he dies) →
+  Farrell 20:33 (kneeling before the cow), ADDED this pass per DK's
+  extend-to-(c).
+- Soft paraphrase, pre-existing: "seemed to carry her own illumination"
+  (20:57) ← "as if lit from within" (06:7) / "she glows" (08:39).
+Constraint for future edits: borrows appear ONLY in post-reading Farrell
+(Ch 10-11), stay unmarked (no "as Morrow had written"), and stay at
+three. The pattern should reward a re-reader, never announce itself.
+
+### Log-only (no action)
+
+- JE VIII "valley north of the river" (16:77): if "the river" is the
+  Niobrara, Farrell crossed it unnarrated during the pursuit. The book's
+  geography is impressionistic by design; flag only if a map is ever
+  drawn.
+- Witness-chain repetition-with-variation ("like a dog following its
+  master" 03:119 → "like a dog that's lost its master" 09:87; two
+  "thin as a rail" testimonies) reads as folklore forming in real time —
+  thematized at 07:131 ("growing with each telling"). Deliberate-looking;
+  keep.
+- Gunderson's "good land near the Elkhorn" (07:73) is ~150 mi east of
+  where he stands; DK left unruled — either his folly (unremarked) or a
+  future one-word swap.
+- Re-raised then withdrawn: JE VII window-sitting (14:83) — already the
+  v0.6 batch-1 stillness-inference fix; settled.

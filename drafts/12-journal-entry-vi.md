@@ -42,7 +42,7 @@ I wonder if they still feel that way. Their first winter is coming. The first wi
 
 I have been thinking about time.
 
-Before I came out here, time meant something. The days had names and the weeks had purposes and the years accumulated into something that could be measured, counted, compared. I was thirty-two years old when I left Virginia. I knew that number as I knew my own name.
+Before I came out here, time meant something. The days had names and the weeks had purposes and the years accumulated into something that could be measured, counted, compared. I was thirty-one years old when I left Virginia. I knew that number as I knew my own name.
 
 Now I am thirty-three, or perhaps thirty-four. I have lost track. I still set a date at the head of these pages, out of an old habit of order, and I believe it less each time I write it. I am no longer measuring my life in years. I am measuring it by her—her growth, the slow gathering of the power that will end me.
 
