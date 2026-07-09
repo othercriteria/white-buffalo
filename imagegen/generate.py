@@ -34,10 +34,13 @@ ASPECTS = {
 LORAS = {
     "morrow": "loras/morrow_engraving_v1_diffusers.safetensors",
     "morrow-ep12": "loras/morrow_engraving_v1_ep12_diffusers.safetensors",
-    # Travois/moving-village concept (final ckpt only — wheels/harness
-    # persist through ep12; validation 2026-07-09). Deploy ~1.0; the full
-    # register negative is load-bearing (grayscale-oil drift otherwise).
-    "travois": "loras/village_travois_v1_diffusers.safetensors",
+    # Travois/moving-village concept. v2e4 = physicality continuation
+    # (structure diagrams/photos), epoch-4 sweet spot: correct saddle
+    # lashing on both probes, no detached-pole artifact (which returns
+    # at v2-final). Deploy ~1.0; the full register negative is
+    # load-bearing (grayscale-oil drift otherwise). v1 kept for record.
+    "travois": "loras/village_travois_v2e4_diffusers.safetensors",
+    "travois-v1": "loras/village_travois_v1_diffusers.safetensors",
 }
 DEFAULT_LORA_WEIGHT = 1.3
 

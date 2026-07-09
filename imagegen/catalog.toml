@@ -225,7 +225,7 @@ dni = "clean — the object only; no maker shown (Lakota interiority stays off-p
 # distance language must hold the line. Negative hardened vs the LoRA's
 # leak modes (sled, wheels, oil-wash register).
 lora = "travois@1.0"
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, wagons, covered wagons, cart, wheels, sled, sledge, harness team, plow, tipis standing, dust cloud, oil painting, tonal wash, soft wash, color, tinted, hand-colored, artist signature, monogram, lettering"
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, wagons, covered wagons, cart, wheels, sled, sledge, harness team, plow, loose poles lying on the ground, tipis standing, dust cloud, oil painting, tonal wash, soft wash, color, tinted, hand-colored, artist signature, monogram, lettering"
 prompt = "strictly monochrome ink, horses dragging long lodge-poles that trail behind them on the ground in low triangles, pole-drags behind horse after horse, bundles slung between the trailing poles, small dog-drawn pole-drags low among them: a Lakota village moving as a broad loose procession of tiny dark silhouettes along a distant low ridgeline two miles off, riders scattered ahead and on the flanks, a separate loose mass of driven horses trailing, seen from far across open autumn prairie under a wide gray sky, figures far too small for faces, brown October grass in the empty foreground"
 aspect = "portrait"
 citations = ["12:59 (travois, dogs, riders on a ridgeline two miles off; line bends wider as it comes abreast)"]

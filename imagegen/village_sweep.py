@@ -15,7 +15,7 @@ from generate import ASPECTS, DEFAULT_LORA_WEIGHT, LORAS, MODEL, REVISION
 HERE = Path(__file__).parent
 OUT = HERE / "output" / "village"
 SCENE = "village-passing"
-SEEDS = [130, 131, 132, 133, 134, 135]
+SEEDS = [140, 141, 142, 143, 144, 145]  # v2e4 round; 130-135 were v1
 STYLE = "engraving"
 
 

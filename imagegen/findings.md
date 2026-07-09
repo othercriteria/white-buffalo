@@ -512,3 +512,21 @@ the mechanism ("two poles crossed and lashed over the saddle at the
 withers, butt ends dragging behind"); continuation from the final
 checkpoint via --network_weights, ~6 epochs, save every 2; try @0.8 in
 the next sweep against the near-field pull.
+
+## Village v2 continuation: physicality validated, ep4 is the deploy (2026-07-09)
+
+Structure references worked exactly as DK predicted. v2 ladder:
+- P1 close probe: ep2 poles cross at the wrong end (mid-air X over the
+  drag); ep4 TEXTBOOK — lashed at the saddle, fore-ends splayed up past
+  the withers (the LOC-photo geometry, visibly learned), drag ends
+  grounded with a lashed load; v2-final regresses to clutter (an
+  unattached pole set at frame edge).
+- P2 production: ep4 @1.0 = the best village composition of the project
+  (procession legible at three depths, drags attached, crisp register);
+  v2-final reintroduces DETACHED POLE RAILS in the foreground at both
+  1.0 and 0.8.
+- Curriculum note: 6 continuation epochs; the physicality peak came at
+  +4, overfit/clutter by +6 — the fine ladder (save every 2) earned its
+  keep. Deployed: village_travois_v2e4_diffusers @1.0 (generate.py
+  "travois"; v1 kept as "travois-v1"). Scene negative gains "loose
+  poles lying on the ground". Production sweep seeds 140-145 rolling.
