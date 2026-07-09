@@ -259,3 +259,21 @@ Coat and shirt attested (20:13); worn boots attested via tracks (15:87,
 witnesses are unnerved by his COMPOSURE (steady unvarying walk, careful
 formal hand, neat camp, deliberate graves), not wildness — is now the
 controlling art direction in imagegen/morrow-reference.md.
+
+## Plate-driven re-read of the six illustrated scenes (2026-07-09)
+
+Six plates' worth of visual scrutiny bounced back at the text (JE I
+sighting, JE IV stake entry, the hollow entries, Ch 10 camp, Ch 11
+meadow, buffalo spec): NO tweaks forced. Logged observations, left as-is
+with reasons: "It faced the valley" (08:63) is Morrow's
+intention-attribution — his theology, keep; "no supplies" (19:5) vs the
+gear list (19:21) — supplies reads as provisions, and gear-without-food
+is the point; "bright against the snow, white on white" (20:21) vs
+"almost invisible" (12:111) — resolved by 20:57's "carry her own
+illumination," Farrell's perception working as designed.
+
+PROTECTED SYMMETRY (discovered): the calf trails the herd "by perhaps
+fifty yards" (02:25); the cow stands at "perhaps fifty yards" from
+Farrell (20:21). The gap she kept is the gap she grants — the same
+interval opens and closes the book, now embodied by the rhyme plates.
+Any future edit touching either distance should touch both knowingly.
