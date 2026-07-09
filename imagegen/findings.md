@@ -194,3 +194,30 @@ cow; almost-bull-but-cow is canon, not drift. Do not un-wrong her.
 Pick: s62 (whole-body white, breath steam, calm title sky, and her own
 deep track-line in the snow — unprompted, canon per 13:61) →
 art/cover.png.
+
+## Rule #5: period vantage (DK, 2026-07-09, from the cover sweep)
+
+Foreshortened, low-angle, close poses (cover s65/s71) read MODERN: they
+imply a point of view accessible only through photography and modern
+optics — a closeness no 1859 field artist could have had with a wild
+buffalo. The imagined engraver worked from sketchable distance: eye
+level or a gentle rise, subject's whole form in the picture plane,
+profile or three-quarter composition. This extends the diegetic
+discipline from WHAT is shown to HOW SEEING WORKED. Prompt side:
+"her whole form in view, seen level from a respectful distance";
+negative side: "close-up, foreshortening, low angle, dramatic
+perspective, wide-angle, looming". Applies to every plate with a living
+subject; evidence/object plates (stake, journal) may stand nearer, as
+their subjects permit approach.
+
+## Cover resolved (DK, 2026-07-09): s78, no reservations
+
+The period-vantage round (rule #5) closed the search. s78 = full profile
+at sketchable distance, whole form in the picture plane, PLUS the living
+details from the s62 line (breath steaming, her track-line, herd faint
+beyond, calm title-ready sky) — the creature and the naturalist's plate
+in one image. s62 retired to alternate; s74 (purest period plate:
+walking profile, Hornaday posture) retained as a STUDY/REFERENCE for
+future buffalo plates — its stance and snow texture are the register's
+benchmark. s76/s77 rejected for an invented steam column near the herd
+(reads as campfire — an uncanonical presence in her wintering valley).

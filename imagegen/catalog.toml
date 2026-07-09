@@ -24,8 +24,8 @@
 [cover]
 # The needle: cow-framed at bull scale (style A/B: everything drifts
 # bull-heavy). Sky left calm up top for eventual title space.
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored"
-prompt = "strictly monochrome ink, a great pure white bison cow, white over her whole body from her head to her hindquarters and legs, coat white as snow with a silver sheen, standing alone in deep snow, massive shoulders and a great humped back yet the narrower head and slender curved horns of a cow, the dark herd bunched small in the far distance behind her, breath steaming in severe cold, vast rolling treeless winter prairie under a calm gray sky"
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming"
+prompt = "strictly monochrome ink, a great pure white bison cow, white over her whole body from her head to her hindquarters and legs, coat white as snow with a silver sheen, her whole form in view, standing in three-quarter side view seen level across the snow from a respectful distance, alone in deep snow, massive shoulders and a great humped back, the dark herd bunched small in the far distance behind her, breath steaming in severe cold, vast rolling treeless winter prairie under a calm gray sky"
 aspect = "portrait"
 citations = ["16:17 (massive shoulders, humped back, taller than any cow)", "10:27 (silver sheen)", "12:17 (silver undertone, winter coat)", "04:61 (dark liquid buffalo eyes)", "12:111 (near-invisible against snow)", "20:23 (breath steaming)"]
 underdetermined = ["horn length/curve/color (bible gap)"]
