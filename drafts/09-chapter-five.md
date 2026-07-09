@@ -28,7 +28,7 @@ There was nothing else to do.
 
 ---
 
-The trading post appeared on the sixth day, squatting at the junction of two frozen creeks like something that had grown there rather than been built. It was a sod house, low and rough, with a roof of logs and turf that sagged in the middle under the weight of snow. Smoke rose from a chimney pipe, and a horse stood in a lean-to stable against the south wall, its breath steaming in the cold air.
+The trading post appeared on the sixth day, squatting at the junction of two frozen creeks like something that had grown there rather than been built. It was a house of cottonwood logs banked high with sod, low and rough, with a roof of poles and turf that sagged in the middle under the weight of snow. Smoke rose from a chimney pipe, and a horse stood in a lean-to stable against the south wall, its breath steaming in the cold air.
 
 I dismounted and tied my horse beside the other and went inside.
 

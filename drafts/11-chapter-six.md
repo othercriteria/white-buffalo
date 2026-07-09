@@ -50,7 +50,7 @@ I would find what I had come to find, and then I would deal with whatever came n
 
 I found the homestead on the afternoon of the fourth day.
 
-The creek made a bend around a low hill, and as I came around it I saw the sod house sitting in a small clearing perhaps a hundred yards ahead. It was a crude structure, smaller than the trading post, built of the same blocks of cut earth that passed for building material in this country. A barn—if you could call it that, a lean-to shelter barely large enough for a horse and a cow—stood behind it. A well had been dug near the front, a wooden frame above it to hold a pulley and rope. A small patch of ground, now buried under snow, marked where someone had tried to plant a garden.
+The creek made a bend around a low hill, and as I came around it I saw the sod house sitting in a small clearing perhaps a hundred yards ahead. It was a crude structure, smaller than the trading post, built of blocks of cut earth that passed for building material in this country. A barn—if you could call it that, a lean-to shelter barely large enough for a horse and a cow—stood behind it. A well had been dug near the front, a wooden frame above it to hold a pulley and rope. A small patch of ground, now buried under snow, marked where someone had tried to plant a garden.
 
 The place looked abandoned.
 
