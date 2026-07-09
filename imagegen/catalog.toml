@@ -20,6 +20,12 @@
 # Morrow (LoRA'd); Farrell chapters contribute evidence/places only; FARRELL
 # IS NEVER DEPICTED — compose from behind his eyes where his position
 # matters. Entries conflicting with this are marked shelved-by-policy.
+#
+# DEFERRED (DK 2026-07-09): ferry-bridge (Ch 3, Mississippi ferry with the
+# Rock Island bridge) — evaluate at assembly time, only if the plate
+# distribution leaves a large gap in that neighborhood of the text.
+# Held for a later pass: blizzard-recomposition (horse's mane in the
+# whiteout), frozen-hand (Ch 5, taste), ridge-watcher (JE VII, cleverness).
 
 [cover]
 # The needle: cow-framed at bull scale (style A/B: everything drifts
@@ -92,6 +98,21 @@ citations = ["11:53-79 (sod house, one window, stovepipe, latch; barn; well; gar
 underdetermined = []
 dni = "traces-only: exterior desolation; no interior violence evidence in this frame"
 
+[homestead-alive]
+# JE V, August 1857 — the surveillance plate: the living farm at
+# Morrow's watching distance. Rhyme partner of homestead (alive/dead —
+# sweep this scene's seeds against homestead.png's s100 massing).
+# FORMAT DOCTRINE FLEX (DK 2026-07-09): journal-side but LANDSCAPE —
+# a farm across a valley is intrinsically horizontal, and the
+# alive/dead rhyme with the existing landscape vignette outranks
+# format purity. Added 2026-07-09 (DK gap-fill ruling).
+negative = "mountains, peaks, crags, cliffs, alpine, forest, winter, snow, faces, close-up, foreshortening, weeping willow, frame house, clapboard, brick chimney, shingles, fence, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, seen level from a ridge across a wide summer valley, a small homestead far below: a low sod house with a thin thread of smoke, a plowed field beside it, a well frame near the door, washing on a line strung between two posts, two tiny figures at their work in the yard, brushy willows along the creek where it bends around a low hill, the valley grass moving under the wind, high summer light, the figures far too small for faces"
+aspect = "landscape"
+citations = ["10:67-71 (Aug 2 1857: sod house, plowed and planted field, well dug, woman hanging clothes on a line between two posts, the man coming out)", "10:43 (watched from the ridges)", "14:35 (the sod house seen from the ridge, smoke from their chimney, the man in his field)", "11:3 (creek bends around a low hill — same site as the winter vignette)", "12:69 (quarter-mile watching distance)"]
+underdetermined = ["yard layout beyond the cited elements"]
+dni = "distance enforced: tiny figures, no faces, no interiority — the watching itself is the subject"
+
 [graves]
 # Vignette-format pioneer (in-text landscape cut, format doctrine). The
 # audit line: UNMARKED — no crosses, no headstones (11:111); the model's
@@ -104,6 +125,46 @@ citations = ["11:111-113, 13:17-21 (two graves, side by side, rock cairns, rough
 underdetermined = []
 dni = "canonical trace of the killings — the permitted evidence, nothing more"
 
+[homestead-interior]
+# Ch 6/7, Farrell-side landscape cut, from the doorway (behind his
+# eyes). The DNI list ENUMERATES this room's permitted traces: the
+# scrubbed stain and the broken chair. The dress and coat on their pegs
+# do the real work. Bedframe smear (13:35) deliberately CUT — two
+# traces carry it; more would overload (kit-manifest lesson). Added
+# 2026-07-09 (DK gap-fill ruling).
+negative = "person, human figure, fire burning, flames, smoke, glowing window, warm light, lamplight, candlelight, curtains, wallpaper, plaster wall, brick, paneling, modern furniture, clutter, blood, red, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, a rough plank table thick with dust and one chair beside it, a second chair with a broken leg propped in the corner, a bed with blankets neatly made against the far wall, a cold cast-iron stove with its pipe rising through the sod roof, shelves of plain dishes and a few books, a woman's dark dress and a man's coat hanging side by side on pegs near the door, a patch of newer tamped earth in the packed-dirt floor near the threshold, deep stillness, no people"
+aspect = "landscape"
+citations = ["11:79 (table and two chairs, bed neatly made, cold stove with pipe through the sod roof, shelves with dishes and books, dress and coat on pegs)", "11:75-85 (gray light through the small window, closed-up smell, dust thick on the table)", "13:33 (dark patch dug out and tamped with fresh dirt near the door; a crack in the wall; the broken chair propped in the corner as if meant for repair)"]
+underdetermined = ["room arrangement beyond cited anchors (twenty-by-fifteen analog per trading post; text gives no dimensions here)"]
+dni = "the enumerated permitted traces ONLY (scrubbed stain, broken chair); no violence depicted, no blood"
+
+[tracks-north]
+# Ch 7 close — the pursuit's thesis as a minimal in-text cut. EMBLEM
+# CLASS: rule #5 must be enforced (level vantage asserted; the model's
+# prior for track studies is top-down). Added 2026-07-09 (DK ruling).
+negative = "overhead view, aerial view, top-down, bird's eye view, map, person, human figure, animal, buffalo in frame, horse, mountains, peaks, crags, cliffs, alpine, trees, forest, fence, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a low level view across snow-covered ground under a gray sky, two trails of tracks running side by side away from the viewer toward the empty northern horizon: the deep round hoofprints of a single heavy buffalo and the smaller boot prints of a man walking behind, the prints softened at their edges by later snows, gently rolling white emptiness, nothing else moving, no people, no animals in view"
+aspect = "landscape"
+citations = ["13:57-69 (two sets: one very large, deep hoofprints of an animal heavier than any horse or ox; the boot-prints of a man; old, filled in and softened, but the shape still there; leading away north)", "15:83-87 (buffalo tracks deep, human tracks lighter, worn boots, steady stride, never varying)"]
+underdetermined = []
+dni = "clean — the trace that convicts, nothing more"
+
+[catherine-daguerreotype]
+# STUDY (DK 2026-07-09): "let's do some studies and see how we feel."
+# Engraving-after-daguerreotype — a genuine period genre; the imagined
+# engraver's source is the object Farrell carries (03:3). The book's
+# absent center given a face; the only human face in the plates besides
+# Morrow's. NOT for promotion without DK sign-off. Studies run in
+# --prompt mode with a tailored negative: the style negative's
+# border/frame terms would fight the oval vignette fade.
+negative = "color, tinted, hand-colored, photograph, smiling, open mouth, jewelry, hat, bonnet, modern hairstyle, loose hair, ornate frame, decorative border, flowers, text, lettering, signature"
+prompt = "strictly monochrome ink, an engraved oval vignette portrait after a daguerreotype, a young woman of the eighteen fifties seated against a plain studio ground, dark hair parted in the center and drawn smoothly back, pale light-colored eyes, a dark day dress with a small white collar, her hands folded, her expression composed and grave from holding still for the long exposure, fine stipple and line work fading to blank paper at the edge of the oval"
+aspect = "portrait"
+citations = ["03:3 (dark hair, pale eyes, expression composed in the way that daguerreotypes require, holding still for the long exposure; she looked like her father)", "01:181 (Farrell holds it to the window light)", "01:47 (Aldridge fifty-eight; Catherine his only child, married ~3 years — early-to-mid twenties)"]
+underdetermined = ["everything beyond hair/eyes/composure — face shape free (she resembles Aldridge, whom we never depicted); dress detail is period-convention fill"]
+dni = "clean — Catherine alive, from the daguerreotype only; no scene, no fate implied"
+
 [morrow-witnessed]
 # Vignette. Distance rule: figure too small for the LoRA; identity
 # carried by silhouette (tall, thin, on foot, behind the herd).
@@ -112,6 +173,18 @@ prompt = "strictly monochrome ink, far across open winter prairie under a gray s
 aspect = "landscape"
 citations = ["05:117, 07:179 (thin as a rail, beard down past his chest)", "07:117 (~100 yards behind the herd)", "04:13 (clothes hang loose)", "15:87 (pace steady, never varying)"]
 underdetermined = ["coat/hat/boots — never described (bible gap; keep him distant/small partly for this reason)"]
+dni = "clean"
+
+[speaking-to-her]
+# JE II, July 1856 — fills the journal middle (the catalog's summer
+# desert). The waiting made visual: a hundred yards of grass between
+# them. Added 2026-07-09 (DK gap-fill ruling).
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, winter, snow, cattle, cows, oxen, dairy calf, domestic livestock, farm animals, herd nearby, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, high summer on the open plains, a young white buffalo calf grazing alone in deep brown grass, apart from the herd small and dark in the far distance, her coat white as snow, longer-legged than a spring calf, and on a low rise a hundred yards from her, jmorrow, the tall thin bearded man seated alone in the grass, still, watching her, the late sun low, the wide grass moving under the wind, seen level from a distance"
+aspect = "portrait"
+lora = "morrow-ep12"
+citations = ["04:51-63 (July; evenings grazing apart; spoke to her from a rise perhaps a hundred yards away; 'I am waiting for you'; sun going down)", "04:5-7 (seven weeks on: legs longer, body fuller, coat pure)", "02:27 (white as snow, not pale, not cream)"]
+underdetermined = ["exact calf size at ~9 months (born out of season; 'longer-legged than a spring calf' is the safe register)"]
 dni = "clean"
 
 [morrow-hollow]
