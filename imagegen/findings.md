@@ -308,3 +308,18 @@ plates. STANDING RULE: when material culture carries a scene, commission
 the research BEFORE prompt-craft. The reference docs
 (homestead-construction.md, lakota-white-buffalo.md, pd-engraving-
 sources.md) are now part of the prompt pipeline, not background.
+
+## Plate 7: graves (2026-07-09) — first vignette, three rounds
+
+Round 1: cross-negative held; cairn form right at s91 but house rendered
+frame+chimney and willows rendered WEEPING (mourning-emblem prior).
+Round 2 (post-research): house perfected (textbook Niobrara soddy) but
+cairns regressed to dolmens/cones — the enriched house description ate
+the attention budget. **Corollary to rule #2 banked: the attention
+budget is zero-sum across charges; compress validated details to their
+minimal token once won.** Round 3 (house compressed): s93 passes all
+gates — flat-stone-blanketed low rectangles side by side, spare gathered
+slabs scattered near (the hauling legible), willow thickets, sod massing
+at distance. Note: a weeping willow returned THROUGH the negative in
+s91 — negatives are probabilistic, not gates; the zoom check remains the
+gate. → art/graves.png (landscape; in-text vignette per format doctrine).
