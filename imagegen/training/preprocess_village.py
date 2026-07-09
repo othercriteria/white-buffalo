@@ -105,5 +105,23 @@ def main():
         print(f"{name}.png {im.size}")
 
 
+# Dataset v2 additions (2026-07-09, physicality round): the two flagged
+# photos come IN — structure over register purity; captions bind
+# "photograph" so the register stays separable. Diagram files from
+# manifest-structure.md get appended here after eyeballing.
+OPS_V2 = {
+    "photo-nara-stump-horn-travois": (
+        "photo-nara-cheyenne-stump-horn-horse-travois.jpg",
+        0,
+        (0.02, 0.02, 0.98, 0.97),
+    ),
+    "photo-loc-blackfoot-travois": (
+        "photo-loc-blackfoot-travois.jpg",
+        0,
+        (0.02, 0.035, 0.98, 0.925),
+    ),
+}
+OPS.update(OPS_V2)
+
 if __name__ == "__main__":
     main()

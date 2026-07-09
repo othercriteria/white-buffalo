@@ -16,3 +16,11 @@ bucket_no_upscale = false
 image_directory = "/home/dlk/workspace/white-buffalo/imagegen/training/dataset/village"
 cache_directory = "/home/dlk/workspace/white-buffalo/imagegen/training/cache/village"
 num_repeats = 10
+
+# v2 (2026-07-09): structure references — ethnographic line diagrams
+# (Ewers BAE 159, Wissler 1910) + rigging photographs. Lower repeats:
+# structure informs, art dominates. See village_raw/manifest-structure.md.
+[[datasets]]
+image_directory = "/home/dlk/workspace/white-buffalo/imagegen/training/dataset/village_structure"
+cache_directory = "/home/dlk/workspace/white-buffalo/imagegen/training/cache/village_structure"
+num_repeats = 5

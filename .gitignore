@@ -27,4 +27,4 @@ imagegen/training/.venv/
 imagegen/training/cache/
 imagegen/training/output/
 imagegen/training/village_raw/*
-!imagegen/training/village_raw/manifest.md
+!imagegen/training/village_raw/manifest*.md
