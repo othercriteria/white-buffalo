@@ -633,3 +633,24 @@ period-true for any future portrait.
   cover's whole-form-at-respectful-distance grammar.
 - tracks-north r2: positive absence WORKED (frames empty); per-print
   description invites crater-scale prints; v3 describes only the trail.
+
+## speaking-to-her landed; GENERATION PHASE CLOSED (2026-07-10)
+
+v4 broke the inversion (3/3 lateral) — the fix was BOTH moves at once:
+starve the magnet (calf reduced to "a small white shape", zero
+morphology) AND flex to landscape (two-subject lateral compositions are
+intrinsically horizontal; homestead-alive precedent). Rule banked:
+in a two-subject scene, any richly described subject eats the
+foreground — describe the SPACE, starve the subjects, let the layout
+carry them. s231 promoted: bison-right white calf with her HEAD RAISED
+TOWARD HIM — 04:61's "She raised her head and looked at me" landed
+unprompted — Morrow identity-legible on his rise, a hundred yards of
+wind-bent grass between them, the herd a faint line.
+
+SCOREBOARD: 16 plates in art/ — every unshelved catalog scene promoted.
+tracks-north s222 (two trails, one heavier) closed the evidence chain;
+the homestead alive/dead pair closed the watching theme. Shelved by
+policy: broken-oar, blizzard, reading-night. Shelved by decision:
+catherine-daguerreotype. Deferred to assembly: ferry-bridge (gap
+check), fold-out s181 vs portrait s175, corner-crop pass, plate
+placement.
