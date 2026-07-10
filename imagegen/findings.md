@@ -654,3 +654,23 @@ policy: broken-oar, blizzard, reading-night. Shelved by decision:
 catherine-daguerreotype. Deferred to assembly: ferry-bridge (gap
 check), fold-out s181 vs portrait s175, corner-crop pass, plate
 placement.
+
+## DK's four catches: three re-rolls + the paper clamp (2026-07-10)
+
+1. speaking-to-her: whites-vs-cream fixed by PHYSICS, not re-roll —
+   paper_clamp.py (bright-band paper estimate; margins useless, plates
+   fill edge to edge). The sun became reserved paper, which is how
+   period engravings render suns. AUDIT FINDING: the violation is
+   universal (0.5-10% of pixels on all 16 plates; village-passing worst)
+   — batch clamp offered as an assembly-phase pass for DK's eyeball.
+2. homestead (dead) s241 re-promoted: the alive/dead pair now shows THE
+   SAME BUILDING (s210's construction ruled canonical — the dead plate
+   had carried the lumpy-cobble caveat since promotion). Residue: blocks
+   read loaf-rounded at 2x on BOTH plates now — symmetric, honest.
+3. tracks-north s241 re-promoted: footfall-spaced separate prints, the
+   heavier/lighter trail asymmetry legible (hoof-round vs boot-neat).
+   v3's furrow fusion (DK: "no discernible steps") negated + spacing
+   asserted.
+4. homestead-interior v3 in flight: research-backed garment hanging
+   (reference/interior-garments-research.md — no hangers before 1869;
+   pegs + collar loops; the crumpled-cone hang; waist-seam dress cue).
