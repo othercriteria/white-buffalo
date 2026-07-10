@@ -107,7 +107,23 @@ farrell-reference.md anchors s701/s702 as caption tokens).
    - SFT data options: self-distillation (train on our own cropped
      generations — no sourcing needed) or public-domain 19th-c. plates
      (Internet Archive, Old Book Illustrations) for compositional variety.
-7. Catalog run; coherence findings filed; curation to art/
+7. ~~Catalog run; coherence findings filed; curation to art/~~ (CLOSED
+   2026-07-10: 16 plates promoted — every unshelved scene landed; full
+   history in imagegen/findings.md. Two LoRAs trained: morrow_engraving_v1
+   and village_travois_v2e4. Text enriched five times by the coherence
+   loop working as designed.)
+
+## Assembly phase (open, 2026-07-10)
+
+- Plate placement and sequencing against the text
+- Fold-out decision: village-passing s181 panorama (2048x832, validated)
+  vs the promoted portrait s175 — bindery/format call
+- ferry-bridge (Ch 3): generate only if placement leaves a large
+  illustration gap in that neighborhood (DK rule)
+- Corner-crop pass over all 16 plates (residual margin marks)
+- homestead wall-texture revisit if vignettes print large
+- Shelved standing: broken-oar, blizzard, reading-night (policy);
+  catherine-daguerreotype (decision — the absent center stays absent)
 
 ## Format doctrine (DK, 2026-07-09)
 
