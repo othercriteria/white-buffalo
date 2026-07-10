@@ -599,3 +599,15 @@ carry aspect, so the wide pair overwrote the 1824x768 pair — use
 separate --output-dir per aspect until the pattern includes it. Ratio
 choice (2.4 vs 2.5:1) is a bindery question; fold-out vs portrait
 coexistence is an assembly decision — both are banked.
+
+## Catherine shelved by decision (2026-07-10)
+
+The studies did their job: s190 proved the capability (immaculate
+oval-vignette genre form, credible grave face) and thereby made the
+cost concrete — DK, on seeing them: leaning against inclusion
+"regardless of quality." Shelved as a DECISION, not a gap: the absent
+center stays absent, the same principle that keeps Farrell undepicted.
+Banked from the round: the googly-eye fix transfers (assert eye quality
+positively — settled, slightly lowered, lids heavy from the exposure —
+plus wide/staring negatives); daguerreotype sitters make the fix
+period-true for any future portrait.

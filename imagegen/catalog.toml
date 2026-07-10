@@ -151,14 +151,18 @@ underdetermined = []
 dni = "clean — the trace that convicts, nothing more"
 
 [catherine-daguerreotype]
-# STUDY (DK 2026-07-09): "let's do some studies and see how we feel."
-# Engraving-after-daguerreotype — a genuine period genre; the imagined
-# engraver's source is the object Farrell carries (03:3). The book's
-# absent center given a face; the only human face in the plates besides
-# Morrow's. NOT for promotion without DK sign-off. Studies run in
-# --prompt mode with a tailored negative: the style negative's
-# border/frame terms would fight the oval vignette fade.
-negative = "color, tinted, hand-colored, photograph, smiling, open mouth, jewelry, hat, bonnet, modern hairstyle, loose hair, ornate frame, decorative border, flowers, text, lettering, signature"
+# SHELVED-BY-DECISION (DK 2026-07-10, after studies): the studies
+# proved the capability (s190: immaculate genre form, credible face)
+# and thereby the cost — the book's absent center would collapse into
+# one engraver's face. Same principle that keeps Farrell undepicted:
+# Catherine stays a hand in letters, a draft broken mid-sentence, a
+# dress on a peg. Studies preserved in output/catherine/ as record.
+# BANKED for future portrait work (the googly-eye trick, per morrow):
+# assert eye quality positively — "gaze settled and slightly lowered,
+# eyelids heavy from holding still" (period-true for daguerreotype
+# sitters) — plus negatives "wide eyes, staring, round eyes, bulging
+# eyes"; never leave eyes to the prior.
+negative = "color, tinted, hand-colored, photograph, smiling, open mouth, wide eyes, staring, round eyes, bulging eyes, jewelry, hat, bonnet, modern hairstyle, loose hair, ornate frame, decorative border, flowers, text, lettering, signature"
 prompt = "strictly monochrome ink, an engraved oval vignette portrait after a daguerreotype, a young woman of the eighteen fifties seated against a plain studio ground, dark hair parted in the center and drawn smoothly back, pale light-colored eyes, a dark day dress with a small white collar, her hands folded, her expression composed and grave from holding still for the long exposure, fine stipple and line work fading to blank paper at the edge of the oval"
 aspect = "portrait"
 citations = ["03:3 (dark hair, pale eyes, expression composed in the way that daguerreotypes require, holding still for the long exposure; she looked like her father)", "01:181 (Farrell holds it to the window light)", "01:47 (Aldridge fifty-eight; Catherine his only child, married ~3 years — early-to-mid twenties)"]
