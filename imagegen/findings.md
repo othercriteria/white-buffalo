@@ -584,3 +584,18 @@ NECESSARY, not a compromise. Five prompt generations, two LoRA training
 runs, one text enrichment: the capability wall is a plate.
 -> art/village-passing.png. Catalog coverage complete except
 shelved-by-policy scenes and the new gap-fill batch.
+
+## Fold-out validated (2026-07-09)
+
+First panorama studies at 2048x832 (~2.5:1): NO repetition stamping, no
+composition breakdown — the line subject wants the long frame. s181 is
+the standing candidate: a continuous travois file (upswept crossed
+poles, grounded drags — s170's energy at panorama scale), dogs and
+walkers threaded through, register consistent with v5. s180 elegant but
+rider-heavy. Process notes: the zsh no-word-split hazard struck AGAIN
+(a set -- $spec loop passed "foldout 180" as one token; exit 0, zero
+files — file verification caught it); and generate.py filenames don't
+carry aspect, so the wide pair overwrote the 1824x768 pair — use
+separate --output-dir per aspect until the pattern includes it. Ratio
+choice (2.4 vs 2.5:1) is a bindery question; fold-out vs portrait
+coexistence is an assembly decision — both are banked.

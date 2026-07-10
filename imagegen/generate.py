@@ -8,9 +8,9 @@ time. Free-prompt mode (--prompt) exists for smoke tests and probes only.
 """
 
 import argparse
-import tomllib
 from pathlib import Path
 
+import tomllib
 import torch
 from diffusers import ZImagePipeline
 
@@ -25,6 +25,10 @@ ASPECTS = {
     "portrait": (832, 1216),
     "landscape": (1216, 832),
     "square": (1024, 1024),
+    # Fold-out studies (format doctrine: one gatefold exception may
+    # exist; candidate = village-passing). Two ratios: ~2.4:1 and ~2.5:1.
+    "foldout": (1824, 768),
+    "foldout-wide": (2048, 832),
 }
 
 # Character LoRAs (imagegen/loras/, diffusers format). Recipe per
