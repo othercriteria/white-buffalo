@@ -5,20 +5,21 @@ Single pipeline load; reads prompt/negative/aspect/lora from the
 production catalog so the sweep tests exactly what generate.py ships.
 """
 
+import tomllib
 from pathlib import Path
 
-import tomllib
 import torch
 from diffusers import ZImagePipeline
+
 from generate import ASPECTS, DEFAULT_LORA_WEIGHT, LORAS, MODEL, REVISION
 
 HERE = Path(__file__).parent
 OUT = HERE / "output" / "village"
-# v3 round: distance-led prompt + combed pole-marks (A) vs resting
-# travois study (B). 130-135 v1, 140-145 v2e4 round 1.
+# v4 round: register fix (tonal coverage forced, sparse-outline
+# negated). 130-135 v1, 140-145 v2e4 r1, 150-153 v3 (composition
+# solved, register drifted; B study retired).
 SWEEPS = {
-    "village-passing": [150, 151, 152, 153],
-    "village-passing-b": [150, 151],
+    "village-passing": [160, 161, 162, 163],
 }
 STYLE = "engraving"
 

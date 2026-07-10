@@ -530,3 +530,27 @@ Structure references worked exactly as DK predicted. v2 ladder:
   keep. Deployed: village_travois_v2e4_diffusers @1.0 (generate.py
   "travois"; v1 kept as "travois-v1"). Scene negative gains "loose
   poles lying on the ground". Production sweep seeds 140-145 rolling.
+
+## Register drift quantified; village v4 (2026-07-09)
+
+DK's eye on s153 ("drifted in a way... that would show up in pixel and
+3x3 patch statistics") -> register.py built (mean/ink/paper fraction,
+3x3 local std, |Laplacian|; z-scores vs the promoted corpus). Finding:
+the drift is BLANK PAPER — corpus 25%+/-12, every travois-LoRA
+candidate 71-76% (z +3.8 to +4.2); linework stats scatter both ways.
+The LoRA's Catlin-outline plates and diagram pages taught
+sparse-on-white; the distance composition gave it room. v4: tonal
+coverage forced in the prompt (worked sky, dense-hatched grass, "no
+blank paper"), sparse-outline negatives, plus a weight-0.8 probe pair.
+register.py joins the gate battery alongside rhyme.py and the zoom
+gate. B (resting travois) retired: one seed resolved, one rendered
+tipi-cones; the canon anchors (combed pole-marks + dog-travois
+midground) made it unnecessary.
+
+Text: JE VI gains the travois dismissal ("They moved their whole world
+on the poles. Everything I own rolls into one blanket. There is nothing
+in my life that needs dragging.") — DK's question about Morrow's
+relationship to the technology answered in canon: conscious
+professional dismissal, the divestment theology completing the passage.
+Farrell untouched: he never encounters one; his store-bought saddlebag
+logistics ARE the contrast, structurally.

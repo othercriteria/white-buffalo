@@ -58,6 +58,8 @@ I am learning to be more like them.
 
 A village passed to the west of me today, moving south with the season—travois and dogs and riders strung out along a ridgeline two miles off, the long lodgepoles dragging behind the horses, a loose herd of spare horses driven along behind. Their line bent wider as it came abreast of me, the way a river bends around a snag, and by evening they were gone. Where they had crossed, the grass lay combed flat by the poles, long marks running south.
 
+They moved their whole world on the poles. Everything I own rolls into one blanket. There is nothing in my life that needs dragging.
+
 The supplies I brought with me are nearly exhausted. My knife is dull, my clothes are worn, my body is thinner than it has ever been. But these things do not trouble me as they once would have. I have learned to eat what the land provides, to shelter where the wind is blocked, to move when movement is needed and rest when rest is possible.
 
 I have become simpler. Stripped of everything not needed.
