@@ -96,8 +96,12 @@ dni = "clean"
 # CANONICAL (the dead plate carried the lumpy-cobble caveat from
 # promotion — this re-roll settles both). House block + anti-cottage
 # negatives ported from homestead-alive v2 (proven).
-negative = "mountains, peaks, crags, cliffs, alpine, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, masonry chimney, shingles, fence, smoke, dog, person, human figure, weeping willow, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a low flat-roofed sod house buried in snow, its walls of flat-cut sod bricks laid in courses, a dark door opening and one small dark window, a cold stovepipe and no smoke rising through the sod roof, in a small clearing where a frozen creek bends around a low hill, a pole lean-to behind it, a well frame with windlass near the door, brushy willow thickets along the creek, scattered pines on the far north-facing slope, December, utterly still"
+# v3 (2026-07-10): DK — s241 "acquired a moat": the creek wrapped the
+# house in open dark water. Topology fixed (the creek bends around the
+# HILL, at a distance) and state fixed (frozen and snow-covered — it is
+# December; no open water anywhere).
+negative = "moat, pond, lake, open water, dark water, water around the house, island, ditch, mountains, peaks, crags, cliffs, alpine, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, masonry chimney, shingles, fence, smoke, dog, person, human figure, weeping willow, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a low flat-roofed sod house buried in snow on open level ground, its walls of flat-cut sod bricks laid in courses, a dark door opening and one small dark window, a cold stovepipe and no smoke rising through the sod roof, a pole lean-to behind it, a well frame with windlass near the door, and off beyond the house a frozen creek lying white and snow-covered under the ice where it bends around a low hill, brushy bare willow thickets marking its course, scattered pines on the far north-facing slope, December, utterly still"
 aspect = "landscape"
 citations = ["11:53-79 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:3-7 (willow-lined valley, broken hills, pines on north slopes)", "10:75 (clothesline)", "11:9 (December, no smoke)"]
 underdetermined = []
@@ -149,7 +153,11 @@ dni = "canonical trace of the killings — the permitted evidence, nothing more"
 # dress cue is the waist seam + dense waist pleating + limp full-skirt
 # yardage pooling low; the man's sack coat hangs slack from its collar.
 negative = "person, human figure, coat hanger, clothes hanger, wire hanger, shoulder hanger, hanging rod, closet rail, modern dress, short dress, fire burning, flames, smoke, glowing window, warm light, lamplight, candlelight, curtains, wallpaper, plaster wall, brick, paneling, modern furniture, clutter, blood, red, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, dust thick on a rough plank table, the bed neatly made against the far wall, a cold iron stove, and near the door, hanging from rough wooden pegs by loops at their collars, a woman's dark full-skirted work dress, its fabric bunched at the peg and falling in long limp folds with dense pleating at the waist seam, and beside it a man's loose dark wool coat hanging slack, below them a chair with a snapped front leg propped against the corner, and in the packed-earth floor by the threshold a swept patch of newer darker tamped dirt, no people, deep stillness"
+# v4: v3's rich garment clause became its own subject — all 3 seeds
+# split into garment-still-life + glimpsed room (one dress on invisible
+# shoulders). v4 = v2's proven room language (s210's coherent single
+# room) + the garment fix folded in compactly.
+prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, dust thick on a rough plank table, the bed neatly made against the far wall, a cold iron stove, and near the door a woman's dark full-skirted dress and a man's loose dark coat hanging side by side from wooden pegs, the cloth bunched at the pegs and falling in long limp folds, below them a chair with a snapped front leg propped against the corner, and in the packed-earth floor by the threshold a swept patch of newer darker tamped dirt, no people, deep stillness"
 aspect = "landscape"
 citations = ["11:79 (table and two chairs, bed neatly made, cold stove with pipe through the sod roof, shelves with dishes and books, dress and coat on pegs)", "11:75-85 (gray light through the small window, closed-up smell, dust thick on the table)", "13:33 (dark patch dug out and tamped with fresh dirt near the door; a crack in the wall; the broken chair propped in the corner as if meant for repair)"]
 underdetermined = ["room arrangement beyond cited anchors (twenty-by-fifteen analog per trading post; text gives no dimensions here)"]
