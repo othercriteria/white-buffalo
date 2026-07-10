@@ -66,7 +66,11 @@ I came down off the ridge in the dark and got upwind of them and showed myself, 
 
 I tried twice more before first light. A herd moves when its leader moves, and she would not be moved. If I pressed them harder they might run, and a running herd in the dark would bring the man out of his house with his rifle. I would be handing them to each other.
 
-I thought of driving the settlers off instead—killing their stock, burning their hay. But frightened people talk. They would carry the story of this valley to the post and the fort, and men would come to look at her. The dead carry nothing.
+There is one more way. I have been circling it for three nights. She watches me as I watch her; she has let me into the edge of her world, whatever I am in it. If I walked out of this valley, north, the way we have gone north together before—she might follow. The herd goes where she goes. The whole matter would lift and be gone, and the two below would never know what had grazed within a mile of them.
+
+She might follow. Or she might stand and watch me go, one more animal moving on the land, and the distance between us would open and not close. I have spent two years learning to be near her without asking her for anything. If I asked and she did not answer, I would have nothing.
+
+The settlers keep their lives on the one condition I cannot meet. It is not their fault. It was never anything they did.
 
 ---
 

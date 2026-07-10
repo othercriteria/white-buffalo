@@ -116,7 +116,7 @@ difference once.
 
 ## Enrichment candidates (DK's menu, reader-motivated)
 
-### 8. JE VII: dramatize the wrestling — APPLIED 2026-07-10 (new July 13 entry: the failed haze — she will not be moved, pressing risks handing the man and the herd to each other; scare-them-off rejected because 'frightened people talk... The dead carry nothing'; retro-supports JE VIII's 'She does not fear me')
+### 8. JE VII: dramatize the wrestling — APPLIED 2026-07-10, REVISED same day to V6 per DK (the failed haze + the refused exit: leading her away might save everyone and he cannot risk asking; 'The settlers keep their lives on the one condition I cannot meet.' Terror-tactics paragraph cut after a six-variant forced-alternatives pass; the rejection is now theological, not tactical)
 "I have wrestled with it for weeks. I have tried to find another way.
 I have failed" (14:65) — and a reader can ask why he didn't simply
 haze the herd elsewhere. One new dated entry (~120 words) between

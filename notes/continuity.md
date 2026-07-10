@@ -435,3 +435,19 @@ JE VIII's "She does not fear me."
 Gold: Cherry Creek/Pikes Peak fever in the Council Bluffs saloons
 (period-true for Nov-Dec 1858); the buffalo rumor arrives "under the
 gold talk"; Fort Kearny's vague gold-strike line aligned.
+
+## JE VII July 13: V6 "the road not taken" chosen (2026-07-10, DK)
+
+The terror-tactics paragraph (considered/rejected scare-them-off, "The
+dead carry nothing") was replaced after a forced-alternatives exercise
+(six variants; scratch/je7-terror-paragraph-variants.md). Final form:
+the failed haze + the refused exit — leading her away would work, and
+he cannot risk asking ("If I asked and she did not answer, I would
+have nothing... The settlers keep their lives on the one condition I
+cannot meet"). The rejection is theological, not tactical: it reverses
+the operator-drift, dramatizes Jul 17's existing "more important than
+the settlers" hierarchy, and makes JE IX's "who did me no harm" an
+honest echo. Standing observation (do not put in text): the man who
+could wait three years for a buffalo could not wait out two
+homesteaders — patience, his one virtue, fails exactly where it would
+have saved four lives.
