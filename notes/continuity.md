@@ -362,3 +362,14 @@ move... A man sitting still on a ridge is a tree, or a rock."). Notes:
 - JE VI 12:69 "hidden in a stand of cottonwoods" → occlusion wording
   ("where the trees broke my shape against the sky") — position, not
   concealment; Morrow does not skulk (DK).
+
+### JE VI village passage enriched from travois research (2026-07-09, DK-directed)
+
+12:59 gains three research-true details at Morrow's observational
+distance: the long lodgepoles dragging behind the horses (Ewers BAE 159
+— the moving village's drag-poles ARE the lodgepoles), a loose herd of
+spare horses driven along behind, and the closing trace: "the grass lay
+combed flat by the poles, long marks running south." The last is the
+book's native idiom (evidence over event) and licenses the plate's
+empty-foreground anchor. Catalog claims that previously traced only to
+research now trace to canon.

@@ -224,12 +224,31 @@ dni = "clean — the object only; no maker shown (Lakota interiority stays off-p
 # (dataset compositions); the text pins the village two miles off —
 # distance language must hold the line. Negative hardened vs the LoRA's
 # leak modes (sled, wheels, oil-wash register).
+# v3 prompt (2026-07-09, post text-enrichment): DISTANCE LEADS (the v2
+# prompt led with travois mechanics, which pulled them into the near
+# field). Foreground anchor = the combed pole-marks, now CANON (12:59
+# enriched: lodgepoles, driven horses, grass combed flat — the research
+# flowed back into the text, DK-directed pass). Ridgeline strength
+# exploited; foreground riders negated.
 lora = "travois@1.0"
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, wagons, covered wagons, cart, wheels, sled, sledge, harness team, plow, loose poles lying on the ground, tipis standing, dust cloud, oil painting, tonal wash, soft wash, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, horses dragging long lodge-poles that trail behind them on the ground in low triangles, pole-drags behind horse after horse, bundles slung between the trailing poles, small dog-drawn pole-drags low among them: a Lakota village moving as a broad loose procession of tiny dark silhouettes along a distant low ridgeline two miles off, riders scattered ahead and on the flanks, a separate loose mass of driven horses trailing, seen from far across open autumn prairie under a wide gray sky, figures far too small for faces, brown October grass in the empty foreground"
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, riders in the foreground, horses in the near ground, figures in the foreground, wagons, covered wagons, cart, wheels, sled, sledge, harness team, plow, loose poles lying on the ground, tipis standing, dust cloud, oil painting, tonal wash, soft wash, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, seen from far across open autumn prairie under a wide gray sky, a Lakota village on the move: a broad loose procession of tiny dark silhouettes strung out along a distant low ridgeline two miles off, horses dragging long lodgepoles that trail on the ground in low triangles behind horse after horse, bundles slung between the trailing poles, small dog-drawn pole-drags low among them, riders scattered ahead and on the flanks of the distant line, a loose mass of driven horses trailing behind it, the near ground entirely empty, wind-bent brown October grass combed flat into long parallel pole-marks running toward the distant line, figures far too small for faces"
 aspect = "portrait"
-citations = ["12:59 (travois, dogs, riders on a ridgeline two miles off; line bends wider as it comes abreast)"]
-underdetermined = ["all gear/horse detail (bible gap — deliberate thinness; keep the distance)"]
+citations = ["12:59 (travois, dogs, riders strung out along a ridgeline two miles off; the long lodgepoles dragging behind the horses; a loose herd of spare horses driven along behind; line bends wider as it comes abreast; the grass combed flat by the poles, long marks running south)"]
+underdetermined = ["remaining gear detail (deliberate thinness; keep the distance)"]
+dni = "distance enforced: no faces, no interiority"
+
+[village-passing-b]
+# STUDY variant (DK 2026-07-09): a single resting travois as the
+# mid-ground concept anchor instead of the pole-marks. NOT canon (no
+# text supports an unhitched travois left in the grass) — if it wins,
+# it needs the engraver's-composition gloss and DK sign-off.
+lora = "travois@1.0"
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, riders in the foreground, horses in the near ground, figures in the foreground, wagons, covered wagons, cart, wheels, sled, sledge, harness team, plow, tipis standing, dust cloud, oil painting, tonal wash, soft wash, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, seen from far across open autumn prairie under a wide gray sky, a Lakota village on the move: a broad loose procession of tiny dark silhouettes strung out along a distant low ridgeline two miles off, horses dragging long lodgepoles that trail on the ground in low triangles behind horse after horse, riders scattered ahead and on the flanks of the distant line, a loose mass of driven horses trailing behind it, and in the empty middle distance a single travois at rest in the brown grass, its two long crossed poles and lashed load rack lying tilted where it was set down, no one near it, wind-bent October grass, figures far too small for faces"
+aspect = "portrait"
+citations = ["12:59 (the distant line, as village-passing)", "travois structure per training references (Ewers fig18/fig26)"]
+underdetermined = ["the resting travois itself — engraver's license, pending DK"]
 dni = "distance enforced: no faces, no interiority"
 
 [reading-night]
