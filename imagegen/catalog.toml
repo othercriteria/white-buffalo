@@ -204,13 +204,16 @@ dni = "clean"
 # domestic anatomy). Lateral composition asserted: the hundred yards of
 # empty grass between them IS the subject. Calf morphology block from
 # first-sighting (proven).
-# v3 (2026-07-10): rounds 1-2 both inverted (giant foreground calf —
-# rich calf description is a subject magnet; foreground white bovines
-# default to cattle). Borrowing the COVER's proven grammar wholesale:
-# whole-form-at-respectful-distance + the full anti-close battery.
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, winter, snow, cattle, cows, oxen, dairy calf, domestic livestock, farm animals, cattle horns, herd nearby, animal in the foreground, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, high summer on the open plains, a young white buffalo calf, stocky and woolly-headed with the first rise of a shoulder hump, her coat white as snow, her whole form in view seen level across the grass from a respectful distance, grazing alone in deep brown grass, and a hundred yards from her, seated on a low rise with the same open grass between them, jmorrow, the tall thin bearded man watching her, both figures small in the wide plate, the herd small and dark in the far distance, the late sun low, the wide grass moving under the wind"
-aspect = "portrait"
+# v4 (2026-07-10): THREE rounds of inversion (9/9 seeds) — the cover
+# grammar governs a single subject's distance, not two-subject layout;
+# any describable calf richness magnetizes the foreground. v4 starves
+# the magnet (calf = "a small white shape", zero morphology) and
+# FLEXES TO LANDSCAPE (homestead-alive precedent: a lateral two-subject
+# composition with a hundred yards between them is intrinsically
+# horizontal).
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, winter, snow, cattle, cows, oxen, dairy calf, domestic livestock, farm animals, cattle horns, herd nearby, animal in the foreground, large animal, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a wide level view across open summer prairie under a wide evening sky, deep brown grass moving under the wind from one side of the plate to the other, and in all that emptiness only two small distant figures far apart: at one side the small white shape of a grazing buffalo calf, bright against the brown grass, and at the other, seated on a low rise, jmorrow, the tall thin bearded man watching her across a hundred yards of open grass, the herd a faint dark line on the horizon, the late sun low, both figures small and far off, seen from a great distance"
+aspect = "landscape"
 lora = "morrow-ep12"
 citations = ["04:51-63 (July; evenings grazing apart; spoke to her from a rise perhaps a hundred yards away; 'I am waiting for you'; sun going down)", "04:5-7 (seven weeks on: legs longer, body fuller, coat pure)", "02:27 (white as snow, not pale, not cream)"]
 underdetermined = ["exact calf size at ~9 months (born out of season; 'longer-legged than a spring calf' is the safe register)"]

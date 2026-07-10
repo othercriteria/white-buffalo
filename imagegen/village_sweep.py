@@ -18,8 +18,7 @@ OUT = HERE / "output" / "village"
 # among its candidates: homestead.png is s100, so the alive/dead rhyme
 # is free if that seed's quality passes (shared-seed massing).
 SWEEPS = {
-    "speaking-to-her": [220, 221, 222],
-    "tracks-north": [220, 221, 222],
+    "speaking-to-her": [230, 231, 232],
 }
 STYLE = "engraving"
 
