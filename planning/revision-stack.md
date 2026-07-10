@@ -15,9 +15,10 @@ WRONG year (1856; 1857–58 — actual: Nov 1858–Jan 1859) because the
 interleave implies concurrency with the facing journal dates and the
 frame is never dated. Full reader: "fair play, but only just." All the
 internal clues agree on 1858 but none is explicit.
-**APPLIED 2026-07-10:** Catherine's last letter now dated "May the
-twentieth, eighteen fifty-eight" (03:13). The staggered-timeline
-double-click still works — it's just checkable now.
+**APPLIED 2026-07-10:** Catherine's last letter now carries the year
+(03:13; "July the twentieth, eighteen fifty-eight" after the item-28
+root fix moved the month). The staggered-timeline double-click still
+works — it's just checkable now.
 
 ### 2. Civil War prophecy paragraph — APPLIED 2026-07-10
 05:53–57: Davis/Lee named and résuméd, "would be generals when the
