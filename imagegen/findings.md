@@ -611,3 +611,25 @@ Banked from the round: the googly-eye fix transfers (assert eye quality
 positively — settled, slightly lowered, lids heavy from the exposure —
 plus wide/staring negatives); daguerreotype sitters make the fix
 period-true for any future portrait.
+
+## Gap-fill batch: homestead pair landed (2026-07-10)
+
+- homestead-interior s210 -> art/ after round 2 (room compressed per the
+  zero-sum corollary, budget to the traces): dress-and-coat pair, tipped
+  propped chair, and a re-tamped floor patch that reads faintly
+  grave-like — the right accident. Caveat: plank-read walls (same class
+  as homestead.png's texture caveat). r2 also taught: multi-room
+  hallucination is the interior's leak mode (2/3 seeds).
+- homestead-alive s210 -> art/ after v2 (house asserted in the dead
+  plate's sod-course language; model-fill DOG cut — the text never gives
+  the Hardins one, and the killing logistics quietly depend on that
+  absence). s210 = textbook soddy + the JE V clothesline tableau.
+  Rhyme note: v2's s100 improved to +0.443 but its house read as a
+  cellar mound — quality beat the free rhyme; s210 pairs with
+  homestead.png semantically (same building, summer/winter), not by
+  massing (+0.119). 14 promoted plates.
+- speaking-to-her r1-2: inversion lesson — rich subject description is
+  a foreground magnet regardless of distance-leading; v3 borrows the
+  cover's whole-form-at-respectful-distance grammar.
+- tracks-north r2: positive absence WORKED (frames empty); per-print
+  description invites crater-scale prints; v3 describes only the trail.
