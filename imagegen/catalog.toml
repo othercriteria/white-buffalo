@@ -91,8 +91,13 @@ dni = "clean"
 # Vignette. Research-grounded (reference/homestead-construction.md);
 # details compressed per the attention-budget corollary. Clothesline and
 # garden dropped from the frame (snow-buried per text anyway).
-negative = "mountains, peaks, crags, cliffs, alpine, frame house, clapboard, brick chimney, masonry chimney, shingles, fence, smoke, person, human figure, weeping willow, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a low snow-buried sod house, its walls of long flat-cut sod bricks laid in courses, in a small clearing where a frozen creek bends around a low hill, one small dark window, a cold stovepipe and no smoke, a pole lean-to behind it, a well frame with windlass near the door, brushy willow thickets along the creek, scattered pines on the far north-facing slope, December, utterly still"
+# v2 (2026-07-10): DK caught the alive/dead pair showing different
+# buildings; homestead-alive s210's textbook coursed soddy is now
+# CANONICAL (the dead plate carried the lumpy-cobble caveat from
+# promotion — this re-roll settles both). House block + anti-cottage
+# negatives ported from homestead-alive v2 (proven).
+negative = "mountains, peaks, crags, cliffs, alpine, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, masonry chimney, shingles, fence, smoke, dog, person, human figure, weeping willow, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a low flat-roofed sod house buried in snow, its walls of flat-cut sod bricks laid in courses, a dark door opening and one small dark window, a cold stovepipe and no smoke rising through the sod roof, in a small clearing where a frozen creek bends around a low hill, a pole lean-to behind it, a well frame with windlass near the door, brushy willow thickets along the creek, scattered pines on the far north-facing slope, December, utterly still"
 aspect = "landscape"
 citations = ["11:53-79 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:3-7 (willow-lined valley, broken hills, pines on north slopes)", "10:75 (clothesline)", "11:9 (December, no smoke)"]
 underdetermined = []
@@ -137,11 +142,14 @@ dni = "canonical trace of the killings — the permitted evidence, nothing more"
 # do the real work. Bedframe smear (13:35) deliberately CUT — two
 # traces carry it; more would overload (kit-manifest lesson). Added
 # 2026-07-09 (DK gap-fill ruling).
-negative = "person, human figure, fire burning, flames, smoke, glowing window, warm light, lamplight, candlelight, curtains, wallpaper, plaster wall, brick, paneling, modern furniture, clutter, blood, red, color, tinted, hand-colored, artist signature, monogram, lettering"
-# v2 (2026-07-10): round 1 gave good rooms with illegible traces — the
-# furnishings ate the budget (zero-sum corollary). Room compressed;
-# budget spent on the three traces. s202 also leaked a brick hearth.
-prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, dust thick on a rough plank table, the bed neatly made against the far wall, a cold iron stove, and near the door a woman's dark dress and a man's coat hanging side by side on wooden pegs, below them a chair with a snapped front leg propped against the corner, and in the packed-earth floor by the threshold a swept patch of newer darker tamped dirt, no people, deep stillness"
+# v3 (2026-07-10): DK caught hanger + modern dress in promoted s210.
+# Research (reference/interior-garments-research.md): NO hangers before
+# 1869/1903 — garments hang from pegs by collar loops, bunched at a
+# single point, a long crumpled cone with NO shoulder shape; the 1850s
+# dress cue is the waist seam + dense waist pleating + limp full-skirt
+# yardage pooling low; the man's sack coat hangs slack from its collar.
+negative = "person, human figure, coat hanger, clothes hanger, wire hanger, shoulder hanger, hanging rod, closet rail, modern dress, short dress, fire burning, flames, smoke, glowing window, warm light, lamplight, candlelight, curtains, wallpaper, plaster wall, brick, paneling, modern furniture, clutter, blood, red, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, dust thick on a rough plank table, the bed neatly made against the far wall, a cold iron stove, and near the door, hanging from rough wooden pegs by loops at their collars, a woman's dark full-skirted work dress, its fabric bunched at the peg and falling in long limp folds with dense pleating at the waist seam, and beside it a man's loose dark wool coat hanging slack, below them a chair with a snapped front leg propped against the corner, and in the packed-earth floor by the threshold a swept patch of newer darker tamped dirt, no people, deep stillness"
 aspect = "landscape"
 citations = ["11:79 (table and two chairs, bed neatly made, cold stove with pipe through the sod roof, shelves with dishes and books, dress and coat on pegs)", "11:75-85 (gray light through the small window, closed-up smell, dust thick on the table)", "13:33 (dark patch dug out and tamped with fresh dirt near the door; a crack in the wall; the broken chair propped in the corner as if meant for repair)"]
 underdetermined = ["room arrangement beyond cited anchors (twenty-by-fifteen analog per trading post; text gives no dimensions here)"]
@@ -155,12 +163,11 @@ dni = "the enumerated permitted traces ONLY (scrubbed stain, broken chair); no v
 # negative lost to "name a thing, get the thing") and rendered prints
 # enormous, one set as bear paws. Absence asserted positively (the bare-
 # flagstaff trick); print scale pinned.
-# v3 (2026-07-10): positive absence WORKED (r2 frames empty) but
-# per-print description invites zoom-in — r2 gave paw-craters and rut
-# readings. v3 describes only the TRAIL: thin double lines dwindling;
-# no individual print named.
-negative = "overhead view, aerial view, top-down, bird's eye view, map, person, human figure, animal, buffalo in frame, horse, paw prints, claw marks, giant footprints, craters, holes, pits, wheel ruts, sled tracks, wagon trail, mountains, peaks, crags, cliffs, alpine, trees, forest, fence, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a low level view across wide snow-covered ground under a gray sky, two thin broken lines of small dark track-marks running side by side, dwindling away from the viewer toward the empty northern horizon, one line heavier and one lighter, the marks softened by later snowfall, their makers long gone beyond the horizon, nothing anywhere in the plate but the two dwindling trails and the gently rolling white emptiness"
+# v4 (2026-07-10): v3's lines fused into continuous FURROWS at plate
+# scale (DK: reads drag-marks, no discernible steps — not the intent).
+# Footfall spacing asserted: separate prints, clean snow between.
+negative = "furrows, continuous lines, ruts, drag marks, grooves, wheel ruts, sled tracks, wagon trail, overhead view, aerial view, top-down, bird's eye view, map, person, human figure, animal, buffalo in frame, horse, paw prints, claw marks, giant footprints, craters, holes, pits, mountains, peaks, crags, cliffs, alpine, trees, forest, fence, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a low level view across wide snow-covered ground under a gray sky, two dotted trails of separate small prints running side by side, each print a distinct dark mark with clean snow between it and the next, spaced like footfalls, one trail of heavier marks and one of lighter, dwindling away from the viewer toward the empty northern horizon, the marks softened by later snowfall, their makers long gone, nothing anywhere in the plate but the two print-trails and the gently rolling white emptiness"
 aspect = "landscape"
 citations = ["13:57-69 (two sets: one very large, deep hoofprints of an animal heavier than any horse or ox; the boot-prints of a man; old, filled in and softened, but the shape still there; leading away north)", "15:83-87 (buffalo tracks deep, human tracks lighter, worn boots, steady stride, never varying)"]
 underdetermined = []
