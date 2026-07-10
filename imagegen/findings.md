@@ -728,3 +728,32 @@ experience-informed [cover-v2]. Six candidates, seeds 78/79/80 each.
 
 The cover/finale pair now agree: white head and face, dark horns,
 dark nose, dark eyes — 02:27 and 20:21 reconciled in pixels.
+
+## Gap fills: two-stories promoted round 1; ferry-bridge to v2 (2026-07-10)
+
+two-stories (Ch 9, 17:79-85) — the absence gamble PAID: omitting the
+cow entirely (the plate renders Farrell's percept; she was only visible
+moving) also dodged the white-buffalo attractor, and the model never
+volunteered her. 2/3 seeds leaked crag-walled defiles against the
+negative battery (the alpine prior finds any excuse in "valley");
+s311 landed the wide shallow bowl: twin dotted trail dwindling to a
+tiny walking figure against the horizon band — identity illegible at
+scale by design, no LoRA needed. Register: mean z+1.9 / ink z-2.0 —
+the designed extreme of the white-field family (tracks-north z+1.1,
+finale z+1.7); ink is 10x sparser than tracks-north, logged per DK's
+drift sensitivity; tone holds at zoom (ruled sky, hatched flanks).
+PROMOTED s311, clamped (7.45% -> 0).
+
+ferry-bridge round 1: composition and register strong on all seeds
+(s302 best: sidewheeler, long pier bridge, crowded ferry, worked sky)
+but 3/3 rendered the open draw as a LIFTED LEAF — the model's
+drawbridge prior is bascule; the 1856 Rock Island draw was a SWING
+span (the Effie Afton hit its pivot pier). Rule instance: every
+charge needs its STATE asserted — "draw span swung open" bought
+"open" but not the mechanism. v2 asserts the pivot ("pivoted sideways
+on its center pier, swung level to stand in line with the current")
++ negative battery (raised span, lifted span, tilted span, bascule,
+leaf, span pointing at the sky). Also negated: lying snow (s301 —
+no snow on the ground at the crossing canonically; first lying snow
+is Ch 4's Platte patches) and the near-bank bystander (s300 — reads
+as a Farrell-adjacent figure the policy doesn't want).
