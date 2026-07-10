@@ -674,3 +674,24 @@ placement.
 4. homestead-interior v3 in flight: research-backed garment hanging
    (reference/interior-garments-research.md — no hangers before 1869;
    pegs + collar loops; the crumpled-cone hang; waist-seam dress cue).
+
+## Quibble queue closed except the cow (2026-07-10)
+
+- homestead-interior s260 re-promoted: v3's rich garment clause split
+  the composition (garment still-life + glimpsed room; one dress on
+  invisible shoulders) — v4 folded the research fix COMPACTLY into v2's
+  proven room language. Garments now hang bunched from pegs in period
+  folds; patch legible; the broken chair has now eluded ~12 seeds and
+  is accepted as unrenderable (the model will not break a chair).
+- homestead s250 re-promoted (v3): DK's moat caught and drained — creek
+  topology (around the HILL, beyond the house) + state (frozen white,
+  no open water) asserted; s241's wrap-around dark water was a double
+  canon error (December). Foreground depressions echo 11:57. The
+  alive/dead pair now agree on construction AND hydrology.
+- Batch paper clamp applied corpus-wide after DK blessed the
+  speaking-to-her fix (biggest movers: village-passing 15%, journal-
+  found/fort-kearny ~12%).
+- OPEN: the cow's head — cover (dark head) vs finale (white head).
+  Text sides with the finale (02:27 "color of snow"; 20:21 "white on
+  white"). Paths: A re-roll cover s78 white-headed (recommended);
+  B re-roll finale s87 dark-headed against 20:21. DK ruling pending.
