@@ -324,6 +324,46 @@ clinical deviation into observed strangeness.
   ("in the streets before the guns opened") if the line is touched
   for other reasons (it's also finding B/#6's triad).
 
+## Reading-club exercise (2026-07-10, post-fix validation layer)
+
+### 28. Farrell's stable arithmetic: May is not August (facilitator's
+### UNSETTLED flag)
+Ch 5, 09:117: Farrell links the killer's August presence to letters
+that "had gone quiet in May" and never notices the three-month gap —
+"the text never notices. If a sharp reader raises it, concede it."
+**APPLIED 2026-07-10** (after the blind answerer's read confirmed the
+gap survives both cold reads): "The letters had gone quiet in May,
+and May was not August. The two would not quite fit together." Ch 7's
+"the pieces would not sit still" now has a quiet pre-echo; the
+defect is converted into Farrell's honesty.
+
+### Cross-check synthesis (facilitator vs blind answerer)
+Convergence on Q2, Q3, Q5–Q8, Q11, Q12 — same passages, same live
+readings, independently. Refinements banked for any future guide:
+the timelines truly touch in Ch 9 (the mile-off sighting, both men
+alive in one frame); a third motive-reading for the killing (a
+failed experiment in feeling — JE IX "it was not enough, and it did
+not last"); Q9 stages cleanly as "the artifact proves survival" vs
+"the convention proves nothing, and the peace echo says otherwise."
+The designed ambiguities all held under independent blind reads.
+
+### Validations logged (facilitator, cold read of the revised text)
+- Frame year settled off the new anchor: dated Farrell's strand and
+  the Jan 4–6 endgame "almost to the day." Item 1 confirmed fixed.
+- The steam-off-the-cup leak is now the facilitator's central tell
+  for Morrow's decision (Q4) — the JE VI differentiation is doing
+  thematic work, not just de-duplication.
+- The borrow device is LEGIBLE: "quoted consciously by Farrell in
+  Chapter Ten, then used unattributed in Chapter Eleven... quotation
+  has become voice" — read as designed craft with three supportable
+  meanings, not as authorial tic. Item 3's fix confirmed.
+- Kill-count discrepancy (item 21) read gracefully cold ("certainty
+  versus total... worth offering as interpretation rather than
+  error") — downgrade item 21 to opportunistic.
+- The compiler question (who assembled the interleave?) surfaced as
+  a productive UNSETTLED — the elegant survival argument for Q9. No
+  action; the absence of a frame device is a feature.
+
 ## Preserve list (readers converged on these — do not disturb)
 
 - The staggered-timeline double-click at JE V (C: "strongest effect
