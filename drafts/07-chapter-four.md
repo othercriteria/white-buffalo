@@ -118,7 +118,7 @@ The speaker was a trapper, an old man with a face like worn leather and hands th
 
 "Could have been any man. Could have been a hunter."
 
-"No hunter walks behind his prey. And this man—" The trapper shook his head. "There was something wrong with him. The way he moved. Steady. Not fast, not slow, never once stopping to look around. No man walks like that. Not out here."
+"No hunter walks behind his prey. And I'll tell you the other thing. That was no ordinary animal. I've been taking hides all my life, and I never saw a cow near that size, nor a white one living—white to the ground, in November, with every other hide on the plains going dark for winter. The man I can't tell you much about. Thin, and a steady walker. It was the animal I couldn't look away from."
 
 The soldier shrugged. "The territory's full of strange ones. Doesn't mean anything."
 

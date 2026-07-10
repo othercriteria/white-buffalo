@@ -36,7 +36,7 @@ It came to me as I sat by my fire, shaking, watching the soldiers watch me. I di
 
 But I recognized him. I knew what he was, because I knew what I was.
 
-I had tried to fill the emptiness—whiskey, work, the small distractions of a life lived day to day. He had gone looking for something large enough to swallow it whole. That was the difference, and I did not like how small it was.
+I had tried to fill the space—whiskey, work, the small distractions of a life lived day to day. He had gone looking for something large enough to swallow it whole. That was the difference, and I did not like how small it was.
 
 ---
 

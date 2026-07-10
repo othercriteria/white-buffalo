@@ -38,7 +38,7 @@ His name was Josiah Morrow. He was from Virginia. He had served in the Mexican W
 
 He had found the white buffalo.
 
-I read about the day he first saw her, a white calf moving through the brown grass. I read about the decision he made—to follow her, to wait for her to grow, to die by her hooves when she was ready. I read about the winters he survived and the summers he endured and the slow, patient years of watching and waiting.
+I read about the day he first saw her, a white calf moving through the brown grass. *Like a ship through water,* he had written of her. I read about the decision he made—to follow her, to wait for her to grow, to die by her hooves when she was ready. I read about the winters he survived and the summers he endured and the slow, patient years of watching and waiting.
 
 And I read about the Hardins.
 
@@ -71,5 +71,3 @@ But the man who killed his daughter was not dead. Not yet.
 The tracks leading from the camp were still fresh enough to follow. The valley below was perhaps a mile away. If I moved now, in the gray light before sunrise, I might find him. I might see, at last, the thing he had been seeking.
 
 I did not know what I expected to find. But I gathered my things and saddled my horse and rode down into the valley, the journal in my saddlebag, the dead men following behind.
-
-The white buffalo was waiting.

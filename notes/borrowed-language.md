@@ -17,14 +17,15 @@ does — the whole journal predates the reading).
 
 | Phrase | Morrow source | Farrell echo | Status |
 |---|---|---|---|
-| "like a ship through water" | 06:9 (JE III) | 20:61 (Ch 11) | KEEP — ruled deliberate (v0.7); the book's central image, borrowed at the only moment borrowing is true |
+| "like a ship through water" | 06:9 (JE III) | 20:61 (Ch 11) | KEEP — ruled deliberate (v0.7); the book's central image, borrowed at the only moment borrowing is true. SIGNAL PLANTED 2026-07-10: Ch 10's reading now quotes it ("*Like a ship through water,* he had written of her," 19:41) so Ch 11's reuse reads as haunting, not tic — the cold-reader counter-brief answered |
 
 ## Sanctioned echoes (grounded) — additions
 
 | Phrase | Morrow source | Farrell echo | Status |
 |---|---|---|---|
 | ~~"the same clay"~~ | — | ~~19:59~~ | UN-SANCTIONED (v0.7 final critic): Ch 9 owns sameness (pre-reading recognition), Ch 10 owns only the difference ("he had found something to die for. And I had not."). No shared-origin metaphor survives in either voice |
-| "She is waiting." / "The white buffalo was waiting." | 18:59-81 (JE IX); also 16:103 (JE VIII closer) | 19:75 (Ch 10 close) | KEEP, UNDER REVIEW 2026-07-10 — tic audit notes both source and echo sit in CLOSING position (the tic's most visible slot) and the back half buttons six sections on wait/waiting; revision stack recommends cutting 19:75 |
+| ~~"The white buffalo was waiting."~~ | 18:59-81; 16:103 | ~~19:75~~ | CUT 2026-07-10 — un-sanctioned per the tic audit (near-verbatim closer answering a closer, the tic's most visible slot); Ch 10 now ends on "the dead men following behind." Borrow count back to continuity.md's three |
+| "white and sacred and wild" / "sacred and wild and free" | 02:61 (JE I) | 18:65 (JE IX) | INTRA-MORROW, registered 2026-07-10 as intentional — first-entry/last-entry bookend inside one voice; not a cross-narrator borrow, tracked so nobody "fixes" it |
 | "a great and quiet peace" | 16:97 (JE VIII) | 20:33 (Ch 11) | KEEP — DK-approved borrow (2026-07-09); row added 2026-07-10, was tracked only in notes/continuity.md |
 | "carry her own illumination" (soft: "as if lit from within") | 06:7 (JE III) | 20:57 (Ch 11) | KEEP — soft borrow, same approval; row added 2026-07-10 |
 

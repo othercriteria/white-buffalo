@@ -18,7 +18,7 @@ Until today.
 
 Today I saw her.
 
-The herd was moving south along the creek bottom, perhaps two hundred animals, the cows and calves in the center and the bulls ranging out on the edges. I have seen many such herds. They barely acknowledge me now. I am part of the landscape to them, no more threatening than a rock or a tree.
+The herd was moving south along the creek bottom, perhaps two hundred animals, the cows and calves in the center and the bulls ranging out on the edges. I have seen many such herds. They barely acknowledge me now. I am part of the landscape to them, no more threatening than the grass.
 
 I was sitting on a rise, watching them pass, when I saw the calf.
 

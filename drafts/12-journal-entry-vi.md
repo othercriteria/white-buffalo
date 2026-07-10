@@ -72,11 +72,11 @@ I watched the settlers again today. Closer this time—perhaps a quarter mile fr
 
 The man was mending harness by the door. The woman came out to him with something steaming in a cup, and she stood beside him while he drank it, her hand on his shoulder, neither of them speaking. They moved around each other with the ease of people who have long since stopped needing words.
 
-I felt nothing. Not envy, not regret. I watched them as I would watch birds or deer, creatures going about their business. They are not part of the world I inhabit now.
+I felt nothing. I watched them as I would watch birds or deer, creatures going about their business. They are not part of the world I inhabit now.
 
 The herd moved on, and I moved with it. The settlers stayed where they were, in their little house, with their little life.
 
-I do not wish them ill. I do not wish them anything.
+I do not wish them ill. I do not wish them anything. The steam off the cup has stayed with me since. It is the only warm thing I have seen in a month.
 
 ---
 
@@ -86,13 +86,13 @@ She stood apart from the herd today, grazing alone at the edge of a frozen creek
 
 She is the most beautiful thing I have ever seen.
 
-I do not say this lightly. I have seen beautiful things in my life—the mountains of Virginia in autumn, the Gulf of Mexico at sunset, a woman's face by candlelight in a time before the war. But none of them compare to her.
+I do not say this lightly. I saw a woman's face by candlelight once, in a time before the war. It does not compare.
 
-She is sacred. I know this now with a certainty I have not felt about anything else in my life. The Indians are right to revere her. She does not belong to the ordinary run of animals and grass and weather. She belongs to something higher.
+She is sacred. The Indians are right to revere her. She does not belong to the ordinary run of animals and grass and weather.
 
 And she will kill me.
 
-That is the other thing I know with certainty. Someday—next autumn, perhaps, or the autumn after—she will turn on me. The instinct that has kept her wary will become the instinct that drives her to attack. And when that happens, I will not run. I will not fight. I will stand before her and let her do what she was made to do.
+Someday—next autumn, perhaps, or the autumn after—she will turn on me. The instinct that has kept her wary will become the instinct that drives her to attack. And when that happens, I will not run. I will not fight. I will stand before her and let her do what she was made to do.
 
 I am ready. I have been ready for a long time.
 
@@ -112,6 +112,4 @@ The settlers will be in their sod house now, huddled around their stove, waiting
 
 I do not dream anymore. I do not think of the future beyond the moment when she and I will face each other for the last time.
 
-That moment is coming. I can feel it approaching, as surely as I can feel the cold pressing in from all sides.
-
-I can wait.
+That moment is coming. I can feel it approaching the way a man feels weather coming while the sky is still clear.

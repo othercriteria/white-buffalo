@@ -19,7 +19,7 @@ internal clues agree on 1858 but none is explicit.
 twentieth, eighteen fifty-eight" (03:13). The staggered-timeline
 double-click still works — it's just checkable now.
 
-### 2. Civil War prophecy paragraph (all three readers, worst offender)
+### 2. Civil War prophecy paragraph — APPLIED 2026-07-10
 05:53–57: Davis/Lee named and résuméd, "would be generals when the
 time came," "the whole country would burn." Reader A: "the one passage
 where I felt a hand on my shoulder." C: "phrased for the 2026 reader."
@@ -34,7 +34,7 @@ memory and the unease, no futures named. Keep the Ch 2 newspaper beat
 (it's personal — he watched the man lead volunteers at Monterrey) but
 that's the only one that survives at full strength.
 
-### 3. Protected borrowings: counter-brief received — DK-DECISION
+### 3. Protected borrowings — RESOLVED 2026-07-10 (option b applied)
 Reader C (cold, full text) hit exactly the device (b)+(c) DK approved:
 "'A great and quiet peace' ... and 'like a ship through water' ...
 Two independent narrators coining identical phrases reads as the
@@ -59,7 +59,7 @@ counted — ledgers now reconciled in borrowed-language.md. Cutting
 19:75 (item 11) plus fix (b) here leaves exactly three borrows, all
 in Ch 11, source planted. That is my combined recommendation.
 
-### 4. JE VI treads water (weakest unit per B and C)
+### 4. JE VI treads water — APPLIED 2026-07-10 (catalog cut to the candlelight item; sacred paragraph tightened; entry now closes on the weather-coming image, one wait-button retired)
 Third/fourth "she is beautiful / she is sacred" declarations recur
 from JE III and V "at diminishing returns" — the Nov 19 subsection
 (12:85–99) restates both at length. The unit's real cargo (village
@@ -70,7 +70,7 @@ thing I have ever seen" and the certainty-of-death turn, cut the
 comparative catalog (Virginia autumns, Gulf sunsets, candlelight) or
 reduce to one item. ~80 words out; the unit stops rhyming with itself.
 
-### 5. Rumor-chain distribution (A and C agree; count is right)
+### 5. Rumor-chain distribution — APPLIED 2026-07-10 (trapper now sees the ANIMAL — hide-man's eye, wrong-season white; Creighton keeps the man and the eyes)
 Four tellings escalate correctly, but the trapper and Creighton share
 Ch 4 and describe the same three details in nearly the same words
 (thin, beard, steady walk, empty eyes). A: "maintenance." C: "a
@@ -101,7 +101,7 @@ it fit" survives untouched: presence still isn't proof of the killing.
 The herd-vs-pair ambiguity elsewhere stays as legend-compression +
 withdrawal fog — B found it productive, C never flagged it.
 
-### 7. Theme stated three times in Farrell's voice (C)
+### 7. Theme stated three times — APPLIED 2026-07-10 (Ch 7 paragraph trimmed; likeness once in Ch 9, difference once in Ch 10)
 Ch 7 ("I had been one of them, for a time"), Ch 9 ("I recognized him
 ... I did not like how small it was" — C: the best), Ch 10 ("He had
 found something to die for. And I had not").
@@ -150,7 +150,7 @@ lapse.
 Six section-buttons in files 12–19 land on wait/waiting, including
 the sanctioned-but-untracked-as-such near-verbatim closer pair 16:103
 → 19:75 (see borrowed-language.md reconciliation note).
-**Proposal:** cut 19:75 ("The white buffalo was waiting.") — the
+**APPLIED 2026-07-10:** 19:75 cut — the
 preceding sentence ("...the journal in my saddlebag, the dead men
 following behind") is a stronger plain closer, the cut returns the
 borrow count to continuity.md's three, and one section stops
@@ -170,9 +170,7 @@ the voices separate a notch (feeds item 13).
 ### 13. Voice convergence (B and C; auditor's E-section)
 "On a middling page the alternation reads like one voice in two
 costumes." Cross-narrator residue beyond the sanctioned borrows:
-"emptiness" as shared self-diagnosis term in Farrell PRE-reading
-(13:91, 17:39 vs Morrow's 06:33, 18:51) — violates the grounding
-rule's timing; fix by varying Farrell's two. Plus the perhaps/maybe
+APPLIED 2026-07-10: Farrell's pre-reading "emptiness" instances removed/varied (13:91 cut with the theme trim; 17:39 now "the space") — Morrow sole owner of the term. Plus the perhaps/maybe
 split above. Larger register work needs its own session AFTER items
 1–7 settle.
 
@@ -182,7 +180,7 @@ close to 21st-c. PTSD idiom. Low priority; touch only if the line
 comes up anyway in item-13 work.
 
 ### 15. Intra-narrator recycling (auditor, med severity)
-- Numbness beat rerun near-identically: 10:73 vs 12:75 ("I did not
+- APPLIED 2026-07-10 (steam-off-the-cup leak; itemized denial dropped) — numbness beat rerun: 10:73 vs 12:75 ("I did not
   feel anything, watching them" / "I felt nothing. Not envy, not
   regret."). **Fix with item 4's JE VI trim:** the second watching
   must cost something — let one concrete detail lodge (the steam,
@@ -190,9 +188,8 @@ comes up anyway in item-13 work.
   JE VII's turn.
 - "Part of the landscape" ×3 (02:21, 04:9, 16:35): vary 04:9.
 - "She could kill me now" verbatim ×2 (12:21, 16:21): vary one.
-- Cold "pressing in from all sides" ×3 intra-Morrow (08:69, 12:115,
-  18:5): vary the middle one.
-- 02:21 "no more threatening than a rock or a tree" PRE-SPENDS the
+- APPLIED 2026-07-10 (JE VI closer now the weather-coming image) — cold "pressing in from all sides" was ×3 intra-Morrow; 08:69 and 18:5 remain, which is the right count.
+- APPLIED 2026-07-10 (now "the grass") — 02:21 "no more threatening than a rock or a tree" PRE-SPENDS the
   protected tree-or-rock inversion (09:91 ↔ 14:85). Change JE I's
   comparison; the designed echo reads cleaner without the third
   instance.
@@ -273,7 +270,7 @@ I did not see at all"): seventeen = the seen. **Proposal:** adjust
 dead, the seventeen the faces — 2–3 draft options first
 (forced-alternatives rule), since this is JE IX's fevered register.
 
-### 22. Davis-at-Monterrey sighting geometry (03:55)
+### 22. Davis-at-Monterrey sighting geometry — APPLIED 2026-07-10 ("a man I had once seen ride by at the head of his Mississippians")
 Farrell (Bishop's Palace, west end) could not have watched Davis
 lead his Mississippians into La Tenería (east end, city between).
 **Proposal:** shift the memory from the assault to the occupation —

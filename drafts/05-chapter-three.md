@@ -50,11 +50,9 @@ They were quiet for a moment. The water slapped against the hull.
 
 I watched the far shore grow closer. Kansas had been bleeding for years now, and the bleeding had started to spread. I had stopped reading the newspapers—the names and places blurred together after a while, one killing much like another—but you could not travel west without hearing the talk.
 
-I had served under men who would lead that war, when it came. I had seen what they were capable of. Old Taylor was dead—president for a year and then gone—but the others were still living. Jefferson Davis, who had commanded the Mississippi Rifles at Buena Vista and now sat in the Senate speaking of states' rights and the honor of the South. Robert Lee, who had been an engineer in Mexico and now held a cavalry command in Texas. A dozen others, majors and colonels then, who would be generals when the time came.
+I had served under some of the men whose names ran through that talk. Old Taylor was dead—president for a year and then gone—but the others were still living: senators now, colonels of cavalry, men of weight in the country. I had seen them in Mexico. I had seen them order men forward into streets where guns waited at every window, and watch their soldiers climb walls that were built not to be climbed. They were capable men. They understood that war was arithmetic—so many lives spent for so much ground taken—and they could do the figuring without flinching.
 
-I had seen them at Monterrey, ordering men forward into streets where Mexican guns waited at every window. I had seen them at Chapultepec, watching as their soldiers climbed walls that were designed to be unclimbable. They were capable men. They were men who understood that war was arithmetic—so many lives spent for so much ground taken—and who could do the figuring without flinching.
-
-When they turned that arithmetic on each other, the whole country would burn. The brothers were right about that.
+The whole country's going to hell, the older brother had said. I had nothing to set against it.
 
 The boat reached the far shore and we disembarked, the horses stepping carefully onto the wooden dock. I paid the ferryman and rode on without looking back.
 
@@ -100,7 +98,7 @@ I found a livery stable where I could board my horse, then found a hotel where I
 
 That evening I went out to see what could be learned.
 
-The saloons were full of men who knew the territory, or claimed to. I bought drinks and listened and occasionally asked questions. Yes, there were settlers on the Niobrara. Not many—the country was hard and the Indians were a problem—but some. No, no one knew the Hardins specifically. There were a lot of settlers, and they did not come to town often, and the territory was large.
+The saloons were full of men who knew the territory, or claimed to. I bought drinks and listened and occasionally asked questions. Yes, there were settlers on the Niobrara. Not many—the country was hard and the Sioux did not want them there—but a few, further out than sense would carry most men. No, no one knew the Hardins specifically. There were a lot of settlers, and they did not come to town often, and the territory was large.
 
 I asked about the route. Up the Platte, they said, following the emigrant trail toward Fort Kearny. Then north, into the sand hills, into the emptiness. It would be hard going in winter. A man could die out there, alone, if he was not careful.
 

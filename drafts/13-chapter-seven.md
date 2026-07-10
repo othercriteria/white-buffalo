@@ -88,7 +88,7 @@ But the truth was simpler. I wanted to see him. The man who followed the white b
 
 I had known men like him, or thought I had. In Mexico, during the war, I had seen what happened to men who lost some necessary part of themselves. The ones who kept fighting after the fear had burned away, who killed without hesitation and slept without dreaming, who moved through the world like ghosts wearing the shapes of men.
 
-I had been one of them, for a time. I had felt the emptiness they felt, had done the things they did. And then the war had ended and I had come back, or tried to come back, and I had spent the years since trying to fill the space that the war had hollowed out.
+I had been one of them, for a time. And then the war had ended and I had come back, or tried to come back.
 
 The man who followed the white buffalo had not come back. He was still out there, still moving toward something I did not understand.
 
