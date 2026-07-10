@@ -400,3 +400,20 @@ readers had mis-anchored Farrell's strand by 1-2 years.
 The reading night is now Jan 5-6 — borrowed-language.md grounding rule
 re-verified: all sanctioned echoes still post-date it (they're in Ch
 10-11, which follow the reading regardless of calendar date).
+
+## Last letter moved May 20 -> July 20, 1858 (2026-07-10, DK query)
+
+DK asked whether the May date was load-bearing; it was not (inherited
+scaffolding — the outline had March, the draft chose May for spring-
+letter texture). Moved to July 20: letter content re-seasoned ("The
+garden has done well... the hay is nearly in," 03:13); all four
+Aldridge/Farrell references updated (01:59, 01:93, 01:175, 03:13);
+Farrell's stable arithmetic now FITS instead of straining (09:117 "The
+two fit together in a way I did not like" — replaces the May-was-not-
+August patch, which lived for one commit). Gains: silence and death
+share one cause; the mailed letter is plausibly the trader's last
+sighting; and the letter is written three days after JE VII's July 17
+"The settlers must be removed" — unmarked, reader-discoverable only.
+DO NOT point at this in text. Aldridge's inquiry window compresses to
+Sept-Oct; his November hire now reads as urgency before winter rather
+than slow-burn patience.

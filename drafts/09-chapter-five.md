@@ -114,7 +114,7 @@ He shrugged. "Your business. But if I were you, I'd keep my eyes open. That coun
 
 I bought what I needed, paid what he asked, and asked if I could sleep in the stable with my horse. He said I could, for a price. I paid that too.
 
-That night I lay in the straw, wrapped in my blankets, listening to the wind howl outside and thinking about the man who followed the white buffalo. Four months ago, the trader had said. That put him in this area in August—the same summer the trader had last seen the Hardins. The letters had gone quiet in May, and May was not August. The two would not quite fit together.
+That night I lay in the straw, wrapped in my blankets, listening to the wind howl outside and thinking about the man who followed the white buffalo. Four months ago, the trader had said. That put him in this area in August—the same summer the trader had last seen the Hardins. The letters had gone quiet in July, and the man had passed through in August. The two fit together in a way I did not like.
 
 Maybe it meant nothing. The territory was large, and coincidences were common, and a man who followed a buffalo had no obvious reason to harm a settler family who happened to live nearby.
 

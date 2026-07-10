@@ -56,7 +56,7 @@ The barman shrugged and turned away.
 
 Aldridge found a table near the window. He sat with his back to the wall, his hat on the table in front of him. The hat was beaver felt, well-made, incongruous. He left it there anyway.
 
-The afternoon passed. Men came and went. Some of them glanced at Aldridge; most did not. He watched the gray light fade toward evening, watched the barman light candles and then lamps. His thoughts moved in circles that had become familiar over the past months: Catherine's last letter, dated May. The silence since. The things a man might do to a woman, alone on the frontier, far from anyone who might help her.
+The afternoon passed. Men came and went. Some of them glanced at Aldridge; most did not. He watched the gray light fade toward evening, watched the barman light candles and then lamps. His thoughts moved in circles that had become familiar over the past months: Catherine's last letter, dated July. The silence since. The things a man might do to a woman, alone on the frontier, far from anyone who might help her.
 
 He had not approved of the marriage. George Hardin was a farmer's son from Ohio, a man with more ambition than sense, who had filled Catherine's head with talk of land and opportunity and the future that awaited them in the West. Aldridge had argued against it. He had threatened to cut her off. In the end, he had done neither, because she was his only child and her mother was dead and he could not bear to lose her entirely.
 
@@ -90,7 +90,7 @@ Farrell considered this distinction. "Why?"
 
 Aldridge had rehearsed this too. He had written it out, back in Oswego, before he left. He had refined it during the journey, honing each phrase until it conveyed precisely what he needed to convey and nothing more. Now the words seemed foolish, inadequate.
 
-"My daughter," he said. "Her name is Catherine. She married a man named George Hardin nearly three years ago, against my wishes. They went west. Nebraska Territory, or thereabouts. She wrote to me regularly—every month, sometimes more often. This past year they came a little slower, but they came. They stopped in May."
+"My daughter," he said. "Her name is Catherine. She married a man named George Hardin nearly three years ago, against my wishes. They went west. Nebraska Territory, or thereabouts. She wrote to me regularly—every month, sometimes more often. This past year they came a little slower, but they came. They stopped in July."
 
 Farrell's expression did not change. He was listening, but not reacting. Aldridge found this more unnerving than hostility would have been.
 
@@ -172,7 +172,7 @@ Farrell stood. He looked down at Aldridge.
 
 He turned and walked to the bar, spoke briefly with the barman, and then was gone, out into the night. The door closed behind him, and the cold air that had followed him in dissipated, absorbed into the warmth of the room.
 
-Aldridge sat at his table for a long time, the beaver-felt hat before him. The letters were back at the boarding house, waiting for the man who would carry them west. He did not need to look at them again. He had read them so many times that he knew them by heart. The early ones, full of hope and descriptions of the land. The middle ones, more measured, the hope beginning to curdle. And the last one, dated the twentieth of May, in which she had hoped the worst was behind them.
+Aldridge sat at his table for a long time, the beaver-felt hat before him. The letters were back at the boarding house, waiting for the man who would carry them west. He did not need to look at them again. He had read them so many times that he knew them by heart. The early ones, full of hope and descriptions of the land. The middle ones, more measured, the hope beginning to curdle. And the last one, dated the twentieth of July, in which she had hoped the worst was behind them.
 
 He had not known, when he read it, that it would be the last.
 

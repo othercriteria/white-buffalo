@@ -70,15 +70,15 @@ as I had").
 | Early summer 1857 | Arrive at the creek site; Morrow sees them building June 4 (10:37-41); "They have been here since early summer" (12:35) |
 | Aug 1857 | Sod house built, field plowed, well dug (10:67) |
 | Winter 1857-58 | Their first winter — survived (14:17); "a winter that had been harder than expected" in the letters (03:9) |
-| May 20, 1858 | Catherine's last letter — garden in, creek high, "George says the worst is behind us" (03:13, 01:93) |
-| Early Aug 1858 | Killed by Morrow (14:99 → 16:5) |
+| July 20, 1858 | Catherine's last letter (moved from May 20 on 2026-07-10, DK — the May date was inherited scaffolding, not load-bearing) — garden done well, hay nearly in, "George says the worst is behind us" (03:13, 01:93). Quiet resonance, unmarked in text: written three days after Morrow's decision (JE VII, July 17) |
+| Early Aug 1858 | Killed by Morrow (14:99 → 16:5) — the letters stop because they die; silence and death now share one cause |
 
-**Accepted slack — the silent ten weeks:** the letters stop in May; the
-killing is early August. The text never explains June–July. Defensible
-as-is: mail went out only when they rode to the trading post, and the
-trader last saw them "last summer" (09:63); an unfinished draft in the
-letter box (11:97-99) shows writing that never left the house. Do not
-"fix" unless a reader-facing problem emerges.
+**The silent-gap question — ELIMINATED (2026-07-10):** with the last
+letter at July 20 and the killing two weeks later, there is nothing to
+explain. Farrell's stable arithmetic now fits instead of straining
+("The two fit together in a way I did not like," 09:117). The mailed
+July letter is plausibly the trader's last sighting of them ("since
+last summer," 09:63).
 
 **Note on childlessness:** After nearly three years of marriage, Catherine and George have no children. As drafted the letters are entirely silent on the subject (03:11 "she said nothing about children born or expected"); Aldridge reads the silence as its own answer (01:63), Farrell notices it without concluding. The homestead confirms it: two chairs, one bed, no cradle (11:81).
 
@@ -88,8 +88,8 @@ letter box (11:97-99) shows writing that never left the house. Do not
 |------|-------|
 | Early 1856 | Reluctantly allows Catherine to marry George Hardin |
 | 1856-1858 | Receives regular letters from Catherine; relationship remains strained but ongoing |
-| ~July 1858 | Receives Catherine's last letter (dated May 20; "They stopped in May," 01:93) |
-| July-October 1858 | Growing alarm; writes to territorial authorities, military posts; receives no useful information |
+| ~Late Aug 1858 | Receives Catherine's last letter (dated July 20; "They stopped in July," 01:93) |
+| Sept-October 1858 | Alarm after the next letter fails; writes to every authority at once — federal/military (eastern, quick, unhelpful replies) and territorial (mostly silence) |
 | November 1858 | Hires Farrell in upstate New York; provides letters, map, daguerreotype |
 | November 1858 | Farrell departs westward (~Nov 3); crosses Iowa; Council Bluffs Nov 24 |
 | December 1858 | Fort Kearny Dec 9; rumors of "the man who follows the white buffalo"; trading post Dec 19; homestead Dec 24 (moved closer 2026-07-10 — "a day up that creek"); Christmas at the dead homestead; north Dec 26 with the Hardins' stores |
@@ -140,7 +140,8 @@ provisioning clause (Farrell fills his saddlebags from their stores,
 the foodless stretch to ~5 days (Jan 1–6) for a mounted man — hard
 but credible. The trader now also carries the mail explanation
 ("flour and salt, and letters to send east," 09:71), which retires
-the monthly-letters implausibility and softens the silent ten weeks.
+the monthly-letters implausibility. The silent-gap question was then
+eliminated outright by moving the last letter to July 20 (same day).
 
 ## Geography
 

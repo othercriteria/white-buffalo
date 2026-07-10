@@ -331,11 +331,14 @@ clinical deviation into observed strangeness.
 Ch 5, 09:117: Farrell links the killer's August presence to letters
 that "had gone quiet in May" and never notices the three-month gap —
 "the text never notices. If a sharp reader raises it, concede it."
-**APPLIED 2026-07-10** (after the blind answerer's read confirmed the
-gap survives both cold reads): "The letters had gone quiet in May,
-and May was not August. The two would not quite fit together." Ch 7's
-"the pieces would not sit still" now has a quiet pre-echo; the
-defect is converted into Farrell's honesty.
+**SUPERSEDED same day by the root fix (DK):** the May date proved to
+be non-load-bearing scaffolding, so the last letter moved to July 20
+— silence and death now share one cause and there is no gap to
+notice. Farrell's beat inverted accordingly: "The letters had gone
+quiet in July, and the man had passed through in August. The two fit
+together in a way I did not like" (09:117). Bonus resonance, unmarked:
+the letter is written three days after JE VII's July 17 decision.
+Details in notes/continuity.md and timeline-geography.md.
 
 ### Cross-check synthesis (facilitator vs blind answerer)
 Convergence on Q2, Q3, Q5–Q8, Q11, Q12 — same passages, same live
