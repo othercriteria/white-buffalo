@@ -695,3 +695,36 @@ placement.
   Text sides with the finale (02:27 "color of snow"; 20:21 "white on
   white"). Paths: A re-roll cover s78 white-headed (recommended);
   B re-roll finale s87 dark-headed against 20:21. DK ruling pending.
+
+## The cow made consistent: cover re-roll, split pass (2026-07-10)
+
+DK ruled path A with a twist: re-roll the cover, splitting the pass
+between the legacy prompt (+ white-head fix only) and an
+experience-informed [cover-v2]. Six candidates, seeds 78/79/80 each.
+
+- White-head gate: 6/6 passed — the head-fix language (defining
+  attribute leads: "her head and face and woolly forehead as white as
+  her flanks") plus the dark-head negative battery worked on every
+  seed. The dark-head incumbent is now strictly a prompt-era artifact.
+- Horn separation: legacy s79/s80 drifted pale-horned (dark tips
+  only); legacy s78 and both leading v2s carried the finale's fully
+  dark curved horns. v2 s79's horns were the best of the pass —
+  16:17's "curved and thickened with age" visibly landed.
+- Register verdict (the L-vs-M question): v2's "light engraved tone"
+  clause did exactly what it was written to do — v2 means z+0.4/+0.5
+  vs legacy z+1.2..1.6. BUT the corpus-center pull is the wrong
+  direction for THIS plate: the cover's tonal family is the finale
+  (z+1.8, brightest plate in the book, snow field + white subject).
+  Legacy s78 (z+1.3) sits exactly between incumbent (z+0.9) and
+  finale (z+1.8). Rule refined: register calibration targets the
+  plate's FAMILY, not the corpus mean.
+- PROMOTED: legacy s78, clamped (3.0% over-white -> 0). Shared seed
+  preserved the incumbent's massing, stance, breath puff, and distant
+  herd line — DK's weak preference for the incumbent's look survives
+  intact; only the head changed. Smooth pale sky keeps the title
+  field. Corners clean at zoom (grass tufts, hoofprint trails).
+- Named alternate: v2 s79 (richer worked-sky plate, best horns) —
+  one command away if DK prefers the fuller engraving on the cover.
+
+The cover/finale pair now agree: white head and face, dark horns,
+dark nose, dark eyes — 02:27 and 20:21 reconciled in pixels.

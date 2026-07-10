@@ -35,6 +35,10 @@
 # the finale). White head asserted; the finale cow is the match target.
 # This entry = LEGACY prompt + head fix only; [cover-v2] is the
 # experience-informed variant; split pass per DK.
+# PROMOTED s78 (2026-07-10, clamped): shared seed kept the incumbent's
+# massing/stance with the head gone white — dark horns/eye/nose match
+# the finale head at zoom. Register z+1.3 sits between the incumbent
+# (z+0.9) and the finale (z+1.8): the bright white-bookend family.
 negative = "dark head, dark face, dark mane, dark cape, brown head, black head, mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming"
 prompt = "strictly monochrome ink, a great pure white bison cow, white over her whole body, her head and face and woolly forehead as white as her flanks, only her curved horns and her nose and her dark liquid eyes dark, coat white as snow with a silver sheen, her whole form in view, standing in three-quarter side view seen level across the snow from a respectful distance, alone in deep snow, massive shoulders and a great humped back, the dark herd bunched small in the far distance behind her, breath steaming in severe cold, vast rolling treeless winter prairie under a calm gray sky"
 aspect = "portrait"
@@ -47,6 +51,11 @@ dni = "clean"
 # since s78: attested horn canon (16:17 "curved and thickened", an open
 # gap at cover time), the register-calibration language (village v5),
 # worked sky that still leaves the top calm for title space.
+# VALIDATED, not promoted (2026-07-10): the tone clause worked exactly
+# as designed (z+0.4/+0.5 vs legacy z+1.2..1.6) — but that pulls the
+# cover OUT of its natural family (the finale, z+1.8, is the brightest
+# plate in the book). s79 = best horns of the whole pass ("curved and
+# thickened" landed); named alternate if DK wants the richer plate.
 negative = "dark head, dark face, dark mane, dark cape, brown head, black head, blank white sky, sparse outline drawing, pen sketch, mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming"
 prompt = "strictly monochrome ink, the whole plate carrying a light engraved tone, a great pure white bison cow, white over her whole body, her head and face and woolly forehead as white as her flanks, her horns curved and thickened with age, only the horns and her nose and her dark liquid eyes dark, her winter coat white as snow with a silver sheen, her whole form in view, standing in three-quarter side view seen level across the snow from a respectful distance, alone in deep snow, massive shoulders and a great humped back, the dark herd bunched small in the far distance behind her, breath steaming in severe cold, vast rolling treeless winter prairie, a calm gray sky worked in fine ruled lines, lightening toward the top of the plate"
 aspect = "portrait"
