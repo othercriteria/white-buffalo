@@ -15,11 +15,11 @@ from generate import ASPECTS, DEFAULT_LORA_WEIGHT, LORAS, MODEL, REVISION
 
 HERE = Path(__file__).parent
 OUT = HERE / "output" / "village"
-# v4 round: register fix (tonal coverage forced, sparse-outline
-# negated). 130-135 v1, 140-145 v2e4 r1, 150-153 v3 (composition
-# solved, register drifted; B study retired).
+# v5 calibration round (paper<->ink balance). History: 130-135 v1,
+# 140-145 v2e4 r1, 150-153 v3 (composition solved, drifted pale),
+# 160-163 v4 (overshot dark; s162 near-lander).
 SWEEPS = {
-    "village-passing": [160, 161, 162, 163],
+    "village-passing": [170, 171, 172, 173, 174, 175],
 }
 STYLE = "engraving"
 

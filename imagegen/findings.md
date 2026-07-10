@@ -554,3 +554,16 @@ relationship to the technology answered in canon: conscious
 professional dismissal, the divestment theology completing the passage.
 Farrell untouched: he never encounters one; his store-bought saddlebag
 logistics ARE the contrast, structurally.
+
+## Village v4 -> v5: the tonal pendulum (2026-07-09)
+
+v4's forcing language over-corrected: paper 74% -> 5-7% (corpus
+25%+/-12); every candidate drifted DARK (mean z -3.4, hf z +3..+5).
+Instructive negative result: the weight-0.8 probe was INKIER than 1.0 —
+the base register fills tone more aggressively than the LoRA, so
+weight is not the tonal lever; language is. DK on v4: "much more like
+it... in the neighborhood." s162 the near-lander (worst z 2.9; genuine
+period cumulus in ruled tone). v5 calibration: "heavy gray sky" ->
+"pale gray, lightening toward the top", "dense" -> "open" hatching,
+6-seed landing pool with register.py in the launch command itself —
+the gate is now part of the sweep.
