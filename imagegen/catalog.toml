@@ -30,11 +30,28 @@
 [cover]
 # The needle: cow-framed at bull scale (style A/B: everything drifts
 # bull-heavy). Sky left calm up top for eventual title space.
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming"
-prompt = "strictly monochrome ink, a great pure white bison cow, white over her whole body from her head to her hindquarters and legs, coat white as snow with a silver sheen, her whole form in view, standing in three-quarter side view seen level across the snow from a respectful distance, alone in deep snow, massive shoulders and a great humped back, the dark herd bunched small in the far distance behind her, breath steaming in severe cold, vast rolling treeless winter prairie under a calm gray sky"
+# v2 (2026-07-10, DK): the promoted s78 cow had a DARK HEAD — against
+# its own citations (02:27 "color of snow"; 20:21 "white on white" at
+# the finale). White head asserted; the finale cow is the match target.
+# This entry = LEGACY prompt + head fix only; [cover-v2] is the
+# experience-informed variant; split pass per DK.
+negative = "dark head, dark face, dark mane, dark cape, brown head, black head, mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming"
+prompt = "strictly monochrome ink, a great pure white bison cow, white over her whole body, her head and face and woolly forehead as white as her flanks, only her curved horns and her nose and her dark liquid eyes dark, coat white as snow with a silver sheen, her whole form in view, standing in three-quarter side view seen level across the snow from a respectful distance, alone in deep snow, massive shoulders and a great humped back, the dark herd bunched small in the far distance behind her, breath steaming in severe cold, vast rolling treeless winter prairie under a calm gray sky"
 aspect = "portrait"
-citations = ["16:17 (massive shoulders, humped back, taller than any cow)", "10:27 (silver sheen)", "12:17 (silver undertone, winter coat)", "04:61 (dark liquid buffalo eyes)", "12:111 (near-invisible against snow)", "20:23 (breath steaming)"]
-underdetermined = ["horn length/curve/color (bible gap)"]
+citations = ["16:17 (massive shoulders, humped back, taller than any cow)", "10:27 (silver sheen)", "12:17 (silver undertone, winter coat)", "04:61 (dark liquid buffalo eyes)", "12:111 (near-invisible against snow)", "20:23 (breath steaming)", "02:27 + 20:21 (white head: 'color of snow', 'white on white' — the v2 fix)"]
+underdetermined = []
+dni = "clean"
+
+[cover-v2]
+# STUDY: the experience-informed cover — everything the engine learned
+# since s78: attested horn canon (16:17 "curved and thickened", an open
+# gap at cover time), the register-calibration language (village v5),
+# worked sky that still leaves the top calm for title space.
+negative = "dark head, dark face, dark mane, dark cape, brown head, black head, blank white sky, sparse outline drawing, pen sketch, mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming"
+prompt = "strictly monochrome ink, the whole plate carrying a light engraved tone, a great pure white bison cow, white over her whole body, her head and face and woolly forehead as white as her flanks, her horns curved and thickened with age, only the horns and her nose and her dark liquid eyes dark, her winter coat white as snow with a silver sheen, her whole form in view, standing in three-quarter side view seen level across the snow from a respectful distance, alone in deep snow, massive shoulders and a great humped back, the dark herd bunched small in the far distance behind her, breath steaming in severe cold, vast rolling treeless winter prairie, a calm gray sky worked in fine ruled lines, lightening toward the top of the plate"
+aspect = "portrait"
+citations = ["as [cover], plus 16:17 (horns curved and thickened)"]
+underdetermined = []
 dni = "clean"
 
 [first-sighting]
