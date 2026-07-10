@@ -6,7 +6,7 @@ a man's head full of another man's language. This file tracks every instance so
 the device stays deliberate and grounded.
 
 **Grounding rule:** an echo is legitimate ONLY if Farrell's use occurs after the
-reading night — currently dusk-to-dawn Jan 8–9, 1859, i.e., from the reading
+reading night — currently dusk-to-dawn Jan 5–6, 1859 (re-dated 2026-07-10 with the endgame; was Jan 8–9), i.e., from the reading
 section of Ch 10 (19:33 onward) through Ch 11. Any Morrow-phrase in Farrell's
 mouth BEFORE that is accidental voice bleed and must be removed or varied.
 **If the timeline moves again, re-check every entry against the new reading

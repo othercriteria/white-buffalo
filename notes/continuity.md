@@ -373,3 +373,30 @@ combed flat by the poles, long marks running south." The last is the
 book's native idiom (evidence over event) and licenses the plate's
 empty-foreground anchor. Catalog claims that previously traced only to
 research now trace to canon.
+
+## The Hardins moved closer + endgame unpinned (2026-07-10, DK)
+
+Supersedes the v0.7 B1 distances. The trader's directions are now "up
+the river, maybe two days' ride... a day up that creek, maybe two in
+this snow" (09:67); Farrell's actual: river 3 days (wrong creek folded
+into the third morning), creek 2 days — homestead Dec 24, ~40 mi from
+the post. Trader also now carries the mail logistics: "They came in
+when the weather let them—flour and salt, and letters to send east"
+(09:71). Farrell provisions from the Hardins' stores at departure
+(13:105 — sourcing Ch 9's heel of hardtack); Ch 8's supply lines
+softened to match (15:107, 15:117). JE VIII's final entry re-dated
+Jan 7 → Jan 4 (16:85): death dawn Jan 5, camp read Jan 5-6, body
+Jan 6. Whole chain in planning/geo-ledger.md.
+
+Quiet consequences, deliberately unmarked in text: Farrell spends
+Christmas Day at the dead homestead (his Dec 23 "December twenty-fifth
+would pass like any other day" goes quietly wrong; the last of the
+whiskey is finished Christmas night). Do NOT point at this in text.
+
+Also this session: frame-year anchor added — Catherine's last letter
+now "dated May the twentieth, eighteen fifty-eight" (03:13); two blind
+readers had mis-anchored Farrell's strand by 1-2 years.
+
+The reading night is now Jan 5-6 — borrowed-language.md grounding rule
+re-verified: all sanctioned echoes still post-date it (they're in Ch
+10-11, which follow the reading regardless of calendar date).

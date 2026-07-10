@@ -104,7 +104,7 @@ I tried to hunt. I saw a rabbit—just a flash of white against the snow, but I 
 
 My hands would not stop shaking. The barrel wavered, describing circles in the air, and even when I braced it against a tree I could not hold it steady. The rabbit moved, and I fired, and the shot went wide by a foot or more, and the rabbit vanished as if it had never been.
 
-I stood there for a long time, looking at the place where it had been, the smell of powder sharp in the cold air. I had perhaps two days of food left. The man I was following might have none.
+I stood there for a long time, looking at the place where it had been, the smell of powder sharp in the cold air. There was food in my saddlebags yet, the Hardins' salt pork going faster than I liked. The man I was following might have none.
 
 We stopped in a draw where the snow was shallower and the wind less fierce. The horse stood with his head down, breathing hard, his flanks dark with sweat despite the cold. I knew what that meant. A sweaty horse in winter is a dying horse, if you cannot get him dry.
 
@@ -114,7 +114,7 @@ He ate. Not eagerly, but he ate, his teeth scraping the bark from the wood, his 
 
 "We rest here," I told him. "Until you can go on."
 
-I made camp. I built a fire from the cottonwood and the deadfall I could gather, and I melted snow for water, and I ate the last of my bacon and most of my coffee. My supplies were running out. I had been too long on this trail, too many days in the white, and I had not planned for this.
+I made camp. I built a fire from the cottonwood and the deadfall I could gather, and I melted snow for water, and I ate the Hardins' salt pork and most of my coffee. My supplies were thinning. I had been too long on this trail, too many days in the white, and I had not planned for this.
 
 In the morning the horse was better. Not well—he would not be well until he had rest and food and shelter, none of which I could give him—but better. He ate more bark, and drank the water I melted for him, and when I saddled him he stood steady under my weight.
 

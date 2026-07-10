@@ -82,7 +82,7 @@ I have waited two years. I can wait a little longer.
 
 ---
 
-*January the Seventh*
+*January the Fourth*
 
 Soon.
 

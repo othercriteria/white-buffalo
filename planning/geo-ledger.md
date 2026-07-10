@@ -25,7 +25,7 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Frozen stranger | ~41.35, -100.05 | Day 4 north (09:15) |
 | Trading post | ~41.90, -100.00 | Day 6 north (09:31); "junction of two frozen creeks" — nominal upper–Middle Loup forks; Farrell then rides up (NW along) the river; "north along the frozen river" (09:125) is loose heading, acceptable |
 | Right creek mouth | ~42.15, -100.30 | "Creek comes in from the north, the only one for ten miles" (09:67) — north-bank sandhills tributary |
-| Hardin homestead | ~42.65, -100.55 | ~4 days up the creek; divide country just south of the Niobrara valley. Rumor-geography calls this whole region "the Niobrara" (07), acceptable at rumor precision |
+| Hardin homestead | ~42.32, -100.38 | Moved 2026-07-10 (DK): "a day up that creek, maybe two in this snow" (09:67) ≈ 12–18 mi up the creek, ~40 mi from the post. Loup-fork bottomland rather than deep sand hills — farmable, still freakishly beyond the line. Fixes mail logistics; stretches the pursuit leg to ~70 mi, which at DT-impaired rates is exactly the ~10 pursuit days |
 | Trapper's Morrow sighting | ~42.80, -100.50 | "Up on the Niobrara" (07:117) |
 | Creighton's Morrow sighting | ~42.10, -100.20 | "Crossing the Loup Fork" (07:179) — upper North Loup reaches the sandhills; herd loop, see below |
 | Morrow/herd winter valley | ~42.95, -100.70 | "A valley north of the river" (16:77) |
@@ -52,20 +52,20 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Dec 17 | frozen man | Day 4 north (09:15) |
 | Dec 19 | trading post | Day 6 (09:31) — ~85 mi at 12-15/day in snow ✓ |
 | Dec 20 | up the river | Departs at dawn (09:125); day 1 good time |
-| Dec 22 | wrong creek | Day 3, three hours lost (09:139) |
-| Dec 23 | right creek | Day 4 (09:143); ice cracks at the crossing; turns up the creek |
-| Dec 25 | up the creek | Christmas passes with the first shaking ("third day up the creek," 11:31; anticipated 11:11) |
-| Dec 26 | **homestead** | "Afternoon of the fourth day" up the creek (11:51) = day 7 from post, matching trader's "three days, maybe four" (09:67); "December... more than half-gone" (11:9) ✓; "nearly a month" since CB ✓. (Ch 5 no longer narrates the discovery — v0.7 restructure; Ch 6 owns the approach and arrival) |
-| Dec 26–28 | homestead | Ch 7 investigation; one more night (13:105) |
-| Dec 28 | north | Ch 8 begins on Morrow's trail |
-| Dec 30 | trail lost | Storm night, day 3 (15:35) |
-| Dec 31 | camp | Seizure, day 4 (15:65) |
-| Jan 1 | fresh trail | Day 5, quarry "a day ahead" (15:89) |
-| Jan 2 | rest day | Horse, cottonwood bark (15:111-121) |
-| Jan 3–6 | closing | Ch 9; clear weather (17:57) ✓ matches JE VIII Jan 7 "weather has cleared" (16:89) |
-| Jan 7 (sunrise) | ~1 mi behind | Sees them both (17:85-89) — the morning of Morrow's last dated entry |
-| Jan 8 (dusk) | **Morrow's camp** | Tracks "this morning" (19:7) ✓ — Morrow walked at dawn that day; reads all night |
-| Jan 9 (dawn) | death meadow | Body ~24h dead, "not long" ✓; buffalo; Lakota (Ch 11) |
+| Dec 21 | up the river | Day 2 — the country looks the same; antelope; coyotes near (09:127-137) |
+| Dec 22 | wrong creek AM, right creek PM | "On the third morning" (09:139), three hours lost; "That afternoon I found the right creek" (09:143); ice cracks at the crossing; big fire on the far bank |
+| Dec 23 | up the creek | Ch 6 opens; "Christmas would come soon" (11:11) ✓ two days off; first shaking at the morning saddle-up ("first morning up the creek," 11:31); night: bad sleep, quarter bottle, "a day's ride, maybe less" (11:45) |
+| Dec 24 | **homestead** | "Afternoon of the second day" up the creek (11:51) = day 5 from post vs trader's fair-weather 3 (09:67, snow + wrong creek) ✓; "December... more than half-gone" (11:9) ✓; "nearly a month" since CB (26 days) ✓ |
+| Dec 25 | homestead | Christmas at the dead homestead, unmarked — 11:11's "would pass like any other day" quietly wrong; Ch 7 graves at dawn, forensics; last whiskey that evening (13:101) |
+| Dec 26 | north | Provisions from the Hardins' stores (13:105); Ch 8 begins on Morrow's trail |
+| Dec 28 | trail lost | Storm night, day 3 (15:35) |
+| Dec 29 | camp | Seizure, day 4 (15:65) — ~4 days after the last drink ✓ window edge |
+| Dec 30 | fresh trail | Day 5, quarry "a day ahead" (15:89) |
+| Dec 31 | rest day | Horse, cottonwood bark (15:111-121); eats the Hardins' salt pork |
+| Jan 1–3 | closing | Ch 9; food gone ~Jan 1; Niobrara crossing ~Jan 3 ("gone two days back," 17:49 ✓); clear weather ✓ matches JE VIII Jan 4 "weather has cleared" (16:89) |
+| Jan 4 (sunrise) | ~1 mi behind | Sees them both (17:85-89) — the morning of Morrow's last dated entry; loses them within the hour (19:3) |
+| Jan 5 (dusk) | **Morrow's camp** | Tracks "this morning" (19:7) ✓ — Morrow walked at dawn that day; reads all night |
+| Jan 6 (dawn) | death meadow | Body ~24h dead ✓; buffalo; Lakota (Ch 11). Foodless stretch Jan 1–6 ≈ 5 days ✓ |
 
 ## Morrow / herd ledger (coarse)
 
@@ -75,9 +75,9 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | 1856–58 | ±40 mi range, middle sandhills / Niobrara divide | Herd loops; homestead inside range ("led me back," 14:7) |
 | ~Nov 18, 1858 | Niobrara valley | Trapper's sighting, "three weeks back" from ~Dec 9-11 (07:117) ✓ |
 | ~Nov 30, 1858 | upper North Loup | Creighton's, "two weeks ago" from Dec 14 (07:179) ✓ — 40 mi loop south, plausible |
-| by Jan 1, 1859 | winter valley 42.95,-100.70 | JE VIII (16:77, re-dated); Morrow on watch-ridge from ~Dec 29 ("three days now," 16:79 at Jan 1) ✓ |
-| Jan 7 | valley | Final dated entry: "Tomorrow, I think" (16:85-95) |
-| Jan 8 (dawn) | meadow | JE IX written pre-dawn (18); walks out; dies |
+| by Jan 1, 1859 | winter valley 42.95,-100.70 | JE VIII (16:77); Morrow on watch-ridge from ~Dec 29 ("three days now," 16:79 at Jan 1) ✓ |
+| Jan 4 | valley | Final dated entry (re-dated from Jan 7, 2026-07-10): "Tomorrow, I think" (16:85-95) |
+| Jan 5 (dawn) | meadow | JE IX written pre-dawn (18); walks out; dies |
 
 ## Geography flags
 

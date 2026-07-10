@@ -15,10 +15,9 @@ WRONG year (1856; 1857–58 — actual: Nov 1858–Jan 1859) because the
 interleave implies concurrency with the facing journal dates and the
 frame is never dated. Full reader: "fair play, but only just." All the
 internal clues agree on 1858 but none is explicit.
-**Proposal:** date Catherine's last letter once, in Ch 2 — "The last
-letter was dated May the twentieth, eighteen fifty-eight." (03:13).
-One phrase; kills the hazard; the staggered-timeline double-click that
-reader C praised still works — it just becomes checkable.
+**APPLIED 2026-07-10:** Catherine's last letter now dated "May the
+twentieth, eighteen fifty-eight" (03:13). The staggered-timeline
+double-click still works — it's just checkable now.
 
 ### 2. Civil War prophecy paragraph (all three readers, worst offender)
 05:53–57: Davis/Lee named and résuméd, "would be generals when the
@@ -135,12 +134,13 @@ tavern C called drag) — replace texture with incident. More than one
 would pad; all three readers say the incident/rumor balance otherwise
 holds.
 
-### 10. Letters-in-batches softener (C, minor)
-"Every month, sometimes more often" (01:93) sits oddly against a
-homestead five days past a trading post visited "a few times."
-**Proposal:** one clause in Ch 1 or Ch 2 — the letters arrived in
-bundles of two and three, as the post allowed. Also quietly covers
-the silent ten weeks (see timeline-geography.md).
+### 10. Letters logistics — RESOLVED 2026-07-10
+Superseded by the Hardins-closer move (DK): homestead now "a day up
+that creek" (~40 mi from the post), and the trader carries the mail
+line — "They came in when the weather let them—flour and salt, and
+letters to send east" (09:71). Monthly-ish receipt in Oswego is now
+arrangeable; the silent ten weeks softens to ordinary winter/summer
+lapse.
 
 ## Style pass (tic audit complete — full tables in the audit report;
 ## the auditor found most of the profile's cited instances already
@@ -222,7 +222,14 @@ rule).
 ## resupply, hello→halloo, coyotes-came-near; full report in the
 ## audit transcript; what follows needs judgment)
 
-### 18. The Hardins' location — the one breaks-credibility item
+### 18. The Hardins' location — GEOMETRY MOVED 2026-07-10; warning
+### line still pending
+The move (DK): homestead now ~40 mi from the post on Loup-fork
+bottomland (farmable) instead of ~90 mi into deep sand hills. Kills
+the mail problem, most of the food problem (with the provisioning
+clause and the unpinned endgame), and drops the agricultural
+absurdity — while staying freakishly beyond the line. STILL WANTED
+from the original proposal: the trader's warning beat, below.
 1856–58 settlement hugged the Missouri and lower Platte; the middle
 Niobrara/sand hills country was unfarmed until the 1870s–80s, on
 unceded Lakota land, and G. K. Warren crossed exactly this ground in

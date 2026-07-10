@@ -10,7 +10,7 @@ The later letters were different. The affection was still there, or the words fo
 
 There was no mention of children. In nearly three years of marriage, in letters that described every other detail of her life, she said nothing about children born or expected. Whether this was grief or privacy or simple absence, I could not tell. But I noticed it.
 
-The last letter was dated May the twentieth. The garden is in, she wrote, and the creek is running high. George says the worst is behind us. I hope he is right.
+The last letter was dated May the twentieth, eighteen fifty-eight. The garden is in, she wrote, and the creek is running high. George says the worst is behind us. I hope he is right.
 
 That was all. Nothing to suggest what came after. Nothing to suggest that anything came after at all.
 

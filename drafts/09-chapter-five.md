@@ -64,11 +64,11 @@ The trader considered this. His face was weathered past any particular age, the 
 
 "Where's their place?"
 
-"Up the river, maybe two days' ride if the snow holds. There's a creek comes in from the north—can't miss it, it's the only one for ten miles. Their place is three days up that creek, maybe four in this snow. Sod house, like this one, only smaller."
+"Up the river, maybe two days' ride if the snow holds. There's a creek comes in from the north—can't miss it, it's the only one for ten miles. Their place is a day up that creek, maybe two in this snow. Sod house, like this one, only smaller."
 
 "You said you haven't seen them since summer."
 
-"That's right. They came through a few times, when they first settled. Seemed like decent people. The woman was Eastern, you could tell—didn't know what she was getting into. The man knew, but he was the kind who thought he could handle anything." The trader shook his head. "Most of them are, when they start. Most of them learn different."
+"That's right. They came in when the weather let them—flour and salt, and letters to send east. Seemed like decent people. The woman was Eastern, you could tell—didn't know what she was getting into. The man knew, but he was the kind who thought he could handle anything." The trader shook his head. "Most of them are, when they start. Most of them learn different."
 
 "You think something happened to them?"
 
@@ -136,11 +136,11 @@ That night the coyotes came near for the first time. They started after dark, a 
 
 The horse did not like it either. He stamped and snorted, pulling at his tether, and I had to speak to him softly for a long time before he settled.
 
-On the third day, I crossed a creek I thought was the one I was looking for, and followed it north for three hours before I realized my mistake. The valley narrowed to a dead end, the hills closing in on either side, and there was no homestead here, no sign that anyone had ever lived in this place.
+On the third morning, I crossed a creek I thought was the one I was looking for, and followed it north for three hours before I realized my mistake. The valley narrowed to a dead end, the hills closing in on either side, and there was no homestead here, no sign that anyone had ever lived in this place.
 
-I turned back. Three hours wasted, and the short winter day already half-gone. I made camp early that night, in a hollow that offered little shelter, and I lay awake listening to the wind and thinking about how easy it would be to die out here. A wrong turn, a missed landmark, a night without fire, and in the morning nothing but a shape under the snow that no one would find until spring.
+I turned back. Three hours wasted, and the morning gone with them. I rode down out of that dead valley thinking about how easy it would be to die out here. A wrong turn, a missed landmark, a night without fire, and in the morning nothing but a shape under the snow that no one would find until spring.
 
-The fourth day I found the right creek.
+That afternoon I found the right creek.
 
 I knew it as soon as I saw it—wider than the others, the valley opening out to the north, the willows along its banks brown and thick. I turned up it and felt something ease in my chest.
 
@@ -162,6 +162,6 @@ I reached him and took the reins. I could feel his fear through the leather, the
 
 We made it. The ice held. But when we reached solid ground, my legs gave out beneath me and I sat in the snow for a long time, shaking, while the horse stood beside me and steamed in the cold air.
 
-That night I built a fire larger than I needed and sat close to it, feeling the warmth on my face, listening to the ice on the creek settle and crack in the darkness. I was on the right creek now. Two days more, maybe three.
+That night I built a fire larger than I needed and sat close to it, feeling the warmth on my face, listening to the ice on the creek settle and crack in the darkness. I was on the right creek now. A day more, maybe two.
 
 But the country had reminded me what it could do.

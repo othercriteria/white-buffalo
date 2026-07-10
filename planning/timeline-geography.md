@@ -58,8 +58,8 @@ as I had").
 | 1856-1858 | Follows her; winters 1856-57 and 1857-58 endured (JE IV, gap after JE VI) |
 | June 4, 1857 | First sees the settlers arriving/building (10:37-41) |
 | Early Aug 1858 | Kills George and Catherine Hardin shortly after Aug 3 (14:99, 16:5); buries them over two days (19:49) |
-| Jan 1 + 7, 1859 | Final dated entries (JE VIII); JE IX undated, the last dawn |
-| ~Jan 8, 1859 | Walks down to her at sunrise; dies. Farrell reaches the camp that dusk, the body the next morning |
+| Jan 1 + 4, 1859 | Final dated entries (JE VIII; re-dated from Jan 7 on 2026-07-10, endgame unpinned by DK); JE IX undated, the last dawn |
+| ~Jan 5, 1859 | Walks down to her at sunrise; dies. Farrell reaches the camp that dusk, the body the next morning (Jan 6) |
 
 ### Hardins' Timeline
 
@@ -92,8 +92,8 @@ letter box (11:97-99) shows writing that never left the house. Do not
 | July-October 1858 | Growing alarm; writes to territorial authorities, military posts; receives no useful information |
 | November 1858 | Hires Farrell in upstate New York; provides letters, map, daguerreotype |
 | November 1858 | Farrell departs westward (~Nov 3); crosses Iowa; Council Bluffs Nov 24 |
-| December 1858 | Fort Kearny Dec 9; rumors of "the man who follows the white buffalo"; trading post Dec 20; homestead Dec 27; DTs setting in |
-| January 1859 | Farrell tracks north; camp and journal Jan 8; body, buffalo, Lakota at dawn Jan 9 |
+| December 1858 | Fort Kearny Dec 9; rumors of "the man who follows the white buffalo"; trading post Dec 19; homestead Dec 24 (moved closer 2026-07-10 — "a day up that creek"); Christmas at the dead homestead; north Dec 26 with the Hardins' stores |
+| January 1859 | Farrell tracks north; camp and journal Jan 5; body, buffalo, Lakota at dawn Jan 6 |
 
 Day-level positions and nominal coordinates: see planning/geo-ledger.md.
 
@@ -120,11 +120,12 @@ Arithmetic that checks out, kept here so nobody re-derives it:
   visit → late August (09:87), matching the post-killing move north;
   "haven't seen either one since last summer" (09:63) matches an early
   Aug death. Farrell's stable arithmetic (09:117) is honest.
-- Endgame lock: JE VIII dated Jan 1 and Jan 7; Morrow walks down at
-  dawn ~Jan 8; Farrell reaches the abandoned camp at dusk the same day
-  ("left this morning, perhaps, or late last night," 19:9), reads
-  overnight, finds the body the next morning — blood on the cow
-  "dried and frozen" (20:21) at ~24 hours. Consistent.
+- Endgame lock: JE VIII dated Jan 1 and Jan 4 (unpinned and re-dated
+  2026-07-10); Morrow walks down at dawn ~Jan 5; Farrell reaches the
+  abandoned camp at dusk the same day ("left this morning, perhaps,
+  or late last night," 19:9), reads overnight, finds the body the
+  next morning — blood on the cow "dried and frozen" (20:21) at ~24
+  hours. Consistent.
 
 **Known frame-dating hazard (reader-confirmed, 2026-07-10):** the
 journal is dated; Farrell's strand never is. Two careful blind readers
@@ -133,11 +134,13 @@ because the interleave implies concurrency with the facing journal
 dates. The internal clues (above) all say 1858 but no explicit date
 ever lands. Candidate one-phrase fix logged in the revision stack.
 
-**Soft spot (watch, don't fix yet):** Farrell's food runs out ~2 days
-before the Ch 9 river crossing (17:49) and he eats nothing thereafter;
-whether that stretch is ~3 days or ~8 depends on day-assignments the
-text leaves loose. The geo-ledger's day-level chain keeps it short.
-Deliberately fevered prose covers some of it either way.
+**Food math — RESOLVED (2026-07-10):** the Hardins-closer move + the
+provisioning clause (Farrell fills his saddlebags from their stores,
+13:105) + the unpinned endgame (JE VIII Jan 7 → Jan 4) together cut
+the foodless stretch to ~5 days (Jan 1–6) for a mounted man — hard
+but credible. The trader now also carries the mail explanation
+("flour and salt, and letters to send east," 09:71), which retires
+the monthly-letters implausibility and softens the silent ten weeks.
 
 ## Geography
 

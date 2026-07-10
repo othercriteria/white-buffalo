@@ -28,7 +28,7 @@ So I rationed, and I counted the swallows that remained, and I tried not to thin
 
 ---
 
-The shaking came on the third day up the creek.
+The shaking came on the first morning up the creek.
 
 I noticed the tremor first, a slight unsteadiness in my hands as I saddled the horse in the morning. I told myself it was the cold, but I knew better. The cold made your hands clumsy, made your fingers slow. It did not make them shake.
 
@@ -48,7 +48,7 @@ I would find what I had come to find, and then I would deal with whatever came n
 
 ---
 
-I found the homestead on the afternoon of the fourth day.
+I found the homestead on the afternoon of the second day.
 
 The creek made a bend around a low hill, and as I came around it I saw the sod house sitting in a small clearing perhaps a hundred yards ahead. It was a crude structure, smaller than the trading post, built of blocks of cut earth that passed for building material in this country. A barn—if you could call it that, a lean-to shelter barely large enough for a horse and a cow—stood behind it. A well had been dug near the front, a wooden frame above it to hold a pulley and rope. A small patch of ground, now buried under snow, marked where someone had tried to plant a garden.
 

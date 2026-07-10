@@ -102,7 +102,7 @@ I finished the last of my whiskey that evening, drinking it slowly, trying to ma
 
 I slept badly, woke often, dreamed of things I could not remember. At one point I thought I heard voices outside the house, and I lay in the darkness listening, my hand on my rifle, until I realized there was nothing there. Just the wind.
 
-In the morning I saddled my horse, closed the door of the sod house behind me, and rode north.
+In the morning I filled my saddlebags from the Hardins' stores—salt pork and beans and the last of a sack of hardtack. They had no more use for it, and the man I was following had a long start. Then I saddled my horse, closed the door of the sod house behind me, and rode north.
 
 The stories put him north of here, on the Niobrara; the mail rider had seen him further south, crossing the Loup. Buffalo drift with the feed in winter, and the man drifted with the buffalo. But the tracks from the homestead led north, and the tracks were the only thing in all of it I could put my hand on. North was what I had.
 
