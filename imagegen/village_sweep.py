@@ -18,10 +18,10 @@ OUT = HERE / "output" / "village"
 # among its candidates: homestead.png is s100, so the alive/dead rhyme
 # is free if that seed's quality passes (shared-seed massing).
 SWEEPS = {
-    "homestead-interior": [200, 201, 202],
-    "speaking-to-her": [200, 201, 202],
-    "tracks-north": [200, 201, 202],
-    "homestead-alive": [100, 200, 201, 202],
+    "homestead-alive": [100, 210, 211, 212],
+    "homestead-interior": [210, 211, 212],
+    "speaking-to-her": [210, 211, 212],
+    "tracks-north": [210, 211, 212],
 }
 STYLE = "engraving"
 
@@ -43,6 +43,7 @@ def main():
     for scene_key, seeds in SWEEPS.items():
         scene = catalog[scene_key]
         spec = scene.get("lora")
+        lora_label = "none"
         if spec:
             name, _, w = spec.partition("@")
             weight = float(w) if w else DEFAULT_LORA_WEIGHT
@@ -50,6 +51,7 @@ def main():
                 pipe.load_lora_weights(HERE / LORAS[name], adapter_name=name)
                 loaded.add(name)
             pipe.set_adapters([name], adapter_weights=[weight])
+            lora_label = f"{name}@{weight}"
         elif loaded:
             pipe.set_adapters(list(loaded), adapter_weights=[0.0] * len(loaded))
 
@@ -59,7 +61,7 @@ def main():
             if out_path.exists():
                 print(f"skip {out_path.name}")
                 continue
-            print(f"Generating {out_path.name} ({width}x{height}, {name}@{weight})")
+            print(f"Generating {out_path.name} ({width}x{height}, lora={lora_label})")
             image = pipe(
                 prompt=f"{style['prefix']}, {scene['prompt']}",
                 negative_prompt=", ".join(

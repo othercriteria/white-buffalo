@@ -106,8 +106,13 @@ dni = "traces-only: exterior desolation; no interior violence evidence in this f
 # a farm across a valley is intrinsically horizontal, and the
 # alive/dead rhyme with the existing landscape vignette outranks
 # format purity. Added 2026-07-09 (DK gap-fill ruling).
-negative = "mountains, peaks, crags, cliffs, alpine, forest, winter, snow, faces, close-up, foreshortening, weeping willow, frame house, clapboard, brick chimney, shingles, fence, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, seen level from a ridge across a wide summer valley, a small homestead far below: a low sod house with a thin thread of smoke, a plowed field beside it, a well frame near the door, washing on a line strung between two posts, two tiny figures at their work in the yard, brushy willows along the creek where it bends around a low hill, the valley grass moving under the wind, high summer light, the figures far too small for faces"
+# v2 (2026-07-10): round 1's houses broke the rhyme-pair continuity —
+# s202 a steep-gabled thatch cottage, s100 log-fronted; the alive/dead
+# pair must show THE SAME BUILDING as homestead.png (low soddy, cut-sod
+# courses). Also a model-fill DOG cut: the text never gives the Hardins
+# one, and the killing logistics quietly depend on that absence.
+negative = "mountains, peaks, crags, cliffs, alpine, forest, winter, snow, faces, close-up, foreshortening, weeping willow, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, shingles, fence, dog, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, seen level from a ridge across a wide summer valley, a small homestead far below: a low flat-roofed sod house, its walls of flat-cut sod bricks laid in courses, a stovepipe with a thin thread of smoke rising through the sod roof, a plowed field beside it, a well frame with a windlass near the door, washing on a line strung between two posts, two tiny figures at their work in the yard, brushy willows along the creek where it bends around a low hill, the valley grass moving under the wind, high summer light, the figures far too small for faces"
 aspect = "landscape"
 citations = ["10:67-71 (Aug 2 1857: sod house, plowed and planted field, well dug, woman hanging clothes on a line between two posts, the man coming out)", "10:43 (watched from the ridges)", "14:35 (the sod house seen from the ridge, smoke from their chimney, the man in his field)", "11:3 (creek bends around a low hill — same site as the winter vignette)", "12:69 (quarter-mile watching distance)"]
 underdetermined = ["yard layout beyond the cited elements"]
@@ -133,7 +138,10 @@ dni = "canonical trace of the killings — the permitted evidence, nothing more"
 # traces carry it; more would overload (kit-manifest lesson). Added
 # 2026-07-09 (DK gap-fill ruling).
 negative = "person, human figure, fire burning, flames, smoke, glowing window, warm light, lamplight, candlelight, curtains, wallpaper, plaster wall, brick, paneling, modern furniture, clutter, blood, red, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, a rough plank table thick with dust and one chair beside it, a second chair with a broken leg propped in the corner, a bed with blankets neatly made against the far wall, a cold cast-iron stove with its pipe rising through the sod roof, shelves of plain dishes and a few books, a woman's dark dress and a man's coat hanging side by side on pegs near the door, a patch of newer tamped earth in the packed-dirt floor near the threshold, deep stillness, no people"
+# v2 (2026-07-10): round 1 gave good rooms with illegible traces — the
+# furnishings ate the budget (zero-sum corollary). Room compressed;
+# budget spent on the three traces. s202 also leaked a brick hearth.
+prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, dust thick on a rough plank table, the bed neatly made against the far wall, a cold iron stove, and near the door a woman's dark dress and a man's coat hanging side by side on wooden pegs, below them a chair with a snapped front leg propped against the corner, and in the packed-earth floor by the threshold a swept patch of newer darker tamped dirt, no people, deep stillness"
 aspect = "landscape"
 citations = ["11:79 (table and two chairs, bed neatly made, cold stove with pipe through the sod roof, shelves with dishes and books, dress and coat on pegs)", "11:75-85 (gray light through the small window, closed-up smell, dust thick on the table)", "13:33 (dark patch dug out and tamped with fresh dirt near the door; a crack in the wall; the broken chair propped in the corner as if meant for repair)"]
 underdetermined = ["room arrangement beyond cited anchors (twenty-by-fifteen analog per trading post; text gives no dimensions here)"]
@@ -143,8 +151,16 @@ dni = "the enumerated permitted traces ONLY (scrubbed stain, broken chair); no v
 # Ch 7 close — the pursuit's thesis as a minimal in-text cut. EMBLEM
 # CLASS: rule #5 must be enforced (level vantage asserted; the model's
 # prior for track studies is top-down). Added 2026-07-09 (DK ruling).
-negative = "overhead view, aerial view, top-down, bird's eye view, map, person, human figure, animal, buffalo in frame, horse, mountains, peaks, crags, cliffs, alpine, trees, forest, fence, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a low level view across snow-covered ground under a gray sky, two trails of tracks running side by side away from the viewer toward the empty northern horizon: the deep round hoofprints of a single heavy buffalo and the smaller boot prints of a man walking behind, the prints softened at their edges by later snows, gently rolling white emptiness, nothing else moving, no people, no animals in view"
+# v2 (2026-07-10): round 1 put the MAKERS in frame (all 3 seeds — the
+# negative lost to "name a thing, get the thing") and rendered prints
+# enormous, one set as bear paws. Absence asserted positively (the bare-
+# flagstaff trick); print scale pinned.
+# v3 (2026-07-10): positive absence WORKED (r2 frames empty) but
+# per-print description invites zoom-in — r2 gave paw-craters and rut
+# readings. v3 describes only the TRAIL: thin double lines dwindling;
+# no individual print named.
+negative = "overhead view, aerial view, top-down, bird's eye view, map, person, human figure, animal, buffalo in frame, horse, paw prints, claw marks, giant footprints, craters, holes, pits, wheel ruts, sled tracks, wagon trail, mountains, peaks, crags, cliffs, alpine, trees, forest, fence, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a low level view across wide snow-covered ground under a gray sky, two thin broken lines of small dark track-marks running side by side, dwindling away from the viewer toward the empty northern horizon, one line heavier and one lighter, the marks softened by later snowfall, their makers long gone beyond the horizon, nothing anywhere in the plate but the two dwindling trails and the gently rolling white emptiness"
 aspect = "landscape"
 citations = ["13:57-69 (two sets: one very large, deep hoofprints of an animal heavier than any horse or ox; the boot-prints of a man; old, filled in and softened, but the shape still there; leading away north)", "15:83-87 (buffalo tracks deep, human tracks lighter, worn boots, steady stride, never varying)"]
 underdetermined = []
@@ -183,8 +199,17 @@ dni = "clean"
 # JE II, July 1856 — fills the journal middle (the catalog's summer
 # desert). The waiting made visual: a hundred yards of grass between
 # them. Added 2026-07-09 (DK gap-fill ruling).
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, winter, snow, cattle, cows, oxen, dairy calf, domestic livestock, farm animals, herd nearby, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, high summer on the open plains, a young white buffalo calf grazing alone in deep brown grass, apart from the herd small and dark in the far distance, her coat white as snow, longer-legged than a spring calf, and on a low rise a hundred yards from her, jmorrow, the tall thin bearded man seated alone in the grass, still, watching her, the late sun low, the wide grass moving under the wind, seen level from a distance"
+# v2 (2026-07-10): round 1 inverted the vantage (giant calf foreground,
+# Morrow distant — the cover's foreshortening problem; 2/3 calves leaked
+# domestic anatomy). Lateral composition asserted: the hundred yards of
+# empty grass between them IS the subject. Calf morphology block from
+# first-sighting (proven).
+# v3 (2026-07-10): rounds 1-2 both inverted (giant foreground calf —
+# rich calf description is a subject magnet; foreground white bovines
+# default to cattle). Borrowing the COVER's proven grammar wholesale:
+# whole-form-at-respectful-distance + the full anti-close battery.
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, winter, snow, cattle, cows, oxen, dairy calf, domestic livestock, farm animals, cattle horns, herd nearby, animal in the foreground, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, high summer on the open plains, a young white buffalo calf, stocky and woolly-headed with the first rise of a shoulder hump, her coat white as snow, her whole form in view seen level across the grass from a respectful distance, grazing alone in deep brown grass, and a hundred yards from her, seated on a low rise with the same open grass between them, jmorrow, the tall thin bearded man watching her, both figures small in the wide plate, the herd small and dark in the far distance, the late sun low, the wide grass moving under the wind"
 aspect = "portrait"
 lora = "morrow-ep12"
 citations = ["04:51-63 (July; evenings grazing apart; spoke to her from a rise perhaps a hundred yards away; 'I am waiting for you'; sun going down)", "04:5-7 (seven weeks on: legs longer, body fuller, coat pure)", "02:27 (white as snow, not pale, not cream)"]
