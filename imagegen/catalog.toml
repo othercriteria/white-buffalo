@@ -21,11 +21,12 @@
 # IS NEVER DEPICTED — compose from behind his eyes where his position
 # matters. Entries conflicting with this are marked shelved-by-policy.
 #
-# DEFERRED (DK 2026-07-09): ferry-bridge (Ch 3, Mississippi ferry with the
-# Rock Island bridge) — evaluate at assembly time, only if the plate
-# distribution leaves a large gap in that neighborhood of the text.
-# Held for a later pass: blizzard-recomposition (horse's mane in the
-# whiteout), frozen-hand (Ch 5, taste), ridge-watcher (JE VII, cleverness).
+# GAP FILLS TRIGGERED (2026-07-10, planning/assembly.md): ferry-bridge
+# generated per DK's standing rule (Ch 2+3 = the book's largest bare
+# stretch); two-stories proposed and DK-blessed (Ch 9, longest back-half
+# run). Held for a later pass: blizzard-recomposition (horse's mane in
+# the whiteout), frozen-hand (Ch 5, taste), ridge-watcher (JE VII,
+# cleverness).
 
 [cover]
 # The needle: cow-framed at bull scale (style A/B: everything drifts
@@ -366,3 +367,36 @@ aspect = "portrait"  # format doctrine; rhyme partner of first-sighting (seed 57
 citations = ["20:21 (fifty yards; blood dried and frozen on chest and forelegs)", "20:23 (breath steaming, motionless)", "20:3-55 (steel sky, hints of gold)", "20:75 (horse behind, breath in slow clouds)", "19:71 (valley meadow, ridges north)"]
 underdetermined = []
 dni = "trace posture: the blood is canon evidence; Morrow's body NOT in this frame; no resolution implied — she faces him, nothing more"
+
+[ferry-bridge]
+# Gap fill #1 (assembly.md): Ch 2+3 are the book's largest bare stretch;
+# DK's standing rule triggered. Vantage: the low bank — the plate is the
+# river system (ferry, bridge, steamer), not the man; passengers are
+# anonymous specks, which we judge compatible with FARRELL NEVER
+# DEPICTED (precedent: village-passing's distant riders). Bridge is the
+# 1856 Rock Island: wooden truss on stone piers, draw span open (05:27).
+# Distance leads; subjects starved; states asserted (draw OPEN, steamer
+# PASSING, smoke TRAILING).
+negative = "mountains, peaks, crags, cliffs, alpine, forest, ocean, sea, harbor, sailboat, sails, modern bridge, steel bridge, iron truss, suspension bridge, cables, concrete, faces, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering"
+prompt = "strictly monochrome ink, a wide gray river in early winter seen level from the low eastern bank, the far shore a thin dark line of bare trees, the water dark and moving, mid-river a flat-bottomed ferry boat crowded small with tiny figures and horses and a farm wagon, and upstream of the ferry a long wooden railroad bridge standing black on stone piers crossing the whole river, its draw span swung open, a sidewheel steamboat with twin tall stacks passing down through the open draw trailing smoke, a heavy gray November sky worked in fine ruled lines, the banks low and bare"
+aspect = "landscape"
+citations = ["05:19-21 (sheer width, far shore a thin line of trees)", "05:23 (flat-bottomed boat, a dozen horses, twice as many men)", "05:25 (family wagon, pack mules, riders)", "05:27 (bridge black on its piers, first over the river, draw open for a steamer coming down)", "05:3 (gray morning, smell of snow)"]
+underdetermined = ["steamboat's build beyond sidewheel/stacks", "ferry propulsion (text: ropes) — not asserted, illegible at this distance"]
+dni = "clean (Farrell aboard but a speck among specks; no identifiable figure)"
+
+[two-stories]
+# Gap fill #2 (assembly.md, DK-blessed): Ch 9's first sight of them,
+# breaking the longest back-half bare run. From behind Farrell's eyes
+# (mounted, halted — neither he nor the horse appears). THE COW IS
+# DELIBERATELY ABSENT: the plate renders his exact percept — "The
+# buffalo I could not find at first. She was lost in the white, and I
+# found her only when she moved" — and a plate cannot move. Her absence
+# is the subject; do not "fix" by adding her. The man stays a speck
+# (the engraver's honest mile, unlike the finale's necessary
+# compression). No LoRA — identity illegible at this scale by design.
+negative = "buffalo, bison, cattle, herd, large animal, animal in the foreground, horse and rider, mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering"
+prompt = "strictly monochrome ink, a wide shallow valley filled with unbroken snow seen level from a low rise at its southern end, the snow smooth and untouched by wind, a pale gray winter morning sky, and running away down the length of the valley toward the north two thin dotted trails of tracks side by side, hoofprints and boot prints, dwindling with the distance, and far off along the trails, a mile away, one tiny dark figure of a man walking, a small dark speck against all the white, nothing else in the valley, the whole plate carrying white space and distance"
+aspect = "landscape"
+citations = ["17:77-79 (flatter, more open, a wide valley; snow deep, untouched by wind, a blank white page, only two stories written)", "17:81 (far ahead, perhaps a mile, a dark shape moved against the white — the man)", "17:81 (the buffalo lost in the white — rendered by her absence)", "15:83-87 (hoofprints and boot prints, the validated print language)"]
+underdetermined = ["valley landform detail", "light direction (sun sourceless behind cloud)"]
+dni = "clean (Farrell behind the viewpoint; the cow absent by design)"
