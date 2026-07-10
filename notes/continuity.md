@@ -417,3 +417,21 @@ sighting; and the letter is written three days after JE VII's July 17
 DO NOT point at this in text. Aldridge's inquiry window compresses to
 Sept-Oct; his November hire now reads as urgency before winter rather
 than slow-burn patience.
+
+## Stack items 6, 8, 25 applied (2026-07-10)
+
+Tracks: the homestead sign is now explicitly a winter re-pass ("weeks
+past, not months," 13:61) — the herd's documented Loup loop returns
+north through the homestead creek in early December; Morrow stands at
+the graves, unjournaled (JE VIII's Nov-Dec gap is the silence). Ch 8's
+"snow had fallen twice since" now dates cleanly. Farrell's conviction
+paragraph gains the return ("he had stood at their graves again").
+JE VII: new July 13 entry — the failed night haze (she will not be
+moved; pressing risks a run that hands the man and the herd to each
+other) and the rejected alternative (frightened people talk; "The dead
+carry nothing"). July 17's "I have tried to find another way. I have
+failed" is now dramatized before asserted. Also retro-evidence for
+JE VIII's "She does not fear me."
+Gold: Cherry Creek/Pikes Peak fever in the Council Bluffs saloons
+(period-true for Nov-Dec 1858); the buffalo rumor arrives "under the
+gold talk"; Fort Kearny's vague gold-strike line aligned.

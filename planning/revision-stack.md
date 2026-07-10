@@ -83,7 +83,7 @@ DK's "dilution" instinct lands here as subtraction, not addition —
 all three readers warn against adding buffalo material to Farrell's
 first half.
 
-### 6. The homestead tracks (C's "genuine mechanical false note")
+### 6. The homestead tracks — APPLIED 2026-07-10 (winter re-pass; the new geometry made it near-automatic — the homestead sits between the herd's Loup loop and the winter valley; Morrow's graves visit falls in JE VIII's unjournaled gap; Ch 8's 'snow had fallen twice' now dates cleanly)
 August tracks cannot read in late-December snowpack (13:57–69), and
 the book supplies no re-pass. Also feeds reader B's lone-pair-vs-herd
 objection (journal has her always inside two hundred animals; homestead
@@ -115,7 +115,7 @@ difference once.
 
 ## Enrichment candidates (DK's menu, reader-motivated)
 
-### 8. JE VII: dramatize the wrestling (C: "asserted, never shown")
+### 8. JE VII: dramatize the wrestling — APPLIED 2026-07-10 (new July 13 entry: the failed haze — she will not be moved, pressing risks handing the man and the herd to each other; scare-them-off rejected because 'frightened people talk... The dead carry nothing'; retro-supports JE VIII's 'She does not fear me')
 "I have wrestled with it for weeks. I have tried to find another way.
 I have failed" (14:65) — and a reader can ask why he didn't simply
 haze the herd elsewhere. One new dated entry (~120 words) between
@@ -294,7 +294,7 @@ and the road before the territories, and distrusted railhead
 horseflesh. In character for the man who checked the gelding's
 teeth.
 
-### 25. Pikes Peak fever (dilution material, free and true)
+### 25. Pikes Peak fever — APPLIED 2026-07-10 (Council Bluffs saloons half gold talk; the buffalo rumor now arrives 'under the gold talk'; Fort Kearny beat aligned to Cherry Creek)
 Nov–Dec 1858 Council Bluffs was in full Cherry Creek gold mania —
 news arrived Aug–Sept 1858 — and the book's saloons are silent on
 the loudest topic of that exact season and place. **Proposal:** put

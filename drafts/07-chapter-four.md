@@ -104,7 +104,7 @@ I thanked him for the advice and carried my supplies out into the cold.
 
 The fort was busy for the season. Soldiers moved between the buildings, their breath steaming in the air. A handful of civilians—traders, trappers, men whose business I did not ask about—sat on benches outside the barracks, smoking and talking. I found a spot near the stove in the trading post and listened.
 
-Most of the talk was what you would expect. The weather, the Indians, the price of goods. A complaint about an officer who had been too free with the lash. A rumor about a gold strike somewhere in the mountains that no one quite believed but no one could leave alone.
+Most of the talk was what you would expect. The weather, the Indians, the price of goods. A complaint about an officer who had been too free with the lash. Gold talk from the Cherry Creek country, and figuring on the crowds that would come up the Platte for it in the spring.
 
 And then, in a lull in the conversation, I heard it again.
 

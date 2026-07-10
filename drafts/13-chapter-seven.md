@@ -54,19 +54,19 @@ There was blood here too. A splash of it on the doorframe, another smear on the 
 
 I went around to the back of the barn, to where the graves lay.
 
-In the daylight I could see things I had missed the night before. The snow around the graves had been disturbed—not recently, but within the past months. Someone had walked here, knelt here, worked here. The impressions were softened by subsequent snows but still visible to someone who knew how to look.
+In the daylight I could see things I had missed the night before. The snow around the graves had been disturbed—not recently, but since the snows had come. Someone had walked here, knelt here, worked here. The impressions were softened by subsequent snows but still visible to someone who knew how to look.
 
 And there were tracks leading away.
 
-I followed them to the edge of the clearing, where the ground sloped down toward the creek. The tracks were old, filled in and covered over, but the shape of them was still there. Two sets. One large—very large, the deep hoofprints of an animal heavier than any horse or ox. The other smaller, the boot-prints of a man.
+I followed them to the edge of the clearing, where the ground sloped down toward the creek. The tracks were old, filled in and covered over, but the shape of them was still there, and they had been made since the snow began to lie—weeks past, not months. Two sets. One large—very large, the deep hoofprints of an animal heavier than any horse or ox. The other smaller, the boot-prints of a man.
 
-A buffalo had been here. A man had followed it.
+A buffalo had been here. A man had followed it. And not in the summer, when the killing was done—these were winter tracks. Whoever he was, he had come back.
 
 I stood at the edge of the trees and looked north, at the tracks disappearing into the white. I thought about the stories I had heard—from the trader, from the mail carrier, from the trapper at Fort Kearny. A man who followed a white buffalo across the plains. A man with nothing in his eyes. A man who looked at you like you were not there.
 
 The trader had seen him pass four months back. I had made that count already, lying in the trading-post stable, and it came out the same here: the same summer the Hardins had dropped from sight.
 
-I did not know why he had killed them. I did not know if there was a reason that would make sense to anyone but him. But I knew, with a certainty I could not have defended, that the man who followed the white buffalo had come to this homestead and killed the people who lived here and buried them behind their barn. Then he had walked away, following his sacred animal north, leaving nothing behind but two graves and the tracks of his passage.
+I did not know why he had killed them. I did not know if there was a reason that would make sense to anyone but him. But I knew, with a certainty I could not have defended, that the man who followed the white buffalo had come to this homestead and killed the people who lived here and buried them behind their barn. And when the snow was down and his animal drifted back through this valley, he had stood at their graves again. Then he had walked away, following his sacred animal north, leaving nothing behind but two graves and the tracks of his passage.
 
 The care of the graves did not fit the violence, and I made it fit, because the tracks said what they said.
 

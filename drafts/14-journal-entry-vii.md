@@ -58,6 +58,18 @@ I cannot allow that.
 
 ---
 
+*July the Thirteenth*
+
+Last night I tried to move the herd.
+
+I came down off the ridge in the dark and got upwind of them and showed myself, waving my blanket, walking at them the way men haze cattle. The nearest cows rose and shifted and looked to her. She did not rise. She stood at the center of them and watched me over their backs, and the herd settled around her like water going still.
+
+I tried twice more before first light. A herd moves when its leader moves, and she would not be moved. If I pressed them harder they might run, and a running herd in the dark would bring the man out of his house with his rifle. I would be handing them to each other.
+
+I thought of driving the settlers off instead—killing their stock, burning their hay. But frightened people talk. They would carry the story of this valley to the post and the fort, and men would come to look at her. The dead carry nothing.
+
+---
+
 *July the Seventeenth*
 
 I have made my decision.

@@ -98,13 +98,13 @@ I found a livery stable where I could board my horse, then found a hotel where I
 
 That evening I went out to see what could be learned.
 
-The saloons were full of men who knew the territory, or claimed to. I bought drinks and listened and occasionally asked questions. Yes, there were settlers on the Niobrara. Not many—the country was hard and the Sioux did not want them there—but a few, further out than sense would carry most men. No, no one knew the Hardins specifically. There were a lot of settlers, and they did not come to town often, and the territory was large.
+The saloons were full of men who knew the territory, or claimed to, and half the talk in every room was gold. There had been strikes far up the Platte, under the mountains—Cherry Creek, the Pikes Peak country—and the river towns were full of men planning to go out in the spring, and of other men selling them the outfits to do it with. Gold was not my business. I bought drinks and listened and occasionally asked questions. Yes, there were settlers on the Niobrara. Not many—the country was hard and the Sioux did not want them there—but a few, further out than sense would carry most men. No, no one knew the Hardins specifically. There were a lot of settlers, and they did not come to town often, and the territory was large.
 
 I asked about the route. Up the Platte, they said, following the emigrant trail toward Fort Kearny. Then north, into the sand hills, into the emptiness. It would be hard going in winter. A man could die out there, alone, if he was not careful.
 
 I thanked them for the advice and bought another round and continued listening.
 
-And then I heard something else.
+And then, under the gold talk, I heard something else.
 
 "You hear about the man and the white buffalo?" someone said. He was drunk, his words slurring, but there was something in his voice that made me pay attention.
 

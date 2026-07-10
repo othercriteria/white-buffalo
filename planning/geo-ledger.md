@@ -74,7 +74,8 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Apr 19, 1856 | ~42.6, -100.2 | First sighting (02:3) |
 | 1856–58 | ±40 mi range, middle sandhills / Niobrara divide | Herd loops; homestead inside range ("led me back," 14:7) |
 | ~Nov 18, 1858 | Niobrara valley | Trapper's sighting, "three weeks back" from ~Dec 9-11 (07:117) ✓ |
-| ~Nov 30, 1858 | upper North Loup | Creighton's, "two weeks ago" from Dec 14 (07:179) ✓ — 40 mi loop south, plausible |
+| ~Nov 30, 1858 | upper North Loup | Creighton's, "two weeks ago" from Dec 14 (07:179) ✓ — loop south, plausible |
+| ~early Dec 1858 | homestead creek valley | Northbound re-pass on the return drift (the homestead now sits between the Loup and the winter valley). Morrow stands at the graves; unjournaled — falls in JE VIII's Nov–Dec gap, his elision (16:5). Source of the winter tracks Farrell reads Dec 25 (13:57–65, "weeks past, not months") |
 | by Jan 1, 1859 | winter valley 42.95,-100.70 | JE VIII (16:77); Morrow on watch-ridge from ~Dec 29 ("three days now," 16:79 at Jan 1) ✓ |
 | Jan 4 | valley | Final dated entry (re-dated from Jan 7, 2026-07-10): "Tomorrow, I think" (16:85-95) |
 | Jan 5 (dawn) | meadow | JE IX written pre-dawn (18); walks out; dies |
