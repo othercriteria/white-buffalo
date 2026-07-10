@@ -5,21 +5,23 @@ Single pipeline load; reads prompt/negative/aspect/lora from the
 production catalog so the sweep tests exactly what generate.py ships.
 """
 
-import tomllib
 from pathlib import Path
 
+import tomllib
 import torch
 from diffusers import ZImagePipeline
-
 from generate import ASPECTS, DEFAULT_LORA_WEIGHT, LORAS, MODEL, REVISION
 
 HERE = Path(__file__).parent
 OUT = HERE / "output" / "village"
-# v5 calibration round (paper<->ink balance). History: 130-135 v1,
-# 140-145 v2e4 r1, 150-153 v3 (composition solved, drifted pale),
-# 160-163 v4 (overshot dark; s162 near-lander).
+# Gap-fill batch round 1 (2026-07-10). homestead-alive sweeps seed 100
+# among its candidates: homestead.png is s100, so the alive/dead rhyme
+# is free if that seed's quality passes (shared-seed massing).
 SWEEPS = {
-    "village-passing": [170, 171, 172, 173, 174, 175],
+    "homestead-interior": [200, 201, 202],
+    "speaking-to-her": [200, 201, 202],
+    "tracks-north": [200, 201, 202],
+    "homestead-alive": [100, 200, 201, 202],
 }
 STYLE = "engraving"
 
@@ -40,12 +42,16 @@ def main():
 
     for scene_key, seeds in SWEEPS.items():
         scene = catalog[scene_key]
-        name, _, w = scene["lora"].partition("@")
-        weight = float(w) if w else DEFAULT_LORA_WEIGHT
-        if name not in loaded:
-            pipe.load_lora_weights(HERE / LORAS[name], adapter_name=name)
-            loaded.add(name)
-        pipe.set_adapters([name], adapter_weights=[weight])
+        spec = scene.get("lora")
+        if spec:
+            name, _, w = spec.partition("@")
+            weight = float(w) if w else DEFAULT_LORA_WEIGHT
+            if name not in loaded:
+                pipe.load_lora_weights(HERE / LORAS[name], adapter_name=name)
+                loaded.add(name)
+            pipe.set_adapters([name], adapter_weights=[weight])
+        elif loaded:
+            pipe.set_adapters(list(loaded), adapter_weights=[0.0] * len(loaded))
 
         width, height = ASPECTS[scene.get("aspect", "landscape")]
         for seed in seeds:
