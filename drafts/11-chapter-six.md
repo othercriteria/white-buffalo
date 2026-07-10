@@ -58,7 +58,7 @@ No smoke rose from the chimney. No light showed in the single small window. No t
 
 I sat on my horse at the edge of the clearing and studied the place. The silence was complete. No sound of animals, no creak of timber, nothing but the wind whispering across the snow.
 
-"Hello," I called. My voice sounded strange in my own ears, rough from disuse. "Anyone here?"
+"Halloo," I called. My voice sounded strange in my own ears, rough from disuse. "Anyone here?"
 
 No answer.
 

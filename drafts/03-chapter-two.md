@@ -24,7 +24,7 @@ I spent the next two days settling my affairs. This did not take long, as I had 
 
 I told Mrs. Canfield I would be gone for some time, perhaps months. She nodded and said she would hold my room if I paid in advance. I paid for a month and told her to rent it out after that if I did not return. She looked at me with something that might have been concern but was probably just calculation, and said nothing.
 
-I went to the lumber office and told Garrett I would not be available for work through the winter. He was unsurprised. He had been the one to tell Aldridge where to find me, and I suspected he had made something off the referral.
+I went to the lumber office and told Garrett I would not be available for work through the winter. He was unsurprised. He had been the one to tell Aldridge where to find me, and I suspected he had made something off it.
 
 "Heading west?" he asked.
 
@@ -50,7 +50,7 @@ On the morning of the third day, I left.
 
 The railroad had come to this part of the country seven years earlier. Towns that had been weeks apart by coach were now a day apart on the cars. It still felt strange to me, though I had watched it happen.
 
-I took the cars from Watertown to Buffalo, changing at Rome, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families relocating west. Children ran up and down the aisles while their mothers called after them. Men smoked cigars and talked business and politics. Women sat with their hands folded and their eyes on the passing scenery.
+I took the cars from Watertown to Buffalo, changing at Rome, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families moving west. Children ran up and down the aisles while their mothers called after them. Men smoked cigars and talked business and politics. Women sat with their hands folded and their eyes on the passing scenery.
 
 Someone had left a newspaper on the seat across from me. I read it without meaning to. Kansas, mostly, and the Congress—a speech on the Southern question by a man I had watched lead his volunteers into the streets of Monterrey. I folded the paper and put it under the seat.
 

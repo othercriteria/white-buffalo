@@ -4,7 +4,7 @@ Ephraim Aldridge had not been inside a tavern in thirty years. He stood now in t
 
 The place was called The Broken Oar, though they were fifty miles from any water that would require one. It sat at the edge of the town, where the last of the frame houses gave way to forest. November had stripped the trees, and through the tavern's single window Aldridge could see the gray lattice of branches against a grayer sky.
 
-He removed his hat. Several men looked up from their drinks, evaluated him, looked away. He was not what they expected to see, and they had already determined he was not their concern.
+He removed his hat. Several men looked up from their drinks, weighed him, looked away. He was not what they expected to see, and they had already determined he was not their concern.
 
 The barman was a heavy-set man with a beard that had not been trimmed in some time. He watched Aldridge approach without expression.
 

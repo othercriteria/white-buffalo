@@ -94,7 +94,7 @@ I would find out what. That was my job.
 
 I reached Council Bluffs seventeen days out of Chicago, riding into town as the sun was setting behind the bluffs that gave the place its name. It was the last significant settlement before the territories, a jumping-off point for everyone heading west.
 
-The town was busy despite the season. Traders and trappers and settlers preparing for the final push, or else waiting out the winter before continuing in spring. There were soldiers too—a small detachment from Fort Kearny, I gathered, come to resupply.
+The town was busy despite the season. Traders and trappers and settlers preparing for the final push, or else waiting out the winter before continuing in spring. There were soldiers too—a small detachment from Fort Kearny, I gathered, come in for supplies.
 
 I found a livery stable where I could board my horse, then found a hotel where I could board myself. The room was small but clean, the bed narrow but soft enough. I paid for three nights, not knowing how long I would need to stay.
 

@@ -36,7 +36,7 @@ I killed that day. I do not know how many. Dozens, certainly. Perhaps more. I lo
 
 It should have horrified me—the blood, the screaming, the way men looked when they died, the sounds they made. It did not. I was empty inside, a shell in the shape of a man.
 
-The battle ended. We won, if you can call it winning. General Taylor commended us. Colonel Davis was wounded and carried off the field. And I sat among the dead, surrounded by men I had killed, and I waited to feel something.
+The battle ended. We won, if you can call it winning. General Taylor commended us. Colonel Davis was shot through the foot and stayed in his saddle until the fighting was done. And I sat among the dead, surrounded by men I had killed, and I waited to feel something.
 
 I am still waiting.
 

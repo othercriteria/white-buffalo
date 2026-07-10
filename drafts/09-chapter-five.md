@@ -50,7 +50,7 @@ He named a price that would have made the sutler at Fort Kearny weep with envy. 
 
 "Information. I'm looking for a homestead. Family named Hardin. Man and wife, settled somewhere up the Niobrara."
 
-The trader's eyes narrowed slightly. "You a lawman?"
+The trader's eyes narrowed slightly. "You the law?"
 
 "No."
 
@@ -132,7 +132,7 @@ Had that been a creek, or just a fold in the land? Had I missed it earlier, pass
 
 I saw antelope that day, a small herd moving across a distant ridge, their tan coats stark against the white. I thought about hunting them—my supplies were adequate but not generous—but they were too far, and I had neither the time nor the ammunition to waste on a chase that might lead nowhere. I watched them out of sight. It was the first thing I had seen move in days that was not snow.
 
-That night I heard coyotes for the first time. They started after dark, a single voice rising from somewhere to the west, and then others answering—a chorus of yips and howls that seemed to come from everywhere and nowhere at once. The sound raised the hair on my neck. It was wild in a way that reminded me how far I was from anything I knew.
+That night the coyotes came near for the first time. They started after dark, a single voice rising from somewhere to the west, and then others answering—a chorus of yips and howls that seemed to come from everywhere and nowhere at once. The sound raised the hair on my neck. It was wild in a way that reminded me how far I was from anything I knew.
 
 The horse did not like it either. He stamped and snorted, pulling at his tether, and I had to speak to him softly for a long time before he settled.
 

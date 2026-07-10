@@ -216,6 +216,110 @@ rule).
 - 20:51 gray-to-gold light at the sacred exit (weather agreeing at
   the climax) — flagged, but C loved the ending; my lean is keep.
 
+## Period audit (49 items; the nine unambiguous one-worders are
+## APPLIED as of 2026-07-10 — pawing→head-sweep, lawman→the law,
+## Davis stayed in his saddle, referral, relocating, evaluated,
+## resupply, hello→halloo, coyotes-came-near; full report in the
+## audit transcript; what follows needs judgment)
+
+### 18. The Hardins' location — the one breaks-credibility item
+1856–58 settlement hugged the Missouri and lower Platte; the middle
+Niobrara/sand hills country was unfarmed until the 1870s–80s, on
+unceded Lakota land, and G. K. Warren crossed exactly this ground in
+1855/57 and reported it unfit and firmly Sioux. The auditor's remedy
+matches the book's own grammar: don't move them — mark them as
+freakishly beyond the line. George already has "more ambition than
+sense" (01:61). **Proposal:** two dialogue beats. Council Bluffs
+(05:103): "settlers on the Niobrara. Not many..." becomes rarer and
+more incredulous. The trader (Ch 5) gets the load-bearing line: he
+told them there was nothing up that creek but Sioux and winter, and
+Hardin wasn't the kind that hears. This also strengthens Farrell's
+foreboding at zero cost.
+
+### 19. The herd's December-north drift (internal inconsistency)
+The book states the southward winter drift twice, then the herd
+winters in "a valley north of the river" (16:77) with Creighton
+seeing the pair at the Loup in mid-December. **Proposal:** one
+sentence in JE VIII's Jan 1 entry — the herd turned back north
+against the season, to the sheltered valley, and Morrow reads it as
+her leading them to the appointed place (14:31 already establishes
+she leads). Converts the wobble into the book's mysticism, in voice.
+
+### 20. Morrow's missing robe and candle (survival realism)
+A man butchering winter kills for three plains winters who never
+takes a hide is the one survival detail a plainsman would refuse to
+believe; and the JE IX candle (18:7, 19:21) has no source since his
+JE III inventory (06:21). **Proposal (material-culture payoff, DK's
+favorite genre):** one to two sentences in JE IV — he takes a robe
+from a wolf-opened kill, stinking and stiff, "and it is the reason I
+am alive"; and the candle becomes buffalo tallow (a twisted-grass
+wick in a dish of rendered fat), which is period-perfect and
+in-character. Touches 08, 18, 19 lightly.
+
+### 21. Kill-count reconciliation (voice-delicate, don't rush)
+04:41 "seventeen men with certainty" (whole war) vs 18:35 Buena
+Vista alone "Dozens, certainly. Perhaps more." — both claim
+certainty; a specialist reads contradiction. The reconciliation is
+already latent in JE II ("Some of them I saw clearly... Some of them
+I did not see at all"): seventeen = the seen. **Proposal:** adjust
+18:35 so the Buena Vista dozens are explicitly the unseen volley
+dead, the seventeen the faces — 2–3 draft options first
+(forced-alternatives rule), since this is JE IX's fevered register.
+
+### 22. Davis-at-Monterrey sighting geometry (03:55)
+Farrell (Bishop's Palace, west end) could not have watched Davis
+lead his Mississippians into La Tenería (east end, city between).
+**Proposal:** shift the memory from the assault to the occupation —
+"a man I had seen ride through the Plaza at Monterrey at the head of
+his Mississippians" — keeps the personal connection, fixes the map.
+
+### 23. Missing river crossings (Missouri at Council Bluffs; the
+### Platte at Kearny)
+Three crossings pass silently; Farrell is established as a man who
+narrates crossings (the Niobrara beat exists because DK asked for
+exactly this). **Proposal:** one sentence for the Missouri ferry
+with ice running (Ch 3 end), and let the Platte fords stay implicit
+or take a clause at 07:89. NOTE: the Missouri ferry could instead
+host item 9's human beat — two birds.
+
+### 24. Chicago horse vs the Rock Island railhead (05:19 area)
+A man racing winter rails to the Mississippi and buys his horse
+there; riding out of Chicago costs ten days. **Proposal:** one
+clause of Farrell reasoning — he wanted the horse hardened to him
+and the road before the territories, and distrusted railhead
+horseflesh. In character for the man who checked the gelding's
+teeth.
+
+### 25. Pikes Peak fever (dilution material, free and true)
+Nov–Dec 1858 Council Bluffs was in full Cherry Creek gold mania —
+news arrived Aug–Sept 1858 — and the book's saloons are silent on
+the loudest topic of that exact season and place. **Proposal:** put
+the gold fever in the Council Bluffs saloon (05:103) as the
+foreground noise the buffalo rumor has to cut through, and update
+Fort Kearny's "gold strike somewhere in the mountains" (07:107) to
+match. This is DK's dilution instinct executed with period truth:
+the white buffalo becomes one strange story competing against a
+louder one.
+
+### 26. Withdrawal-course note (low, framing only)
+Post-seizure, Farrell's visions are calm, coherent, and
+personally meaningful for ~two weeks — closer to alcoholic
+hallucinosis than true DT (3–5 days of agitated confusion). The
+"gift from the fever" hedge covers most of it. **Optional
+one-clause fix:** Farrell notes the horrors he'd seen in other men
+were louder than what came to him — his came quiet. Converts the
+clinical deviation into observed strangeness.
+
+### 27. Garnish shelf (cheap flavor, apply opportunistically)
+- The trader calls the Niobrara "the Running Water" (period name
+  split with L'Eau Qui Court) — one substitution in Ch 5 dialogue.
+- Farrell changes Aldridge's crisp Oswego notes for coin in Chicago
+  (post-Panic realism) — one clause.
+- JE I "trenches before an assault" (02:47) is Veracruz imagery
+  Morrow's record doesn't contain — swap for a Monterrey-true wait
+  ("in the streets before the guns opened") if the line is touched
+  for other reasons (it's also finding B/#6's triad).
+
 ## Preserve list (readers converged on these — do not disturb)
 
 - The staggered-timeline double-click at JE V (C: "strongest effect
@@ -229,6 +333,20 @@ rule).
   planted supplies — C: "I believe he rises"; the counter-reading
   stays available. No coda.
 - The Broken Oar wryness (page one, forgivable, keep).
+- Period auditor's sixteen "a specialist would smile" items — the
+  North Country rail geography, the Effie Afton cluster, unstockaded
+  Fort Kearny, Blue Water corrected in dialogue, Spirit Lake tavern
+  compression, the Mississippi Rifles record, cottonwood-bark horse
+  feed, "a sweaty horse in winter is a dying horse," the horrors in
+  period diction, the ~200-head winter band, the October village
+  move, the offering stake, the material culture throughout, the
+  white winter jackrabbit, and an unearned convergence: the brutal
+  winter of 1856–57 in JE IV is historically real (the same
+  starvation winter that set up Spirit Lake).
+- The 20:63 vision hedge ("Or another vision—another gift from the
+  fever") is LOAD-BEARING for the Lakota-escort ending per the
+  period auditor — without it the ending breaks credibility;
+  with it, it holds. Never trim it.
 
 ## Reader-expectation notes (no action, for the record)
 

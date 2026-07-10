@@ -70,7 +70,7 @@ The cold is a living thing. It has a weight, a presence. It presses against you 
 
 I have stopped feeling my feet. I have stopped feeling my hands. I move because I must move, because if I stop moving I will die, and I am not ready to die. Not yet. Not like this.
 
-She is still there. I saw her this morning, grazing at the edge of the herd, pawing through the snow to reach the dead grass beneath. She looked at me as I passed, and I thought I saw something in her eyes. Pity, perhaps.
+She is still there. I saw her this morning, grazing at the edge of the herd, sweeping the snow aside with her great head to reach the dead grass beneath. She looked at me as I passed, and I thought I saw something in her eyes. Pity, perhaps.
 
 I do not want her pity. I want her to kill me. But she is not ready, and so I am not ready, and so we both endure.
 
