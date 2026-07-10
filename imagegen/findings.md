@@ -757,3 +757,21 @@ leaf, span pointing at the sky). Also negated: lying snow (s301 —
 no snow on the ground at the crossing canonically; first lying snow
 is Ch 4's Platte patches) and the near-bank bystander (s300 — reads
 as a Farrell-adjacent figure the policy doesn't want).
+
+## ferry-bridge promoted at v3 s307 (2026-07-10)
+
+v2 (swing-span asserted as an OBJECT) failed 3/3 — the model cannot
+draw "span pivoted parallel on its pier"; it rendered continuous decks
+with bulky center piers. v3 asserted the ABSENCE instead ("the line of
+its deck broken at mid-river by a wide open gap... open sky and water
+showing through the break") — the bare-flagstaff rule generalizes:
+when a mechanism defeats the model, describe the hole it leaves.
+s307: clean open interval between stone piers, twin-stack sidewheeler
+passing through trailing smoke (the Effie Afton beat legible), crowded
+flat ferry with wagon and horses at speck scale, bare banks. Register
+z~0.0 on every stat — the most corpus-typical plate generated to date.
+Clamped 9.47% -> 0. Corners clean. PROMOTED.
+Round-1 fallbacks retired: s302 (bascule leaf, anachronistic), s304
+(handsome, draw illegible). s306 note: the model volunteered a TRAIN
+on the deck — right idea, wrong moment (train + open draw is a
+contradiction; also it steals the steamer's beat).
