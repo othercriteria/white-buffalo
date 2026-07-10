@@ -24,7 +24,16 @@ does — the whole journal predates the reading).
 | Phrase | Morrow source | Farrell echo | Status |
 |---|---|---|---|
 | ~~"the same clay"~~ | — | ~~19:59~~ | UN-SANCTIONED (v0.7 final critic): Ch 9 owns sameness (pre-reading recognition), Ch 10 owns only the difference ("he had found something to die for. And I had not."). No shared-origin metaphor survives in either voice |
-| "She is waiting." / "The white buffalo was waiting." | 18:59-81 (JE IX) | 19:75 (Ch 10 close) | KEEP — Farrell has just read those words; the chapter close answers the journal |
+| "She is waiting." / "The white buffalo was waiting." | 18:59-81 (JE IX); also 16:103 (JE VIII closer) | 19:75 (Ch 10 close) | KEEP, UNDER REVIEW 2026-07-10 — tic audit notes both source and echo sit in CLOSING position (the tic's most visible slot) and the back half buttons six sections on wait/waiting; revision stack recommends cutting 19:75 |
+| "a great and quiet peace" | 16:97 (JE VIII) | 20:33 (Ch 11) | KEEP — DK-approved borrow (2026-07-09); row added 2026-07-10, was tracked only in notes/continuity.md |
+| "carry her own illumination" (soft: "as if lit from within") | 06:7 (JE III) | 20:57 (Ch 11) | KEEP — soft borrow, same approval; row added 2026-07-10 |
+
+**Ledger reconciliation (2026-07-10):** notes/continuity.md says "stay at
+three" (ship, peace, illumination); this registry sanctioned a fourth
+(waiting, Ch 10). Counter-brief from a cold full-text reader (revision
+stack §3): unmarked bleed reads as authorial tic. Pending DK: cut 19:75
+to return to three, and plant the ship sentence among Ch 10's quoted
+fragments so the surviving bleed is legible.
 
 ## Accidental bleed — ALL RESOLVED (v0.7)
 

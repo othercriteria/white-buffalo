@@ -19,7 +19,14 @@ Both protagonist and follower served in this war. Key facts:
 - Cerro Gordo (April 1847) - mountain pass battle
 - Mexico City campaign (August-September 1847) - Churubusco, Molino del Rey, Chapultepec
 
-The protagonist and follower likely served in a New York volunteer regiment or attached to regulars. Buena Vista and the Mexico City campaign offer the most visceral material.
+As drafted: Morrow (b. 1824, Virginia) left home young, worked the river
+trade, and joined the volunteers at Vicksburg in 1846 (18:19) — on the
+plateau with the Mississippi Rifles at Buena Vista (18:31), also at
+Monterrey (04:41). Farrell (b. ~1826, enlisted at twenty, 03:63) fought
+at Monterrey and in the Mexico City campaign through Chapultepec
+(17:57–69) — Taylor's line then Scott's, a transfer many soldiers made
+after Monterrey. The two overlap only at Monterrey (19:37 "at Monterrey
+as I had").
 
 ### Great Plains 1850s
 
@@ -41,44 +48,96 @@ The protagonist and follower likely served in a New York volunteer regiment or a
 
 | Date | Event |
 |------|-------|
-| 1846-1848 | Serves in Mexican-American War (Mississippi Rifles, Buena Vista) |
-| 1848-1856 | Years of drifting; emptiness deepens; leaves Virginia |
-| April 1856 | First sees white buffalo calf on the northern Plains |
-| 1856-1858 | Follows the calf as it matures |
-| June 1857 | First notices the Hardin homestead from a distance |
-| August 1858 | Kills George and Catherine Hardin; buries them himself |
-| January 1859 | Final journal entries (Jan 1, Jan 7); walks out at dawn Jan 8; dies |
+| 1824 | Born in Virginia (18:17) |
+| ~1840s | Leaves Virginia young; river trade; at Vicksburg when war comes (18:19) |
+| 1846-1848 | War: Monterrey Sept 1846, Buena Vista Feb 1847 with the Mississippi Rifles (18:29-39) |
+| 1848-1855 | Back in Virginia, father's land, church, "none of it took" (04:43) |
+| 1855 | Final departure from Virginia at thirty-one (12:47); walks out past the Missouri posts |
+| Oct ~1855 | The calf is born — "an autumn calf, born when no calf is born" (02:43) |
+| April 19, 1856 | First sees her, ~six months old (JE I) |
+| 1856-1858 | Follows her; winters 1856-57 and 1857-58 endured (JE IV, gap after JE VI) |
+| June 4, 1857 | First sees the settlers arriving/building (10:37-41) |
+| Early Aug 1858 | Kills George and Catherine Hardin shortly after Aug 3 (14:99, 16:5); buries them over two days (19:49) |
+| Jan 1 + 7, 1859 | Final dated entries (JE VIII); JE IX undated, the last dawn |
+| ~Jan 8, 1859 | Walks down to her at sunrise; dies. Farrell reaches the camp that dusk, the body the next morning |
 
 ### Hardins' Timeline
 
 | Date | Event |
 |------|-------|
-| Summer 1855 | Catherine Aldridge and George Hardin marry (against Ephraim's wishes) |
-| Fall 1855 | Depart New York for Nebraska Territory |
-| Early 1856 | Arrive at homestead site on the Niobrara; begin building |
-| Spring-Summer 1856 | Establish homestead; Catherine writes hopeful early letters to her father |
-| Winter 1856-57 | First full winter (survive) |
-| 1857 | Second year on the land; letters continue but grow more guarded |
-| Winter 1857-58 | Second full winter; Catherine's letters hint at difficulties, isolation, absence of children |
-| March 1858 | Catherine's last letter ("winter is finally breaking") |
-| August 1858 | Killed by Morrow |
+| Early 1856 | Catherine Aldridge and George Hardin marry — "nearly three years" before Nov 1858 (01:61, 01:93) |
+| 1856-1857 | Go west in stages; the year between marriage and arrival is deliberately unspecified (letters describe "the journey west," 03:7; George is "a farmer's son from Ohio," 01:61 — staging with his people is the natural unwritten reading) |
+| Early summer 1857 | Arrive at the creek site; Morrow sees them building June 4 (10:37-41); "They have been here since early summer" (12:35) |
+| Aug 1857 | Sod house built, field plowed, well dug (10:67) |
+| Winter 1857-58 | Their first winter — survived (14:17); "a winter that had been harder than expected" in the letters (03:9) |
+| May 20, 1858 | Catherine's last letter — garden in, creek high, "George says the worst is behind us" (03:13, 01:93) |
+| Early Aug 1858 | Killed by Morrow (14:99 → 16:5) |
 
-**Note on childlessness:** After nearly three years of marriage, Catherine and George have no children. Catherine's later letters touch on this obliquely—hopes deferred, silence where news might have been. Aldridge interprets this as further evidence of an unhappy marriage; the truth may be simpler grief. The homestead shows no signs of children: two chairs, two graves.
+**Accepted slack — the silent ten weeks:** the letters stop in May; the
+killing is early August. The text never explains June–July. Defensible
+as-is: mail went out only when they rode to the trading post, and the
+trader last saw them "last summer" (09:63); an unfinished draft in the
+letter box (11:97-99) shows writing that never left the house. Do not
+"fix" unless a reader-facing problem emerges.
+
+**Note on childlessness:** After nearly three years of marriage, Catherine and George have no children. As drafted the letters are entirely silent on the subject (03:11 "she said nothing about children born or expected"); Aldridge reads the silence as its own answer (01:63), Farrell notices it without concluding. The homestead confirms it: two chairs, one bed, no cradle (11:81).
 
 ### Aldridge/Farrell Timeline
 
 | Date | Event |
 |------|-------|
-| Summer 1855 | Reluctantly allows Catherine to marry George Hardin |
-| 1855-1858 | Receives regular letters from Catherine; relationship remains strained but ongoing |
-| March 1858 | Receives Catherine's last letter |
-| April-October 1858 | Growing alarm; writes to territorial authorities, military posts; receives no useful information |
+| Early 1856 | Reluctantly allows Catherine to marry George Hardin |
+| 1856-1858 | Receives regular letters from Catherine; relationship remains strained but ongoing |
+| ~July 1858 | Receives Catherine's last letter (dated May 20; "They stopped in May," 01:93) |
+| July-October 1858 | Growing alarm; writes to territorial authorities, military posts; receives no useful information |
 | November 1858 | Hires Farrell in upstate New York; provides letters, map, daguerreotype |
 | November 1858 | Farrell departs westward (~Nov 3); crosses Iowa; Council Bluffs Nov 24 |
 | December 1858 | Fort Kearny Dec 9; rumors of "the man who follows the white buffalo"; trading post Dec 20; homestead Dec 27; DTs setting in |
 | January 1859 | Farrell tracks north; camp and journal Jan 8; body, buffalo, Lakota at dawn Jan 9 |
 
 Day-level positions and nominal coordinates: see planning/geo-ledger.md.
+
+### Verified against the draft (2026-07-10 full read)
+
+Arithmetic that checks out, kept here so nobody re-derives it:
+- Morrow b. 1824 (18:17) → left Virginia at 31 in 1855 (12:47) → "I am
+  thirty-three, or perhaps thirty-four" Oct 1857 (12:47) → "thirty-four
+  years" at JE IX (18:53). Consistent.
+- "Twelve years" carrying Buena Vista (18:27): Feb 1847 + 12 = early
+  1859 at the undated last entry. Consistent.
+- JE VI Sept 1857: "two summers... and one winter" since spring 1856
+  (12:7) — summers '56/'57, winter '56–57. JE VIII: "the third winter"
+  (16:75) — '56–57, '57–58, '58–59. Both consistent.
+- The cow: born ~Oct 1855, kills Morrow Jan 1859 at ~3¼ years —
+  "no cow reaches her size in three summers, but she was born out of
+  season and has been early in everything since" (16:17) covers it.
+- Frame-dating clues all agree on Nov 1858: railroad at Watertown
+  "seven years earlier" (03:51, W&R RR 1851); Rock Island bridge
+  "burned once already... two years back" (05:27–29, Effie Afton May
+  1856); Spirit Lake "last year" (05:73–75, March 1857); Davis in the
+  Senate; "Harney did his work on the Blue Water" (07:157, Sept 1855).
+- Trader saw Morrow pass "maybe four months back" from a ~Dec 18–20
+  visit → late August (09:87), matching the post-killing move north;
+  "haven't seen either one since last summer" (09:63) matches an early
+  Aug death. Farrell's stable arithmetic (09:117) is honest.
+- Endgame lock: JE VIII dated Jan 1 and Jan 7; Morrow walks down at
+  dawn ~Jan 8; Farrell reaches the abandoned camp at dusk the same day
+  ("left this morning, perhaps, or late last night," 19:9), reads
+  overnight, finds the body the next morning — blood on the cow
+  "dried and frozen" (20:21) at ~24 hours. Consistent.
+
+**Known frame-dating hazard (reader-confirmed, 2026-07-10):** the
+journal is dated; Farrell's strand never is. Two careful blind readers
+both mis-anchored Farrell's November (one to 1856, one to 1857–58)
+because the interleave implies concurrency with the facing journal
+dates. The internal clues (above) all say 1858 but no explicit date
+ever lands. Candidate one-phrase fix logged in the revision stack.
+
+**Soft spot (watch, don't fix yet):** Farrell's food runs out ~2 days
+before the Ch 9 river crossing (17:49) and he eats nothing thereafter;
+whether that stretch is ~3 days or ~8 depends on day-assignments the
+text leaves loose. The geo-ledger's day-level chain keeps it short.
+Deliberately fevered prose covers some of it either way.
 
 ## Geography
 
