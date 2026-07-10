@@ -567,3 +567,20 @@ period cumulus in ruled tone). v5 calibration: "heavy gray sky" ->
 "pale gray, lightening toward the top", "dense" -> "open" hatching,
 6-seed landing pool with register.py in the launch command itself —
 the gate is now part of the sweep.
+
+## VILLAGE-PASSING LANDED: s175 promoted (2026-07-09)
+
+v5 calibration returned tone to the corpus envelope (mean/ink/paper all
+inside; DK: no proactive optimization on the remaining texture numbers
+unless drift grows). Zoom verdicts: s175 = the text's geometry (the
+line bending wide around the rise, double file), pole-drags correctly
+grounded and legible at silhouette scale, ruled period sky. s170 = DK's
+impressionistic favorite (upswept LOC-style fore-ends absorbed as
+upslope perspective, the liveliest file of the set) — kept as the named
+alternate, one-command swap if preferred. s174 taught the closing
+lesson: at the text's honest two miles the subject dissolves into
+generic animals — the period engraver's distance compression is
+NECESSARY, not a compromise. Five prompt generations, two LoRA training
+runs, one text enrichment: the capability wall is a plate.
+-> art/village-passing.png. Catalog coverage complete except
+shelved-by-policy scenes and the new gap-fill batch.
