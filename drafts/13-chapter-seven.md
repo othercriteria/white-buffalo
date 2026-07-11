@@ -20,6 +20,8 @@ Two graves. The trader had said there were two Hardins, a man and a wife. That m
 
 I walked around the graves, looking for any sign of who had dug them. The ground was frozen now, had been frozen for months, but the digging would have been done earlier—late summer, perhaps, or early fall, when the earth was still soft enough to turn. Whoever had done it had been thorough. The graves were deep enough that the stones lay flat, not mounded up as they would have been over a shallow burial.
 
+It had not been Indians. A raid does not leave the pantry full and the house standing, and no war party buries the people it kills under stones laid straight.
+
 I thought about George Hardin, the man I had been sent to find. If he had killed his wife, would he have buried her like this? Carefully, deliberately, with stones placed just so?
 
 Perhaps. Men did strange things when guilt took hold of them. But something felt wrong about it. The care taken here did not match the violence that must have preceded it.

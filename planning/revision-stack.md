@@ -482,3 +482,52 @@ device. Voice-convergence evidence upgraded (item 13): "the journal's
 periodic sentences are impossible for their fictional circumstances"
 — the planned Farrell/Morrow register pass remains the remedy; JE
 IV's stub entries are the existing counter-evidence to cite.
+
+## Classroom exercises (2026-07-11): lit unit + history audit
+
+### Validations
+- V6 seminar-proof: the lit teacher predicts the SHARPEST students
+  will argue Morrow was trapped and names the planted counter-reading
+  ("he prices two people below his own death... referee it, don't
+  settle it"). The wrestling entry is doing discussion-generating
+  work, not just hole-plugging.
+- The Ch 6 frozen-ink/Aldridge beat and the JE IV winter fragments
+  made the lit teacher's three projector passages (the book at its
+  best) within a day of the ink beat being written.
+- Settlement anomaly marking works at expert level (history teacher:
+  the book "knows this at some level" — trader's warning, SIOUX map);
+  classroom-cold still needs a real map, which is apparatus, not text.
+- Representation: both cases argued honestly; the restraint case now
+  has its best formulation ("structurally, the ending says: this was
+  their story all along and the narrators were trespassers in it").
+  No text action — matches the book's standing policy.
+
+### #29 corroboration (still punted, evidence accrues)
+The simulated strong 17-year-old reads the ending as redemption
+DESPITE "It was not forgiveness" on the page, and JE IX as remorse
+rather than rationalization completing. "Structural rebuttals are
+exactly what struggling 16-year-olds don't hear." Third independent
+instrument pointing at late-book consolation legibility; the naive
+tier now confirmed alongside the hostile and regression readers.
+
+### APPLIED 2026-07-11 (small-stuff tier)
+- Ch 7 raid-exclusion clause: "It had not been Indians. A raid does
+  not leave the pantry full and the house standing, and no war party
+  buries the people it kills under stones laid straight." Performs
+  the elimination any 1858 reader expects (Spirit Lake primes it) and
+  the evidence already supported; slots before the George hypothesis.
+- Ch 3 gold passage: "men the panic had ruined" — the Panic of 1857
+  named in four words, explaining who filled the river towns.
+
+### 35. Period-texture garnish shelf, classroom additions — DK taste
+- Pawnee clause candidate: the trading post and homestead sit on
+  pressed-Pawnee/contested Loup-forks range; the text names Pawnee
+  zero times. One clause from the trader or Creighton ("the Sioux
+  pushed the Pawnee off these forks years back") would land
+  sovereignty texture + reinforce beyond-the-line. Names a new people
+  — DK call. (Ponca: lower Niobrara, ~150 mi east of the book's
+  ground — no contradiction exists; no action.)
+- reference/classroom-apparatus.md created: teachability protocol,
+  misread map, false-model corrections, Lakota pairing shelf, DBQ
+  set, positioning lines — durable for any teacher's guide or
+  submission packet.
