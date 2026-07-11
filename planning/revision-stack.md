@@ -739,3 +739,60 @@ the checkpoint-replay harness (extract exact pre-boundary message
 context, filter harness metadata, replay on pinned model with read
 tools + the neutral prompt) — TUI has no affordance; SDK/API work.
 Process doc and ledger schema updated.
+
+## Reading-club re-run (2026-07-11, post register pass + 14:23 hinge)
+
+Method: facilitator prompt re-run VERBATIM (it is content-neutral —
+its topic list names stable design pillars, not plot details); the
+old blind-answerer brief NOT reused (its Q1–Q12 embedded pre-drift
+framing, DK's call); instead a fresh blind answerer took the new
+facilitator's Part 1. Cross-check performed facilitator-side.
+
+### Verdict-level diff vs 2026-07-10 run
+- Item 28 (May/Aug gap): CONFIRMED DISSOLVED — new key states "the
+  letters stopping after July 20 matches," no flag.
+- All 2026-07-10 validations HELD: frame-year datable "almost to the
+  day"; steam-cup as the Q4 central tell; borrow device legible
+  (quotation-then-absorption, three readings); compiler question
+  again surfaced as productive-UNSETTLED ("the book means for the
+  question to be live") — feature confirmed twice.
+- Q9 staging reproduced exactly as banked: answerer takes
+  artifact-proves-survival, facilitator holds dead-man's-words
+  counterweight. Best formulation yet: "the machinery for survival
+  is visible but the will is the question — exactly Morrow's
+  disease, arrived at Farrell's knees."
+- Convergence: blind answerer matched the key on all twelve (prior
+  run: 8 of 12) — same passages, same live readings.
+
+### 14:23-25 first contact (DK watch-flag, first datum: POSITIVE)
+Facilitator built Q4 around the commandment line unprompted; key
+reads it as designed — "covetousness he can't or won't name," the
+disavowed-desire reading held open beside pure instrumentality,
+"the book does not adjudicate." Blind answerer independently: same.
+No emblem/anachronism complaint from either. One run, not a verdict;
+watch-flag stays open.
+
+### New findings
+- NEW fine point (facilitator): Farrell's Ch 7 inference that Morrow
+  "had stood at their graves again" in winter is never corroborated
+  by the journal (the Oct 26 → Jan 1 gap swallows any December
+  re-pass). Geo-ledger's herd Dec re-pass supports the geometry;
+  the journal is silent. Facilitator counts it a for-sharp-readers
+  feature ("confirmed in its conclusion, never in that detail").
+  RECORD; option if ever wanted: one clause in JE VIII's Jan 1 entry
+  acknowledging the December drift south — my lean is LEAVE (the
+  journal corroborating Farrell's every inference would be worse).
+- Item 21 (kill-count 17 vs "dozens"): SECOND instrument trip.
+  Facilitator flags UNSETTLED but supplies the charitable reading
+  unprompted (last-night self-mythology); blind answerer did not hit
+  it. Options: (a) ratify as INTENTIONAL — testament inflation fits
+  the hamartiology's decorative-confession mechanism — and register
+  it like the fifty-yards rhyme; (b) one-word harmonization. DK call.
+- Reader contribution (answerer, additive not defect): GEORGE HARDIN
+  is the book's most erased person — no letters, no interior, no
+  ghost; "even Farrell's hallucinations don't bother to raise him."
+  Textually sound; arguably design (every narrator treats him as an
+  appendage of Catherine's story). Record for #29-adjacent thinking.
+- Q10 strongest authorship version (answerer): the whole alternating
+  book as Farrell's own arrangement of the two documents — fold into
+  any future guide; supports compiler-as-feature.
