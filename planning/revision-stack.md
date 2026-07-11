@@ -336,15 +336,21 @@ am alive"; and the candle becomes buffalo tallow (a twisted-grass
 wick in a dish of rendered fat), which is period-perfect and
 in-character. Touches 08, 18, 19 lightly.
 
-### 21. Kill-count reconciliation (voice-delicate, don't rush)
-04:41 "seventeen men with certainty" (whole war) vs 18:35 Buena
-Vista alone "Dozens, certainly. Perhaps more." — both claim
-certainty; a specialist reads contradiction. The reconciliation is
-already latent in JE II ("Some of them I saw clearly... Some of them
-I did not see at all"): seventeen = the seen. **Proposal:** adjust
-18:35 so the Buena Vista dozens are explicitly the unseen volley
-dead, the seventeen the faces — 2–3 draft options first
-(forced-alternatives rule), since this is JE IX's fevered register.
+### 21. Kill-count — RATIFIED AS INTENTIONAL (2026-07-11, DK)
+04:41/10:87 "seventeen men with certainty" (whole war, twice) vs
+18:35 Buena Vista alone "Dozens, certainly. Perhaps more." Two
+instruments tripped (reader C 2026-07-10, read gracefully; club
+facilitator 2026-07-11, UNSETTLED but self-supplied the charitable
+reading). DK ruling: ratify, don't harmonize — the last-night
+testament inflating what counts as certain is characteristic (the
+hamartiology's decorative-confession mechanism: at the end he needs
+the weapon-identity larger). Honest register: the discrepancy AROSE
+rather than was designed; adopted because characteristic and
+appropriate, no specific point intended (DK's words). Recorded in
+continuity.md + the Morrow character note so future flags read as
+landing-data. The latent seen/unseen reconciliation (JE II: "Some of
+them I saw clearly... Some of them I did not see at all") stays
+available to readers who want it. Harmonization proposal SUPERSEDED.
 
 ### 22. Davis-at-Monterrey sighting geometry — APPLIED 2026-07-10 ("a man I had once seen ride by at the head of his Mississippians")
 Farrell (Bishop's Palace, west end) could not have watched Davis
@@ -779,9 +785,29 @@ watch-flag stays open.
   re-pass). Geo-ledger's herd Dec re-pass supports the geometry;
   the journal is silent. Facilitator counts it a for-sharp-readers
   feature ("confirmed in its conclusion, never in that detail").
-  RECORD; option if ever wanted: one clause in JE VIII's Jan 1 entry
-  acknowledging the December drift south — my lean is LEAVE (the
-  journal corroborating Farrell's every inference would be worse).
+  CHRONOLOGY CHECK COMPLETED 2026-07-11 (DK-requested). Conclusion:
+  the VISIT is determined in-fiction; only Morrow's ACCOUNT of it is
+  open — the productive level. (a) Physical evidence, not inference:
+  disturbed snow at the graves "walked here, knelt here, worked
+  here" (13:59) + paired tracks "weeks past, not months" (13:63) +
+  "these were winter tracks... he had come back" (13:65); only the
+  kneeling AT the graves rides on the kneel-marks, which are
+  physical. (b) Geometrically forced: the rumor chain loops the herd
+  south (trapper, Niobrara ~Nov 18, 07:117; Creighton, Loup crossing
+  ~Nov 30, 07:175-179) and the homestead sits between the Loup and
+  the winter valley — the northbound return drift passes it
+  (geo-ledger row, ~early Dec). (c) Chronologically consistent:
+  tracks 2–4 weeks old at Farrell's Dec 24–25 reading → early-Dec
+  pass; herd settled by ~Dec 26–29 ("three days now" on the ridge at
+  Jan 1, 16:77); ~43 mi in 3+ weeks, no strain. (d) Journal-side:
+  nothing contradicts, nothing confirms — 16:5's "I will not write
+  of it again" covers the summer killing only, so the December
+  silence is a SECOND, undeclared elision: the self-narrating man's
+  one arguably contrite act exists only as marks in snow. Gaps are
+  established journal behavior (JE IV's declared two-week gap; all
+  of March 1857 missing). RULING (DK-aligned): LEAVE OPEN —
+  generative at exactly the right level. Added to the Morrow
+  character note as curation evidence.
 - Item 21 (kill-count 17 vs "dozens"): SECOND instrument trip.
   Facilitator flags UNSETTLED but supplies the charitable reading
   unprompted (last-night self-mythology); blind answerer did not hit

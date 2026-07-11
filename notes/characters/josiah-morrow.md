@@ -52,6 +52,32 @@ The confessions are credibility payments — the honest-bookkeeper
 effect. A reader who tallies them concludes he hides nothing, which
 is what lets the real omission pass.
 
+Corollary, RATIFIED 2026-07-11 (DK): the kill-count inflation.
+"Seventeen men with certainty" (04:41, repeated 10:87) becomes, in
+the last-night testament, "Dozens, certainly. Perhaps more" at Buena
+Vista alone (18:35). The testament inflates what counts as certain —
+at the end he needs the weapon-identity larger, and the confession
+that ennobles grows to fit. Honest register: this discrepancy arose
+in drafting rather than by design and was adopted because it is
+characteristic (stack #21); the latent seen/unseen reconciliation in
+JE II stays available.
+
+## 3b. Curation — what the books leave out on purpose
+
+The journal is a kept account, and he manages its contents twice:
+- Declared: the murder entries exist but are retired from
+  circulation — "I have written of what was done in it, and I will
+  not write of it again" (16:5). Farrell reads the missing pages
+  (19:45-49); the printed journal skips them.
+- Undeclared: the December return to the homestead — he stood, and
+  by the kneel-marks knelt, at the Hardins' graves on the northbound
+  drift (physical evidence 13:59-65; geometry and dates in
+  geo-ledger; falls in JE VIII's Nov–Dec gap). His one arguably
+  contrite act exists only as marks in snow. He never claims it —
+  contrition claimed would be an entry against the project; unclaimed,
+  it is just weather. CHECKED 2026-07-11: the visit is determined
+  in-fiction; only his account of it is open. RULING: leave open.
+
 ## 4. Backdated culpability — the deduction laundry
 
 "I do not write it with pleasure... I write it as a plain statement

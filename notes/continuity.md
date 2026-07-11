@@ -549,3 +549,21 @@ DK WATCH-FLAG: the commandment line may draw future blind-review
 attention; landing unknown (could read as period-deep or as emblem).
 Pre-registered here as deliberate so later panel reactions are read
 as data on how it lands, not as discovery of intent.
+
+## Kill-count ratified; December graves-visit checked (2026-07-11, DK)
+
+- Kill-count (stack #21): "seventeen men with certainty" (04:41,
+  10:87) vs JE IX's "Dozens, certainly" at Buena Vista alone (18:35)
+  is RATIFIED AS INTENTIONAL — testament inflation, characteristic of
+  the decorative-confession mechanism (character note §3). Honest
+  register: arose in drafting, no specific point intended; adopted
+  because characteristic (DK). Do not harmonize; future instrument
+  flags are landing-data.
+- December graves-visit (club re-run fine point): chronology check
+  complete. The visit is determined in-fiction (physical kneel-marks
+  and paired tracks at 13:59-65; rumor-chain geometry forces the
+  northbound re-pass; dates consistent end to end); only Morrow's
+  account is open — it falls in JE VIII's Nov–Dec gap and he never
+  mentions it, a second undeclared elision beside 16:5's declared
+  one. RULING: leave open (DK: "generative/productive choice").
+  Detail in stack (club re-run section) and the character note §3b.
