@@ -181,6 +181,65 @@ APPLIED 2026-07-10: Farrell's pre-reading "emptiness" instances removed/varied (
 split above. Larger register work needs its own session AFTER items
 1–7 settle.
 
+REGISTER-BRIEF PAIR RUN 2026-07-11 (prosecutor + defender, blind,
+fresh-context, post-batch-A text). Defender's corpus facts carry the
+sober chapters: dialogue quote-marks 0 in every Morrow file vs 30–88
+in Farrell's; money lexicon Farrell-only; retrospective
+hindsight-irony structurally barred to Morrow; convergence rises
+monotonically with cause (DTs from 11:31, Morrow's recon register in
+JE VII surveillance, journal-reading from 19:23). Prosecutor's
+surviving exhibits = the tic layer below character.
+
+APPLIED 2026-07-11 (tier 1, convergent across both briefs or
+registry-rule-mandated):
+- "let the cold take me" verbatim pre-reading bleed (06:49 ↔ 15:75,
+  prosecutor's new find, verified) — Farrell's varied to the dug-out
+  man's precedent; registry row added.
+- "Whether X or Y, I cannot say/tell" template → Morrow-only; 03:11
+  recast flat.
+- "not complicated" dyad → Farrell-only; Morrow's twin 16:69 CUT
+  (JE VIII plan section now ends "And I will die."; −2 line shift in
+  16 below 69, live refs updated, logs untouched).
+- naming-refusal gesture → Morrow-only; Farrell's 15:49 cut.
+- perhaps/maybe split FINISHED (both briefs independently escalated
+  the auditor's 2–3 conversions to the full split as
+  highest-leverage-per-cost): all remaining Farrell narration
+  "perhaps" converted (03:25, 07:25, 07:49, 09:19, 09:35, 11:19,
+  11:53, 13:21, 13:27, 13:53, 17:79, 19:21, 19:73, 20:65 "I judged")
+  EXCEPT protected 20:21. Catalog annotation for two-stories 17:79
+  updated to match.
+
+TIER 2 — drafted/presented, awaiting DK (delicate):
+- Closer-uniformity program: BOTH briefs flag every unit (and most
+  journal entries) ending on a groomed curtain line; both propose the
+  same asymmetry (Farrell exits flat/transactional; Morrow's entries
+  allowed to STOP rather than end) but pick opposite targets
+  (prosecutor: Morrow's 04:47, 06:67, 12:101, 14:115; defender:
+  Farrell's 03:125, 05:135, 09:167). Note 12:101 is the closer we
+  installed LAST round — the slot regenerates its groom. Needs a
+  program-level DK ruling, not spot fixes.
+- Ch 9 silence-abstraction (17:87-91): defender concedes the
+  personified-silence conceit twins Morrow's 08:71 pre-reading;
+  proposed trim ends the passage on the sound inventory.
+- 08:71 Jan 19 groomed period vs dead hands (both briefs) — fragment
+  the period; delicate, Morrow's signature cold passage.
+- 18:23 "Then came Buena Vista." staged-reveal line (prosecutor only;
+  defender's circumstance case covers sentences, not dramaturgy) —
+  one-line cut candidate.
+- 03:63 "By the time... By the time" anaphora break (prosecutor).
+- Ch 8–9 DT-register direction: prosecutor wants visions to DEGRADE
+  Farrell's prose (clinical, ugly) with a MARKED borrow only at
+  Ch 11; defender rules current liturgical bleed earned. Genuine
+  clash — DK to rule.
+
+TIER 3 — recorded only: #36 gets a third independent flag (prosecutor
+on unmarked "peace" at 20:33 — tally now 3 against, 2 for, still DK
+taste); Entry I dated head vs "lost count of the months" (12:33 patch
+is retroactive; arguably characterful); 01:191 ↔ 20:69
+watched-until-disappeared bookend (candidate designed rhyme, leave);
+Farrell negation-anaphora saturation in Ch 9 (17:35, 17:65, 17:83,
+17:95) — resolution depends on the DT-direction ruling.
+
 ### 14. Modern-idiom edges (C, minor)
 "I did not have a name for it then. It was a kind of emptiness" —
 close to 21st-c. PTSD idiom. Low priority; touch only if the line

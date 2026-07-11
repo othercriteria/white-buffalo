@@ -26,7 +26,7 @@ does — the whole journal predates the reading).
 | ~~"the same clay"~~ | — | ~~19:59~~ | UN-SANCTIONED (v0.7 final critic): Ch 9 owns sameness (pre-reading recognition), Ch 10 owns only the difference ("he had found something to die for. And I had not."). No shared-origin metaphor survives in either voice |
 | ~~"The white buffalo was waiting."~~ | 18:59-81; 16:103 | ~~19:75~~ | CUT 2026-07-10 — un-sanctioned per the tic audit (near-verbatim closer answering a closer, the tic's most visible slot); Ch 10 now ends on "the dead men following behind." Borrow count back to continuity.md's three |
 | "white and sacred and wild" / "sacred and wild and free" | 02:61 (JE I) | 18:65 (JE IX) | INTRA-MORROW, registered 2026-07-10 as intentional — first-entry/last-entry bookend inside one voice; not a cross-narrator borrow, tracked so nobody "fixes" it |
-| "a great and quiet peace" | 16:97 (JE VIII) | 20:33 (Ch 11) | KEEP — DK-approved borrow (2026-07-09); row added 2026-07-10, was tracked only in notes/continuity.md |
+| "a great and quiet peace" | 16:95 (JE VIII; was 16:97 pre-2026-07-11 cut) | 20:33 (Ch 11) | KEEP — DK-approved borrow (2026-07-09); row added 2026-07-10, was tracked only in notes/continuity.md |
 | "carry her own illumination" (soft: "as if lit from within") | 06:7 (JE III) | 20:57 (Ch 11) | KEEP — soft borrow, same approval; row added 2026-07-10 |
 
 **Ledger reconciliation (2026-07-10):** notes/continuity.md says "stay at
@@ -49,6 +49,23 @@ against the brown"; "white on white" reserved to Ch 11 (17's pre-reading instanc
 | "cold was/is a living thing... presses from all sides" | 08:63, 12:119, 18:5 | 07:21, 17:5, 17:79, 17:103, 19:11 | All Farrell instances varied/cut; Morrow sole owner |
 | "finding every gap in my clothing/blanket" | 18:5 | 07:21, 17:99 | Farrell's varied ("working into my collar and cuffs") |
 | hollow-lexicon ("hollowed out," "hollow thing") | 18:37, 18:55 | 17:39 | Cut with the forge passage |
+| "let the cold take me" | 06:49 (JE III) | 15:75 (Ch 8, pre-reading) | RESOLVED 2026-07-11 (register-brief pair, prosecutor exhibit A): Farrell's varied — dying rendered as the dug-out man's precedent ("his face had been calm"); Morrow sole owner of cold-agency death |
+
+## Template ownership (2026-07-11, register-brief pair)
+
+Not phrases but syntactic templates, assigned an owner and enforced:
+- "Whether X or Y, I cannot say/tell" — MORROW's (04:11, 04:37, 06:7).
+  Farrell's one instance (03:11) recast flat ("—I had no way to tell").
+- "It is/was not complicated" gnomic dyad — FARRELL's (03:79). Morrow's
+  twin (16:69 "It is not a complicated plan. It does not need to be.")
+  CUT; JE VIII's plan section now ends "And I will die."
+- naming-refusal gesture — MORROW's (14:23, item 16 pending DK).
+  Farrell's pre-reading instance (15:49 "What remained was harder to
+  name") CUT; his paragraph now runs straight to "Maybe I was just
+  tired of turning back."
+- perhaps/maybe split COMPLETE: Farrell narration now 0 "perhaps"
+  except the protected 20:21 fifty-yards rhyme (estimates flat, "about,"
+  "maybe," "or so," "I judged"); Morrow keeps "perhaps" exclusively.
 
 ## Maintenance
 

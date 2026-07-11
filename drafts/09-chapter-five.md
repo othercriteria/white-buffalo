@@ -16,7 +16,7 @@ On the fourth day north, I came across a dead man.
 
 He was frozen solid, lying in a draw where the snow had drifted over him almost to the top of his head. I might have passed him by if I hadn't noticed the hand—pale and stiff, reaching up out of the white.
 
-I dismounted and dug him out. It took the better part of an hour, working with my knife and my hands, the frozen snow crumbling away in chunks. He was a young man, perhaps twenty-five, dressed in the clothes of a settler or a small trader. No coat—he had either lost it or never had one. No supplies, no weapon, no horse.
+I dismounted and dug him out. It took the better part of an hour, working with my knife and my hands, the frozen snow crumbling away in chunks. He was a young man, twenty-five or so, dressed in the clothes of a settler or a small trader. No coat—he had either lost it or never had one. No supplies, no weapon, no horse.
 
 His face was calm. Whatever had killed him, he had not fought it at the end.
 
@@ -32,7 +32,7 @@ The trading post appeared on the sixth day, squatting at the junction of two fro
 
 I dismounted and tied my horse beside the other and went inside.
 
-The interior was a single room, perhaps twenty feet by fifteen, lit by a pair of candles and the glow of a cast-iron stove in the corner. The walls were lined with shelves holding the kind of goods a man might need in this country: traps and ammunition, blankets and flour, tobacco and salt. A counter made of rough-hewn planks divided the space in two, and behind it sat a man who looked like he had been waiting there since the flood.
+The interior was a single room, twenty feet by fifteen, lit by a pair of candles and the glow of a cast-iron stove in the corner. The walls were lined with shelves holding the kind of goods a man might need in this country: traps and ammunition, blankets and flour, tobacco and salt. A counter made of rough-hewn planks divided the space in two, and behind it sat a man who looked like he had been waiting there since the flood.
 
 "Close the door," he said. "You're letting in the cold."
 

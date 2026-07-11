@@ -66,8 +66,6 @@ I will run at her, shouting, waving my arms, doing everything I can to seem like
 
 She will lower her head and charge. She will strike me with those horns, those hooves, all that weight. And I will die.
 
-It is not a complicated plan. It does not need to be.
-
 ---
 
 *January the First, Eighteen Fifty-Nine*

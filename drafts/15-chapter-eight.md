@@ -46,9 +46,9 @@ I could do that. No one would blame me. No one would even know.
 
 But I did not turn back.
 
-I do not know why. The reasons that had made sense before—the money, the job, the need to finish what I had started—seemed small and distant now, like things that belonged to someone else. What remained was harder to name.
+I do not know why. The reasons that had made sense before—the money, the job, the need to finish what I had started—seemed small and distant now, like things that belonged to someone else.
 
-Or maybe I was just tired of turning back.
+Maybe I was just tired of turning back.
 
 ---
 
@@ -72,7 +72,7 @@ It was not like the tremors I had felt before. This was something else—a full-
 
 I lay there for a long time, too weak to move, watching the sky lighten above me. The clouds were thin and gray, letting through a pale light that hurt my eyes. The wind had died.
 
-I thought about dying. I thought about how easy it would be to simply stay where I was, to let the cold take me, to slip away and never be found. It would be a clean death, better than I deserved.
+I thought about dying. I thought about how easy it would be to simply stay where I was and not get up. I had dug a man out of the snow who had done just that, and his face had been calm. It would be a clean death, better than I deserved.
 
 But I did not die. Something in me would not allow it—the same stubbornness that had carried me through Mexico and the drinking years.
 

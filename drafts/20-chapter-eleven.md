@@ -62,7 +62,7 @@ They came from the north, three or four of them, on the ridge. Men on horseback,
 
 Lakota, I thought. Or another vision—another gift from the fever.
 
-One of them looked toward me. The one in front—the leader, perhaps. His eyes found me across the meadow, a figure kneeling in the snow beside a body, blood on the ground. He looked at me for a long moment. The others sat their horses and did not look at me at all. No sign passed, of welcome or of warning. Then he turned away.
+One of them looked toward me. The one in front—the leader, I judged. His eyes found me across the meadow, a figure kneeling in the snow beside a body, blood on the ground. He looked at me for a long moment. The others sat their horses and did not look at me at all. No sign passed, of welcome or of warning. Then he turned away.
 
 The white buffalo reached them. They turned their horses, and she fell in among them, and together they moved north, toward the ridges.
 

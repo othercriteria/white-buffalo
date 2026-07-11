@@ -22,7 +22,7 @@ I dismounted and led him by the reins, one hand on his neck, feeling my way forw
 
 I found the creek by falling into it.
 
-The ice was thin at the edge, hidden under the snow, and my boot went through before I could stop myself. The water was not deep—perhaps a foot—but it was cold enough to stop my heart, and I pulled myself out gasping, my leg soaked to the knee.
+The ice was thin at the edge, hidden under the snow, and my boot went through before I could stop myself. The water was not deep—a foot, no more—but it was cold enough to stop my heart, and I pulled myself out gasping, my leg soaked to the knee.
 
 Wet is deadly. I knew that. I had seen men die from less. I had to find shelter. I had to build a fire.
 
@@ -46,7 +46,7 @@ On the second day after the storm, I came upon a wagon that had broken an axle.
 
 It was a heavy farm wagon, the kind emigrants used to haul their possessions west, and it had come to grief in a shallow draw where a creek crossed the trail. One rear wheel had dropped into a hole hidden by snow, and the axle had snapped under the weight. The wagon now sat at an angle, its contents spilling out onto the frozen ground. The mules stood unhitched nearby, heads down, rumps to the wind.
 
-The owner was a man named Brandt—a German, by his accent—and he was standing beside the wreckage with the expression of a man who has just realized that his life has taken a turn he did not expect. His wife sat on a trunk nearby, wrapped in a blanket, her face pale. Two children, a boy and a girl of perhaps six and eight, were collecting scattered belongings from the snow.
+The owner was a man named Brandt—a German, by his accent—and he was standing beside the wreckage with the expression of a man who has just realized that his life has taken a turn he did not expect. His wife sat on a trunk nearby, wrapped in a blanket, her face pale. Two children, a boy and a girl of maybe six and eight, were collecting scattered belongings from the snow.
 
 "Bad luck," I said.
 

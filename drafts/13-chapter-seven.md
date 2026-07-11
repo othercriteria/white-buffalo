@@ -18,13 +18,13 @@ I stood at the edge of the little plot where they lay, two low mounds covered in
 
 Two graves. The trader had said there were two Hardins, a man and a wife. That matched what I saw. Husband and wife, buried side by side on the land they had tried to make their home.
 
-I walked around the graves, looking for any sign of who had dug them. The ground was frozen now, had been frozen for months, but the digging would have been done earlier—late summer, perhaps, or early fall, when the earth was still soft enough to turn. Whoever had done it had been thorough. The graves were deep enough that the stones lay flat, not mounded up as they would have been over a shallow burial.
+I walked around the graves, looking for any sign of who had dug them. The ground was frozen now, had been frozen for months, but the digging would have been done earlier—late summer, maybe, or early fall, when the earth was still soft enough to turn. Whoever had done it had been thorough. The graves were deep enough that the stones lay flat, not mounded up as they would have been over a shallow burial.
 
 It had not been Indians. A raid does not leave the pantry full and the house standing, and no war party buries the people it kills under stones laid straight.
 
 I thought about George Hardin, the man I had been sent to find. If he had killed his wife, would he have buried her like this? Carefully, deliberately, with stones placed just so?
 
-Perhaps. Men did strange things when guilt took hold of them. But something felt wrong about it. The care taken here did not match the violence that must have preceded it.
+Maybe. Men did strange things when guilt took hold of them. But something felt wrong about it. The care taken here did not match the violence that must have preceded it.
 
 I went back inside and searched the house more thoroughly.
 
@@ -50,7 +50,7 @@ I did not know, not from what I could see here. The story was incomplete.
 
 I searched the outbuildings next.
 
-The barn was empty now. Whatever animals the Hardins had kept were gone—stolen, perhaps, or simply wandered off after their owners died. The hay in the loft was old and dry, undisturbed since the previous summer.
+The barn was empty now. Whatever animals the Hardins had kept were gone—stolen, maybe, or simply wandered off after their owners died. The hay in the loft was old and dry, undisturbed since the previous summer.
 
 There was blood here too. A splash of it on the doorframe, another smear on the packed earth floor. So I had it half-wrong: it had begun out here with George Hardin, or ended out here. The pieces would not sit still.
 

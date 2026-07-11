@@ -8,7 +8,7 @@ The early letters were what you would expect. Catherine wrote about the journey 
 
 The later letters were different. The affection was still there, or the words for it were, but something had shifted underneath. She wrote about difficulties with the farm, about isolation, about a winter that had been harder than expected. She did not complain directly—she was not the type, I gathered—but the shape of the complaints was visible in what she did not say.
 
-There was no mention of children. In nearly three years of marriage, in letters that described every other detail of her life, she said nothing about children born or expected. Whether this was grief or privacy or simple absence, I could not tell. But I noticed it.
+There was no mention of children. In nearly three years of marriage, in letters that described every other detail of her life, she said nothing about children born or expected. Grief, or privacy, or simple absence—I had no way to tell. But I noticed it.
 
 The last letter was dated July the twentieth, eighteen fifty-eight. The garden has done well, she wrote, and the hay is nearly in. George says the worst is behind us. I hope he is right.
 
@@ -22,7 +22,7 @@ Then I took out the bottle I kept in my bag and had a drink, and then another, a
 
 I spent the next two days settling my affairs. This did not take long, as I had few affairs to settle.
 
-I told Mrs. Canfield I would be gone for some time, perhaps months. She nodded and said she would hold my room if I paid in advance. I paid for a month and told her to rent it out after that if I did not return. She looked at me with something that might have been concern but was probably just calculation, and said nothing.
+I told Mrs. Canfield I would be gone for some time, maybe months. She nodded and said she would hold my room if I paid in advance. I paid for a month and told her to rent it out after that if I did not return. She looked at me with something that might have been concern but was probably just calculation, and said nothing.
 
 I went to the lumber office and told Garrett I would not be available for work through the winter. He was unsurprised. He had been the one to tell Aldridge where to find me, and I suspected he had made something off it.
 

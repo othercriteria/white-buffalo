@@ -167,7 +167,7 @@ critique §12). Horns "curved and thickened over the two years" by Sep 1858
 
 Herd: ~200 animals 1856, cows/calves center, bulls on the edges (02:21); bulls "a
 thousand pounds or more" (02:57); ~100 animals 1858 (14:37); winters in a sheltered
-valley "north of the river" (16:77) [gap: which river; inferred Niobrara]. See
+valley "north of the river" (16:75) [gap: which river; inferred Niobrara]. See
 findings: the herd vanishes from Ch 9–11.
 
 ## The Hardins and the homestead
@@ -272,7 +272,7 @@ opening into a wide meadow, ridges to the north, camp-to-valley "perhaps a mile"
 | Ch 7 | mid/late Dec 1858 | Gray dawns (13:105) |
 | JE VII | Jun–Aug 3, 1858 | Green meadows, full creeks (14:5 — see findings: "mountain snows") |
 | Ch 8 | late Dec 1858 | Night snowstorm; thin gray clouds; ≈7 days (15:35–123) |
-| JE VIII | Sep 3–Nov 20, 1858 | Browning grass; "the third winter" (16:75); Nov 20 clear, wind died (16:89) |
+| JE VIII | Sep 3–Nov 20, 1858 | Browning grass; "the third winter" (16:73); Nov 20 clear, wind died (16:87) |
 | Ch 9 | late Dec 1858 | "Weather had been clear for days" (17:57) |
 | JE IX | undated dawn | "First gray light in the eastern sky"; severe cold (18:5) |
 | Ch 10 | ~Jan 1859 | Dusk arrival; night reading; gray pre-sunrise ride (19:3–73) |

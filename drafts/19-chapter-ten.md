@@ -18,7 +18,7 @@ I walked to it and knelt at the edge.
 
 ---
 
-The hollow was perhaps six feet deep, carved by water or wind into the side of the hill. His blankets lay at the back, neatly arranged, waiting for someone who would not return. A few possessions were scattered about—a knife, a tin cup, a flint and steel, a buffalo horn packed with hardened tallow, its burned wick still in it, a pencil worn down short, a bundle of clothes so worn they barely deserved the name, and a worn buffalo robe rolled against the earth wall.
+The hollow was about six feet deep, carved by water or wind into the side of the hill. His blankets lay at the back, neatly arranged, waiting for someone who would not return. A few possessions were scattered about—a knife, a tin cup, a flint and steel, a buffalo horn packed with hardened tallow, its burned wick still in it, a pencil worn down short, a bundle of clothes so worn they barely deserved the name, and a worn buffalo robe rolled against the earth wall.
 
 And on the blankets, sitting as if left to be found, a leather-bound book.
 
@@ -70,6 +70,6 @@ I could turn back. The journal was evidence, proof of what had happened to the H
 
 But the man who killed his daughter was not dead. Not yet.
 
-The tracks leading from the camp were still fresh enough to follow. The valley below was perhaps a mile away. If I moved now, in the gray light before sunrise, I might find him. I might see, at last, the thing he had been seeking.
+The tracks leading from the camp were still fresh enough to follow. The valley below was maybe a mile away. If I moved now, in the gray light before sunrise, I might find him. I might see, at last, the thing he had been seeking.
 
 I did not know what I expected to find. But I gathered my things and saddled my horse and rode down into the valley, the journal in my saddlebag, the dead men following behind.

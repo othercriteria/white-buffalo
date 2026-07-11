@@ -16,7 +16,7 @@ It did not trouble me. Very little troubled me anymore.
 
 The whiskey was running low.
 
-I had rationed carefully since leaving the trading post, measuring my drinks by the swallow rather than the cup, but even so the bottles were emptying faster than I had hoped. The trader's cloudy bottle had gone first, then two of the three from Fort Kearny, their glass discarded along the trail. The last was perhaps a quarter full.
+I had rationed carefully since leaving the trading post, measuring my drinks by the swallow rather than the cup, but even so the bottles were emptying faster than I had hoped. The trader's cloudy bottle had gone first, then two of the three from Fort Kearny, their glass discarded along the trail. The last was about a quarter full.
 
 I knew what would happen when it ran out. I had seen it before, in other men and in myself. The shaking would start first—a tremor in the hands that spread to the arms, the legs, the whole body. Then the sweating, even in the cold. Then the sleeplessness, the racing heart, the visions.
 
@@ -50,7 +50,7 @@ I would find what I had come to find, and then I would deal with whatever came n
 
 I found the homestead on the afternoon of the second day.
 
-The creek made a bend around a low hill, and as I came around it I saw the sod house sitting in a small clearing perhaps a hundred yards ahead. It was a crude structure, smaller than the trading post, built of blocks of cut earth that passed for building material in this country. A barn—if you could call it that, a lean-to shelter barely large enough for a horse and a cow—stood behind it. A well had been dug near the front, a wooden frame above it to hold a pulley and rope. A small patch of ground, now buried under snow, marked where someone had tried to plant a garden.
+The creek made a bend around a low hill, and as I came around it I saw the sod house sitting in a small clearing a hundred yards ahead. It was a crude structure, smaller than the trading post, built of blocks of cut earth that passed for building material in this country. A barn—if you could call it that, a lean-to shelter barely large enough for a horse and a cow—stood behind it. A well had been dug near the front, a wooden frame above it to hold a pulley and rope. A small patch of ground, now buried under snow, marked where someone had tried to plant a garden.
 
 The place looked abandoned.
 

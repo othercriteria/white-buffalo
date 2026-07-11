@@ -107,7 +107,7 @@ Arithmetic that checks out, kept here so nobody re-derives it:
   1859 at the undated last entry. Consistent.
 - JE VI Sept 1857: "two summers... and one winter" since spring 1856
   (12:7) — summers '56/'57, winter '56–57. JE VIII: "the third winter"
-  (16:75) — '56–57, '57–58, '58–59. Both consistent.
+  (16:73) — '56–57, '57–58, '58–59. Both consistent.
 - The cow: born ~Oct 1855, kills Morrow Jan 1859 at ~3¼ years —
   "no cow reaches her size in three summers, but she was born out of
   season and has been early in everything since" (16:17) covers it.
