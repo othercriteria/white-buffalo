@@ -267,13 +267,21 @@ comes up anyway in item-13 work.
   rather than fix.
 
 ### 16. 14:23 disclaimed-naming at the murder hinge (auditor #3, high)
-"Or perhaps it is something else. Something I do not want to name."
-— the profile's exact disclaimed-depth formula at the book's moral
-pivot, where JE IX proves Morrow CAN name costs. **Proposal:** let
-him half-name it in his own grammar, e.g. the naming refused because
-he has no right to the word, not because the word is missing.
-Delicate; draft 2–3 options before touching (forced-alternatives
-rule).
+APPLIED 2026-07-11 (DK-picked B+D' from a five-option forced-
+alternatives round, after the hamartiology was worked out —
+notes/characters/josiah-morrow.md): the commandment half-naming
+("the one about a neighbor's house, and a neighbor's wife... the
+commandments were written for living men") + the betraying habit
+("In the mornings I find their smoke first now, and then the white
+of her."), now 14:23-25. "The white of her" blocks pronoun
+misresolution to Catherine (jealousy misread = red-herring-shaped).
++2 line shift in 14 below 23; live refs updated; logs untouched.
+DK WATCH-FLAG (recorded in continuity.md): the commandment line may
+draw future blind-review attention, landing unknown — deliberate,
+pre-registered.
+Original finding: "Or perhaps it is something else. Something I do
+not want to name." — the profile's exact disclaimed-depth formula at
+the book's moral pivot, where JE IX proves Morrow CAN name costs.
 
 ### 17. Small physical-register slips (auditor)
 - 16:19 "a terrible deliberation in the motion" — the one projection

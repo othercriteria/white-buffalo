@@ -59,7 +59,9 @@ Not phrases but syntactic templates, assigned an owner and enforced:
 - "It is/was not complicated" gnomic dyad — FARRELL's (03:79). Morrow's
   twin (16:69 "It is not a complicated plan. It does not need to be.")
   CUT; JE VIII's plan section now ends "And I will die."
-- naming-refusal gesture — MORROW's (14:23, item 16 pending DK).
+- naming-refusal gesture — MORROW's (14:23-25, item 16 APPLIED
+  2026-07-11: the commandment half-naming + smoke-first habit, DK
+  pick B+D'; see continuity.md and notes/characters/josiah-morrow.md).
   Farrell's pre-reading instance (15:49 "What remained was harder to
   name") CUT; his paragraph now runs straight to "Maybe I was just
   tired of turning back."

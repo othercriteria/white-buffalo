@@ -57,7 +57,7 @@ as I had").
 | April 19, 1856 | First sees her, ~six months old (JE I) |
 | 1856-1858 | Follows her; winters 1856-57 and 1857-58 endured (JE IV, gap after JE VI) |
 | June 4, 1857 | First sees the settlers arriving/building (10:37-41) |
-| Early Aug 1858 | Kills George and Catherine Hardin shortly after Aug 3 (14:99, 16:5); buries them over two days (19:49) |
+| Early Aug 1858 | Kills George and Catherine Hardin shortly after Aug 3 (14:101, 16:5); buries them over two days (19:49) |
 | Jan 1 + 4, 1859 | Final dated entries (JE VIII; re-dated from Jan 7 on 2026-07-10, endgame unpinned by DK); JE IX undated, the last dawn |
 | ~Jan 5, 1859 | Walks down to her at sunrise; dies. Farrell reaches the camp that dusk, the body the next morning (Jan 6) |
 
@@ -71,7 +71,7 @@ as I had").
 | Aug 1857 | Sod house built, field plowed, well dug (10:67) |
 | Winter 1857-58 | Their first winter — survived (14:17); "a winter that had been harder than expected" in the letters (03:9) |
 | July 20, 1858 | Catherine's last letter (moved from May 20 on 2026-07-10, DK — the May date was inherited scaffolding, not load-bearing) — garden done well, hay nearly in, "George says the worst is behind us" (03:13, 01:93). Quiet resonance, unmarked in text: written three days after Morrow's decision (JE VII, July 17) |
-| Early Aug 1858 | Killed by Morrow (14:99 → 16:5) — the letters stop because they die; silence and death now share one cause |
+| Early Aug 1858 | Killed by Morrow (14:101 → 16:5) — the letters stop because they die; silence and death now share one cause |
 
 **The silent-gap question — ELIMINATED (2026-07-10):** with the last
 letter at July 20 and the killing two weeks later, there is nothing to

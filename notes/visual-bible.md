@@ -166,7 +166,7 @@ critique §12). Horns "curved and thickened over the two years" by Sep 1858
 (16:17); [gap] remaining: length and color.
 
 Herd: ~200 animals 1856, cows/calves center, bulls on the edges (02:21); bulls "a
-thousand pounds or more" (02:57); ~100 animals 1858 (14:37); winters in a sheltered
+thousand pounds or more" (02:57); ~100 animals 1858 (14:39); winters in a sheltered
 valley "north of the river" (16:75) [gap: which river; inferred Niobrara]. See
 findings: the herd vanishes from Ch 9–11.
 

@@ -45,7 +45,7 @@ The closest he ever comes to authorship of himself.
 - Madness: "They will probably think I was mad. Perhaps I was... It
   does not matter. I believe it, and that is enough" (18:67-69).
 - The priced comparison, stated plainly: "She is more important than
-  I am, more important than the settlers" (14:87).
+  I am, more important than the settlers" (14:89).
 
 Pattern: he accepts every charge that leaves the project standing.
 The confessions are credibility payments — the honest-bookkeeper
@@ -56,25 +56,25 @@ is what lets the real omission pass.
 
 "I do not write it with pleasure... I write it as a plain statement
 of fact, a conclusion that follows from what I have already accepted"
-(14:85). One original acceptance (JE I), after which everything
+(14:87). One original acceptance (JE I), after which everything
 downstream is derivation — and derivations are not choices. The
 murder is dated July 17 but laundered back through two years of
 premises. Passive constructions do the handling: "The settlers must
-be removed" (14:83); "what was done in it" (16:5). And the grammar
+be removed" (14:85); "what was done in it" (16:5). And the grammar
 kills before the hands do: persons reclassified as "a stone in a
-field that must be moved before plowing" (14:51).
+field that must be moved before plowing" (14:53).
 
 ## 5. The empty fault-slot
 
 He acquits everyone individually — the settlers ("It is not their
-fault. It was never anything they did," 14:73), the Sioux ("men who
+fault. It was never anything they did," 14:75), the Sioux ("men who
 have every right to kill me," 02:11), even Davis gets "a brave man"
 (18:31). The first-person active-voice charge never appears: no "I
 chose." Nearest approach: "died because I could not find another way"
 (18:75) — inability, not refusal. The journal itself convicts this as
 the account's one falsified entry, made in good faith: JE VII July 13
 shows the other way found, priced ("If I asked and she did not
-answer, I would have nothing," 14:71), and declined. *Could not* was
+answer, I would have nothing," 14:73), and declined. *Could not* was
 *would not pay*.
 
 ## 6. The blind quadrant: want
@@ -86,7 +86,7 @@ off the cup ("the only warm thing I have seen in a month," 12:65),
 the hand on the shoulder (12:59), "something keeps drawing my
 attention back to them" (14:19). The July 13 tell is
 possession-grammar from a man of professed nothing: "I will not let
-anyone take that from me" (14:89).
+anyone take that from me" (14:91).
 
 The precise period word is *covet* — he watches his only neighbors'
 house and wife, the commandment's own inventory (Virginia church
@@ -107,6 +107,8 @@ evidence of the want his theology says cannot exist.
 - The 14:23 line should perform the system: the word approaches
   (decorative honesty lets it near) → the empty-man premise dismisses
   it → behavior betrays the dismissal (optional, strongest).
+  DONE 2026-07-11 (B+D', now 14:23-25): commandment half-naming +
+  the smoke-first habit; decision record in continuity.md.
 - Never let Morrow self-convict in first-person active voice — that
   would break mechanism 5 and read as consolation (the repentant
   killer). His apology in JE IX already sits at the calibrated

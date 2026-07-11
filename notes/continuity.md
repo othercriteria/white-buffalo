@@ -526,3 +526,26 @@ Two touches to Ch 11, decided as one package; the keep-list held
 SHELVED (unused, on file in the stack): the act-to-event demotion.
 Certification pending: verbatim re-runs of the hostile reviewer and
 the full regression reader.
+
+## The 14:23 hinge line, #16 (2026-07-11, DK-picked B+D')
+
+The murder-hinge disclaimed-naming ("Or perhaps it is something else.
+Something I do not want to name.") replaced with the commandment
+half-naming plus the betraying habit (now 14:23-25):
+"Or it is the thing the commandment names — the one about a
+neighbor's house, and a neighbor's wife. But the commandments were
+written for living men, and I have not been one for two years." /
+"In the mornings I find their smoke first now, and then the white of
+her." Rationale worked out in notes/characters/josiah-morrow.md (the
+hamartiology: the word held at the door knowingly; the habit as the
+unknowing entry). "The white of her" chosen over bare "her" to block
+misresolution to Catherine two lines below "The woman is never far
+from the house" — the jealousy misread is red-herring-shaped and was
+engineered out (same pronoun-friction standard as Ch 11's "He would
+carry me"). With Farrell's 15:49 naming-refusal cut the same day,
+this is now the book's sole naming-refusal.
+
+DK WATCH-FLAG: the commandment line may draw future blind-review
+attention; landing unknown (could read as period-deep or as emblem).
+Pre-registered here as deliberate so later panel reactions are read
+as data on how it lands, not as discovery of intent.
