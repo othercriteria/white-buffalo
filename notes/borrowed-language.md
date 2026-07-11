@@ -58,3 +58,16 @@ against the brown"; "white on white" reserved to Ch 11 (17's pre-reading instanc
   sanctioned echo still falls after it.
 - Related: notes/opus-4-5-critique.md §3 (voice bleed), which this registry
   supersedes for tracking purposes.
+
+## Ownership update (2026-07-11, supersedes the v0.7 "Ch 10 owns the
+## difference" ruling)
+
+Stack #33 option C applied: Ch 10's difference-statement ("he had
+found something to die for. And I had not") CUT — two of three briefs
+called it skippable, and removing it is an anti-consolation gain (the
+late ratification of Morrow's project's success goes). The difference
+now lives fused inside Ch 9's recognition passage ("He had gone
+looking for something large enough to swallow it whole; I had poured
+whiskey into it for ten years, a glass at a time"). Ch 10 retains the
+condemnation only ("choices I could not forgive") — the dissenting
+voice item #29 wants alive. Theme count: once, in Ch 9.

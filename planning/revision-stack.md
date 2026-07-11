@@ -455,7 +455,7 @@ Sep 15 measuring subsection (~150 words; its cargo lives in Nov 19
 and JE VIII) and tighten Sep 29. NOTE: entry was already trimmed once
 today; Oct 28 (village-passing anchor) untouchable.
 
-### 33. Theme statements: three briefs, three keep-sets — DK-DECISION
+### 33. Theme statements — RESOLVED 2026-07-11, option C per DK (Ch 9 fused: theme stated once, 'how small it was' keeps its crown, drinking-years texture added; Ch 10's envy pair cut, condemnation retained; registry ownership note updated)
 C kept Ch 9's likeness; the tic auditor kept Ch 10's asymmetry
 (19:61); the regression reader would cut BOTH (Ch 9 "stated twice in
 six lines"; 19:61 "the book's single most skippable pair of

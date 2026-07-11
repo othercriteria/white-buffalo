@@ -6,7 +6,7 @@ The snow had fallen twice since whoever made these tracks had passed this way, f
 
 The tremors were constant now.
 
-I could not hold my hands steady enough to pour coffee from a pot, could not load my rifle without spilling powder, could not even grip the reins properly. My hands shook, and there was nothing I could do to stop them.
+I could not hold my hands steady enough to pour coffee from a pot, could not load my rifle without spilling powder, could not even grip the reins properly. My hands shook like aspen leaves, which will shake in no wind at all, and there was nothing I could do to stop them.
 
 And the shaking was not the worst of it.
 

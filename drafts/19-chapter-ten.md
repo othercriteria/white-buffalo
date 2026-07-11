@@ -58,7 +58,7 @@ I set the journal down and looked into the fire. The flames danced and flickered
 
 I had come all this way to find a killer. I had found something else instead.
 
-He had made worse choices than mine—choices I could not forgive. But he had found something to die for. And I had not.
+He had made worse choices than mine—choices I could not forgive.
 
 ---
 

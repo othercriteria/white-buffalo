@@ -477,3 +477,15 @@ inventories the root cellar with its door frozen shut and leaves it
 shut (11:103) — the investigator's pattern of unbroken seals, which
 is also why he never digs at the graves.
 Also: "shook like leaves in a wind" trimmed (stock simile, Ch 8).
+
+## Theme consolidation, option C (2026-07-11, DK)
+
+The two-hollow-men theme is now stated once, in Ch 9's fused
+recognition passage (17:37): likeness + difference in one breath,
+with the drinking-years clause ("poured whiskey into it for ten
+years, a glass at a time") grounding it in Farrell's own idiom
+(09:11's "slow drowning"). Ch 10 keeps only "choices I could not
+forgive" — condemnation without envy; "he had found something to die
+for. And I had not" is gone (anti-consolation dividend). Also Ch 8's
+tremor simile is now the aspen observation ("which will shake in no
+wind at all") — logger's tree-knowledge carrying the clinical fact.

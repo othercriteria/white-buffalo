@@ -34,9 +34,7 @@ Somewhere on that trail, I understood something.
 
 It came to me as I sat by my fire, shaking, watching the soldiers watch me. I did not admire the man I was following. I did not sympathize with him. What he had done to the Hardins was monstrous, whatever his reasons.
 
-But I recognized him. I knew what he was, because I knew what I was.
-
-I had tried to fill the space—whiskey, work, the small distractions of a life lived day to day. He had gone looking for something large enough to swallow it whole. That was the difference, and I did not like how small it was.
+But I recognized him. I knew what he was, because I knew what I was. He had gone looking for something large enough to swallow it whole; I had poured whiskey into it for ten years, a glass at a time. That was the difference, and I did not like how small it was.
 
 ---
 
