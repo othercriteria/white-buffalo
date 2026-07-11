@@ -1086,3 +1086,24 @@ physical line) — zero shift. CORRECTION: I initially assumed a −2 in
 (63→61) and the shifts were reverted in the same commit (back to
 63). Lesson reinforced: verify the line-count delta before shifting;
 the checker run after every anchor touch is not optional.
+
+## Stack cleaning (2026-07-11, closing the cheap remainder)
+
+APPLIED (all intra-line, zero shift):
+- 03:63 anaphora broken: "By the time we reached Mexico City" → "By
+  Mexico City" (register tier-2 last item).
+- Wait-buttons retired: 01:199 "toward home" dropped (the coach goes
+  east toward Oswego, unblessed); 15:151 dream exit "into the
+  darkness beyond" dropped (item 11 now fully closed — all four
+  low-grade buttons handled or ruled).
+- Item 14 closed: "I did not have a name for it then" → "I could not
+  have said what it was, then." (period inability-of-speech, not
+  therapeutic not-yet-naming; the emptiness sentence that follows is
+  untouched — he still names it in his own next breath).
+
+REMAINING TEXTUAL STACK after this cleaning, complete list:
+DK-taste (3): #36 echo-pair; Ch 9 "Only the living" closer; 20:51
+gold light (lean keep). Structural shelf (3): Ch 4 length; Ch 10
+re-summary page; JE V drag. Agenda-without-target (1): Farrell's
+violence-brink. Held (1): #29. Everything else is closed, ruled,
+carried-as-cost, or non-textual (assembly phase, #38 attribution).

@@ -60,7 +60,7 @@ I thought about Mexico.
 
 I had not thought about Mexico in some time. I had trained myself not to. But this journey brought it back.
 
-I had been twenty years old when I enlisted. A young man full of notions about glory and duty and the honor of serving one's country. Those notions had not survived the first month. By the time we reached Monterrey I had forgotten why I had come. By the time we reached Mexico City I had forgotten that I had ever been anyone other than what the war had made me.
+I had been twenty years old when I enlisted. A young man full of notions about glory and duty and the honor of serving one's country. Those notions had not survived the first month. By the time we reached Monterrey I had forgotten why I had come. By Mexico City I had forgotten that I had ever been anyone other than what the war had made me.
 
 The train rattled on. The other passengers talked and laughed and conducted their business. I sat with my bag between my feet and my rifle case beside me and let the memories come as they would.
 

@@ -148,6 +148,6 @@ She stood in the middle of the road, enormous, impossible, her whiteness wrong a
 
 "I'm looking for a man," I said. "A man who follows you."
 
-She did not answer. But she turned, slowly, and began to walk. And I followed her, down the empty street, into the darkness beyond.
+She did not answer. But she turned, slowly, and began to walk. And I followed her down the empty street.
 
 I woke to gray light and frozen breath and the knowledge that I was closer than I had ever been.

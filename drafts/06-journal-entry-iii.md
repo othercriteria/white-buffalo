@@ -28,7 +28,7 @@ I do not like to think about it. I have spent years not thinking about it, filli
 
 I was a good soldier. That is the first thing to understand. I did what I was told, and I did it well. When they said advance, I advanced. When they said fire, I fired. When they said hold this position until relieved, I held it, though the relief came late and the position was costly to hold.
 
-I was promoted twice. Once after Monterrey, once after Buena Vista. They made me a corporal, and then they made me a sergeant, and both times they told me it was because I had shown courage under fire. But it was not courage. I did not have a name for it then.
+I was promoted twice. Once after Monterrey, once after Buena Vista. They made me a corporal, and then they made me a sergeant, and both times they told me it was because I had shown courage under fire. But it was not courage. I could not have said what it was, then.
 
 It was a kind of emptiness. A place inside me where the fear should have been, where the hesitation should have been, that was simply not there. When other men froze, I moved. When other men ran, I stood.
 

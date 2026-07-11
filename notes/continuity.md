@@ -672,3 +672,11 @@ schedule stroke). Residue applied: 15:147 dream loses "—dark and
 deep" (Morrow's eye-formula off pre-reading Farrell); 17:5 soldiers
 status paragraph folded to one sentence (Ch 9 opening re-tread).
 Full ruling in the stack.
+
+## Stack cleaning (2026-07-11)
+
+Four intra-line closures: 03:63 anaphora, wait-buttons 01:199 and
+15:151, item-14 idiom (06:31 "I could not have said what it was,
+then."). Remaining textual stack is now: three DK-taste items, three
+structural shelf items, Farrell violence-brink (no target), and #29
+(held). Detail in the stack.

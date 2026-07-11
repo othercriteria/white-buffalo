@@ -196,4 +196,4 @@ He went back inside, packed his bag, and began the long journey home. The countr
 
 He did not want to think about that last part too closely. He found that this was why he had hired Farrell in the first place—so that he would not have to.
 
-The coach rattled on, east toward Oswego, toward home.
+The coach rattled on, east toward Oswego.
