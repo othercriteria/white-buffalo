@@ -2,7 +2,7 @@
 
 I no longer knew which things were real and which were not. The snow was real—I could feel it beneath my horse's hooves, could see it stretching away in all directions. The cold was real—a constant presence that never let me forget where I was. But the other things, the things I saw and heard at the edge of sight and hearing, I could not be sure about.
 
-The soldiers were still with me. They had been with me for days now, walking alongside my horse, standing watch while I slept, saying nothing. I had stopped trying to make them go away. They were as much a part of this journey as the snow and the cold.
+The soldiers were still with me, walking alongside my horse, standing watch while I slept, saying nothing.
 
 And they were not the only ones.
 

@@ -1048,3 +1048,38 @@ impact. DK's non-canon aside on the closural pattern's imagined
 provenance is deliberately NOT recorded here or anywhere (his
 instruction); the compiler question in-text remains exactly as open
 as it was.
+
+## DT-direction clash — RULED 2026-07-11 (defender's direction; two
+## residue trims applied)
+
+The clash: prosecutor wanted Farrell's Ch 8-9 visions to DEGRADE his
+prose (clinical, ugly), reserving elevation for one MARKED borrow at
+Ch 11; defender ruled the liturgical bleed earned by the DTs.
+RULING — defender, on three grounds:
+1. TENSE ARCHITECTURE: Farrell narrates retrospectively; the
+   composure is the survivor's, not the sufferer's. Live degradation
+   would break the frame that underwrites the account-as-document
+   ambiguity (Q9, the compiler question).
+2. PERIOD: an 1858 man renders DTs as visitations, not symptoms —
+   "the horrors" in period diction is on the preserve list, and
+   regression-3 already warns the psychology maps too cleanly to a
+   casebook; CLINICAL rendering is the modern register, not the
+   period one.
+3. THE CERTIFIED STROKE: hostile v2's own concession crowns exactly
+   this material ("the ghosts arrive on a chemical schedule and are
+   never explained away"). Degrading it would trade the book's most
+   certified invention for a register theory.
+The marked-borrow wish is ALREADY satisfied by the 19:41 quotation
+plant → 20:57 absorption.
+RESIDUE APPLIED (the true part of the charge):
+- 15:147 dream: "—dark and deep" CUT (Morrow's liquid-dark eye
+  formula on pre-reading Farrell; the flat version is eerier).
+- 17:5 soldiers paragraph folded to one sentence (the Ch 9 opening
+  re-tread flagged by regression-3/#37; the status meta — "stopped
+  trying to make them go away" — repeated Ch 8's already-completed
+  arc). The real/not-real frame at 17:3 KEPT (load-bearing for the
+  20:63 vision hedge); the new memory content (Bishop's Palace face,
+  the woman's sound, hospital tents) untouched.
+Both edits: 15 intra-line; 17 loses 2 lines at 5-ish → refs ≥7 in 17
+shift −2 — checked: no live refs in 17:7-74 range (two-stories
+anchors 17:75-79 → now 73-77! SHIFT NEEDED); see below.

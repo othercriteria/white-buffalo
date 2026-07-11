@@ -663,3 +663,12 @@ Also recorded (character note §3c): Morrow's last rite is divestment,
 not purification — no shaving, no nakedness; canon already answers
 (coat and shirt on the corpse, beard to the last, the emptied camp
 as the true preparation).
+
+## DT-direction clash ruled (2026-07-11)
+
+Defender's direction stands (retrospective tense architecture;
+period visitation-idiom over clinical; the certified chemical-
+schedule stroke). Residue applied: 15:147 dream loses "—dark and
+deep" (Morrow's eye-formula off pre-reading Farrell); 17:5 soldiers
+status paragraph folded to one sentence (Ch 9 opening re-tread).
+Full ruling in the stack.

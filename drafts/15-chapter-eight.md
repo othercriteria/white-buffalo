@@ -144,7 +144,7 @@ I was in Mexico, in a village I recognized—a place we had passed through durin
 
 At the end of the street there was a white buffalo.
 
-She stood in the middle of the road, enormous, impossible, her whiteness wrong against the brown of the buildings around her. She watched me with eyes that were not the eyes of an animal—dark and deep.
+She stood in the middle of the road, enormous, impossible, her whiteness wrong against the brown of the buildings around her. She watched me with eyes that were not the eyes of an animal.
 
 "I'm looking for a man," I said. "A man who follows you."
 
