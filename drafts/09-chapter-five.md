@@ -106,7 +106,7 @@ I finished the whiskey in my cup and poured another. The trader watched me but d
 
 "That's what I'm being paid for."
 
-He shrugged. "Your business. But if I were you, I'd keep my eyes open. That country up there—it's not friendly. The Indians don't like strangers, and the land doesn't like anyone."
+He shrugged. "Your business. But if I were you, I'd keep my eyes open. That country up there—it's not friendly. It was Pawnee ground once, and the Sioux took it from them, and they didn't take it to share. And the land doesn't like anyone."
 
 "I'll manage."
 

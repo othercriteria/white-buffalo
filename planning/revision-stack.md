@@ -519,7 +519,7 @@ tier now confirmed alongside the hostile and regression readers.
 - Ch 3 gold passage: "men the panic had ruined" — the Panic of 1857
   named in four words, explaining who filled the river towns.
 
-### 35. Period-texture garnish shelf, classroom additions — DK taste
+### 35. Period-texture garnish — PAWNEE CLAUSE APPLIED 2026-07-11 (trader: 'It was Pawnee ground once, and the Sioux took it from them, and they didn't take it to share' — sovereignty and dispossession in one breath, replacing the generic 'The Indians don't like strangers')
 - Pawnee clause candidate: the trading post and homestead sit on
   pressed-Pawnee/contested Loup-forks range; the text names Pawnee
   zero times. One clause from the trader or Creighton ("the Sioux
@@ -531,3 +531,20 @@ tier now confirmed alongside the hostile and regression readers.
   misread map, false-model corrections, Lakota pairing shelf, DBQ
   set, positioning lines — durable for any teacher's guide or
   submission packet.
+
+### #29 edge-chips applied 2026-07-11 + the shelved draft
+- Ch 10 reading-night gloss (19:57): "On the last page he wrote that
+  he was sorry for the Hardins. A few lines below, he wrote that he
+  was not sorry for any of it. I read the page twice, and it said
+  both things both times." — the diegetic corrective for the exact
+  naive misread the student essay performed (JE IX as redemption),
+  registering dissonance without adjudicating. The dissenting voice
+  the hostile reviewer wanted, placed at the edge, one unit after the
+  reader has just read JE IX.
+- The Pawnee clause doubles as anti-consolation groundwork: the
+  mythic drama plays on twice-conquered ground, not a blank sacred
+  stage.
+- SHELVED for the ending cycle (no legal home outside Ch 11 — the
+  Ch 10 rehearsal happens while Morrow still lives): the act-to-event
+  demotion, shape of "Except nothing had been done. It had only
+  happened." Deploy when #29 opens properly.
