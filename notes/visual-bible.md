@@ -26,7 +26,7 @@ worked his father's land (04:43); left Virginia again at thirty-two (12:47);
 and Buena Vista — on the plateau with the Rifles (06:29–31, 18:21–31).
 Witness descriptions (no self-description exists): "thin as a rail, beard down to
 his chest" (05:117); "Thin as a rail, beard down past his chest" (07:179); "Tall.
-Thin. Beard like a bird's nest" (09:95); eyes — "nothing in his eyes. Nothing at
+Thin. Beard like a bird's nest" (09:97); eyes — "nothing in his eyes. Nothing at
 all" (07:183). "My clothes hang loose" (04:13); "my body is thinner than it has
 ever been" (12:63). Blood froze in his beard eating raw meat (08:27).
 
@@ -118,7 +118,7 @@ three tries to tie a knot (19:11); "every step uncertain" (20:7).
 "A sturdy bay gelding with a calm disposition and good teeth," bought in Chicago
 from Hennessey with tack and saddlebags; grain carried (03:111, 07:7). No name. No
 horse blanket (07:33). Condition arc: shivering in the blizzard, snow crusting his
-mane (07:19–33); ice panic — eyes "wide and white," legs splayed (09:153–165);
+mane (07:19–33); ice panic — eyes "wide and white," legs splayed (09:155–167);
 slowing, head low (15:99); flanks dark with sweat in cold — "A sweaty horse in
 winter is a dying horse, if you cannot get him dry" (15:111); fed stripped
 cottonwood bark, partial recovery (15:113–121); breathing "heavy and labored"
@@ -173,7 +173,7 @@ findings: the herd vanishes from Ch 9–11.
 ## The Hardins and the homestead
 
 **Site.** Small clearing where the creek bends around a low hill (11:53); creek
-behind the house (11:117); narrow willow-lined valley, broken hills, pines on
+behind the house (11:119); narrow willow-lined valley, broken hills, pines on
 north slopes (11:3–7).
 
 **Buildings.** Sod house of cut-earth blocks, "smaller than the trading post," one
@@ -181,7 +181,7 @@ small window, stove pipe through the roof, front door with simple wooden latch
 (11:53–79); lean-to barn "barely large enough for a horse and a cow" behind the
 house (11:53); well with wooden frame, pulley, rope near the front (11:53); buried
 garden patch (11:53); root cellar dug into the hillside behind, door frozen shut
-(11:103); clothesline between two posts (10:75).
+(11:105); clothesline between two posts (10:75).
 
 **Interior.** Table, two chairs; bed against the far wall, blankets neatly made;
 cold cast-iron stove; shelves: dishes, Bible, 1856 farmer's almanac, a popular
@@ -196,7 +196,7 @@ post; wiped traces on the table (13:35); barn: blood splash on the doorframe, sm
 on the packed-earth floor (13:53).
 
 **Graves.** TWO, behind the barn, side by side; low mounds under rock cairns in
-"rough rectangles"; deep; unmarked (11:111–113, 13:17–21); dug while ground was
+"rough rectangles"; deep; unmarked (11:113–115, 13:17–21); dug while ground was
 soft (13:21).
 
 **People.** Catherine: young, dark hair, habitual gesture pushing wind-blown hair
@@ -265,7 +265,7 @@ opening into a wide meadow, ridges to the north, camp-to-valley "perhaps a mile"
 | JE III | Sep–Oct 1856 | Cottonwoods gold; first cold rain Oct 9; copper sunset Oct 23 (06:5–65) |
 | Ch 4 | early Dec 1858 | Blizzard day 9, visibility <20 ft (07:13–19) |
 | JE IV | Nov 1856–Feb 1857 | First snow Nov 14; four-foot snow Christmas; Feb thaw wind (08:37–75) |
-| Ch 5 | Dec 1858 | Deep snow, frozen creeks; ice near-disaster (09:143–151) |
+| Ch 5 | Dec 1858 | Deep snow, frozen creeks; ice near-disaster (09:145–153) |
 | JE V | Apr–Aug 1857 | Melt; summer building season (10:41–73) |
 | Ch 6 | "December... half-gone" (11:9) | Snow-buried homestead, no smoke |
 | JE VI | Sep–Dec 1857 | Herd coats thickening Oct; winter by Dec 1 |

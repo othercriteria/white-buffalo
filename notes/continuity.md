@@ -567,3 +567,19 @@ as data on how it lands, not as discovery of intent.
   mentions it, a second undeclared elision beside 16:5's declared
   one. RULING: leave open (DK: "generative/productive choice").
   Detail in stack (club re-run section) and the character note §3b.
+
+## George Hardin insertions (2026-07-11, DK)
+
+Three additions land the approved George profile (stack: "George
+Hardin development"): trader beat (09:73, the land bet + powder
+purchases + "He knew what he'd walked his wife into"), almanac
+marginalia (11:93, unattributed by design), crossed-out unsent draft
+on children (11:101, deferral in George's reported voice, Catherine's
+pushback, single-line strikethrough). Research grounding in
+notes/fertility-1850s.md — deferral private-register, so it lives in
+an UNSENT draft; sent letters' silence on children (03:11) is
+period-true and unchanged; Aldridge's "its own kind of answer"
+misreading now ratified as period-correct behavior. CANON NOW FIXES:
+childlessness was George's stated policy, contested by Catherine,
+concealed from Oswego. Micro-rhyme registered by note (not a coined
+phrase): George's laugh/smile as armor (09:71 trader, 11:101 draft).

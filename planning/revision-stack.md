@@ -822,3 +822,45 @@ watch-flag stays open.
 - Q10 strongest authorship version (answerer): the whole alternating
   book as Farrell's own arrangement of the two documents — fold into
   any future guide; supports compiler-as-feature.
+
+## George Hardin development (2026-07-11, DK-approved profile, APPLIED)
+
+Origin: club-re-run reader contribution (George the book's most
+erased person) + DK direction: keep the early-mystery opacity and
+harm-capability (the conceit is that men in general are capable and
+the environment hostile), but the book owes (a) why he settled where
+he did, (b) how far he understood what he brought them into,
+(c) possibly his stance on childlessness. Research gate cleared
+first: notes/fertility-1850s.md (deferral sayable but PRIVATE
+register → unsent draft, not sent letter; sent-letter silence is
+period-true; Aldridge's misreading period-correct as-is).
+
+Profile chosen: early-claimant bet (first man on next-decade ground)
+/ priced his own risk and translated it down for her / children
+deferred by his policy, contested by her. George becomes the third
+project-over-persons man (Morrow: buffalo > settlers; Aldridge:
+not-knowing > knowing; George: the position > the family's present).
+
+Three insertions, all through existing apertures, no George
+interiority:
+1. Ch 5 trader beat (new speech after "learn different," 09:73):
+   the figured future + powder-and-shot purchases + "He knew what
+   he'd walked his wife into, whatever he told her."
+2. Ch 6 bookshelf (11:93, intra-line): the 1856 almanac's margins
+   "dense with penciled figuring... sums that ran years ahead of the
+   ground they stood on." Deliberately unattributed — DK confirmed
+   the inference (George's hand, clear to Farrell) should stay
+   unstated.
+3. Ch 6 second unsent draft (11:101): "You asked after children...
+   George says there will be time for children when the place can
+   keep them. I tell him the place will not know the difference in a
+   year, and he laughs and is not moved." Crossed out with a single
+   line. Her agency in her own unsent words; the crossed-out draft
+   IS the answer Aldridge never got. Micro-rhyme, unmarked: "he
+   laughs and is not moved" ↔ trader's "He smiled at me."
+
+Line shifts: 09 ≥72 +2; 11 ≥101 +2. Live refs propagated
+(visual-bible, geo-ledger, timeline-geography, catalog); checker
+clean; logs untouched. Pre-Ch-6 mystery intact: nothing exonerates
+George; the controlling frame arguably strengthens the husband
+hypothesis.

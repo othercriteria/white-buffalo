@@ -23,7 +23,7 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Creighton's camp | ~40.68, -99.85 | 3 days past the fort (07:145); mail route Kearny–Laramie |
 | Turn-north point | ~40.70, -99.95 | Ch 5 opening; leaves the Platte |
 | Frozen stranger | ~41.35, -100.05 | Day 4 north (09:15) |
-| Trading post | ~41.90, -100.00 | Day 6 north (09:31); "junction of two frozen creeks" — nominal upper–Middle Loup forks; Farrell then rides up (NW along) the river; "north along the frozen river" (09:125) is loose heading, acceptable |
+| Trading post | ~41.90, -100.00 | Day 6 north (09:31); "junction of two frozen creeks" — nominal upper–Middle Loup forks; Farrell then rides up (NW along) the river; "north along the frozen river" (09:127) is loose heading, acceptable |
 | Right creek mouth | ~42.15, -100.30 | "Creek comes in from the north, the only one for ten miles" (09:67) — north-bank sandhills tributary |
 | Hardin homestead | ~42.32, -100.38 | Moved 2026-07-10 (DK): "a day up that creek, maybe two in this snow" (09:67) ≈ 12–18 mi up the creek, ~40 mi from the post. Loup-fork bottomland rather than deep sand hills — farmable, still freakishly beyond the line. Fixes mail logistics; stretches the pursuit leg to ~70 mi, which at DT-impaired rates is exactly the ~10 pursuit days |
 | Trapper's Morrow sighting | ~42.80, -100.50 | "Up on the Niobrara" (07:117) |
@@ -51,9 +51,9 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Dec 13 | turn-north | Ch 5 opens |
 | Dec 17 | frozen man | Day 4 north (09:15) |
 | Dec 19 | trading post | Day 6 (09:31) — ~85 mi at 12-15/day in snow ✓ |
-| Dec 20 | up the river | Departs at dawn (09:125); day 1 good time |
-| Dec 21 | up the river | Day 2 — the country looks the same; antelope; coyotes near (09:127-137) |
-| Dec 22 | wrong creek AM, right creek PM | "On the third morning" (09:139), three hours lost; "That afternoon I found the right creek" (09:143); ice cracks at the crossing; big fire on the far bank |
+| Dec 20 | up the river | Departs at dawn (09:127); day 1 good time |
+| Dec 21 | up the river | Day 2 — the country looks the same; antelope; coyotes near (09:129-139) |
+| Dec 22 | wrong creek AM, right creek PM | "On the third morning" (09:141), three hours lost; "That afternoon I found the right creek" (09:145); ice cracks at the crossing; big fire on the far bank |
 | Dec 23 | up the creek | Ch 6 opens; "Christmas would come soon" (11:11) ✓ two days off; first shaking at the morning saddle-up ("first morning up the creek," 11:31); night: bad sleep, quarter bottle, "a day's ride, maybe less" (11:45) |
 | Dec 24 | **homestead** | "Afternoon of the second day" up the creek (11:51) = day 5 from post vs trader's fair-weather 3 (09:67, snow + wrong creek) ✓; "December... more than half-gone" (11:9) ✓; "nearly a month" since CB (26 days) ✓ |
 | Dec 25 | homestead | Christmas at the dead homestead, unmarked — 11:11's "would pass like any other day" quietly wrong; Ch 7 graves at dawn, forensics; last whiskey that evening (13:101) |

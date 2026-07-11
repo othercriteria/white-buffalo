@@ -68,7 +68,9 @@ The trader considered this. His face was weathered past any particular age, the 
 
 "You said you haven't seen them since summer."
 
-"That's right. They came in when the weather let them—flour and salt, and letters to send east. Seemed like decent people. The woman was Eastern, you could tell—didn't know what she was getting into. The man knew, but he was the kind who thought he could handle anything. I told him there was nothing up that creek but Sioux and winter—the nearest white man two days off, and that man me, and I'm no neighbor." The trader shook his head. "He smiled at me. Most of them do, when they start. Most of them learn different."
+"That's right. They came in when the weather let them—flour and salt, and letters to send east. Seemed like decent people. The woman was Eastern, you could tell—didn't know what she was getting into. The man knew, but he was the kind who thought he could handle anything. I told him there was nothing up that creek but Sioux and winter—the nearest white man two days off, and that man me, and I'm no neighbor." The trader shook his head. "He smiled at me. Most of them do, when they start. Most of them learn different.
+
+"This one had it figured, though. Said the country would fill in behind him, and the first man proved on that ground would be selling lots off it in ten years. Maybe. Railroads and land offices go where they please. But I'll say this for him—he bought powder and shot every trip, more than meat wants. He knew what he'd walked his wife into, whatever he told her."
 
 "You think something happened to them?"
 

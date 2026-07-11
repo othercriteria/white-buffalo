@@ -156,13 +156,13 @@ dni = "distance enforced: tiny figures, no faces, no interiority — the watchin
 
 [graves]
 # Vignette-format pioneer (in-text landscape cut, format doctrine). The
-# audit line: UNMARKED — no crosses, no headstones (11:111); the model's
+# audit line: UNMARKED — no crosses, no headstones (11:113); the model's
 # grave prior wants crosses. Trees allowed here: willows/pines are canon
 # at the homestead site (11:3-7).
 negative = "mountains, peaks, crags, cliffs, alpine, cross, crosses, headstone, gravestone, grave marker, fence, person, human figure, color, tinted, hand-colored, artist signature, monogram, lettering, weeping willow, frame house, clapboard, brick chimney, masonry chimney, shingles"
 prompt = "strictly monochrome ink, two low grave mounds side by side, each blanketed with many flat stones laid close together in a rough rectangle, the stones lying low and flat against the mounds, unmarked, no cross and no headstone, snow between the stones, the pole wall of a lean-to at the frame's edge, a low snow-covered sod house small in the middle distance, brushy willow thickets along the frozen creek, gray winter light"
 aspect = "landscape"
-citations = ["11:111-113, 13:17-21 (two graves, side by side, rock cairns, rough rectangles, unmarked, behind the barn)"]
+citations = ["11:113-115, 13:17-21 (two graves, side by side, rock cairns, rough rectangles, unmarked, behind the barn)"]
 underdetermined = []
 dni = "canonical trace of the killings — the permitted evidence, nothing more"
 

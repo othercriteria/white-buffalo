@@ -76,7 +76,7 @@ as I had").
 **The silent-gap question — ELIMINATED (2026-07-10):** with the last
 letter at July 20 and the killing two weeks later, there is nothing to
 explain. Farrell's stable arithmetic now fits instead of straining
-("The two fit together in a way I did not like," 09:117). The mailed
+("The two fit together in a way I did not like," 09:119). The mailed
 July letter is plausibly the trader's last sighting of them ("since
 last summer," 09:63).
 
@@ -117,9 +117,9 @@ Arithmetic that checks out, kept here so nobody re-derives it:
   1856); Spirit Lake "last year" (05:73–75, March 1857); Davis in the
   Senate; "Harney did his work on the Blue Water" (07:157, Sept 1855).
 - Trader saw Morrow pass "maybe four months back" from a ~Dec 18–20
-  visit → late August (09:87), matching the post-killing move north;
+  visit → late August (09:89), matching the post-killing move north;
   "haven't seen either one since last summer" (09:63) matches an early
-  Aug death. Farrell's stable arithmetic (09:117) is honest.
+  Aug death. Farrell's stable arithmetic (09:119) is honest.
 - Endgame lock: JE VIII dated Jan 1 and Jan 4 (unpinned and re-dated
   2026-07-10); Morrow walks down at dawn ~Jan 5; Farrell reaches the
   abandoned camp at dusk the same day ("left this morning, perhaps,
