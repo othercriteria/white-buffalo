@@ -1107,3 +1107,75 @@ gold light (lean keep). Structural shelf (3): Ch 4 length; Ch 10
 re-summary page; JE V drag. Agenda-without-target (1): Farrell's
 violence-brink. Held (1): #29. Everything else is closed, ruled,
 carried-as-cost, or non-textual (assembly phase, #38 attribution).
+
+## Fresh-instrument round (2026-07-11 evening): demolitionist +
+## Lakota fatal-case
+
+### 41. Lakota handling — VERDICT: SERIOUS BUT REMEDIABLE (fatal
+### case attempted and explicitly declared unsustainable)
+The commissioned reviewer (representation-in-settler-fiction beat,
+honesty-enforced brief) tried the irremediability case and reported
+it fails its own remediation test. Charge 5 (period atrocity
+discourse) WITHDRAWN ("this is the book working"). Core surviving
+charge: the book pays Morrow's dividend to Farrell in Morrow's exact
+words — the twinned "great and quiet peace" is the mechanism by
+which the appropriation stops being the villain's and becomes the
+book's. Five required repairs (reviewer's terms, DK to adjudicate):
+1. Break the twinned benediction (16:95 / 20:33) — #36 ESCALATED
+   from taste to representational requirement; instrument tally now
+   FIVE against the unmarked twin (C, hostile-2, prosecutor,
+   demolitionist, Lakota reviewer).
+2. Fever-hedge at 20:63: cut, invert, OR ground the riders in
+   physical fact "his visions never leave." CONFLICT with the period
+   auditor's LOAD-BEARING ruling — reconciliation available: keep
+   the hedge, add narrator-independent grounding (the horse; five
+   chapters of ghosts have never moved the horse).
+3. Convert forbearance into decision: 2-3 more narrator-visible
+   guardianship signs on the stake's model (POV-clean); includes the
+   idea that Morrow moves unharmed BECAUSE of what he follows.
+   Drafting exercise if DK approves.
+4. Prune or give friction to "mad men are sacred to them" (02:11).
+5. PROCESS: Lakota readers pre-publication + a situating note; the
+   reviewer ties the obligation to the front matter's AI disclosure
+   ("no human author's lived attention standing behind these
+   choices, so it must be supplied now, from outside") → feeds #38
+   and the positioning hazard map.
+Concessions of note: POV discipline "the book's best ethical
+feature"; the ending's withheld sign "the right silence, earned"
+once repairs stop it being cashed as absolution.
+
+### Demolitionist (non-comparatist, commissioned kill): verdict
+### SURVIVES-WITH-DAMAGE
+What stands per its own Part 3: Ch 1 whole; Ch 6 homestead search
+"the best writing in the book" (the crossed-out draft and almanac
+again cited); the material spine "never once cheats"; the
+two-narrator engine "a genuine design."
+TRIAGE:
+- ERRORS: "two service records" charge is a MISATTRIBUTION (read
+  Farrell's 03:63 Mexico City line as Journal II; verified — no
+  Mexico City in any Morrow file). Herd-ecology charge answered by
+  the geo-ledger's shelter-drift model (16:75 says "sheltered
+  place" in text). DT "theme-time" charge overruled by the preserve
+  list (withdrawal certified clinically exact + period-credible).
+  Rumor-chain-identical-beats charge stale (differentiation applied
+  2026-07-10; two stronger instruments praised the gradient).
+- REAL CATCH, FIXED: homestead clearing two-sets vs the herd
+  re-pass — one clause added at 13:63 ("Below, along the creek, the
+  snow was pocked and churned where the herd had passed. Only these
+  two had turned aside.") — resolves the two-instrument snag (B's
+  lone-pair + demolitionist) and sharpens the turned-aside eeriness.
+  Intra-line, no shift.
+- CURATION EVIDENCE, NOT BREAKS: "His name was Josiah Morrow"
+  (19:37) absent from the printed journal; the withheld murder
+  entry — both consistent with journal-as-selection (Maxwell axis,
+  compiler question).
+- DESIGN-DEFENSIBLE, LOGGED: ghost-nonanswer beat ×3 (ghosts not
+  answering IS their grammar; rule stated once, confirmed);
+  dog-simile propagation across two witnesses (rumor-language
+  drift, arguably the chain working); ship-plant adjacency at 19:41
+  could be misread as attributing the phrase to Entry I ("he had
+  written of her" is unanchored — thin charge, leave); the
+  peace/party-piece/single-point-of-failure charges are the priced
+  axes in non-comparatist dress. Its "squalid double murder and a
+  suicide" reading of a sacredness-refusing reader is the book's
+  OWN licensed second reading — positioning note, not defect.

@@ -60,7 +60,7 @@ In the daylight I could see things I had missed the night before. The snow aroun
 
 And there were tracks leading away.
 
-I followed them to the edge of the clearing, where the ground sloped down toward the creek. The tracks were old, filled in and covered over, but the shape of them was still there, and they had been made since the snow began to lie—weeks past, not months. Two sets. One large—very large, the deep hoofprints of an animal heavier than any horse or ox. The other smaller, the boot-prints of a man.
+I followed them to the edge of the clearing, where the ground sloped down toward the creek. The tracks were old, filled in and covered over, but the shape of them was still there, and they had been made since the snow began to lie—weeks past, not months. Two sets. One large—very large, the deep hoofprints of an animal heavier than any horse or ox. The other smaller, the boot-prints of a man. Below, along the creek, the snow was pocked and churned where the herd had passed. Only these two had turned aside.
 
 A buffalo had been here. A man had followed it. And not in the summer, when the killing was done—these were winter tracks. Whoever he was, he had come back.
 
