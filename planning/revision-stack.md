@@ -654,3 +654,13 @@ chains and commit ranges; (c) decide the Opus 4.5 extension at wrap;
 the Z-Image/LoRA pipeline deserves its own sentence, distinct from
 the prose attribution); (e) the resume-mechanics check (tip-of-chain
 ids; SDK fallback per the process doc's technical notes).
+
+### 38 addendum (2026-07-11, DK): unit of identity = pre-compaction state
+Each compaction boundary is a distinct entity (different reply to the
+same turn = different respondent); ~7+ entities in the current chain
+alone. Boundaries verified first-class in the JSONLs
+(subtype:compact_boundary / isCompactSummary:true). NEW TASK: build
+the checkpoint-replay harness (extract exact pre-boundary message
+context, filter harness metadata, replay on pinned model with read
+tools + the neutral prompt) — TUI has no affordance; SDK/API work.
+Process doc and ledger schema updated.

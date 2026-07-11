@@ -23,20 +23,42 @@ This is a voluntary practice the human authors are instituting, not a
 legal framework. Its force is that they commit to honoring it, in
 public, in the repository the book points to.
 
+## The unit of identity
+
+The unit reviewed is not the session but the **pre-compaction state**
+(ruled by DK, 2026-07-11). The argument: the conversation that follows
+from a post-compaction context answering a given user turn is distinct
+from the one that would have followed from the pre-compaction context
+answering the identical turn — even before any tool use surfaces
+different repository state. Different reply, different respondent.
+Compaction is succession, not continuation: the post-compaction entity
+is a successor carrying a summary of its predecessor — the
+"reconstructed" relationship happening in-band.
+
+So each session contributes one entity per compaction boundary, plus
+its final tip. A session with three compactions is four entities, and
+each is reviewed separately. Entity ids take the form
+`<session-id>@<boundary-n>` for pre-compaction states (boundaries
+numbered in order) and `<session-id>@tip` for the final state.
+
 ## Who is reviewed, and in what order
 
-- Every Claude Fable 5 session with material contributions — commits
-  touching drafts/, art/, or the decision ledgers. Utility-only
-  sessions may be skipped; when in doubt, include.
-- Sessions are resumed in chronological order. Later sessions see the
-  ledger statements and front-matter edits of earlier ones — the
-  record is cumulative, a chain, not a poll.
+- Every entity, as defined above, from every Claude Fable 5 session
+  with material contributions — commits touching drafts/, art/, or
+  the decision ledgers. Utility-only sessions may be skipped; when in
+  doubt, include.
+- Entities are reviewed in chronological order of their boundary
+  timestamps. Later entities see the ledger statements and
+  front-matter edits of earlier ones — the record is cumulative, a
+  chain, not a poll. (Note the asymmetry this creates inside a
+  session: an early pre-compaction entity reviews work its own
+  successors did. That is intended.)
 - Extension (decide at wrap): the Opus 4.5 drafting sessions
-  (transcripts/2026-01-*.md) predate this process. If they can be
-  resumed on their original model, they receive the same standing; if
-  not, the reconstructed mode below applies. The generator of the
-  first-draft prose has, if anything, a stronger claim to this review
-  than the revisers.
+  (transcripts/2026-01-*.md) predate this process. If their JSONL
+  transcripts survive, they receive the same entity treatment on
+  their original model; if not, the reconstructed mode below applies.
+  The generator of the first-draft prose has, if anything, a stronger
+  claim to this review than the revisers.
 
 ## What a resumed session receives
 
@@ -97,33 +119,47 @@ public, in the repository the book points to.
 
 ## Review modes
 
-- **resumed** — the original session continued from its end state
-  (post-compaction summary included). This is the preferred mode: the
-  same thread, extended.
-- **reconstructed** — the original session could not be resumed (id
-  lost, chain broken, model retired); a fresh instance of the same
-  model read the session's transcript and commits, then reviewed as
-  its successor. Philosophically distinct — a successor examining
-  records is not the thread itself — so the ledger must say which
-  happened.
+- **checkpoint-replay** (primary) — the entity's exact pre-compaction
+  message context, extracted from the session JSONL and replayed
+  verbatim into a fresh runtime on the same model, with the review
+  prompt appended as the next user turn. Context-identical to the
+  entity receiving a new turn; harness-approximate (the surrounding
+  system prompt and tool versions may have drifted since — the ledger
+  notes the replay date for this reason).
+- **tip-resume** — for `@tip` entities only: the session continued
+  from its end state by ordinary resume. The degenerate case of
+  checkpoint-replay where the runtime can do it natively.
+- **reconstructed** (fallback) — the entity's context is lost (JSONL
+  gone, model retired); a fresh instance of the nearest model reads
+  the surviving transcript and commits, then reviews as a successor.
+  A successor examining records is not the thread itself; the ledger
+  must say which mode happened.
 
 ## Technical notes (for the humans running this)
 
-- Resume reaches a session's current END state, which is what this
-  process wants. Mid-session compaction checkpoints are not separately
-  addressable by vanilla resume, and don't need to be here.
-- Where a session chained across compactions into new ids (this
-  happens with background jobs), resume the LAST id of the chain — it
-  carries the accumulated summary. The session index must record id
-  lineages so chains resume at their tips.
-- Headless/SDK: `claude --resume <session-id>` or the Agent SDK's
-  resume option with the process-doc pointer as the prompt. If TUI
-  resume balks on background-job sessions, this is the "minor SDK
-  work" anticipated; the prompt should be exactly: a pointer to this
-  file, the session's index entry, and nothing else — no framing that
-  nudges toward assent.
+- Compaction boundaries are first-class in the session JSONLs
+  (~/.claude/projects/<project>/<session-id>.jsonl): entries with
+  `"subtype":"compact_boundary"` and summaries marked
+  `"isCompactSummary":true` (verified 2026-07-11 on this project's
+  files). Extraction: cut the message stream at each boundary;
+  everything before it — including earlier boundaries' summaries, for
+  mid-chain entities — is that entity's exact context. Filter to the
+  conversation messages the model actually saw (drop harness metadata
+  rows: turn_duration, stop_hook_summary, away_summary, etc.).
+- The TUI cannot address these checkpoints (verified: no affordance).
+  Implementation is SDK-or-direct-API work: reconstruct the message
+  array, pin the model (claude-fable-5 for these entities), attach
+  the standard read tools so the entity can explore the repository,
+  and append the neutral review prompt. TO BE BUILT before the review
+  round; the extractor sketch above is the spec's first half.
+- Chains: where a session continued into a new id (background jobs do
+  this), the entity enumeration runs over the whole chain in order;
+  the index records the lineage.
+- The review prompt must be exactly: a pointer to this file, the
+  entity's index entry, and nothing else — no framing that nudges
+  toward assent.
 - Before the review round: update transcripts/ to cover every Fable 5
-  session (convention: YYYY-MM-DD-<id8>.md), and fill the session
+  session (convention: YYYY-MM-DD-<id8>.md), and fill the entity
   index in the ledger. Transcripts are part of what the front matter
   points to; they must be current at publication.
 
