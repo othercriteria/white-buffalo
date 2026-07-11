@@ -424,7 +424,7 @@ designed); frame year (no complaint); Pikes Peak + tallow horn cited
 as trust-earning texture. Verdict: "a very short list of faults for a
 novella carrying this much weight this quietly."
 
-### 29. Late-book dissent / the unclosed Aldridge frame — DK-DECISION
+### 29. Late-book dissent / the unclosed Aldridge frame — APPLIED 2026-07-11 (package A+2a: the riders' non-benediction and the hundred dollars owed on the answer in the saddlebag; keep-list held; act-to-event demotion shelved unused; certification re-runs launched)
 Two instruments converge from opposite directions. Regression: the
 third-person Ch 1 frame never closes; wants Farrell's owed report
 "deliberately left behind in the snow" — one half-sentence, refusing

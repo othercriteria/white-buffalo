@@ -71,3 +71,11 @@ looking for something large enough to swallow it whole; I had poured
 whiskey into it for ten years, a glass at a time"). Ch 10 retains the
 condemnation only ("choices I could not forgive") — the dissenting
 voice item #29 wants alive. Theme count: once, in Ch 9.
+
+## Stock-idiom note (2026-07-11)
+
+"Sat their horses" now appears in both voices (08:49 Morrow, 20:63
+Farrell, the riders beat). Classified STOCK PERIOD IDIOM, not a
+coinage — the registry tracks coined phrases; this is how every
+19th-c. writer says "mounted and stationary." Tracked here so the
+tic audit doesn't flag it as bleed. DK aware.

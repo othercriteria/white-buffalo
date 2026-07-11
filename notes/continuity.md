@@ -509,3 +509,20 @@ orphaned by the Sep 15 cut, re-sourced to JE VIII's surviving lines.
 POLICY: run before assembly and after any multi-line draft edit; never
 run --fix on logs (continuity, findings, revision-stack, versions) —
 repairing a log falsifies it.
+
+## The ending package, #29 (2026-07-11, DK-picked A + 2a)
+
+Two touches to Ch 11, decided as one package; the keep-list held
+(gold light, ghosts-as-witnesses, vision hedge, final line, both
+"peace" sentences untouched):
+1. The riders beat: "The others sat their horses and did not look at
+   me at all. No sign passed, of welcome or of warning." — duration
+   spent on non-benediction; Farrell is not in their story.
+2. The southward inventory: "back to Oswego and the hundred dollars
+   owed me on the answer in my saddlebag" — the Ch 1 commercial frame
+   closed by pricing, Oswego not Aldridge (pronoun safety + the
+   reader supplies the old man). "Still" dropped: the ledger reads
+   colder bare.
+SHELVED (unused, on file in the stack): the act-to-event demotion.
+Certification pending: verbatim re-runs of the hostile reviewer and
+the full regression reader.

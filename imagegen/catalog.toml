@@ -130,7 +130,7 @@ dni = "clean"
 negative = "moat, pond, lake, open water, dark water, water around the house, island, ditch, mountains, peaks, crags, cliffs, alpine, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, masonry chimney, shingles, fence, smoke, dog, person, human figure, weeping willow, color, tinted, hand-colored, artist signature, monogram, lettering"
 prompt = "strictly monochrome ink, a low flat-roofed sod house buried in snow on open level ground, its walls of flat-cut sod bricks laid in courses, a dark door opening and one small dark window, a cold stovepipe and no smoke rising through the sod roof, a pole lean-to behind it, a well frame with windlass near the door, and off beyond the house a frozen creek lying white and snow-covered under the ice where it bends around a low hill, brushy bare willow thickets marking its course, scattered pines on the far north-facing slope, December, utterly still"
 aspect = "landscape"
-citations = ["11:53-79 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:3-7 (willow-lined valley, broken hills, pines on north slopes)", "10:75 (clothesline)", "11:9 (December, no smoke)"]
+citations = ["11:53-79 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:6-10 (willow-lined valley, broken hills, pines on north slopes)", "10:75 (clothesline)", "11:9 (December, no smoke)"]
 underdetermined = []
 dni = "traces-only: exterior desolation; no interior violence evidence in this frame"
 

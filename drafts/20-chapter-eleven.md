@@ -62,12 +62,12 @@ They came from the north, three or four of them, on the ridge. Men on horseback,
 
 Lakota, I thought. Or another vision—another gift from the fever.
 
-One of them looked toward me. The one in front—the leader, perhaps. His eyes found me across the meadow, a figure kneeling in the snow beside a body, blood on the ground. He looked at me for a long moment. Then he turned away.
+One of them looked toward me. The one in front—the leader, perhaps. His eyes found me across the meadow, a figure kneeling in the snow beside a body, blood on the ground. He looked at me for a long moment. The others sat their horses and did not look at me at all. No sign passed, of welcome or of warning. Then he turned away.
 
 The white buffalo reached them. They turned their horses, and she fell in among them, and together they moved north, toward the ridges.
 
 I watched until they disappeared over the ridge.
 
-Behind me, the horse waited. I could hear him shifting in the snow, his breath coming in slow clouds. He would carry me south if I could reach him—back to the creek, back to the homestead where the Hardins had laid in enough supplies to last a winter, back to the living world. He would carry me, if I could make myself move.
+Behind me, the horse waited. I could hear him shifting in the snow, his breath coming in slow clouds. He would carry me south if I could reach him—back to the creek, back to the homestead where the Hardins had laid in enough supplies to last a winter, back to Oswego and the hundred dollars owed me on the answer in my saddlebag, back to the living world. He would carry me, if I could make myself move.
 
 I was not moving. I was kneeling in an empty valley beside a man I had never met, with blood on the snow and nothing left to follow.
