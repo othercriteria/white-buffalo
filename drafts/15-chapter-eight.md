@@ -6,7 +6,7 @@ The snow had fallen twice since whoever made these tracks had passed this way, f
 
 The tremors were constant now.
 
-I could not hold my hands steady enough to pour coffee from a pot, could not load my rifle without spilling powder, could not even grip the reins properly. My hands shook like leaves in a wind, and there was nothing I could do to stop them.
+I could not hold my hands steady enough to pour coffee from a pot, could not load my rifle without spilling powder, could not even grip the reins properly. My hands shook, and there was nothing I could do to stop them.
 
 And the shaking was not the worst of it.
 
@@ -21,6 +21,8 @@ Then I started seeing the men.
 They were soldiers, most of them. Men in blue coats, men I had served with, men I had watched die in the streets of Monterrey and on the slopes of Chapultepec. They stood at the edges of my vision, watching me, their faces pale and still. When I turned to look at them directly, they were gone.
 
 I knew they were not real. I knew they came out of me, out of the memories I had tried to bury, now that the whiskey was no longer there to keep them down. But knowing did not make them go away.
+
+In the cabin winter it had been the other things, the things men describe—the snakes on the walls, the insects pouring from the woodwork. Those had come at me all at once, and they had found me shut in and sitting still. These came quiet and patient and kept their distance. I did not know which was worse. I knew better than to sit still and find out.
 
 They followed me as I followed the trail. They watched me as I made camp at night. They stood in circles around my fire, their dead eyes reflecting the flames, and they did not speak and they did not move and they did not leave.
 

@@ -98,7 +98,7 @@ I read one of them. *Dear Father,* it began. *I know you worry about me, and I w
 
 The letter was unfinished. It broke off in the middle of a sentence about the coming winter and the preparations they were making.
 
-I put it back in the box and continued searching.
+There was clean paper under the drafts, and a pen, and a bottle of ink frozen through. Aldridge was in Oswego, reading her old letters over, knowing none of this. I put the unfinished draft back on top of the paper, and closed the lid of the box, and continued searching.
 
 There was food in the pantry—dried beans and flour and salt pork, the supplies that would keep through a winter. There was firewood stacked beside the stove, enough for a week or more. Grain for animals in the barn. A root cellar dug into the hillside behind the house, its door frozen shut but intact.
 

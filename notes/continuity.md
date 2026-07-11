@@ -451,3 +451,29 @@ honest echo. Standing observation (do not put in text): the man who
 could wait three years for a buffalo could not wait out two
 homesteaders — patience, his one virtue, fails exactly where it would
 have saved four lives.
+
+## Fortify-Farrell insertions (2026-07-11, from the homestead-options
+## exercise)
+
+The exercise (why Farrell leaves as he does — eight options examined)
+found every refusal character-true and mostly text-paid; organizing
+principle: Farrell rejects any option requiring a verdict or a future.
+Two refusals surfaced, both unmarked:
+1. The declined account (Ch 6, 11:101): clean paper, a pen, ink
+   frozen through, Aldridge's ignorance named — and the lid closed.
+   Dots deliberately unconnected (DK's design). Anti-Morrow tell:
+   writing-to-be-found is Morrow's signature act; Farrell never
+   conceives it. Bonus rhyme, unmarked: the homestead's ink is frozen;
+   Morrow's journal is pencil. Ink fails in this country.
+2. The stillness principle (Ch 8, 15:25): the cabin-winter horrors
+   were the classic kind and "found me shut in and sitting still";
+   the trail visions come quiet and patient. "I knew better than to
+   sit still and find out." Motivates the refusal to hole up at the
+   homestead, converts the period auditor's hallucinosis deviation
+   into observed strangeness (stack #26), and hardens the asymmetry:
+   Morrow waits, Farrell moves.
+Found evidence, no edit needed, noted for the record: Farrell
+inventories the root cellar with its door frozen shut and leaves it
+shut (11:103) — the investigator's pattern of unbroken seals, which
+is also why he never digs at the graves.
+Also: "shook like leaves in a wind" trimmed (stock simile, Ch 8).

@@ -126,7 +126,7 @@ moves for nothing but her; he stops because pushing risks a stampede
 toward the homestead, or her injury. Active wrestling, closes the
 logic hole, and the failure is HERS to inflict — which is right.
 
-### 9. One non-buffalo human beat for Farrell's first half (C)
+### 9. One non-buffalo human beat — RETIRED 2026-07-11 in favor of interiority (regression: 'not more incident but more Farrell'; delivered as the Ch 8 cabin-winter stillness passage + the Ch 6 declined-account beat — see continuity.md)
 "Brandt is the only living person Farrell affects in the whole first
 half; everyone else is a vendor or a rumor-source." One half-page
 encounter, no buffalo content, something Farrell does or fails to do
@@ -306,7 +306,7 @@ match. This is DK's dilution instinct executed with period truth:
 the white buffalo becomes one strange story competing against a
 louder one.
 
-### 26. Withdrawal-course note (low, framing only)
+### 26. Withdrawal-course note — RESOLVED 2026-07-11 (the Ch 8 cabin-winter contrast makes the quiet visions observed strangeness inside the fiction: 'These came quiet and patient and kept their distance')
 Post-seizure, Farrell's visions are calm, coherent, and
 personally meaningful for ~two weeks — closer to alcoholic
 hallucinosis than true DT (3–5 days of agitated confusion). The
