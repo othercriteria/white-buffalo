@@ -68,7 +68,7 @@ I did not touch it. I did not camp near it.
 
 *January the Nineteenth*
 
-The cold is a living thing. It has a weight, a presence. It presses against you from all sides, squeezing the warmth out of your body, the life out of your limbs. At night, when the wind dies and the stars come out, you can hear it—a silence so deep it has a sound of its own, like the ringing in your ears after a cannon blast.
+The cold here is a living thing. It presses from all sides. At night, when the wind dies, you can hear it. A silence so deep it has a sound of its own, like the ringing after a cannon blast.
 
 I have stopped feeling my feet. I have stopped feeling my hands. I move because I must move, because if I stop moving I will die, and I am not ready to die. Not yet. Not like this.
 

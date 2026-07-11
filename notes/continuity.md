@@ -611,3 +611,25 @@ anchor truth-fixes recorded in the stack; notable: village-passing
 anchor corrected to 12:45 across docs (had been stale at 12:59
 since the JE VI shrink). #29 remains deliberately held (DK: more
 affordances and ammunition the longer we wait).
+
+## JE IV Jan 19 fragmented (2026-07-11, DK)
+
+The one entry breaking JE IV's winter grammar brought into it,
+subtraction-only + one word: "The cold here is a living thing. It
+presses from all sides. At night, when the wind dies, you can hear
+it. A silence so deep it has a sound of its own, like the ringing
+after a cannon blast." Cut: the appositive doubling, the
+squeezing-genitives clause, the stars, the em-dash period, "in your
+ears." ADDED "here" (DK's localization instinct, minimal form):
+deixis only — the observation becomes regional report, not cosmic
+aphorism; it rides the canonical comparative (11/14: "worse than
+anything I had felt in Virginia or Mexico"), agrees quietly with the
+trader's "the land doesn't like anyone," and lands in the historically
+real 1856-57 starvation winter. Rejected forms: "this land's cold"
+(possessive personifies the place — the genius-loci odor DK flagged),
+"in this country" (syllables against the line's bluntness). Ownership
+chain intact: "The cold here is a living thing" + "presses from all
+sides" still Morrow's, rhymed by 18:5 on the last night; registry row
+updated (also corrected its stale 08:63 and dead 12:117 pointers).
+Three-instrument charge (dead hands write short) answered; entry
+closer and P2 untouched by design.

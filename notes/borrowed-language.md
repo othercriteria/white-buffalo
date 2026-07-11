@@ -46,7 +46,7 @@ against the brown"; "white on white" reserved to Ch 11 (17's pre-reading instanc
 
 | Phrase | Morrow (owner) | Farrell (was) | Resolution |
 |---|---|---|---|
-| "cold was/is a living thing... presses from all sides" | 08:63, 12:117, 18:5 | 07:21, 17:5, 17:79, 17:103, 19:11 | All Farrell instances varied/cut; Morrow sole owner |
+| "cold was/is a living thing... presses from all sides" | 08:71 ("The cold here is a living thing" post the 2026-07-11 fragmenting — localized per DK; the 12:117 instance died in the JE VI shrink), 18:5 | 07:21, 17:5, 17:79, 17:103, 19:11 | All Farrell instances varied/cut; Morrow sole owner |
 | "finding every gap in my clothing/blanket" | 18:5 | 07:21, 17:99 | Farrell's varied ("working into my collar and cuffs") |
 | hollow-lexicon ("hollowed out," "hollow thing") | 18:35, 18:53 | 17:39 | Cut with the forge passage |
 | "let the cold take me" | 06:49 (JE III) | 15:75 (Ch 8, pre-reading) | RESOLVED 2026-07-11 (register-brief pair, prosecutor exhibit A): Farrell's varied — dying rendered as the dug-out man's precedent ("his face had been calm"); Morrow sole owner of cold-agency death |
