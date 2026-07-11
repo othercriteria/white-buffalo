@@ -607,3 +607,36 @@ through water" would make the quotation explicit... or leave. 2-2.
 ### disclosure ("explains more than its authors may want") — first
 ### instrument to weaponize it. Positioning/front-matter conversation
 ### for DK, not a text item.
+
+## Comparatist round (2026-07-11): the ancestry execution
+
+All five indictments triage to certified design costs or known-open;
+ZERO new text actions. The ledger:
+1. Melville (the cooperative symbol): the sacrament-with-hedge is the
+   book's chosen cosmology; the naturalistic counter-thread (she will
+   not attack; blank attention; "what her nature demanded") is the
+   built answer. CERTIFIED COST.
+2. Blood Meridian (elided atrocity): attacked by a third instrument
+   ("restraint that always saves the author money is not restraint" —
+   the best sentence yet against it); held by every cold reader.
+   CERTIFIED COST, triple-attacked, triple-held.
+3. O'Brien (wasted unreliability): wants document-level vertigo; the
+   book's doctrine is reliable documents, unreliable MINDS, and no
+   meta-games (CLAUDE.md restraint rule). He concedes the both-things
+   gloss "is exactly O'Brien's move." CERTIFIED OUT-OF-SCOPE.
+4. Ballard (desire in theological dress): "the candlelight sentence
+   proves the book glimpsed what it had, then chose the robe" — note
+   the JE VI trim CREATED that prominence; the envy thread stays
+   discoverable-not-adjudicated by design (facilitator's triple
+   ambiguity). CERTIFIED COST.
+5. Johnson (captioned mirror): the Ch 9 thesis line now tallies 3
+   keep / 2 cut across instruments; DK ruled. HOLD. The unison-voice
+   half is #13 — THIRD instrument pointing there.
+CROWN: hostile-2 calls the missed climax a flinch; the comparatist
+calls the same structure "the one place the book stops inheriting
+and builds." The executioners disagree; the design is certified.
+Stress-test program state: hostile x3, regression x3, blind
+truncations x2, club, classroom x2, tic audit, period audit —
+instrument set exhausted for this text state. Remaining open: #13
+register pass (three instruments), #36 echo-pair (2-2, DK taste),
+#37 polish shelf, JE VI floor ruling, AI-front-matter positioning.
