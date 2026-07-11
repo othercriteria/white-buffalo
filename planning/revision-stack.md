@@ -1080,6 +1080,9 @@ RESIDUE APPLIED (the true part of the charge):
   arc). The real/not-real frame at 17:3 KEPT (load-bearing for the
   20:63 vision hedge); the new memory content (Bishop's Palace face,
   the woman's sound, hospital tents) untouched.
-Both edits: 15 intra-line; 17 loses 2 lines at 5-ish → refs ≥7 in 17
-shift −2 — checked: no live refs in 17:7-74 range (two-stories
-anchors 17:75-79 → now 73-77! SHIFT NEEDED); see below.
+Both edits were INTRA-LINE (the 17:5 fold kept its paragraph one
+physical line) — zero shift. CORRECTION: I initially assumed a −2 in
+17 and shifted four anchors; the checker caught the OK-count drop
+(63→61) and the shifts were reverted in the same commit (back to
+63). Lesson reinforced: verify the line-count delta before shifting;
+the checker run after every anchor touch is not optional.
