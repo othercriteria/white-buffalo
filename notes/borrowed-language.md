@@ -79,3 +79,14 @@ Farrell, the riders beat). Classified STOCK PERIOD IDIOM, not a
 coinage — the registry tracks coined phrases; this is how every
 19th-c. writer says "mounted and stationary." Tracked here so the
 tic audit doesn't flag it as bleed. DK aware.
+
+## Distance rhyme (2026-07-11, register pass)
+
+"perhaps fifty yards" — 02:25 (Morrow first sees the calf trailing
+the herd by fifty yards) ↔ 20:21 (the cow stands fifty yards from
+Farrell at the finale). Registered INTENTIONAL: the book opens and
+closes at the same distance, and the bookend plates
+(first-sighting / finale-fifty-yards) carry the same pairing. This
+is why 20:21 was deliberately excluded from the item-12 Farrell
+perhaps→maybe conversions — converting it would break the verbatim
+rhyme. Post-reading, so it would be grounded even read as an echo.

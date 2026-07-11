@@ -34,7 +34,7 @@ I noticed the tremor first, a slight unsteadiness in my hands as I saddled the h
 
 That night I slept badly. I woke several times from dreams I could not remember, my heart pounding, my skin damp despite the freezing air. The horse was restless too, shifting and snorting in the darkness.
 
-I had perhaps two days' worth of whiskey left. Maybe three, if I was careful.
+I had about two days' worth of whiskey left. Maybe three, if I was careful.
 
 I was not going to be careful.
 

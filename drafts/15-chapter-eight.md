@@ -48,7 +48,7 @@ But I did not turn back.
 
 I do not know why. The reasons that had made sense before—the money, the job, the need to finish what I had started—seemed small and distant now, like things that belonged to someone else. What remained was harder to name.
 
-Or perhaps it was simple. Perhaps I was just tired of turning back.
+Or maybe I was just tired of turning back.
 
 ---
 

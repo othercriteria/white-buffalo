@@ -160,13 +160,19 @@ in the JE VI trim (item 4). Also low-grade: 01:199, 04:69, 15:151,
 17:99 enumerated in the audit; fix opportunistically, not as a sweep.
 
 ### 12. "Perhaps": healthy — 6 cuts of 53 (auditor triage)
-Down to ~16/10k words from the profile's 29/10k; 47 of 53 are
-estimates or load-bearing. Cut/replace only: 04:55, 08:83, 14:23
-(with item 16), 15:49 (one of the stacked pair), 16:37, 16:93 (the
-doubling). **Bonus voice tool at zero cost:** both narrators estimate
-with "perhaps" while Farrell's dialogue says "maybe" — convert 2–3 of
-Farrell's narration instances (11:37, 19:9) to "maybe"/"about" and
-the voices separate a notch (feeds item 13).
+APPLIED 2026-07-11 (register pass, batch A): 04:55 cut ("Perhaps she
+was."); 08:83 hedge dropped ("or given up protesting it"); 15:49
+stacked pair collapsed to "Or maybe I was just tired of turning
+back" (cut + Farrell maybe-conversion in one move); 16:37 "perhaps"
+dropped; 16:93 doubling collapsed to "Perhaps she has always known."
+Farrell narration conversions: 11:37 → "about two days' worth",
+19:9 → "maybe". 14:23 remains with item 16. NOT converted by
+design: 20:21 "perhaps fifty yards" — verbatim rhyme with 02:25
+(first sighting and finale at the same distance; the bookend plates
+carry the same pairing) — to be registered in borrowed-language.md.
+All edits sentence-internal; no citation line-drift. Prior state:
+~16/10k words vs the profile's 29/10k; 47 of 53 were estimates or
+load-bearing and stay.
 
 ### 13. Voice convergence (B and C; auditor's E-section)
 "On a middling page the alternation reads like one voice in two
@@ -187,7 +193,9 @@ comes up anyway in item-13 work.
   must cost something — let one concrete detail lodge (the steam,
   the hand on the shoulder) and the denial strain, which also loads
   JE VII's turn.
-- "Part of the landscape" ×3 (02:21, 04:9, 16:35): vary 04:9.
+- APPLIED 2026-07-11 (04:9 now "a familiar thing to them") — "part
+  of the landscape" ×3 (02:21, 04:9, 16:35); 02:21 keeps the phrase
+  (first instance, protected).
 - RESOLVED by item 32's cut — "She could kill me now" and the walk/run triad now live only in JE VIII.
 - APPLIED 2026-07-10 (JE VI closer now the weather-coming image) — cold "pressing in from all sides" was ×3 intra-Morrow; 08:69 and 18:5 remain, which is the right count.
 - APPLIED 2026-07-10 (now "the grass") — 02:21 "no more threatening than a rock or a tree" PRE-SPENDS the

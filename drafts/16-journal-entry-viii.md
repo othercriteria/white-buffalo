@@ -34,7 +34,7 @@ It is not clear.
 
 She does not fear me. That much is obvious. I have followed her for two years, watched her from a distance, spoken to her across the empty grass—and in all that time she has never shown the slightest sign of alarm at my presence. I am part of her world now, as familiar to her as the other buffalo.
 
-If I simply approach her—walk toward her across the meadow, stand before her and wait—she will not attack. She will watch me, perhaps. She will wonder, in whatever way a buffalo wonders, what I am doing. But she will not charge. She will not lower her head and strike.
+If I simply approach her—walk toward her across the meadow, stand before her and wait—she will not attack. She will watch me. She will wonder, in whatever way a buffalo wonders, what I am doing. But she will not charge. She will not lower her head and strike.
 
 I need to frighten her. Or anger her. I need to provoke the instinct that will make her see me not as a familiar presence but as a threat.
 
@@ -90,7 +90,7 @@ The weather has cleared. The wind has died. The herd is settled, grazing peacefu
 
 She stands at the edge of the herd, alone, facing north. She has been standing like that for most of the morning, as if she knows what is coming.
 
-Perhaps she does. Perhaps she has always known.
+Perhaps she has always known.
 
 Tomorrow, I think. Tomorrow, when the sun rises, I will walk down from this ridge. I will cross the meadow where I have watched her for so long. I will approach her, and I will make her see me as a threat, and she will do what she was made to do.
 

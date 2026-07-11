@@ -6,7 +6,7 @@ I found the camp at dusk.
 
 It was a simple thing—a hollow in the lee of a low hill, where a cutbank offered shelter from the wind. A fire pit sat at the entrance, cold, the ashes scattered by the wind. There were no animals, no supplies, no signs that anyone had lived here except a bed of blankets laid out in the hollow and the tracks that led away toward the north.
 
-The man I had been following was gone. The tracks told me that much—a single set of footprints, fresh enough that the wind had not yet filled them in, leading out of the camp and down into the valley below. He had left this morning, perhaps, or late last night. He was not far.
+The man I had been following was gone. The tracks told me that much—a single set of footprints, fresh enough that the wind had not yet filled them in, leading out of the camp and down into the valley below. He had left this morning, maybe, or late last night. He was not far.
 
 But I did not follow him. Not yet.
 

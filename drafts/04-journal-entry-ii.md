@@ -6,7 +6,7 @@ Seven weeks I have followed her. Seven weeks since I first saw her white coat mo
 
 She has grown. Not much—calves do not grow quickly in their first months—but enough that I can see it. Her legs are longer, her body fuller. The white of her coat remains pure, unmarked by the dust and the mud that stain the other animals. She is kept clean by something I do not understand.
 
-The herd has accepted my presence, or at least they no longer flee when I approach. I keep my distance—two hundred yards, sometimes more—and I move when they move, rest when they rest. I have become part of the landscape to them, as I was to the other herds before. A strange animal, upright and slow, but not a threat.
+The herd has accepted my presence, or at least they no longer flee when I approach. I keep my distance—two hundred yards, sometimes more—and I move when they move, rest when they rest. I have become a familiar thing to them, as I was to the other herds before. A strange animal, upright and slow, but not a threat.
 
 The calf is always near the center of the herd, surrounded by cows. I have noticed that the other animals treat her differently than they treat the ordinary calves. They give her more space. They watch her more carefully. Whether this is because of her color or for some other reason I cannot say.
 
@@ -52,7 +52,7 @@ A weapon must be used or destroyed. There is no more use in me.
 
 I have not written in some time. Walk, watch, sleep, wake. The sun rises and sets and rises again and I am still here, still following, still waiting.
 
-She is larger now. Her shoulders have begun to thicken, the first hints of the hump that will develop as she grows. Her coat is still white, impossibly white, as if she were made of a different substance than the other animals. Perhaps she was.
+She is larger now. Her shoulders have begun to thicken, the first hints of the hump that will develop as she grows. Her coat is still white, impossibly white, as if she were made of a different substance than the other animals.
 
 I spoke to her yesterday. I do not know why. She was grazing apart from the others, as she often does in the evenings, and I was sitting on a rise perhaps a hundred yards away, and I spoke. Not loudly—I did not want to startle her—but loud enough that my voice carried across the grass.
 
