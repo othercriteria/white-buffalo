@@ -122,7 +122,7 @@ Somewhere in that emptiness, George and Catherine Hardin had built their homeste
 
 I folded the map and put it away. I had another drink, then another. The bottle was nearly empty by the time I finished.
 
-In the morning, I would ride west toward the Mississippi and begin the real journey. Everything before this had been prelude.
+In the morning, I would ride west toward the Mississippi and begin the real journey.
 
 I lay back on the bed and listened to the sounds of Chicago through the thin walls—men shouting, a woman laughing, the clatter of a wagon on the planking. The sounds of people living their lives, going about their business.
 

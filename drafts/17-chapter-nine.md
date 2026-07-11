@@ -92,4 +92,4 @@ Only the living made noise in this country, and there were so few of us left.
 
 I rode forward, slowly, keeping my distance. I did not know what I was going to do when I reached him. I did not know if there was anything left to do.
 
-But I kept riding. One step at a time, one yard at a time.
+But I kept riding.

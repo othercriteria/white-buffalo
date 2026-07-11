@@ -1015,3 +1015,36 @@ DRIFT only. LESSON for the checker workflow: mechanical ±N shifting
 is unsafe on refs that were already stale — verify content, not
 arithmetic. George-package pointers now: almanac 11:91, children
 draft 11:99.
+
+## Closer-uniformity program — RULED AND APPLIED (2026-07-11, DK)
+
+Ruling: break the PATTERN, not the instances; truncation only (the
+slot regenerates its groom — empirically, the replaced JE VI closer
+re-groomed); asymmetry per both register briefs (Farrell exits flat/
+transactional, Morrow's entries allowed to stop). Five truncations:
+- Ch 2: "Everything before this had been prelude." CUT — section
+  ends on the ride-west logistics.
+- Ch 5: "But the country had reminded me what it could do." CUT —
+  chapter ends on "A day more, maybe two." (an estimate).
+- Ch 9: "One step at a time, one yard at a time." CUT — ends "But I
+  kept riding."
+- JE II: chiasmus "I have nothing else to do. I have no one else to
+  be." CUT — ends "however long it takes." (also retires a
+  wait-button, item 11).
+- JE V: "Another winter, and this will be done." CUT — one prophecy,
+  not a drumroll pair.
+PROTECTED (standing keep-list for this program): Ch 6 ice paragraph,
+"I am going now.", "nothing left to follow", "the dead men following
+behind", JE VII "I cannot wait any longer." (last line before the
+elision), JE I's plain forward closer, all of JE VI (floor), and
+"I did not look back." (kept deliberately — genre-native, and its
+removal would promote a worse weather-closer).
+Today's earlier batch already did four closer-slot subtractions
+(Ch 9 frame, Buena Vista, "I have become simpler", 16:69), so the
+book now has ~9 boundaries ending on un-groomed material across both
+voices — the uniformity is broken without a new uniformity of
+roughness. Shifts: 04/09 EOF-only, 03/10/17 intra-line — zero anchor
+impact. DK's non-canon aside on the closural pattern's imagined
+provenance is deliberately NOT recorded here or anywhere (his
+instruction); the compiler question in-text remains exactly as open
+as it was.

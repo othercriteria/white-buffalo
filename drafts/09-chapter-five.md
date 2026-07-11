@@ -165,5 +165,3 @@ I reached him and took the reins. I could feel his fear through the leather, the
 We made it. The ice held. But when we reached solid ground, my legs gave out beneath me and I sat in the snow for a long time, shaking, while the horse stood beside me and steamed in the cold air.
 
 That night I built a fire larger than I needed and sat close to it, feeling the warmth on my face, listening to the ice on the creek settle and crack in the darkness. I was on the right creek now. A day more, maybe two.
-
-But the country had reminded me what it could do.

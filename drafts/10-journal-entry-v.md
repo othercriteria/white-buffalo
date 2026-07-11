@@ -88,4 +88,4 @@ The man who killed seventeen men at Monterrey and Buena Vista is still here, som
 
 What is important is her. The waiting, the watching, the end I have chosen.
 
-She is almost ready. I can see it in the way she moves, in the power that coils in her shoulders and haunches, in the confidence with which she faces the world. Another winter, and she will be grown enough. Another winter, and this will be done.
+She is almost ready. I can see it in the way she moves, in the power that coils in her shoulders and haunches, in the confidence with which she faces the world. Another winter, and she will be grown enough.

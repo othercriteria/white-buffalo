@@ -633,3 +633,12 @@ sides" still Morrow's, rhymed by 18:5 on the last night; registry row
 updated (also corrected its stale 08:63 and dead 12:117 pointers).
 Three-instrument charge (dead hands write short) answered; entry
 closer and P2 untouched by design.
+
+## Closer-uniformity program applied (2026-07-11, DK)
+
+Five truncations (Ch 2 prelude, Ch 5 country-reminded, Ch 9
+step-at-a-time, JE II chiasmus, JE V second-winter drumroll); method
+= subtraction only; protection list in the stack entry. Combined
+with the day's earlier closer-slot cuts, the every-boundary-chimes
+pattern is broken in both voices while all reader-praised closers
+stand.

@@ -65,5 +65,3 @@ Then she lowered her head and returned to her grazing, and I sat on my rise and 
 I do not know what I expected. I do not know what I hoped for.
 
 I will wait as long as I need to wait. A year, two years, however long it takes.
-
-I have nothing else to do. I have no one else to be.
