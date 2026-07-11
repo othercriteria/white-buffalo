@@ -78,6 +78,30 @@ The journal is a kept account, and he manages its contents twice:
   it is just weather. CHECKED 2026-07-11: the visit is determined
   in-fiction; only his account of it is open. RULING: leave open.
 
+## 3c. The last rite is divestment (2026-07-11, DK question)
+
+Would he shave, or strip, before going to her? No, and the text
+already answers in his grammar. No purification: his system denies
+that he can be made clean ("There is no absolution for what I am,"
+06:41) — a man who believes that does not wash for the altar, and
+any invented rite would breach his established mode at the offering
+stake (reverent non-participation: "I did not touch it. I did not
+camp near it," 08:65). No nakedness: the cold killing him first is
+the failure he explicitly refused (06:49 — lying down in the rain
+is "not the death I am waiting for"); he needs HER agency, and the
+plan (16:61-63) requires a body warm enough to run and shout. Canon
+agrees: the corpse wears coat and shirt (20:13), the beard is on him
+to the last (rumor chain; the morrow-hollow plate).
+
+His actual preparation is the camp: everything left behind —
+journal staged on the blankets "as if left to be found," the robe
+rolled against the wall, knife, cup, light (19:21-23). Divestment,
+not purification. And the one thing he DID groom for the encounter
+is the account itself (curated per §3b). He prepares like a man
+closing a ledger, not like a priest robing: the body is the
+instrument to be destroyed; the estate is abandoned; the books are
+put in order.
+
 ## 4. Backdated culpability — the deduction laundry
 
 "I do not write it with pleasure... I write it as a plain statement

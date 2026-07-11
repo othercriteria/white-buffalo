@@ -8,9 +8,9 @@ I dismounted and walked toward him. My legs did not want to work properly. The s
 
 I knelt beside him and brushed the snow from his face.
 
-His face was peaceful. That was the first thing I noticed—the absolute stillness of his features, the absence of pain or fear or anything else. His eyes were open, staring up at the gray sky. He had gotten what he wanted.
+His face was calm. His eyes were open, staring up at the gray sky.
 
-The rest of him was not so peaceful. His chest was crushed, the ribs staved in, the shape of his body wrong in ways that spoke of massive force. His coat was torn, his shirt beneath it shredded and dark with frozen blood. He had been trampled, gored, broken—killed by something with the weight and power to destroy a man completely.
+His chest was crushed, the ribs staved in, the shape of his body wrong in ways that spoke of massive force. His coat was torn, his shirt beneath it shredded and dark with frozen blood. He had been trampled, gored, broken—killed by something with the weight and power to destroy a man completely.
 
 I looked up.
 

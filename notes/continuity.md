@@ -642,3 +642,24 @@ step-at-a-time, JE II chiasmus, JE V second-winter drumroll); method
 with the day's earlier closer-slot cuts, the every-boundary-chimes
 pattern is broken in both voices while all reader-praised closers
 stand.
+
+## The corpse's face de-certified (2026-07-11, DK)
+
+20:11-13: "His face was peaceful... the absence of pain or fear or
+anything else... He had gotten what he wanted." → "His face was
+calm. His eyes were open, staring up at the gray sky." + pivot cut
+(wound inventory now juxtaposed directly). "Calm" is the book's
+established frozen-dead face-word (Ch 5 draw corpse 09:21; Ch 8
+callback 15:75) — the certification collapses to observation and
+the rereader gets the counter free: the peace is the cold's, not the
+sacrament's. "He had gotten what he wanted." CUT — the verdict every
+hostile quoted, the narration's one ratification of Morrow's
+account. #29 NOT opened: structure, vision, gold light, and the
+sanctioned borrow pair (16:95 / 20:33) all stand; "peace" now enters
+Farrell's Ch 11 exactly once, at the borrow. Intra-line, no shifts.
+The ending-package keep-list's "both peace sentences" = the borrow
+pair, which is untouched; the face sentence was never the borrow.
+Also recorded (character note §3c): Morrow's last rite is divestment,
+not purification — no shaving, no nakedness; canon already answers
+(coat and shirt on the corpse, beard to the last, the emptied camp
+as the true preparation).
