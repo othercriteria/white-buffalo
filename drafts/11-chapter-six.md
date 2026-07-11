@@ -36,8 +36,6 @@ That night I slept badly. I woke several times from dreams I could not remember,
 
 I had about two days' worth of whiskey left. Maybe three, if I was careful.
 
-I was not going to be careful.
-
 I took a long drink and felt the warmth spread through my chest, felt the tremor in my hands ease, felt the knot of anxiety in my gut begin to loosen. The relief was immediate and profound, and I knew that it would not last—that each drink would buy less than the one before, until there was nothing left to buy with.
 
 But that was tomorrow's problem. Tonight, I had whiskey, and I had warmth, and I had the knowledge that I was close.

@@ -44,7 +44,7 @@ But the war ended and they sent me home and I was expected to become a man again
 
 That is why I need what she can give me.
 
-A weapon must be used or destroyed. There is no more use in me.
+There is no more use in me.
 
 ---
 

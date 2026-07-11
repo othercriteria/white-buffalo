@@ -48,8 +48,6 @@ They moved their whole world on the poles. Everything I own rolls into one blank
 
 The supplies I brought with me are nearly exhausted. My knife is dull, my clothes are worn, my body is thinner than it has ever been. But these things do not trouble me as they once would have. I have learned to eat what the land provides, to shelter where the wind is blocked, to move when movement is needed and rest when rest is possible.
 
-I have become simpler. Stripped of everything not needed.
-
 ---
 
 *November the Fifth*

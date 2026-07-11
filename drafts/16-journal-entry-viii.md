@@ -16,7 +16,7 @@ I have been watching her these past weeks with a new kind of attention. Before, 
 
 She is grown. I am certain of this now. Grown early—no cow reaches her size in three summers, but she was born out of season and has been early in everything since. The massive shoulders, the great humped back, the horns that have curved and thickened over the two years I have followed her. She stands taller than any cow in the herd, and she carries herself with a weight and presence that sets her apart even more than her color does.
 
-When she walks, the ground trembles. When she runs, the thunder of her hooves drowns out all other sound. When she turns her head to look at something—a noise in the grass, a movement on the ridge—there is a terrible deliberation in the motion, a promise of violence held in check.
+When she walks, the ground trembles. When she runs, the thunder of her hooves drowns out all other sound. When she turns her head to look at something—a noise in the grass, a movement on the ridge—there is a promise of violence in the motion, held in check.
 
 She could kill me now. She could kill any man who stood before her.
 

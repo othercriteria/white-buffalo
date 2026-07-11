@@ -598,3 +598,16 @@ trending positive. (4) Second certified original stroke (DT engine)
 added to positioning-notes. (5) Open DK items from the round: Ch 9
 silence-passage composite (#40), Ch 10 "come all this way" cut
 (3rd flag), JE VI floor ruling (4th consecutive weakest).
+
+## Low-hanging batch (2026-07-11, DK)
+
+Eight cuts/trims: Ch 9 silence-frame, Ch 10 "come all this way",
+JE VI "I have become simpler" (JE VI FLOOR DECLARED — provisional,
+no further cuts without DK), 16:19 projection slip, JE II weapon-
+aphorism doubling (04:47 → "There is no more use in me."), JE IX
+"only certainty" coda, Ch 6 "I was not going to be careful", JE IX
+"Then came Buena Vista." staged reveal. Shift ledger and stale-
+anchor truth-fixes recorded in the stack; notable: village-passing
+anchor corrected to 12:45 across docs (had been stale at 12:59
+since the JE VI shrink). #29 remains deliberately held (DK: more
+affordances and ammunition the longer we wait).

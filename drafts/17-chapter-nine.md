@@ -84,8 +84,6 @@ I did not call out to him. I did not spur my horse forward. I simply watched, as
 
 The soldiers had gathered around me, more of them than before. Catherine Hardin was among them now.
 
-The silence was not silent. I knew that now.
-
 There was the wind, always the wind, hissing across the snow, working into my collar and cuffs, speaking in a voice that might have been words if I could only understand them. There was the crunch of hooves on the frozen surface, and the creak of leather, and the horse's breathing, heavy and labored. There was the blood in my own ears, loud as a drum.
 
 And underneath it all, like a bass note too low to hear, there was the silence itself—the vast emptiness of the country, the weight of all that nothing bearing down on me until I felt I might be crushed by it.

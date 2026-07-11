@@ -58,8 +58,6 @@ On the last page he wrote that he was sorry for the Hardins. A few lines below, 
 
 I set the journal down and looked into the fire. The flames danced and flickered, casting shadows on the snow. The soldiers stood around me in a circle, watching, waiting. Catherine Hardin stood with them, her pale face turned toward me, her eyes asking questions I could not answer.
 
-I had come all this way to find a killer. I had found something else instead.
-
 He had made worse choices than mine—choices I could not forgive.
 
 ---

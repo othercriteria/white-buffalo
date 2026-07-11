@@ -964,3 +964,54 @@ serious reading, NOT called theology-as-depth despite an explicit
 hunting order for that category), regression-3 (period-perfect
 diction). Keep open through the next fully-cold read; trend strongly
 positive.
+
+## Low-hanging batch (2026-07-11, DK-approved cuts + harvest)
+
+DK-APPROVED CUTS, APPLIED:
+- #40 partial: "The silence was not silent. I knew that now." CUT
+  (Ch 9; the inventory now lands unannounced). The abstraction clause
+  and the "Only the living made noise" closer STAND for now — DK
+  ruled only the frame; the two-instrument conflict over the closer
+  remains on file.
+- "I had come all this way to find a killer. I had found something
+  else instead." CUT (Ch 10; the condemnation now lands directly off
+  Catherine's questioning gaze).
+- "I have become simpler. Stripped of everything not needed." CUT
+  (JE VI Oct 28; the section now ends on the practical sentence —
+  simplicity enacted, not named). **JE VI FLOOR DECLARED (DK,
+  provisional): no further cuts to JE VI without a new DK ruling.**
+  The keep-list (village, steam-cup) is standing.
+
+HARVEST (my judgment under the standing blessing):
+- 16:19 "a terrible deliberation in the motion" → "a promise of
+  violence in the motion, held in check" (item 17; the one
+  projection slip in the buffalo-stays-physical rule).
+- 04:47 "A weapon must be used or destroyed. There is no more use in
+  me." → "There is no more use in me." (item 37 weapon-metaphor
+  doubling in JE II; 04:41 "The weapon does not question its use"
+  kept — regression-3 quoted it as paying JE II's toll).
+- 18:71 "That is the only certainty I have ever had." CUT after
+  "I am going to die today." (item 37 greeting-card-at-peak).
+- 11:39 "I was not going to be careful." CUT (item 37 modern
+  beat-drop; the long drink that follows dramatizes it).
+- 18:23 "Then came Buena Vista." CUT (register tier-2, prosecutor's
+  staged-reveal charge; the confession now opens cold at "I have
+  never written about Buena Vista" — the reveal arrives unannounced).
+
+NOT TOUCHED (still awaiting DK): 08:71 Jan 19 fragmenting (signature
+passage); closer-uniformity program; DT-direction clash; #36
+echo-pair; Ch 9 closer ("Only the living..."), Ch 4/JE V/Ch 10-
+restructure shelf items; wait-buttons (opportunistic only).
+
+SHIFT LEDGER: −2 in 11 (≥40), 12 (≥52), 17 (≥88), 18 (≥24),
+19 (≥62). Live refs propagated; IMPORTANTLY several pre-existing
+stale anchors were caught by content-verification and TRUTH-fixed
+rather than shifted: village-passing is 12:45 (docs said 12:59,
+stale since the 07-10 JE VI shrink), quarter-mile 12:55, knife-dull
+12:49, Ch 9 careful-thought 17:81, stunted pine 19:13, valley-meadow
+19:71 (accidentally correct pre-cut, restored after over-shift).
+Checker: catalog OK 60→63, no DEAD, known 19:71 false-positive
+DRIFT only. LESSON for the checker workflow: mechanical ±N shifting
+is unsafe on refs that were already stale — verify content, not
+arithmetic. George-package pointers now: almanac 11:91, children
+draft 11:99.

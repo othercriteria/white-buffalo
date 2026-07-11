@@ -20,8 +20,6 @@ I left Virginia young and worked the river trade, and I was at Vicksburg when th
 
 They sent us to Mexico. We marched south through country I had never seen, country that was beautiful and terrible and nothing like home. We fought at Monterrey, in the streets and the stone houses. We killed men who were defending their own land, and we told ourselves we were doing it for glory, for our country, for God.
 
-Then came Buena Vista.
-
 ---
 
 I have never written about Buena Vista. I have never spoken about it to anyone. The memories have lived inside me for twelve years, growing heavier with each year that passes, and I have carried them alone because there was no one I could share them with.
@@ -68,7 +66,7 @@ I hope the Indians find her. I hope they take her back to whatever sacred place 
 
 Perhaps I was. Perhaps this has all been the work of a broken mind, grasping at meaning where there was none. It does not matter. I believe it, and that is enough.
 
-I am going to die today. That is the only certainty I have ever had.
+I am going to die today.
 
 ---
 

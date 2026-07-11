@@ -54,8 +54,8 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Dec 20 | up the river | Departs at dawn (09:127); day 1 good time |
 | Dec 21 | up the river | Day 2 — the country looks the same; antelope; coyotes near (09:129-139) |
 | Dec 22 | wrong creek AM, right creek PM | "On the third morning" (09:141), three hours lost; "That afternoon I found the right creek" (09:145); ice cracks at the crossing; big fire on the far bank |
-| Dec 23 | up the creek | Ch 6 opens; "Christmas would come soon" (11:11) ✓ two days off; first shaking at the morning saddle-up ("first morning up the creek," 11:31); night: bad sleep, quarter bottle, "a day's ride, maybe less" (11:45) |
-| Dec 24 | **homestead** | "Afternoon of the second day" up the creek (11:51) = day 5 from post vs trader's fair-weather 3 (09:67, snow + wrong creek) ✓; "December... more than half-gone" (11:9) ✓; "nearly a month" since CB (26 days) ✓ |
+| Dec 23 | up the creek | Ch 6 opens; "Christmas would come soon" (11:11) ✓ two days off; first shaking at the morning saddle-up ("first morning up the creek," 11:31); night: bad sleep, quarter bottle, "a day's ride, maybe less" (11:43) |
+| Dec 24 | **homestead** | "Afternoon of the second day" up the creek (11:49) = day 5 from post vs trader's fair-weather 3 (09:67, snow + wrong creek) ✓; "December... more than half-gone" (11:9) ✓; "nearly a month" since CB (26 days) ✓ |
 | Dec 25 | homestead | Christmas at the dead homestead, unmarked — 11:11's "would pass like any other day" quietly wrong; Ch 7 graves at dawn, forensics; last whiskey that evening (13:101) |
 | Dec 26 | north | Provisions from the Hardins' stores (13:105); Ch 8 begins on Morrow's trail |
 | Dec 28 | trail lost | Storm night, day 3 (15:35) |
@@ -63,7 +63,7 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Dec 30 | fresh trail | Day 5, quarry "a day ahead" (15:89) |
 | Dec 31 | rest day | Horse, cottonwood bark (15:111-121); eats the Hardins' salt pork |
 | Jan 1–3 | closing | Ch 9; food gone ~Jan 1; Niobrara crossing ~Jan 3 ("gone two days back," 17:46 ✓); clear weather ✓ matches JE VIII Jan 4 "weather has cleared" (16:87) |
-| Jan 4 (sunrise) | ~1 mi behind | Sees them both (17:85-89) — the morning of Morrow's last dated entry; loses them within the hour (19:3) |
+| Jan 4 (sunrise) | ~1 mi behind | Sees them both (17:85-87) — the morning of Morrow's last dated entry; loses them within the hour (19:3) |
 | Jan 5 (dusk) | **Morrow's camp** | Tracks "this morning" (19:7) ✓ — Morrow walked at dawn that day; reads all night |
 | Jan 6 (dawn) | death meadow | Body ~24h dead ✓; buffalo; Lakota (Ch 11). Foodless stretch Jan 1–6 ≈ 5 days ✓ |
 

@@ -21,7 +21,7 @@ Both protagonist and follower served in this war. Key facts:
 
 As drafted: Morrow (b. 1824, Virginia) left home young, worked the river
 trade, and joined the volunteers at Vicksburg in 1846 (18:19) — on the
-plateau with the Mississippi Rifles at Buena Vista (18:31), also at
+plateau with the Mississippi Rifles at Buena Vista (18:29), also at
 Monterrey (04:41). Farrell (b. ~1826, enlisted at twenty, 03:63) fought
 at Monterrey and in the Mexico City campaign through Chapultepec
 (17:57–69) — Taylor's line then Scott's, a transfer many soldiers made
@@ -50,7 +50,7 @@ as I had").
 |------|-------|
 | 1824 | Born in Virginia (18:17) |
 | ~1840s | Leaves Virginia young; river trade; at Vicksburg when war comes (18:19) |
-| 1846-1848 | War: Monterrey Sept 1846, Buena Vista Feb 1847 with the Mississippi Rifles (18:22-32) |
+| 1846-1848 | War: Monterrey Sept 1846, Buena Vista Feb 1847 with the Mississippi Rifles (18:21-29) |
 | 1848-1855 | Back in Virginia, father's land, church, "none of it took" (04:43) |
 | 1855 | Final departure from Virginia at thirty-one (12:47); walks out past the Missouri posts |
 | Oct ~1855 | The calf is born — "an autumn calf, born when no calf is born" (02:43) |
@@ -80,7 +80,7 @@ explain. Farrell's stable arithmetic now fits instead of straining
 July letter is plausibly the trader's last sighting of them ("since
 last summer," 09:63).
 
-**Note on childlessness:** After nearly three years of marriage, Catherine and George have no children. As drafted the letters are entirely silent on the subject (03:11 "she said nothing about children born or expected"); Aldridge reads the silence as its own answer (01:63), Farrell notices it without concluding. The homestead confirms it: two chairs, one bed, no cradle (11:81).
+**Note on childlessness:** After nearly three years of marriage, Catherine and George have no children. As drafted the letters are entirely silent on the subject (03:11 "she said nothing about children born or expected"); Aldridge reads the silence as its own answer (01:63), Farrell notices it without concluding. The homestead confirms it: two chairs, one bed, no cradle (11:79).
 
 ### Aldridge/Farrell Timeline
 
@@ -102,8 +102,8 @@ Day-level positions and nominal coordinates: see planning/geo-ledger.md.
 Arithmetic that checks out, kept here so nobody re-derives it:
 - Morrow b. 1824 (18:17) → left Virginia at 31 in 1855 (12:47) → "I am
   thirty-three, or perhaps thirty-four" Oct 1857 (12:47) → "thirty-four
-  years" at JE IX (18:53). Consistent.
-- "Twelve years" carrying Buena Vista (18:27): Feb 1847 + 12 = early
+  years" at JE IX (18:51). Consistent.
+- "Twelve years" carrying Buena Vista (18:25): Feb 1847 + 12 = early
   1859 at the undated last entry. Consistent.
 - JE VI Sept 1857: "two summers... and one winter" since spring 1856
   (12:7) — summers '56/'57, winter '56–57. JE VIII: "the third winter"

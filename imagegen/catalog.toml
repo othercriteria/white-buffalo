@@ -43,7 +43,7 @@
 negative = "dark head, dark face, dark mane, dark cape, brown head, black head, mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming"
 prompt = "strictly monochrome ink, a great pure white bison cow, white over her whole body, her head and face and woolly forehead as white as her flanks, only her curved horns and her nose and her dark liquid eyes dark, coat white as snow with a silver sheen, her whole form in view, standing in three-quarter side view seen level across the snow from a respectful distance, alone in deep snow, massive shoulders and a great humped back, the dark herd bunched small in the far distance behind her, breath steaming in severe cold, vast rolling treeless winter prairie under a calm gray sky"
 aspect = "portrait"
-citations = ["16:17 (massive shoulders, humped back, taller than any cow)", "10:27 (silver sheen)", "12:15 (silver undertone, winter coat)", "04:61 (dark liquid buffalo eyes)", "12:93 (near-invisible against snow)", "20:23 (breath steaming)", "02:27 + 20:21 (white head: 'color of snow', 'white on white' — the v2 fix)"]
+citations = ["16:17 (massive shoulders, humped back, taller than any cow)", "10:27 (silver sheen)", "12:15 (silver undertone, winter coat)", "04:61 (dark liquid buffalo eyes)", "12:91 (near-invisible against snow)", "20:23 (breath steaming)", "02:27 + 20:21 (white head: 'color of snow', 'white on white' — the v2 fix)"]
 underdetermined = []
 dni = "clean"
 
@@ -130,7 +130,7 @@ dni = "clean"
 negative = "moat, pond, lake, open water, dark water, water around the house, island, ditch, mountains, peaks, crags, cliffs, alpine, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, masonry chimney, shingles, fence, smoke, dog, person, human figure, weeping willow, color, tinted, hand-colored, artist signature, monogram, lettering"
 prompt = "strictly monochrome ink, a low flat-roofed sod house buried in snow on open level ground, its walls of flat-cut sod bricks laid in courses, a dark door opening and one small dark window, a cold stovepipe and no smoke rising through the sod roof, a pole lean-to behind it, a well frame with windlass near the door, and off beyond the house a frozen creek lying white and snow-covered under the ice where it bends around a low hill, brushy bare willow thickets marking its course, scattered pines on the far north-facing slope, December, utterly still"
 aspect = "landscape"
-citations = ["11:53-79 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:6-10 (willow-lined valley, broken hills, pines on north slopes)", "10:75 (clothesline)", "11:9 (December, no smoke)"]
+citations = ["11:51-77 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:6-10 (willow-lined valley, broken hills, pines on north slopes)", "10:75 (clothesline)", "11:9 (December, no smoke)"]
 underdetermined = []
 dni = "traces-only: exterior desolation; no interior violence evidence in this frame"
 
@@ -150,19 +150,19 @@ dni = "traces-only: exterior desolation; no interior violence evidence in this f
 negative = "mountains, peaks, crags, cliffs, alpine, forest, winter, snow, faces, close-up, foreshortening, weeping willow, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, shingles, fence, dog, color, tinted, hand-colored, artist signature, monogram, lettering"
 prompt = "strictly monochrome ink, seen level from a ridge across a wide summer valley, a small homestead far below: a low flat-roofed sod house, its walls of flat-cut sod bricks laid in courses, a stovepipe with a thin thread of smoke rising through the sod roof, a plowed field beside it, a well frame with a windlass near the door, washing on a line strung between two posts, two tiny figures at their work in the yard, brushy willows along the creek where it bends around a low hill, the valley grass moving under the wind, high summer light, the figures far too small for faces"
 aspect = "landscape"
-citations = ["10:67-71 (Aug 2 1857: sod house, plowed and planted field, well dug, woman hanging clothes on a line between two posts, the man coming out)", "10:68 (watched from the ridges)", "14:37 (the sod house seen from the ridge, smoke from their chimney, the man in his field)", "11:3 (creek bends around a low hill — same site as the winter vignette)", "12:69 (quarter-mile watching distance)"]
+citations = ["10:67-71 (Aug 2 1857: sod house, plowed and planted field, well dug, woman hanging clothes on a line between two posts, the man coming out)", "10:68 (watched from the ridges)", "14:37 (the sod house seen from the ridge, smoke from their chimney, the man in his field)", "11:3 (creek bends around a low hill — same site as the winter vignette)", "12:55 (quarter-mile watching distance)"]
 underdetermined = ["yard layout beyond the cited elements"]
 dni = "distance enforced: tiny figures, no faces, no interiority — the watching itself is the subject"
 
 [graves]
 # Vignette-format pioneer (in-text landscape cut, format doctrine). The
-# audit line: UNMARKED — no crosses, no headstones (11:113); the model's
+# audit line: UNMARKED — no crosses, no headstones (11:111); the model's
 # grave prior wants crosses. Trees allowed here: willows/pines are canon
 # at the homestead site (11:3-7).
 negative = "mountains, peaks, crags, cliffs, alpine, cross, crosses, headstone, gravestone, grave marker, fence, person, human figure, color, tinted, hand-colored, artist signature, monogram, lettering, weeping willow, frame house, clapboard, brick chimney, masonry chimney, shingles"
 prompt = "strictly monochrome ink, two low grave mounds side by side, each blanketed with many flat stones laid close together in a rough rectangle, the stones lying low and flat against the mounds, unmarked, no cross and no headstone, snow between the stones, the pole wall of a lean-to at the frame's edge, a low snow-covered sod house small in the middle distance, brushy willow thickets along the frozen creek, gray winter light"
 aspect = "landscape"
-citations = ["11:113-115, 13:17-21 (two graves, side by side, rock cairns, rough rectangles, unmarked, behind the barn)"]
+citations = ["11:111-113, 13:17-21 (two graves, side by side, rock cairns, rough rectangles, unmarked, behind the barn)"]
 underdetermined = []
 dni = "canonical trace of the killings — the permitted evidence, nothing more"
 
@@ -186,7 +186,7 @@ negative = "person, human figure, coat hanger, clothes hanger, wire hanger, shou
 # room) + the garment fix folded in compactly.
 prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, dust thick on a rough plank table, the bed neatly made against the far wall, a cold iron stove, and near the door a woman's dark full-skirted dress and a man's loose dark coat hanging side by side from wooden pegs, the cloth bunched at the pegs and falling in long limp folds, below them a chair with a snapped front leg propped against the corner, and in the packed-earth floor by the threshold a swept patch of newer darker tamped dirt, no people, deep stillness"
 aspect = "landscape"
-citations = ["11:79 (table and two chairs, bed neatly made, cold stove with pipe through the sod roof, shelves with dishes and books, dress and coat on pegs)", "11:75-85 (gray light through the small window, closed-up smell, dust thick on the table)", "13:33 (dark patch dug out and tamped with fresh dirt near the door; a crack in the wall; the broken chair propped in the corner as if meant for repair)"]
+citations = ["11:77 (table and two chairs, bed neatly made, cold stove with pipe through the sod roof, shelves with dishes and books, dress and coat on pegs)", "11:73-83 (gray light through the small window, closed-up smell, dust thick on the table)", "13:33 (dark patch dug out and tamped with fresh dirt near the door; a crack in the wall; the broken chair propped in the corner as if meant for repair)"]
 underdetermined = ["room arrangement beyond cited anchors (twenty-by-fifteen analog per trading post; text gives no dimensions here)"]
 dni = "the enumerated permitted traces ONLY (scrubbed stain, broken chair); no violence depicted, no blood"
 
@@ -276,7 +276,7 @@ negative = "cave, cavern, grotto, arched cave mouth, dark cave opening, tunnel, 
 prompt = "strictly monochrome ink, a winter night on the plains, a wide shallow hollow eroded under the slumping lip of a pale crumbling sandstone bluff, a sculpted snowdrift curling over the lip, jmorrow, the tall thin bearded man seated small within the hollow, his back to the earthen wall, a worn blanket over his head and shoulders, a small low fire of thin sticks burning before him, its low flame the one bright point in the hollow, and far beyond and below the camp, on the floor of a broad valley under moonlit cloud, a great buffalo herd bunched together, hundreds of tiny dark animals massed in the far distance, and within the distant herd a single buffalo cow of pure white, one small pale point against the dark mass, seen level from a distance across the snow"
 aspect = "portrait"
 lora = "morrow-ep12"
-citations = ["08:37 (sheltering in a hollow in the bluffs, out of the wind; herd clustered in a broad valley, snow beaten down by their hooves; 'I can see her from here')", "08:39 ('Even in the depths of winter, she glows')", "12:95 (hollow in the bluffs where the wind cannot reach, small fires, 'I can watch them from here')", "06:21 (his whole kit: a blanket, a knife, flint and steel, journal and pencil)"]
+citations = ["08:37 (sheltering in a hollow in the bluffs, out of the wind; herd clustered in a broad valley, snow beaten down by their hooves; 'I can see her from here')", "08:39 ('Even in the depths of winter, she glows')", "12:93 (hollow in the bluffs where the wind cannot reach, small fires, 'I can watch them from here')", "06:21 (his whole kit: a blanket, a knife, flint and steel, journal and pencil)"]
 underdetermined = ["hour/moonlight — entries fix winter night register ('small fires') but not the moon; moonlit cloud is the period second-source convention, not canon", "bluff height"]
 dni = "clean"
 
@@ -300,7 +300,7 @@ dni = "clean — the object only; no maker shown (Lakota interiority stays off-p
 # leak modes (sled, wheels, oil-wash register).
 # v3 prompt (2026-07-09, post text-enrichment): DISTANCE LEADS (the v2
 # prompt led with travois mechanics, which pulled them into the near
-# field). Foreground anchor = the combed pole-marks, now CANON (12:59
+# field). Foreground anchor = the combed pole-marks, now CANON (12:45
 # enriched: lodgepoles, driven horses, grass combed flat — the research
 # flowed back into the text, DK-directed pass). Ridgeline strength
 # exploited; foreground riders negated.
@@ -315,7 +315,7 @@ negative = "blank white sky, empty white background, sparse outline drawing, pen
 # ruled sky, open hatching. Target: back inside the corpus envelope.
 prompt = "strictly monochrome ink, the whole plate carrying a light engraved tone, seen from far across open autumn prairie, a pale gray autumn sky worked in fine ruled lines, lightening toward the top of the plate, a Lakota village on the move: a broad loose procession of tiny dark silhouettes strung out along a distant low ridgeline two miles off, horses dragging long lodgepoles that trail on the ground in low triangles behind horse after horse, bundles slung between the trailing poles, small dog-drawn pole-drags low among them, riders scattered ahead and on the flanks of the distant line, a loose mass of driven horses trailing behind it, the near ground entirely empty, wind-bent brown October grass rendered in fine open hatching, combed flat into long parallel pole-marks running toward the distant line, figures far too small for faces"
 aspect = "portrait"
-citations = ["12:59 (travois, dogs, riders strung out along a ridgeline two miles off; the long lodgepoles dragging behind the horses; a loose herd of spare horses driven along behind; line bends wider as it comes abreast; the grass combed flat by the poles, long marks running south)"]
+citations = ["12:45 (travois, dogs, riders strung out along a ridgeline two miles off; the long lodgepoles dragging behind the horses; a loose herd of spare horses driven along behind; line bends wider as it comes abreast; the grass combed flat by the poles, long marks running south)"]
 underdetermined = ["remaining gear detail (deliberate thinness; keep the distance)"]
 dni = "distance enforced: no faces, no interiority"
 
@@ -328,7 +328,7 @@ lora = "travois@1.0"
 negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, riders in the foreground, horses in the near ground, figures in the foreground, wagons, covered wagons, cart, wheels, sled, sledge, harness team, plow, tipis standing, dust cloud, oil painting, tonal wash, soft wash, color, tinted, hand-colored, artist signature, monogram, lettering"
 prompt = "strictly monochrome ink, seen from far across open autumn prairie under a wide gray sky, a Lakota village on the move: a broad loose procession of tiny dark silhouettes strung out along a distant low ridgeline two miles off, horses dragging long lodgepoles that trail on the ground in low triangles behind horse after horse, riders scattered ahead and on the flanks of the distant line, a loose mass of driven horses trailing behind it, and in the empty middle distance a single travois at rest in the brown grass, its two long crossed poles and lashed load rack lying tilted where it was set down, no one near it, wind-bent October grass, figures far too small for faces"
 aspect = "portrait"
-citations = ["12:59 (the distant line, as village-passing)", "travois structure per training references (Ewers fig18/fig26)"]
+citations = ["12:45 (the distant line, as village-passing)", "travois structure per training references (Ewers fig18/fig26)"]
 underdetermined = ["the resting travois itself — engraver's license, pending DK"]
 dni = "distance enforced: no faces, no interiority"
 

@@ -22,13 +22,13 @@ young for the river trade, at Vicksburg when the war came, joined the volunteers
 historically impossible for Buena Vista); after the war went back to Virginia and
 worked his father's land (04:43); left Virginia again at thirty-two (12:47);
 "thirty-three, or perhaps thirty-four. I have lost track" (Oct 1857, 12:49);
-"thirty-four years feeling nothing" (18:53). Corporal then sergeant, Monterrey
-and Buena Vista — on the plateau with the Rifles (06:29–31, 18:21–31).
+"thirty-four years feeling nothing" (18:51). Corporal then sergeant, Monterrey
+and Buena Vista — on the plateau with the Rifles (06:29–31, 18:21–29).
 Witness descriptions (no self-description exists): "thin as a rail, beard down to
 his chest" (05:117); "Thin as a rail, beard down past his chest" (07:179); "Tall.
 Thin. Beard like a bird's nest" (09:97); eyes — "nothing in his eyes. Nothing at
 all" (07:183). "My clothes hang loose" (04:13); "my body is thinner than it has
-ever been" (12:63). Blood froze in his beard eating raw meat (08:27).
+ever been" (12:49). Blood froze in his beard eating raw meat (08:27).
 
 **Kit (complete, as text states it).** "No gun, only a knife" (02:13); "a blanket,
 a knife, flint and steel, this journal and a pencil" (06:21); gloves (08:9); camp
@@ -37,7 +37,7 @@ tallow (his lamp — burned cloth wick), pencil worn short, bedroll with blanket
 "a bundle of clothes so worn they barely deserved the name," a worn buffalo robe
 rolled against the earth wall (19:21); half-hide robe taken from a December 1856
 wolf kill, "the warmest thing I have owned since Virginia" (08:29 — survival
-enrichment 2026-07-10); knife dull by Oct 1857 (12:63); the tallow horn burning
+enrichment 2026-07-10); knife dull by Oct 1857 (12:49); the tallow horn burning
 on the final night (18:7). NOTE: robe worded to stay outside journal-found.png's
 frame (rolled against the earth wall — the plate shows the blanket bed only). Clothing
 attested (full-read 2026-07-08): a coat and a shirt on the corpse ("His coat
@@ -53,7 +53,7 @@ eggs (04:13); raw frozen buffalo meat hacked with the knife (08:27).
 **Shelter/camps (post-v0.4: no tent, no stove — confirmed).** Buried in snow with
 face exposed, breath making "a small cave in the white" (08:5); "a hollow in the
 bluffs, out of the wind" (08:37); winter 1857–58 hollow "where I can build small
-fires" (12:95); willows in rain (06:47). Final camp: hollow in the lee of a low
+fires" (12:91); willows in rain (06:47). Final camp: hollow in the lee of a low
 hill, cutbank windbreak, ~six feet deep (19:5, 19:19); fire pit at the entrance
 (19:5); stunted pine at the edge (19:11); bedroll at the back, journal sitting on
 it "as if left to be found" (19:21).
@@ -66,8 +66,8 @@ Nineteenth, Eighteen Fifty-Six (19:27, matching 02:3). [gap] dimensions/page cou
 
 **Movement.** On foot always; ~100 yards behind the herd (07:117); pace steady,
 "never varying, never stopping" (15:87); late: "slow, deliberate, as if every step
-required careful thought" (17:91); watches from rises/ridges at 100 yards–half a
-mile (04:57, 10:15, 12:71).
+required careful thought" (17:81); watches from rises/ridges at 100 yards–half a
+mile (04:57, 10:15, 12:69).
 
 **Corpse (Ch 11).** On his back, arms flung wide, half-buried in drifted snow
 (20:5, v0.7 — was face-down; a day-frozen face had to be legible); ground churned
@@ -92,7 +92,7 @@ materials, cuts.
 
 **Gear.** Rifle: "the one I had carried since the war" — type unspecified;
 muzzleloader implied by "powder and ball" (03:43, 03:111) and loose-powder loading
-(15:9); rifle case (03:63), scabbard (11:65); sleeps with hand on it (13:103). Knife (03:43); matches (07:31); coffee pot (15:9); dried meat and
+(15:9); rifle case (03:63), scabbard (11:63); sleeps with hand on it (13:103). Knife (03:43); matches (07:31); coffee pot (15:9); dried meat and
 hardtack (03:43); the packet — seven letters, hand-drawn map, daguerreotype (03:3);
 printed settlers' map from Cleveland (03:115); $200 fee, half in advance, crisp
 bills (01:149–155).
@@ -122,7 +122,7 @@ mane (07:19–33); ice panic — eyes "wide and white," legs splayed (09:155–1
 slowing, head low (15:99); flanks dark with sweat in cold — "A sweaty horse in
 winter is a dying horse, if you cannot get him dry" (15:111); fed stripped
 cottonwood bark, partial recovery (15:113–121); breathing "heavy and labored"
-(17:97); tied to the stunted pine during the reading night (19:11); behind Farrell
+(17:95); tied to the stunted pine during the reading night (19:13); behind Farrell
 in the finale, "breath coming in slow clouds" (20:71).
 
 ## The white buffalo
@@ -148,7 +148,7 @@ Development timeline (all cites):
   yield space; older bulls deferent (10:61–65).
 - **Late 1857** — "taller than most of the cows"; winter coat "white with that
   silver undertone" (12:15); ground "trembles beneath her hooves" (16:19); "the
-  great humped back" (16:17); near-invisible against snow (12:93).
+  great humped back" (16:17); near-invisible against snow (12:91).
 - **1858** — "fully grown, or nearly so, a thousand pounds of muscle and bone"
   (14:5); "massive shoulders, the great humped back, the horns that have curved and
   thickened... taller than any cow in the herd" (16:17 — see findings: maturity);
@@ -172,23 +172,23 @@ findings: the herd vanishes from Ch 9–11.
 
 ## The Hardins and the homestead
 
-**Site.** Small clearing where the creek bends around a low hill (11:53); creek
-behind the house (11:119); narrow willow-lined valley, broken hills, pines on
+**Site.** Small clearing where the creek bends around a low hill (11:51); creek
+behind the house (11:117); narrow willow-lined valley, broken hills, pines on
 north slopes (11:3–7).
 
 **Buildings.** Sod house of cut-earth blocks, "smaller than the trading post," one
 small window, stove pipe through the roof, front door with simple wooden latch
-(11:53–79); lean-to barn "barely large enough for a horse and a cow" behind the
-house (11:53); well with wooden frame, pulley, rope near the front (11:53); buried
-garden patch (11:53); root cellar dug into the hillside behind, door frozen shut
-(11:105); clothesline between two posts (10:75).
+(11:51–77); lean-to barn "barely large enough for a horse and a cow" behind the
+house (11:51); well with wooden frame, pulley, rope near the front (11:51); buried
+garden patch (11:51); root cellar dug into the hillside behind, door frozen shut
+(11:103); clothesline between two posts (10:75).
 
 **Interior.** Table, two chairs; bed against the far wall, blankets neatly made;
 cold cast-iron stove; shelves: dishes, Bible, 1856 farmer's almanac, a popular
 novel; woman's dress on a peg beside a man's coat; letters in a small wooden box
 (father's precise hand; Catherine's drafts with cross-outs; one unfinished);
 pantry: dried beans, flour, salt pork; ~a week of firewood; grain in the barn; dust
-thick on the table (11:79–103).
+thick on the table (11:77–101).
 
 **Violence evidence.** Scrubbed dark stain on floorboards near the door; cracked
 wall; broken-legged chair propped in a corner (13:33); blood smear on the bedframe
@@ -196,7 +196,7 @@ post; wiped traces on the table (13:35); barn: blood splash on the doorframe, sm
 on the packed-earth floor (13:53).
 
 **Graves.** TWO, behind the barn, side by side; low mounds under rock cairns in
-"rough rectangles"; deep; unmarked (11:113–115, 13:17–21); dug while ground was
+"rough rectangles"; deep; unmarked (11:111–113, 13:17–21); dug while ground was
 soft (13:21).
 
 **People.** Catherine: young, dark hair, habitual gesture pushing wind-blown hair
