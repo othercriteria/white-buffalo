@@ -50,7 +50,7 @@ as I had").
 |------|-------|
 | 1824 | Born in Virginia (18:17) |
 | ~1840s | Leaves Virginia young; river trade; at Vicksburg when war comes (18:19) |
-| 1846-1848 | War: Monterrey Sept 1846, Buena Vista Feb 1847 with the Mississippi Rifles (18:29-39) |
+| 1846-1848 | War: Monterrey Sept 1846, Buena Vista Feb 1847 with the Mississippi Rifles (18:22-32) |
 | 1848-1855 | Back in Virginia, father's land, church, "none of it took" (04:43) |
 | 1855 | Final departure from Virginia at thirty-one (12:47); walks out past the Missouri posts |
 | Oct ~1855 | The calf is born — "an autumn calf, born when no calf is born" (02:43) |

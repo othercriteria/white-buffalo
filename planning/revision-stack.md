@@ -188,7 +188,7 @@ comes up anyway in item-13 work.
   the hand on the shoulder) and the denial strain, which also loads
   JE VII's turn.
 - "Part of the landscape" ×3 (02:21, 04:9, 16:35): vary 04:9.
-- "She could kill me now" verbatim ×2 (12:21, 16:21): vary one.
+- RESOLVED by item 32's cut — "She could kill me now" and the walk/run triad now live only in JE VIII.
 - APPLIED 2026-07-10 (JE VI closer now the weather-coming image) — cold "pressing in from all sides" was ×3 intra-Morrow; 08:69 and 18:5 remain, which is the right count.
 - APPLIED 2026-07-10 (now "the grass") — 02:21 "no more threatening than a rock or a tree" PRE-SPENDS the
   protected tree-or-rock inversion (09:91 ↔ 14:85). Change JE I's
@@ -447,7 +447,7 @@ god" simile cut (B: "only just" forgivable; regression: "smells of
 the workshop"); the trader's "since the flood" now stands alone,
 period-natural.
 
-### 32. JE VI deeper cut — DK-DECISION (diminishing returns warning)
+### 32. JE VI deeper cut — APPLIED 2026-07-11 (Sep 15 cut to the coat/eyes/recognition-doubt paragraph; Sep 29's static watch folded into the timeline anchor; ~155 words out; kills both remaining intra-Morrow recycles from item 15 — the walk/run/graze triad and the verbatim 'She could kill me now' — making JE VIII sole owner of the measuring beats)
 Regression still names it weakest ("re-performs V's beats... Cut a
 third and nothing is lost") though the steam-cup line is now
 recognized as "the entry's one load-bearing line." Candidate: cut the

@@ -12,27 +12,13 @@ She has changed in that time. So have I.
 
 *September the Fifteenth*
 
-I have been watching her closely these past weeks, trying to measure her against what she was when I first found her. The difference is remarkable.
-
 She is large now—not full-grown, not yet, but large enough that she stands taller than most of the cows in the herd. Her coat has thickened for the coming winter, and it gleams in the autumn light, white with that silver undertone that appears when the sun catches it at certain angles. Her eyes are dark and liquid and watchful, and when she looks at me I can no longer tell if what I see there is recognition or only the blank attention an animal gives to anything that moves.
-
-Her power is visible in everything she does. When she walks, the muscles shift beneath her skin, strength held in reserve. When she runs—which she does, sometimes, for no reason I can determine—the ground trembles beneath her hooves. When she lowers her head to graze, the hump of muscle behind her neck rises like a wave about to break.
-
-She could kill me now. I have no doubt of that. But I do not think she would do it. Not yet.
-
-Another year, I think. Perhaps less. By next autumn, she will be ready.
-
-And so will I.
 
 ---
 
 *September the Twenty-Ninth*
 
-The settlers are still here.
-
-I saw them again today, working in the field beside their sod house. The man was cutting hay—late in the season for it, but perhaps they had no choice. The woman was gathering something from a garden plot near the door, moving between the rows with a basket over her arm.
-
-They have been here since early summer. I remember first seeing them then, working on the land with the hope that brings settlers to this country. They seemed certain the land would keep them.
+The settlers are still here. They have been here since early summer—I remember first seeing them then, working on the land with the hope that brings settlers to this country. They seemed certain the land would keep them.
 
 I wonder if they still feel that way. Their first winter is coming. The first winter is the hardest, they say, and after it the land does not soften.
 

@@ -53,7 +53,7 @@ eggs (04:13); raw frozen buffalo meat hacked with the knife (08:27).
 **Shelter/camps (post-v0.4: no tent, no stove — confirmed).** Buried in snow with
 face exposed, breath making "a small cave in the white" (08:5); "a hollow in the
 bluffs, out of the wind" (08:37); winter 1857–58 hollow "where I can build small
-fires" (12:113); willows in rain (06:47). Final camp: hollow in the lee of a low
+fires" (12:95); willows in rain (06:47). Final camp: hollow in the lee of a low
 hill, cutbank windbreak, ~six feet deep (19:5, 19:19); fire pit at the entrance
 (19:5); stunted pine at the edge (19:11); bedroll at the back, journal sitting on
 it "as if left to be found" (19:21).
@@ -122,8 +122,8 @@ mane (07:19–33); ice panic — eyes "wide and white," legs splayed (09:153–1
 slowing, head low (15:99); flanks dark with sweat in cold — "A sweaty horse in
 winter is a dying horse, if you cannot get him dry" (15:111); fed stripped
 cottonwood bark, partial recovery (15:113–121); breathing "heavy and labored"
-(17:99); tied to the stunted pine during the reading night (19:11); behind Farrell
-in the finale, "breath coming in slow clouds" (20:75).
+(17:97); tied to the stunted pine during the reading night (19:11); behind Farrell
+in the finale, "breath coming in slow clouds" (20:71).
 
 ## The white buffalo
 
@@ -147,8 +147,8 @@ Development timeline (all cites):
 - **Jul 1857** — herd dominance: backs off a young bull with a lowered head; cows
   yield space; older bulls deferent (10:61–65).
 - **Late 1857** — "taller than most of the cows"; winter coat "white with that
-  silver undertone" (12:17); ground "trembles beneath her hooves"; hump "like a
-  wave about to break" (12:19); near-invisible against snow (12:111).
+  silver undertone" (12:15); ground "trembles beneath her hooves" (16:19); "the
+  great humped back" (16:17); near-invisible against snow (12:93).
 - **1858** — "fully grown, or nearly so, a thousand pounds of muscle and bone"
   (14:5); "massive shoulders, the great humped back, the horns that have curved and
   thickened... taller than any cow in the herd" (16:17 — see findings: maturity);
@@ -173,7 +173,7 @@ findings: the herd vanishes from Ch 9–11.
 ## The Hardins and the homestead
 
 **Site.** Small clearing where the creek bends around a low hill (11:53); creek
-behind the house (11:119); narrow willow-lined valley, broken hills, pines on
+behind the house (11:117); narrow willow-lined valley, broken hills, pines on
 north slopes (11:3–7).
 
 **Buildings.** Sod house of cut-earth blocks, "smaller than the trading post," one
@@ -235,8 +235,8 @@ father (dead twenty years), his mother, men he killed (15:133–135). Catherine:
 walking ahead at fixed distance, never looking back (17:15); calm beside Morrow's
 body, hands folded (20:43). Ch 11 additions: "a man and a woman, older, dressed in
 the clothes of an earlier time" (20:45). Dreams: the buffalo in an empty Mexican
-village street — shuttered houses, cobblestones (15:147–151); Chapultepec's walls,
-short ladders, boy cadets (17:67–75).
+village street — shuttered houses, cobblestones (15:144-148); Chapultepec's walls,
+short ladders, boy cadets (17:60-68).
 
 ## Places (Farrell's route)
 

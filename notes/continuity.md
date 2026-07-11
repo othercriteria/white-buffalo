@@ -489,3 +489,23 @@ forgive" — condemnation without envy; "he had found something to die
 for. And I had not" is gone (anti-consolation dividend). Also Ch 8's
 tremor simile is now the aspen observation ("which will shake in no
 wind at all") — logger's tree-knowledge carrying the clinical fact.
+
+## JE VI deeper cut + citation infrastructure (2026-07-11, DK)
+
+Stack #32 applied: Sep 15 reduced to the coat/eyes/recognition-doubt
+paragraph (the doubt sentence is load-bearing ambiguity, kept); Sep 29
+static watch folded into the here-since-early-summer anchor. The
+walk/run/graze triad and "She could kill me now" now live only in
+JE VIII (auditor's recycles resolved by deletion). By-next-autumn
+forecast survives at Nov 19.
+
+imagegen/check_citations.py added: verifies every NN:LL anchor in the
+living documents against draft content (3-line window token scoring);
+report + confident auto-fix (>=3 hits; thin annotations never
+rewritten — a real false positive at 19:71 set the bar). First full
+run: 9 dead anchors and ~15 drifted ones repaired, including
+pre-session rot; the visual bible's "wave about to break" claim,
+orphaned by the Sep 15 cut, re-sourced to JE VIII's surviving lines.
+POLICY: run before assembly and after any multi-line draft edit; never
+run --fix on logs (continuity, findings, revision-stack, versions) —
+repairing a log falsifies it.

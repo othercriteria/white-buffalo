@@ -25,7 +25,7 @@ of the text. Everything here is proposal until DK signs the map.
 | — | Cover | cover.png (s78, white-headed) | 02:27 / 20:21 | cover |
 | 00 | Front matter | — | | |
 | 01 | Ch 1 (Broken Oar) | — (broken-oar shelved by policy) | | |
-| 02 | JE I | first-sighting | 02:21–27 (calf trailing the herd) | portrait plate |
+| 02 | JE I | first-sighting | 02:24-30 (calf trailing the herd) | portrait plate |
 | 03 | Ch 2 (letters, rail) | — | | |
 | 04 | JE II | speaking-to-her | 04:57–63 ("I am waiting for you") | landscape cut (flexed) |
 | 05 | Ch 3 (Mississippi) | ferry-bridge (PROMOTED s307, 2026-07-10) | 05:23–31 | landscape cut |
@@ -40,8 +40,8 @@ of the text. Everything here is proposal until DK signs the map.
 | 14 | JE VII (the turn) | — deliberate | | |
 | 15 | Ch 8 (pursuit) | tracks-north | 15:83–93 | landscape cut |
 | 16 | JE VIII | — | | |
-| 17 | Ch 9 (sighting) | two-stories (PROMOTED s311, 2026-07-10) | 17:79–85 | landscape cut |
-| 18 | JE IX | morrow-hollow | 12:109 shelter, kept to the last vigil | portrait plate |
+| 17 | Ch 9 (sighting) | two-stories (PROMOTED s311, 2026-07-10) | 17:75–81 | landscape cut |
+| 18 | JE IX | morrow-hollow | 12:95 shelter, kept to the last vigil | portrait plate |
 | 19 | Ch 10 (camp, journal) | journal-found | 19:7–21 | portrait plate |
 | 20 | Ch 11 (finale) | finale-fifty-yards | 20:21–33 | portrait plate |
 
