@@ -583,3 +583,18 @@ misreading now ratified as period-correct behavior. CANON NOW FIXES:
 childlessness was George's stated policy, contested by Catherine,
 concealed from Oswego. Micro-rhyme registered by note (not a coined
 phrase): George's laugh/smile as armor (09:71 trader, 11:101 draft).
+
+## Certification round 3 (2026-07-11)
+
+Regression (verbatim, 3rd run) + hostile comparatist v2 (trenchance
+nudged: +Gilead +Maxwell, hunting orders). Full scoreboard in the
+stack. Canon-relevant outcomes: (1) NEW CLAUSE 03:7 "the winter they
+had passed in the river towns while George looked at land" — closes
+the ~16-month Hardins chronology gap the regression caught; timeline
+doc updated. (2) Ship-echo count re-verified: exactly three (06:9,
+19:41, 20:57); a reader claim of a JE I instance was false. (3) The
+commandment line has three favorable instrument contacts; watch-flag
+trending positive. (4) Second certified original stroke (DT engine)
+added to positioning-notes. (5) Open DK items from the round: Ch 9
+silence-passage composite (#40), Ch 10 "come all this way" cut
+(3rd flag), JE VI floor ruling (4th consecutive weakest).

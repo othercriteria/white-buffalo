@@ -864,3 +864,103 @@ Line shifts: 09 ≥72 +2; 11 ≥101 +2. Live refs propagated
 clean; logs untouched. Pre-Ch-6 mystery intact: nothing exonerates
 George; the controlling frame arguably strengthens the husband
 hypothesis.
+
+## Certification round 3 (2026-07-11, post register pass + hinge +
+## George package): regression verbatim + hostile comparatist v2
+## (trenchance nudged per DK: harder frame, +Gilead +Maxwell, four
+## hunting orders)
+
+### REGRESSION SCOREBOARD (verbatim reader-C brief, third run)
+HELD OR IMPROVED: JE VII now "the strongest journal entry," July 13
+"the best-reasoned page in the book"; ending lands right (~10%
+truncation risk), reader votes HE LIVES on the artifact argument,
+"the horse paragraph saves it"; symmetry "the book's spine and it
+holds"; rumor chain "right number, at the ceiling"; period furniture
+"nothing rang false-historical... the rarest compliment available";
+nearest shelf again Butcher's Crossing + Train Dreams + inverted
+Moby-Dick. NEW MATERIAL LANDED: crossed-out children draft = "the
+most devastating object in the book"; trader = "best minor
+character"; commandment line = "exactly how an 1858 Virginian would
+circle covetousness" (language "never slips"). Reader's ship-count
+claim (a JE I instance) VERIFIED FALSE — exactly three in text,
+registry correct. "Perhaps" now reads as MORROW's habit
+("defensible as voice, noticeable as habit") — the register split
+functioning as a fingerprint, as designed.
+
+### 39. Hardins chronology gap — APPLIED 2026-07-11
+Regression caught the real bug: marriage ~early 1856 (01:93) vs
+house going up June 1857 (10:41) left ~16 months of homestead
+letters unaccounted; timeline doc had it "deliberately unspecified"
+but a careful reader snags. FIX (one clause, 03:7, no line shift):
+"the winter they had passed in the river towns while George looked
+at land." Retro-feeds the George profile (a year shopping for ground
+= the bet was deliberate). Timeline doc updated.
+
+### 40. Ch 9 silence passage — FOUR-instrument composite (tier 2,
+### drafts ready, DK ruling)
+17:87-93 now flagged by: register-prosecutor (negation-restatement
+opener "The silence was not silent. I knew that now."),
+register-defender (personified-silence conceit twins Morrow's 08:71
+pre-reading; cut the abstraction, keep the sound inventory),
+hostile-v2 (closer "Only the living made noise in this country, and
+there were so few of us left" = the book's most self-satisfied
+sentence), regression-3 (the frame sentence "audibly admires
+itself"; "the paragraph it introduces is good enough not to need the
+frame"). NOTE the conflict: defender wanted the passage to END on
+the sound-inventory/living-made-noise area; hostile wants the closer
+dead. Composite proposal: cut the frame sentence, keep the inventory
+(wind/leather/blood-in-ears), cut the "silence itself" abstraction
+clause, closer = DK taste (two instruments opposite).
+
+### Other certification-3 items
+- Ch 10 "I had come all this way to find a killer. I had found
+  something else instead." — THIRD independent flag (C,
+  regression-2, regression-3 "says aloud what the structure had
+  already said better"). Propose CUT (DK); the protected
+  condemnation line ("choices I could not forgive") stays.
+- JE VI weakest unit for the FOURTH consecutive time — but with a
+  keep-list ("the village and the steam-cup should survive any
+  cut") and one new concrete target: "I have become simpler.
+  Stripped of everything not needed" (12:51) restates JE V's "I am
+  lighter now than I have ever been" (10:83). Floor ruling still
+  pending DK: stop cutting vs one last micro-cut.
+- Regression want-not-need: Farrell's dangerousness is asserted,
+  never shown, "and the book never once shows him do violence, or
+  even come to its brink"; declining the rifle would land harder if
+  we had seen it raised once. RECORD under the Farrell-fortification
+  agenda; reader themself rules Brandt-scene restraint better than
+  a gunfight.
+- Front matter (regression, unprompted): reads "sincere rather than
+  winking"; "I'd bet money no reader could locate the seam from the
+  text alone." For the attribution conversation.
+
+### HOSTILE V2 (commissioned trenchance; verdict "Pass")
+Serious charges map: (1) Maxwell/unearned-elision (the murder entry
+exists in-fiction, its best line leaked via paraphrase — "credit for
+restraint while collecting the payoff") — COUNTER on file: the
+compiler question, twice certified live by club runs; if Farrell
+assembled the book, the suppression is diegetic. Record as brief +
+counter-brief; no action. (2) Ballard/perversity-redressed — the
+commandment line CITED AS EVIDENCE and read exactly as designed
+(the desire legible, the vestments Morrow's); residual charge is
+the #29 consolation axis (punted, standing anti-consolation
+pressure). (3) Melville/symbol-never-fights-back + Lakota-as-
+furniture — priced design costs; v2's pre-rejection of the
+parasitism defense ("must cost something on the page") noted.
+(4) McCarthy/consolation — attacks 20:45 "It was not forgiveness...
+But" (negation-restatement at the peak) + Catherine's no-fear
+cameo; #29 axis. (5) Gilead/never-a-broken-sentence — the stable
+circumstance charge, THIRD hostile-class instrument; strengthens
+tier-2 register items (fragment 08:71 first). Receipts charge
+(Effie Afton, Davis ×2) — both preserve-list items; the bridge also
+anchors the ferry-bridge plate. CONCESSION = second certified
+original stroke (DT engine; ghosts on a chemical schedule) — added
+to positioning-notes.
+
+### Watch-flag status (commandment line, 14:23-25): THREE data
+points, all favorable in different registers — club (designed
+ambiguity, unadjudicated), hostile-v2 (load-bearing evidence for a
+serious reading, NOT called theology-as-depth despite an explicit
+hunting order for that category), regression-3 (period-perfect
+diction). Keep open through the next fully-cold read; trend strongly
+positive.

@@ -66,7 +66,7 @@ as I had").
 | Date | Event |
 |------|-------|
 | Early 1856 | Catherine Aldridge and George Hardin marry — "nearly three years" before Nov 1858 (01:61, 01:93) |
-| 1856-1857 | Go west in stages; the year between marriage and arrival is deliberately unspecified (letters describe "the journey west," 03:7; George is "a farmer's son from Ohio," 01:61 — staging with his people is the natural unwritten reading) |
+| 1856-1857 | Go west in stages — NOW LIGHTLY SPECIFIED (2026-07-11, certification-3 regression caught a careful reader snagging on the ~16 unaccounted months): "the winter they had passed in the river towns while George looked at land" (03:7). Also retro-feeds the George profile: a year shopping for ground makes the bet deliberate |
 | Early summer 1857 | Arrive at the creek site; Morrow sees them building June 4 (10:37-41); "They have been here since early summer" (12:35) |
 | Aug 1857 | Sod house built, field plowed, well dug (10:67) |
 | Winter 1857-58 | Their first winter — survived (14:17); "a winter that had been harder than expected" in the letters (03:9) |

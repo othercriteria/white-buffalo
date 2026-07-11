@@ -9,6 +9,13 @@
    aftermath... that structure is not in Melville, Johnson, O'Brien,
    McCarthy, Ballard, or the television. It is the one place the book
    stops inheriting and builds."
+3. (hostile comparatist v2, 2026-07-11, in a review whose verdict was
+   otherwise "Pass"): "None of the eight models makes delirium
+   tremens the engine of a wilderness pursuit... Timing the hunter's
+   haunting to withdrawal while the hunted's haunting stays
+   metaphysical gives the two narrations a genuinely original hinge —
+   the ghosts arrive on a chemical schedule and are never explained
+   away. That device is the book's own invention."
 Pitch leads from these, NOT from the genre furniture.
 
 ## Nearest-shelf comps (converged across six readers)

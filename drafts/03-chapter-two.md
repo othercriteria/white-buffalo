@@ -4,7 +4,7 @@ The packet Aldridge gave me contained seven letters—the ones he could bear to 
 
 I read the letters that night in my room at the boarding house. Mrs. Canfield's place, on the edge of town, where I had been staying when I was not in the woods. She charged fifty cents a night and did not ask questions, which was worth more to me than clean sheets.
 
-The early letters were what you would expect. Catherine wrote about the journey west, the vastness of the land, the hardships and excitements of establishing a homestead. She wrote about her husband with affection that seemed genuine enough, though I am not skilled at reading such things. She wrote about missing her father, about hoping he would come to visit, about the life she was building.
+The early letters were what you would expect. Catherine wrote about the journey west, the winter they had passed in the river towns while George looked at land, the vastness of the country, the hardships and excitements of establishing a homestead. She wrote about her husband with affection that seemed genuine enough, though I am not skilled at reading such things. She wrote about missing her father, about hoping he would come to visit, about the life she was building.
 
 The later letters were different. The affection was still there, or the words for it were, but something had shifted underneath. She wrote about difficulties with the farm, about isolation, about a winter that had been harder than expected. She did not complain directly—she was not the type, I gathered—but the shape of the complaints was visible in what she did not say.
 
