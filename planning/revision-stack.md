@@ -640,3 +640,17 @@ truncations x2, club, classroom x2, tic audit, period audit —
 instrument set exhausted for this text state. Remaining open: #13
 register pass (three instruments), #36 echo-pair (2-2, DK taste),
 #37 polish shelf, JE VI floor ruling, AI-front-matter positioning.
+
+### 38. Attribution review process — INSTITUTED 2026-07-11 (DK)
+Process doc: planning/attribution-review.md. Ledger seeded:
+notes/attribution-ledger.md. Front matter now points to the repo,
+names the material (including transcripts/), and carries the
+invitation sentence in the published tense — the process is what
+makes it true. OPEN TASKS it creates: (a) update transcripts/ to
+cover all Fable 5 sessions before the review round (currently only
+the four 2026-01 Opus-era files); (b) fill the session index with id
+chains and commit ranges; (c) decide the Opus 4.5 extension at wrap;
+(d) illustration-credit line in front/back matter (assembly-phase —
+the Z-Image/LoRA pipeline deserves its own sentence, distinct from
+the prose attribution); (e) the resume-mechanics check (tip-of-chain
+ids; SDK fallback per the process doc's technical notes).
