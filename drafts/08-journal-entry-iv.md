@@ -26,6 +26,8 @@ She endures. The herd endures. I endure because I must.
 
 Found a buffalo carcass today, frozen solid. Wolves had been at it, but there was meat left. I hacked off what I could carry with my knife and ate it raw. The blood froze on my beard before I could wipe it away.
 
+I took the hide as well, or the half of it the wolves had left me, and worked it loose while my hands would still serve, and dragged it back to my shelter stiff as a board. It thaws where my body lies on it. It stinks of the animal and of the wolves, and it is the warmest thing I have owned since Virginia.
+
 The herd is still moving. She is still with them.
 
 ---

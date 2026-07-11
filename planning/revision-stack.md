@@ -250,7 +250,7 @@ against the season, to the sheltered valley, and Morrow reads it as
 her leading them to the appointed place (14:31 already establishes
 she leads). Converts the wobble into the book's mysticism, in voice.
 
-### 20. Morrow's missing robe and candle (survival realism)
+### 20. Morrow's missing robe and candle — APPLIED 2026-07-10 (half-hide robe off the December 1856 wolf kill, 'the warmest thing I have owned since Virginia'; the candle is now a buffalo horn packed with tallow with a cloth wick; both surface in Farrell's camp inventory, robe worded outside the journal-found plate's frame)
 A man butchering winter kills for three plains winters who never
 takes a hide is the one survival detail a plainsman would refuse to
 believe; and the JE IX candle (18:7, 19:21) has no source since his

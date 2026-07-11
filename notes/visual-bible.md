@@ -32,9 +32,14 @@ ever been" (12:63). Blood froze in his beard eating raw meat (08:27).
 
 **Kit (complete, as text states it).** "No gun, only a knife" (02:13); "a blanket,
 a knife, flint and steel, this journal and a pencil" (06:21); gloves (08:9); camp
-inventory: knife, tin cup, flint and steel, candle stub, pencil worn short, bedroll
-with blankets, "a bundle of clothes so worn they barely deserved the name" (19:19);
-knife dull by Oct 1857 (12:63); candle on the final night (18:7). Clothing
+inventory: knife, tin cup, flint and steel, a buffalo horn packed with hardened
+tallow (his lamp — burned cloth wick), pencil worn short, bedroll with blankets,
+"a bundle of clothes so worn they barely deserved the name," a worn buffalo robe
+rolled against the earth wall (19:21); half-hide robe taken from a December 1856
+wolf kill, "the warmest thing I have owned since Virginia" (08:29 — survival
+enrichment 2026-07-10); knife dull by Oct 1857 (12:63); the tallow horn burning
+on the final night (18:7). NOTE: robe worded to stay outside journal-found.png's
+frame (rolled against the earth wall — the plate shows the blanket bed only). Clothing
 attested (full-read 2026-07-08): a coat and a shirt on the corpse ("His coat
 was torn, his shirt beneath it shredded," 20:13); worn boots via his tracks
 ("the print of worn boots," 15:87; "boot-prints of a man," 13:61). [gap]

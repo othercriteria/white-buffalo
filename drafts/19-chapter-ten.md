@@ -18,7 +18,7 @@ I walked to it and knelt at the edge.
 
 ---
 
-The hollow was perhaps six feet deep, carved by water or wind into the side of the hill. His blankets lay at the back, neatly arranged, waiting for someone who would not return. A few possessions were scattered about—a knife, a tin cup, a flint and steel, a stub of candle, a pencil worn down short, a bundle of clothes so worn they barely deserved the name.
+The hollow was perhaps six feet deep, carved by water or wind into the side of the hill. His blankets lay at the back, neatly arranged, waiting for someone who would not return. A few possessions were scattered about—a knife, a tin cup, a flint and steel, a buffalo horn packed with hardened tallow, its burned wick still in it, a pencil worn down short, a bundle of clothes so worn they barely deserved the name, and a worn buffalo robe rolled against the earth wall.
 
 And on the blankets, sitting as if left to be found, a leather-bound book.
 
