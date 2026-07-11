@@ -548,3 +548,62 @@ tier now confirmed alongside the hostile and regression readers.
   Ch 10 rehearsal happens while Morrow still lives): the act-to-event
   demotion, shape of "Except nothing had been done. It had only
   happened." Deploy when #29 opens properly.
+
+## CERTIFICATION ROUND (2026-07-11): hostile re-run + regression re-run
+
+### #29 verdict: CERTIFIED CLOSED with a chosen residual
+- Hostile re-run: "the consolation machine" GONE as lead objection;
+  residue narrowed to the buffalo's numinous lighting + closing
+  tableau (evidence #5), with the "book endorses what it reports"
+  framing dropped. Ch 6 (incl. frozen ink / Aldridge beat) moved INTO
+  his concessions ("survives every objection I have"); whiskey clock
+  newly conceded as "the finest structural device in the book."
+- Regression re-run: the package landed — the hundred dollars and
+  saddlebag "itemized... the road back exists"; "No sign passed, of
+  welcome or of warning" quoted as "exactly the right refusal" under
+  what-is-NOT-false. Aldridge frame softened from "one seam showing"
+  to "a few degrees colder than it had to be... Not evasive; the book
+  isn't dodging a verdict it owes" — the reader himself declines a
+  return journey. Residual accepted as chosen.
+- Believes he gets up, three earned reasons; JE VII "as coldly
+  persuasive a rendering of instrumental evil as I've read at this
+  length"; "a prairie Moby-Dick at 31,000 words, and the compression
+  mostly flatters it"; "flaws of polish rather than of conception."
+
+### Where the pressure migrated: #13 voice register (now the top open
+### item). Hostile-2's lead objection: the contamination defense for
+### the Ch 11 borrows "would hold if the voices were otherwise
+### distinct." The planned Farrell/Morrow register pass is the answer
+### (perhaps->maybe conversions, Farrell logistics-lean); needs its
+### own session.
+
+### 36. The Ch 11 echo-pair question — DK taste, contested 2-2
+Ship + peace both in the final four pages: reader C flagged both
+(pre-plant), regression-1 praised the ship as "subtlest thing in the
+book" (post-plant), hostile-2 attacked both as voice-collapse,
+regression-2: "one would land harder than both." Peace is
+DK-sanctioned (the alarm). Option if ever wanted: vary the ship
+echo's wording in Ch 11 (keep the image, break the verbatim) —
+"moved through the snow the way he had written it, like a ship
+through water" would make the quotation explicit... or leave. 2-2.
+
+### 37. Polish shelf (regression-2, single-instrument, taste-tier)
+- Weapon metaphor 2x inside JE II ("does not question its use" +
+  "must be used or destroyed" — vary one; the JE IX third is fine).
+- JE IX "That is the only certainty I have ever had" — shades
+  greeting-card at the peak.
+- Ch 10 "I had come all this way to find a killer. I had found
+  something else instead." — groomed cadence, flagged twice now
+  (C's original + regression-2).
+- "I was not going to be careful" (Ch 6) — modern beat-drop cadence.
+- Ch 9 vision apparatus "thickening past need"; Ch 10 re-summary
+  "costs a page"; Ch 4 "one episode over"; JE V mild drag.
+- JE VI: THIRD consecutive weakest-unit ruling, post-two-trims — but
+  the survivors are named as its "genuinely fine moments." RULING
+  PROPOSED: the unit has reached its floor; some unit must be
+  weakest; further cutting guts load-bearing cargo. DK to confirm.
+
+### Also noted: hostile-2 leads the review with the AI front-matter
+### disclosure ("explains more than its authors may want") — first
+### instrument to weaponize it. Positioning/front-matter conversation
+### for DK, not a text item.
