@@ -1179,3 +1179,41 @@ TRIAGE:
   axes in non-comparatist dress. Its "squalid double murder and a
   suicide" reading of a sacredness-refusing reader is the book's
   OWN licensed second reading — positioning note, not defect.
+
+## #41 repairs + #36 — DK RULINGS APPLIED (2026-07-11 evening)
+
+- Repair 1 / #36 RESOLVED BY CUT: "For the first time in longer than
+  I could remember, I felt a great and quiet peace." CUT from 20:33.
+  The moment now ends "She looked back at me." The phrase exists
+  only in the journal — the sacrament claimed, never received.
+  Registry row struck. DK's note honored: the twinning/contamination
+  IDEA is worth preserving in NON-SACRAL language — proposal on the
+  table (not applied): the tense-shifted state-twin "I am tired. I
+  am so tired." (18:51) surfacing in Farrell at the kneeling beat —
+  costs more, consoles less, rereaders catch it. DK to rule.
+- Repair 2 APPLIED (reconciling the period auditor's load-bearing
+  hedge with the reviewer's demand): new paragraph after 20:63's
+  hedge — "Behind me the horse shifted, his ears gone forward toward
+  the ridge. He had never once taken notice of the soldiers." The
+  hedge stands; the reader holds proof Farrell doesn't. (+2 shift in
+  20 ≥64; live refs updated: catalog 20:73, visual-bible 20:73,
+  geo-ledger 20:69 truth-fixed; checker OK 63.)
+- Repair 4 APPLIED via the madness-ontology mapping (DK-directed;
+  character note §7): 02:11 → "I do not know what they take me
+  for." — the trope out, Morrow's epistemic humility in; he models
+  only his own community's verdicts (18:65 untouched).
+- Repair 3 (guardianship signs): DK approved the exercise; TWO
+  candidates drafted for DK's pick (see report): (b) the stake
+  RENEWED in JE VIII — the old one drawn out and lying in the grass,
+  a new peeled stake, bright cloth ("They have not forgotten her.
+  They are keeping her.") — guardianship as maintained practice,
+  Morrow relativized inside someone else's watch; (c) Farrell-side,
+  Ch 8/9: unshod pony tracks running with the trail on the high
+  ground, days old — the pursuit was never unobserved. Bolder third
+  option (flagged, riskier): the death-meadow ridge already trodden
+  before the riders appear — the death happened under their watch.
+- Repair 5: DK 2026-07-11 — he expects to reach the
+  Lakota-readers conclusion independently, on his own terms, "not
+  causally downstream of this exercise." NOT tracked as an action
+  item; the reviewer's argument stays on file in #41 and the
+  positioning hazard map. Do not nag.

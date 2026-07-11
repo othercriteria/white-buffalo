@@ -123,7 +123,7 @@ slowing, head low (15:99); flanks dark with sweat in cold — "A sweaty horse in
 winter is a dying horse, if you cannot get him dry" (15:111); fed stripped
 cottonwood bark, partial recovery (15:113–121); breathing "heavy and labored"
 (17:95); tied to the stunted pine during the reading night (19:13); behind Farrell
-in the finale, "breath coming in slow clouds" (20:71).
+in the finale, "breath coming in slow clouds" (20:73).
 
 ## The white buffalo
 

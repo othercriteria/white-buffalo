@@ -30,7 +30,7 @@ I did not raise the rifle.
 
 She was not my enemy. She had done what her nature demanded.
 
-I sat back on my heels and looked at her. She looked back at me. For the first time in longer than I could remember, I felt a great and quiet peace.
+I sat back on my heels and looked at her. She looked back at me.
 
 ---
 
@@ -61,6 +61,8 @@ She was halfway across the meadow when I saw the others.
 They came from the north, three or four of them, on the ridge. Men on horseback, dressed in furs and leather, dark against the snow. They sat their horses and watched as the white buffalo approached.
 
 Lakota, I thought. Or another vision—another gift from the fever.
+
+Behind me the horse shifted, his ears gone forward toward the ridge. He had never once taken notice of the soldiers.
 
 One of them looked toward me. The one in front—the leader, I judged. His eyes found me across the meadow, a figure kneeling in the snow beside a body, blood on the ground. He looked at me for a long moment. The others sat their horses and did not look at me at all. No sign passed, of welcome or of warning. Then he turned away.
 

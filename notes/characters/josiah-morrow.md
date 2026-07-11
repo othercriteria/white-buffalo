@@ -152,6 +152,34 @@ books. The knowing/unknowing split: he KNOWS he is declining to write
 something; he does NOT know the refusal is itself the entry —
 evidence of the want his theology says cannot exist.
 
+## 7. Madness ontology (2026-07-11, DK question, with the 02:11 fix)
+
+Does Morrow think he is mad? The text gives an arc: flat denial with
+audience-awareness at the outset ("I am not mad, though I know how
+this will sound," 02:7) → hedged indifference at the end ("They will
+probably think I was mad. Perhaps I was... It does not matter. I
+believe it, and that is enough," 18:65-67). For Morrow, madness is a
+VERDICT OF OBSERVERS, not a fact of the matter — always indexed to
+an epistemic community: how it "will sound" to whoever reads the
+journal; what the finders "will probably think." His own operative
+categories are elsewhere entirely: empty/filled, weapon/man,
+clean/unclean, ready/not-ready. Sane/mad is other people's
+bookkeeping, and his final position is pragmatist: the belief's
+truth-value is immaterial because its function is complete ("I
+believe it, and that is enough").
+
+This is why the old 02:11 line was wrong twice over: "Perhaps they
+think me mad, and mad men are sacred to them" both projected a
+settler trope onto the Lakota AND had Morrow confidently modeling a
+community whose categories he has no access to. The fix (APPLIED
+2026-07-11, stack #41 repair 4): "I do not know what they take me
+for." — epistemic humility about THEIR ontology, his self-inventory
+kept in his own register (one man, alone, walking, not worth the
+trouble). He still guesses freely about white finders' verdicts
+(18:65) — his own community's categories are the only ones he can
+presume to use. Being honest to Morrow moved the line off the trope
+into his specificity, as DK predicted.
+
 ## Consequences for revision
 
 - The 14:23 line should perform the system: the word approaches

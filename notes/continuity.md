@@ -680,3 +680,15 @@ Four intra-line closures: 03:63 anaphora, wait-buttons 01:199 and
 then."). Remaining textual stack is now: three DK-taste items, three
 structural shelf items, Farrell violence-brink (no target), and #29
 (held). Detail in the stack.
+
+## #41/#36 rulings applied (2026-07-11 evening)
+
+Peace twin CUT from 20:33 (phrase now journal-only; registry struck;
+non-sacral tired-twin proposed, pending DK). Horse-grounding
+paragraph added after the 20:63 hedge (ghosts never moved the horse
+— riders real; hedge intact per period auditor). 02:11 trope
+replaced with "I do not know what they take me for." (madness
+ontology mapped in character note §7: madness = observers' verdict,
+community-indexed; his categories are empty/filled, weapon/man).
+Guardianship-sign candidates drafted, pending DK pick. File 20 +2
+shift ≥64 propagated.
