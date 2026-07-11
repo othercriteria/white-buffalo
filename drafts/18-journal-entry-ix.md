@@ -28,7 +28,7 @@ I have never written about Buena Vista. I have never spoken about it to anyone. 
 
 We were outnumbered. That is the first thing to understand. General Santa Anna had brought twenty thousand men against our four thousand, and we knew that if they broke our lines we would all die. So we did not let them break our lines. We held, and we fought, and we killed, and we held some more.
 
-I was on the plateau with the Mississippi Rifles. Colonel Davis—the same man who now speaks in Congress of states' rights and Southern honor—was our commander. He was a brave man. He led from the front, and he expected us to follow, and we did.
+I was on the plateau with the Mississippi Rifles. Colonel Davis was our commander. He was a brave man. He led from the front, and he expected us to follow, and we did.
 
 The Mexicans came at us in waves. Cavalry first, then infantry, wave after wave of men in blue uniforms with bayonets fixed and flags flying. We shot them down and they kept coming. We shot them down again and they kept coming again. The field in front of us filled with bodies, and still they came, climbing over their own dead to reach us.
 

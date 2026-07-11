@@ -407,3 +407,78 @@ The designed ambiguities all held under independent blind reads.
   named-once hanging debt sufficient. No coda remains the ruling.
 - A and B both enjoyed rumor-as-legend self-awareness ("growing with
   each telling") — it inoculates the repetition.
+
+## Round 2 stress tests (2026-07-10 evening): regression + hostile
+
+### REGRESSION SCOREBOARD (identical brief to reader C, post-fix text)
+FIXED/FLIPPED: Civil War paragraph (gone from complaints; ferry talk
+now "earns trust"); ship-through-water ("the real defect" -> "possibly
+the subtlest thing in the book," traced through the Ch 10 plant);
+"great and quiet peace" (tic -> "the coldest thing in the novella,"
+read as design); JE VII ("could be called capricious" -> "the single
+best-engineered sequence in the book" — July 13's refusal quoted as
+"the most damning, most human reason in the book"); rumor chain
+("distribution flaw" -> "escalation along two axes"); tracks ("just
+barely on the right side of the line" via the self-audit — as
+designed); frame year (no complaint); Pikes Peak + tallow horn cited
+as trust-earning texture. Verdict: "a very short list of faults for a
+novella carrying this much weight this quietly."
+
+### 29. Late-book dissent / the unclosed Aldridge frame — DK-DECISION
+Two instruments converge from opposite directions. Regression: the
+third-person Ch 1 frame never closes; wants Farrell's owed report
+"deliberately left behind in the snow" — one half-sentence, refusing
+the frame rather than forgetting it. Hostile: "consolation machine" —
+every element of Morrow's cosmology ratified late, "irony needs one
+dissenting voice." (Overstated — "monstrous, whatever his reasons"
+17:35 and "choices I could not forgive" 19:61 exist — but the late
+pages do run warm.) SAME REMEDY: the undelivered report IS the
+unconsoled remainder (Catherine stays dead; her father gets nothing).
+Candidate: one clause near Ch 11's close acknowledging the report he
+is not carrying. HIGH RISK — touches the ending C and regression both
+scored "right." Draft 3+ variants before DK rules; leaving as-designed
+is a live option.
+
+### 30-31. APPLIED (two-reader convergence, small-stuff tier)
+JE IX Davis appositive cut ("the same man who now speaks in
+Congress..." — the last authorial lean-in; the Ch 2 Mississippians
+beat carries the identification). Ch 4 "boxes dropped by a careless
+god" simile cut (B: "only just" forgivable; regression: "smells of
+the workshop"); the trader's "since the flood" now stands alone,
+period-natural.
+
+### 32. JE VI deeper cut — DK-DECISION (diminishing returns warning)
+Regression still names it weakest ("re-performs V's beats... Cut a
+third and nothing is lost") though the steam-cup line is now
+recognized as "the entry's one load-bearing line." Candidate: cut the
+Sep 15 measuring subsection (~150 words; its cargo lives in Nov 19
+and JE VIII) and tighten Sep 29. NOTE: entry was already trimmed once
+today; Oct 28 (village-passing anchor) untouchable.
+
+### 33. Theme statements: three briefs, three keep-sets — DK-DECISION
+C kept Ch 9's likeness; the tic auditor kept Ch 10's asymmetry
+(19:61); the regression reader would cut BOTH (Ch 9 "stated twice in
+six lines"; 19:61 "the book's single most skippable pair of
+sentences"). 2 of 3 briefs cut 19:61. Current state: two statements.
+Options: (a) stand pat; (b) cut 19:61 only; (c) also compress Ch 9's
+paragraph so "how small it was" lands without its pre-explanation
+(needs restructuring — "the difference" wants its referent).
+
+### 34. Opportunistic residue (new, taste-tier)
+Ch 2 Cleveland/Chicago hotel beats rhyme; Ch 8 tremor descriptions
+repeat across sections (C flagged too); JE IX Buena Vista "runs a
+paragraph past its peak"; Ch 11 riders "rush one half-beat — three
+more seconds before they turned" (taste; touches the ending).
+Regression also suggests the first half wants "more Farrell" (the
+drinking years, the cabin winter) in a sentence or two — NOT more
+incident (item 9's slot could become this instead).
+
+### Adversarially tested and HELD (add to preserve list)
+The withheld murder scene (hostile's cleverest attack; three cold
+readers scored it earned; his own concession calls JE VII the best
+thing in the manuscript). The rumor relay. The early-in-everything
+biology license (marked-uncanny). The elision-plus-quoted-fragment
+device. Voice-convergence evidence upgraded (item 13): "the journal's
+periodic sentences are impossible for their fictional circumstances"
+— the planned Farrell/Morrow register pass remains the remedy; JE
+IV's stub entries are the existing counter-evidence to cite.

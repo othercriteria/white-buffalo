@@ -86,7 +86,7 @@ I did not wait for him to answer. I touched my hat to the woman, nodded to the c
 
 ---
 
-Fort Kearny appeared on the thirteenth day, rising out of the flat land like a collection of boxes dropped by a careless god. It was not much to look at—a cluster of wood and sod buildings arranged around a parade ground, open to the plains on every side, with rows of planted cottonwoods still young and bare with the season—but it was civilization, of a sort. It was a place where a man could buy supplies and hear news and drink whiskey that had not been carried a thousand miles on muleback.
+Fort Kearny appeared on the thirteenth day, rising out of the flat land. It was not much to look at—a cluster of wood and sod buildings arranged around a parade ground, open to the plains on every side, with rows of planted cottonwoods still young and bare with the season—but it was civilization, of a sort. It was a place where a man could buy supplies and hear news and drink whiskey that had not been carried a thousand miles on muleback.
 
 I stabled my horse and found the sutler's store and bought what I needed. Coffee, flour, bacon, ammunition. And whiskey, three bottles, at a price that would have bought a case in Cleveland. The sutler was a thin man with sharp eyes and a sharper sense of profit, and he watched me count out the money with an expression of professional satisfaction.
 
