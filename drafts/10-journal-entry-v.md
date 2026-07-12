@@ -2,7 +2,7 @@
 
 *April the Fifth, Eighteen Fifty-Seven*
 
-The snow is melting. The creeks are running high with the melt, cutting new channels through the meadows, carrying the winter away into the rivers and down to wherever rivers go. The grass is beginning to show in patches on the south-facing slopes—brown still, dead from the cold, but grass nonetheless. Soon it will be green, and the buffalo will feed, and she will grow.
+The snow is melting. The creeks are running high with the melt, cutting new channels through the meadows, carrying the winter away into the rivers. The grass is beginning to show in patches on the south-facing slopes—brown still, dead from the cold, but grass nonetheless. Soon it will be green, and the buffalo will feed, and she will grow.
 
 She has survived her first year. I have survived alongside her.
 

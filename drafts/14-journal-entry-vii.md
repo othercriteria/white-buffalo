@@ -18,7 +18,7 @@ They have survived their first winter. That is more than some.
 
 I do not know why I am watching them so closely. They are not a threat to her—not yet, at least. They are too far away, too occupied with their own concerns, to have even noticed the herd grazing in the valley to the north. But something keeps drawing my attention back to them.
 
-Perhaps it is only that they are the only other people in this country.
+Perhaps it is that they are the only other people in this country.
 
 Or it is the thing the commandment names — the one about a neighbor's house, and a neighbor's wife. But the commandments were written for living men, and I have not been one for two years.
 
@@ -54,7 +54,7 @@ I do not mean it the way a man means it when he speaks of obstacles. I mean it t
 
 If they see her—if they notice her white coat among the brown—what will they do? They might do nothing. They might simply observe her and wonder at her strangeness and go about their business. That is what most people would do.
 
-But they might not. They might see value in her—in her hide, in her meat, in the story they could tell about killing something so rare. They might try to hunt her, or trap her, or drive the herd away from their land. They might do any number of things that would put her in danger.
+But they might not. They might see value in her—in her hide, in her meat, in the story they could tell about killing something so rare. They might try to hunt her, or trap her, or drive the herd away from their land.
 
 I cannot allow that.
 

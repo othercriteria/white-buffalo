@@ -38,7 +38,7 @@ I had about two days' worth of whiskey left. Maybe three, if I was careful.
 
 I took a long drink and felt the warmth spread through my chest, felt the tremor in my hands ease, felt the knot of anxiety in my gut begin to loosen. The relief was immediate and profound, and I knew that it would not last—that each drink would buy less than the one before, until there was nothing left to buy with.
 
-But that was tomorrow's problem. Tonight, I had whiskey, and I had warmth, and I had the knowledge that I was close.
+But that was tomorrow's problem. Tonight, I had whiskey, and I had warmth, and I was close.
 
 The Hardins' homestead was not far now. A day's ride, maybe less.
 
@@ -70,7 +70,7 @@ I dismounted and tied the horse to the well frame. My legs were stiff from the c
 
 I pushed the door open.
 
-The interior was dark, lit only by the gray light filtering through the small window. The smell hit me first—a stale, closed-up smell, the smell of a place that had been empty for months. No cooking, no fire, no human presence.
+The interior was dark, lit only by the gray light filtering through the small window. The smell hit me first—a stale, closed-up smell, the smell of a place that had been empty for months. No cooking, no fire, no one.
 
 I stood in the doorway and let my eyes adjust.
 
