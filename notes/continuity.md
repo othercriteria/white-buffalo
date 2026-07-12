@@ -744,3 +744,10 @@ near-duplicate cut (19:59 side; 15:131 keeps it, load-bearing).
 Re-summary structure intact per DK. Structural shelf now empty —
 remaining textual items are the provisional keeps, the violence-brink
 agenda, and #29.
+
+## Violence-brink closed; Farrell character file created (2026-07-12)
+
+Closed as designed (the book is the brink; capacity shown in memory;
+assertions all diegetically laundered). notes/characters/
+henry-farrell.md consolidates the week's Farrell findings. Textual
+stack: two provisional keeps + #29. That is all.

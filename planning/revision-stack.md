@@ -1414,3 +1414,19 @@ quote (19:47), the #42 flattening + both-things gloss (19:57), the
 condemnation (19:61), the rehearsal speech, "Not yet.", the closer
 ("the dead men following behind"), all journal-found plate anchors.
 Structural shelf now EMPTY.
+
+## Violence-brink item — CLOSED AS DESIGNED (2026-07-12, DK)
+
+DK's challenge held: the assertion inventory is small and entirely
+laundered (reputation undercut on arrival; hearsay-of-hearsay in
+Farrell's own deadpan; scarred knuckles; the never-failed rifle; the
+flat plan) — never authorial. Capacity SHOWN, displaced into memory
+(Chapultepec dream); present tense = readiness-texture only; the
+whole book is the brink, discharged at the un-raised rifle. Showing
+violence en route would spend the ending, add the warned-against
+first-half incident, and blur the conduct-difference. Full analysis
+in notes/characters/henry-farrell.md (NEW — second character file,
+also consolidating his owned registers, #42, and the
+must-survive-revision distinctions). Future "never shows violence"
+flags are landing-data. TEXTUAL STACK NOW: two provisional keeps
+(data collectors) + #29 (held, mapped). Nothing else.
