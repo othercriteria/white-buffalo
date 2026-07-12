@@ -26,9 +26,14 @@ DOCX_OPTS = $(PANDOC_OPTS) --reference-doc=reference/template.docx 2>/dev/null |
 METADATA = --metadata title="$(TITLE)" \
            --metadata author="Ben Cohen and Daniel Klein"
 
-.PHONY: all manuscript pdf epub docx wordcount transcripts clean
+.PHONY: all book manuscript pdf epub docx wordcount transcripts clean
 
 all: manuscript pdf epub docx
+
+# The illustrated edition (v1 assembly): plates injected at their text
+# anchors per planning/assembly.md. Outputs build/white-buffalo.{pdf,epub}.
+book: $(OUTPUT_DIR)
+	@python3 assemble.py
 
 $(OUTPUT_DIR):
 	mkdir -p $(OUTPUT_DIR)

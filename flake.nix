@@ -22,6 +22,7 @@
           git-lfs
           gnumake
           pandoc
+          poppler-utils # PDF QA for `make book` (pdftoppm page renders)
           vale
 
           # Image generation (Python env managed by uv; see imagegen/)

@@ -4,6 +4,28 @@ Draft map, 2026-07-10. Sources: format doctrine (planning/image-gen.md),
 plate policy, the 16 promoted plates in art/, and a same-day full read
 of the text. Everything here is proposal until DK signs the map.
 
+## v1 BUILD — LIVE (2026-07-12, DK-directed)
+
+`make book` → build/white-buffalo.{pdf,epub} via assemble.py. The
+unit map below is implemented as of v1: all 17 plates injected at
+their text anchors, matched by verbatim snippet (content-addressed —
+a drifted anchor fails the build loudly rather than front-running
+the knowledge). PDF: 5.5×8.5in, TeX Gyre Pagella 11pt, chapters
+unnumbered, figures pinned [H] (no float drift); 138 pp. EPUB:
+cover.png as cover, TOC depth 1. Front matter: LaTeX title page
+from metadata; 00 contributes the notices only (novella marker,
+tradition note, AI note — in that order). QA rendering:
+poppler-utils in the flake (pdftoppm thumbnails).
+
+Deliberately UNRESOLVED at v1 (unchanged open items): fold-out
+(village-passing runs the promoted portrait in-line), captions
+(none), corner-crop pass, cross-plate ground normalization, plate
+scaling refinements, mobi (needs calibre; EPUB suffices for now).
+PURPOSE: one artifact for future agent review rounds — no file
+lists, no structure spoilers from filenames. NOTE for instrument
+prompts: point agents at build/white-buffalo.pdf (regenerate with
+`make book` first; build/ is gitignored).
+
 ## Principles
 
 - Journal-side scenes are full-page PORTRAIT plates facing their entry;
