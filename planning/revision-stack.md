@@ -1851,6 +1851,108 @@ cut, retrieval ruled, keeps blessed. The next slate doubles as the
 #29 VERIFICATION ROUND — does the rebuilt ending read as designed
 to fresh eyes?
 
+## SLATE-5 — the #29 verification round (2026-07-12, 7 instruments)
+
+VERDICTS: regression-5 "genuinely good, not promising" (warmer than
+#45); hostile-5 SERIOUS-BUT-REMEDIABLE (stable); walking-sim
+STRUCTURAL-BUT-BENIGN (stable); pacifist PRESENT-BUT-INTERROGATED
+(stable); college seminar ADOPT-with-reservations; Indigenous
+scholar HANDLED-WITHIN-LIMITS (improved from #41's
+serious-but-remediable); book club 6–2 recommend.
+
+#29 VERIFICATION: PASSED. Regression-5, unled: "the book pointedly
+declines to co-sign," citing without-wonder + expressionless eyes +
+no-sign; no complaint about the absent 20:45/no-fear (subtraction
+invisible). Seminar professor: no-camp, "meaning delivered to the
+wrong address." Book club split 4-no/3-yes/1-abstain — and the YES
+votes made the designed distinction ("the book lets him have his
+belief; it just doesn't share it"); two-time reader flipped
+peaceful→"scariest ending I've read this year" on reread. The
+average-reader redemption misread DID NOT MATERIALIZE in the club.
+Indigenous scholar: the ending "leans sovereign-custody in its
+details and hands the benediction reading to the inattentive —
+the manuscript's principal exposure"; notes the fulfillment is
+dramatic irony only (the prayer sits unread in the saddlebag; no
+transaction between the men and the Lakota ever occurs).
+
+WITHOUT-WONDER: 3 blind contacts, all as designed (seminar frame
+inventory; pacifist concessions column — P2 FLIPPED from fraud to
+defense exhibit; book club: "Wonder is a luxury of men who chose to
+be out there. She didn't choose any of it."). Calm→composed:
+unflagged. George's ghost: one contact, negative (hostile-5:
+"groomed symbolism doing the work of an evasion") — collect.
+Creighton vector beat: landed (walking-sim: "a novelist's move...
+also a confession that the chain is a chain"). Horse's ears: 6-for-6
+favorable ("the best sentence in the book"; "the realest thing in
+the valley is the thing Farrell can least interpret") — EXCEPT see
+hostile-5 below. Ch 8/9 trims: slack perception MOVED upstream
+(regression-5's slackest is now Ch 2–3 transit; mid-Ch-8 no longer
+named). Aldridge frame: hostile-5 dismisses AGAIN ("priced, not
+forgotten") — ruling reinforced, 2 dismissals vs 1 charge.
+
+HOSTILE-5 — the beam moved and grew. Charge 1 is now a PATTERN:
+"the restraint always spares the author" — three elisions (murder,
+death, the meeting) protect the balance-or-joke ambiguity from ever
+being tested, AND Ch 11 "resolves it anyway by stagecraft" (vigil +
+horse's ears + procession certify the mythic): "the book fakes an
+open question its own blocking has answered." Repair 2 demands
+cutting the certifying machinery OR owning the miracle — direct
+collision with the keep-list and with 6 instruments' praise of the
+same machinery. Also NEW: the 19:45 flattening tell ("felt nothing
+toward them" vs the journal's commandment/steam-cup/tried-to-make-
+it-matter — "if Farrell's flattening is irony, the book never
+spends it") = #42 landing-data from the hostile side; the
+student-flip evidence says readers DO spend it. Charge 4: insulated
+plot (perils are "bounce"; hunter's arrival changes nothing).
+Dismissed on the record: period ("whoever checked this, checked
+it"), twins, prodigy patch, voice-sameness ("a price of the
+design"), Aldridge frame, general squeamishness.
+
+CONVERGENCES / NEW ITEMS (all OPEN unless noted):
+- S5-1 DOCUMENT GAP: now EVERY hostile-line instrument's #1 repair
+  (hostile-5 beam; pacifist-5 "print it between VII and VIII, two
+  pages, flat administrative voice"; walking-sim "trim requotes to
+  the withheld entry"; book club Marcus 3/5 over it). Defense also
+  grew: Ruth ("the gap is the point"), walking-sim's own concession
+  ("not how log dumps work — how epistolary novels work"),
+  regression-4 strength #3. THE remaining DK stand.
+- S5-2 "I could not have missed" (20:27, pacifist-5, NEW):
+  incapacity waived in one clause so refusal reads as restraint —
+  "the smallest fraud I have ever caught." Proposed inversion: let
+  the hands shake, refusal as incapacity un-mourned. COUNTER-BRIEF:
+  rabbit vs stationary bison at fifty yards — target size makes the
+  clause defensible as marksman's fact. DK to rule.
+- S5-3 RETRIEVAL TIMING-INDEPENDENCE (regression-5 + Indigenous
+  scholar, independent, both post-ruling): the riders' arrival
+  "within minutes" reads orchestrated; one beat making their
+  timeline visibly independent/prior would strengthen sovereign-
+  custody without refusing or auditing (ruling-compatible; the S2
+  tracks already establish convergence-in-progress). Candidate: a
+  Farrell clause that he could not say how long they had been
+  there.
+- S5-4 AUTHOR'S NOTE (Indigenous scholar REQUIRES): front matter
+  names the AI instrument but not the White Buffalo Calf Woman
+  tradition — "a living religious tradition, not folklore raw
+  material." Name the tradition, the deliberate limits (no
+  interiority, no invented ceremony), what was consulted.
+  NON-TEXT; routes to the front-matter/attribution workstream.
+  (Also re-recommends Lakota readers pre-publication — recorded,
+  per standing instruction not tracked as a nag.)
+- S5-5 smaller: Ch 2–3 transit fold (regression-5; lose Cleveland/
+  chophouse/Iowa tavern); Catherine-weight (hostile-5 "two more
+  crossed-out drafts" + pacifist elective "grow it an inch" — vs
+  every prior instrument praising the draft's singularity);
+  Niobrara idiom disambiguation at 09:51 (2nd regression stumble;
+  one-word fix "the Niobrara country" available); delay Catherine's
+  first ghost to Ch 10 (regression-5, collides with the
+  question-arc design); theme-said-aloud 17:35 (regression-5 cut vs
+  comparatist+hostile-4 praise — COLLISION, data only); JE III–VI
+  waiting differentiation (hostile-5 residue; floor stands).
+STRUCTURAL FORBEARANCE named honestly (Indigenous): the three-year
+Lakota non-intervention is "plot-convenient... the book needs and
+cannot fully earn" — partially armed (unarmed/starving/post-Blue
+Water distance), noted as limit, no repair offered.
+
 ## The unimpressed → without-wonder iteration (2026-07-12)
 
 DK's line, APPLIED then ITERATED: "unimpressed" applied first (the
