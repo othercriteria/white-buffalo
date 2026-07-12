@@ -2127,3 +2127,102 @@ from a frontal assault. Anchors: 20 −4 (≥47) propagated
 (geo-ledger 20:65; catalog 20:3-51, 20:69; vb 20:53/20:57–65/
 20:55/20:69; registry ship+illumination 20:53, sat-horses 20:57;
 farrell 20:69). Checker: the 6 known flags only. 31,384 words.
+
+## PDF work-product round: four instruments (2026-07-12)
+
+First round run against build/white-buffalo.pdf as OBJECT (not
+drafts/). Slate: hostile national-venue critic, college seminar
+(returning, materiality lens, repo access), pre-press production
+editor (25-yr trade), illustrated-literature critic (Kent/Moser/
+Tenniel lens). All fresh-context, read-only. Full reports in this
+session's transcript (edec8135, export at wrap).
+
+CONVERGENT STOP-SHIP (3-4 instruments independently): (1) notices-
+page URL runs off trim — measured xMax 398.8pt on 396pt page,
+"hite-" unrecoverable; the load-bearing string of the whole
+apparatus, on the disclosure page itself (hostile called it
+"delicious"). (2) Recto/verso parity INVERTED book-wide: folio 1
+lands on a verso, so every folio sits gutter-side; fix is one
+stroke — unnumber notices (it is the copyright page it wants to
+be), folio 1 at Ch One (already recto), mirrored margins. (3) No
+binding gutter (symmetric 0.73in). (4) Flush-bottom glue blowouts
+at folios 53/70/119/126/132 (both professor and production listed
+the same five). (5) Page-one plate 187ppi vs 289-304 interior;
+cover typography already deferred.
+
+CHEAP GLOBAL (production): five preamble lines — first-line
+indents/no para space, \frenchspacing, \raggedbottom, widow/club
+penalties, \brokenpenalty — "erase the generated look" across all
+135 pages. Plus: plates are RGB with baked cream ground (printer
+trap); portrait plates underscaled ~60% of measure; no half title,
+no imprint/©/YEAR ANYWHERE IN VOLUME, "A novella" belongs on title
+page, no TOC/list of plates (EPUB has TOC, PDF none), no end
+matter/final blank, em-dash spacing inconsistent (notices + folio
+95 spaced vs closed elsewhere).
+
+CONTENT-LEVEL FRONT MATTER (professor, the round's biggest find):
+the printed book NOWHERE discloses the plates are synthetic —
+prose generation is stated, image generation recoverable only via
+repo. "Pastiche engraving without disclosure manufactures false
+archival authority — precisely the 'taking what is not his' the
+notices page disavows." Cure: one-sentence Note on the plates.
+Second: attribution sentence in false tense ("statements are
+preserved" vs ledger "(none yet)") — anticipated by process doc,
+but a desk copy asserting completed consultation is "a peritext
+lying about its own epitext." Otherwise the apparatus AUDITED
+CLEAN: Lakota constraint claims verified against
+lakota-signs-research.md; verdict ADOPT (seminar capstone after
+Rowlandson/Cather-with-Benda/Jewett, one week text + one week
+object) contingent on corrected p.1 + honest tense. "The book is
+better than its production. The production is fixable by Tuesday."
+
+PLATE PROGRAM (illustration critic; verdict: disciplined, deserves
+fixing not thinning; density right): (1) COVER RE-CUT — current
+cover is p.133's composition minus blood; pre-spends the one
+earned frontal AND documentary details (breath, tracks) testify to
+her reality before Morrow's unreliable voice can leave it open.
+Candidates ranked: distant calf in grass / stake with cloth /
+converging tracks. (2) GRAVES PLATE p.88 contradicts text: shows
+mounded cobble heaps, text explicit "stones lay flat, not mounded
+up" — the flat stones are the evidence-of-care Farrell's deduction
+rests on. Substantive defect. (3) Buffalo reads BULL on cover/133
+(horn mass, beard, underline) vs text's repeated singular COW.
+(4) p.120 nocturne breaks program rule — only close human face,
+hermit-saint tableau, "the plate takes Morrow's side"; cut or
+replace with what Morrow sees. (5) p.13 calf should trail 50yd
+apart per text. (6) Re-rhyme 71/76 as same-vantage before/after of
+the Hardin place (strongest available structural move, half-made).
+(7) Ground-tone variance confirmed independently (already on
+assembly open items). EMERGENT STRUCTURE DISCOVERED, preserve
+deliberately: journal plates portrait / chapter plates landscape
+UNTIL Ch Ten when Farrell inherits the journal and his chapters go
+portrait (127, 133). Protect as-is: p.47 illegible-buffalo-as-
+hearsay, p.78 threshold irony, never-depicted Farrell/dead.
+Absences RATIFIED: skull shrine, final ridge tableau ("the absence
+IS the illustration"). Only addition candidate: Ch 5 ice crossing.
+
+HOSTILE PROSE CHARGES (for deliberation, not action; the review
+would "run"): (1) one-voice-two-narrators — parallel Monterrey
+biographies, weapon/emptiness conceits, shared negation cadence;
+book's doubling theme read as concession not defense. (2) Second
+half as recapitulation: Ch 10 re-quotes JE I verbatim; climax
+between chapters; Hardin murders elided twice. (3) Notice as
+"receipt, not solution" — restraint real, absolution self-
+administered. DROPPED as unfair (calibration good): anachronism
+hunt (Effie Afton/Harney/Buena Vista verified), timeline
+(reconciles), lost-count gotcha (lampshaded), fridging-strong
+(dies against crossed-out drafts p.79), AI-deception (disclosure
+"unusually thorough"). SURVIVES its best attack: DTs arc, minor-
+character dialogue, supernatural discipline, final image ("the one
+place the front matter's promise is enacted formally").
+
+ACTION STACK PROPOSED: (A) production pass on assemble.py — page
+architecture one-stroke fix + five preamble lines + URL break +
+imprint/date/© + TOC-or-plates-list decision + grayscale/ground
+decision + portrait plate scale. (B) front-matter content: Note on
+the plates (one sentence); attribution tense stays until review
+round completes (process doc already binds this). (C) imagegen:
+graves re-cut, cover re-cut, cow-not-bull verification, p.120
+decision, 13/71/76 adjustments — folds into existing assembly open
+items. (D) hostile charges 1-2 → #29-adjacent deliberation; charge
+3 adjoins repair-5 (DK's own terms, not tracked).
