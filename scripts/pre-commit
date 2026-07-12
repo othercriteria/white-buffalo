@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+# Rebuild the illustrated edition whenever book-affecting files are
+# staged, so build/ never goes stale against the committed sources.
+# Doubles as a fail-loud gate: assemble.py's content-addressed plate
+# anchors abort the commit if a drafts edit orphaned an anchor.
+#
+# Install (once per clone): make hooks
+set -euo pipefail
+cd "$(git rev-parse --show-toplevel)"
+
+if git diff --cached --name-only | grep -qE '^(drafts/|art/|assemble\.py)'; then
+    echo "pre-commit: book sources staged -> rebuilding illustrated edition"
+    python3 assemble.py
+fi

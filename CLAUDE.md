@@ -30,12 +30,26 @@ scratch/     # Ephemera - safe to delete anytime
 # Word count for manuscript
 find drafts -name '*.md' -exec cat {} + | wc -w
 
-# Compile manuscript to single file
-pandoc drafts/*.md -o manuscript.md
+# Illustrated edition (the work product): build/white-buffalo.{pdf,epub}
+make book
 
-# Export to PDF (if needed)
-pandoc drafts/*.md -o manuscript.pdf
+# One-time per clone: install the pre-commit hook (see below)
+make hooks
+
+# Plain-text compile (no plates)
+pandoc drafts/*.md -o manuscript.md
 ```
+
+## Build Convention
+
+build/ is gitignored but is the reviewed work product. A pre-commit
+hook (scripts/pre-commit, installed via `make hooks`) rebuilds the
+illustrated edition whenever drafts/, art/, or assemble.py are staged,
+so the built book never goes stale against the committed sources. The
+rebuild is also a gate: assemble.py's content-addressed plate anchors
+fail loudly, so a drafts edit that orphans an anchor aborts the commit
+instead of silently shipping a plateless page. Point instrument/agent
+rounds at build/white-buffalo.pdf and trust it is current.
 
 ## Length
 

@@ -26,7 +26,7 @@ DOCX_OPTS = $(PANDOC_OPTS) --reference-doc=reference/template.docx 2>/dev/null |
 METADATA = --metadata title="$(TITLE)" \
            --metadata author="Ben Cohen and Daniel Klein"
 
-.PHONY: all book manuscript pdf epub docx wordcount transcripts clean
+.PHONY: all book hooks manuscript pdf epub docx wordcount transcripts clean
 
 all: manuscript pdf epub docx
 
@@ -34,6 +34,12 @@ all: manuscript pdf epub docx
 # anchors per planning/assembly.md. Outputs build/white-buffalo.{pdf,epub}.
 book: $(OUTPUT_DIR)
 	@python3 assemble.py
+
+# Install repo git hooks (pre-commit: rebuild book when drafts/, art/,
+# or assemble.py are staged; fails the commit on anchor drift).
+hooks:
+	@ln -sf ../../scripts/pre-commit .git/hooks/pre-commit
+	@echo "Installed .git/hooks/pre-commit -> scripts/pre-commit"
 
 $(OUTPUT_DIR):
 	mkdir -p $(OUTPUT_DIR)
