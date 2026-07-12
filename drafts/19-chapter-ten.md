@@ -58,7 +58,9 @@ On the last page he wrote that he was sorry for the Hardins. A few lines below, 
 
 I set the journal down and looked into the fire. The soldiers stood around me in a circle, watching, waiting. Catherine Hardin stood with them, her pale face turned toward me, her eyes asking questions I could not answer.
 
-He had made worse choices than mine—choices I could not forgive.
+George Hardin stood at the edge of the firelight with his back to me. I had come west ready to kill him. I had never seen his face, and he did not show it to me now.
+
+Morrow had made worse choices than mine—choices I could not forgive.
 
 ---
 

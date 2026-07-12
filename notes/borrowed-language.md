@@ -106,10 +106,20 @@ tic audit doesn't flag it as bleed. DK aware.
 ## The frozen-dead face-word (2026-07-11, INTENTIONAL, intra-Farrell)
 
 "His face was calm" / "his face had been calm" — 09:21 (the dug-out
-young man), 15:69 (Ch 8 recall of him), 20:11 (Morrow's corpse,
+young man), 15:69 (Ch 8 recall of him), 19:53 ("grown calm as the
+end approached" — Morrow joining the class), 20:11 (Morrow's corpse,
 installed 2026-07-11 replacing "peaceful"). OWNED CHAIN: calm is
 what freezing does to a face; the Ch 11 use collapses benediction
-into observation, and the Ch 5 plant teaches the reading. First
+into observation, and the Ch 5 plant teaches the reading.
+MEMBERSHIP CLOSED 2026-07-12 (DK): Catherine's ghost had "calm" at
+20:41 — bleed; she died by violence in summer and holds no
+membership. Now "composed" — 03:3's daguerreotype word, its ONLY
+other use in the book (a private rhyme: the plate is the only
+Catherine Farrell ever had; her ghost-arc walks → asks → holds
+still for the exposure). George's ghost (NEW 19:61): faceless by
+design — no likeness ever possessed (01:181 hostile description
+only); the fever renders only faces Farrell owns. Mundane
+non-members (weather-calm 16:77, horse 03:113) exempt. First
 blind contact (student essay, same day): the chain fired exactly as
 built ("the book teaches us how to read that expression a hundred
 pages before it asks us to"). Registered so future audits read the

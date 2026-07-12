@@ -72,7 +72,7 @@ mile (04:57, 10:15, 12:69).
 **Corpse (Ch 11).** On his back, arms flung wide, half-buried in drifted snow
 (20:5, v0.7 — was face-down; a day-frozen face had to be legible); ground churned
 and trampled, streaked dark (20:5). Farrell brushes snow from the face (20:9);
-face peaceful, eyes open to the gray sky (20:11); chest crushed, ribs staved in,
+face calm, eyes open to the gray sky (20:11); chest crushed, ribs staved in,
 coat torn, shirt shredded and dark with frozen blood; "trampled, gored, broken"
 (20:13).
 
@@ -227,14 +227,24 @@ anything further — and that thinness is deliberate (distance is the book's sta
 ## The visions (Farrell's DTs)
 
 Soldiers: "men in blue coats," faces "pale and still," at vision's edge, gone when
-looked at directly (15:21); stand in circles at the fire, "dead eyes reflecting
-the flames," never speaking (15:25); walk beside the horse (17:7); "patient as
-stones" (19:11); coats "bright against the white" (20:7). Firelight shadows: his
-father (dead twenty years), his mother, men he killed (15:125–127). Catherine:
-"dark hair blowing in the wind, her Eastern dress dragging through the snow,"
-walking ahead at fixed distance, never looking back (17:15); calm beside Morrow's
-body, hands folded (20:43). Ch 11 additions: "a man and a woman, older, dressed in
-the clothes of an earlier time" (20:45). Dreams: the buffalo in an empty Mexican
+looked at directly (15:21); never speaking, following as he follows (15:27); walk
+beside the horse (17:7); "patient as stones" (19:11); the circle imagery begins
+only at the reading night ("stood around me in a circle," 19:59) and tightens to
+Ch 11's "silent circle" (20:39) — do not stage fire-circles earlier; coats
+"bright against the white" (20:7). Firelight shadows: his father (dead twenty
+years), his mother, men he killed (15:125–127). Catherine: "dark hair blowing in
+the wind, her Eastern dress dragging through the snow," walking ahead at fixed
+distance, never looking back (17:15); eyes asking questions at the reading-night
+fire (19:59); composed beside Morrow's body, hands folded (20:41) — HER
+GHOST-REGISTER IS THE DAGUERREOTYPE (03:3 "composed... holding still for the long
+exposure"): across three appearances she winds down into the plate, the only
+Catherine Farrell ever possessed. Never render her calm (frozen-dead word) or at
+peace. George Hardin: FACELESS — Farrell never had a likeness, only Aldridge's
+hostile description (01:181); appears once, reading night, "at the edge of the
+firelight with his back to me... he did not show it to me now" (19:61); if ever
+drawn, back turned, NEVER given features. [Stale row removed 2026-07-12: the
+older couple "in the clothes of an earlier time" was cut from Ch 11 in an
+earlier pass.] Dreams: the buffalo in an empty Mexican
 village street — shuttered houses, cobblestones (15:137-141); Chapultepec's walls,
 short ladders, boy cadets (17:58-66).
 
@@ -252,7 +262,7 @@ house, sagging log-and-turf roof, lean-to stable; single ~20×15 room, two candl
 cast-iron stove, plank counter (09:31–35). North: rolling hills → "broken ridges
 and deep draws," drifts higher than a horse's head (09:5–7). Death scene: valley
 opening into a wide meadow, ridges to the north, camp-to-valley "perhaps a mile"
-(19:71, 20:3, 20:59).
+(19:73, 20:3, 20:59).
 
 ## Season/weather quick table
 

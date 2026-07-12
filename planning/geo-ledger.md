@@ -30,7 +30,7 @@ winter trail 15 mi/day; deep snow <5–12 mi/day; DT-impaired 5–8 mi/day effec
 | Creighton's Morrow sighting | ~42.10, -100.20 | "Crossing the Loup Fork" (07:177) — upper North Loup reaches the sandhills; herd loop, see below |
 | Morrow/herd winter valley | ~42.95, -100.70 | "A valley north of the river" (16:75) |
 | Morrow's final camp | ~42.93, -100.72 | Hollow above the valley (19:7) |
-| Death meadow | ~42.95, -100.75 | "Perhaps a mile" from camp (19:71) |
+| Death meadow | ~42.95, -100.75 | "Perhaps a mile" from camp (19:73) |
 | Black Hills | 43.9, -103.5 | Real; ~150 mi NW of the meadow — "toward the ridges... north" (20:69) ✓ |
 
 ## Farrell master calendar (canonical, 1858–59)

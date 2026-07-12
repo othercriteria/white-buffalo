@@ -1759,3 +1759,53 @@ of the four things the measurement says the journal needs from the
 other half, three are supplied in force; "the Lakota view" is
 supplied only thinly (horse's ears, the retrieval) — connects to
 the open Lakota-scene split (#47 vs #46 dismissal).
+
+## George's ghost + Catherine's register — APPLIED 2026-07-12 (DK)
+
+DK's catch, no instrument found it: four instruments hit Catherine's
+ghost; none asked where GEORGE was — the reviewers' blind spot
+reproducing the book's (every gaze convicts or covets Catherine's
+side; George is convicted by all, exonerated by stones laid
+straight, apologized to by no one). The incubation is on the page
+(03:77 flat plan; 07:167 "what I would do when I found him") and
+evaporated unaudited at the graves. In-fiction grounding for his
+ghostlessness: THE FEVER RENDERS ONLY FACES FARRELL OWNS — soldiers
+known, Catherine from the daguerreotype (01:181 window-light
+study), George only as Aldridge's animosity-description. Ch 8's
+"strangers who seemed to know me" (15:127) remains his other
+address — unexplained, house rules.
+
+APPLIED (DK option 3, the hatch at the reading night): new
+paragraph 19:61, immediately after Farrell learns what was done to
+the Hardins — "George Hardin stood at the edge of the firelight
+with his back to me. I had come west ready to kill him. I had
+never seen his face, and he did not show it to me now." (Variants
+offered: bare two-sentence w/o mechanism; carried-his-death-from-
+Oswego incubation-forward; mechanism-as-discovery. Chosen: flat
+naming + incubation flat + face-economy with the eerie agency
+tail.) KNOCK-ON: 19:63 condemnation line's "He" would have
+mis-bound past two male ghosts — now "Morrow had made worse
+choices than mine—choices I could not forgive." First and only
+time Farrell uses the name in judgment; keep-list content intact.
+Side payment: the reading-night tableau (questions unanswered +
+faceless George) roughs the lineage BEFORE Ch 11 — oblique #29
+feed without opening it.
+
+CATHERINE'S REGISTER (DK's second catch, same message): "calm" is
+the frozen-dead's earned word (09:21→15:69→19:53→20:11) and
+Catherine — dead by violence in July — held it at 20:41 as bleed.
+Now "composed": 03:3's daguerreotype word, its ONLY other use
+(private rhyme; the plate is the only Catherine Farrell ever had).
+Her ghost-arc now: walks (17:15) → asks (19:59) → holds still for
+the exposure (20:41) — she winds down into her source material;
+static by circumstance AND materiality, anti-consoling where calm
+consoled. CHAIN MEMBERSHIP CLOSED in the registry (19:53 added as
+member; mundane weather/horse senses exempt). "No fear in her"
+UNTOUCHED — still banked to #29 with its four convictions.
+Visual-bible ghost spec rewritten (Catherine daguerreotype rule,
+George faceless rule, circle-imagery starts at 19:59 — plus two
+stale rows caught: the cut older-couple apparition row removed;
+corpse spec "peaceful"→"calm" aligned with the 20:11 swap).
+Anchors: 19 +2 (≥60) propagated (farrell file 19:63; geo-ledger,
+catalog, vb 19:73). Checker: 6 below-bar flags, all content-
+verified correct or known false. 31,444 words.

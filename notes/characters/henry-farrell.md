@@ -67,7 +67,7 @@ arose in drafting, adopted because characteristic.
   the Brandt advice, the horse off the ice, cottonwood bark, the
   unfinished draft returned "on top of the paper" (11:97-99).
 - He renders judgment where Morrow renders theology: "choices I
-  could not forgive" (19:61) — the dissenting voice #29 keeps alive.
+  could not forgive" (19:63) — the dissenting voice #29 keeps alive.
 - The naming-refusal, the "Whether X or Y" hedge, and the sacral
   lexicon are Morrow's; if they appear in Farrell pre-reading, it is
   bleed (registry rules apply).
