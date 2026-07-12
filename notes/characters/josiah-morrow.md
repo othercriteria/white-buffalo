@@ -77,6 +77,13 @@ The journal is a kept account, and he manages its contents twice:
   contrition claimed would be an entry against the project; unclaimed,
   it is just weather. CHECKED 2026-07-11: the visit is determined
   in-fiction; only his account of it is open. RULING: leave open.
+- The name keyhole (blind measurement, 2026-07-12): the settlers are
+  named only in the apology — "the Hardins" (18:73) — never in JE
+  V–VII, where they stay "the settlers / the man / the woman." He
+  can only have learned the name inside their house (the letter box,
+  the Bible), i.e., inside the withheld entry. The name is the one
+  place the elided page shows through the printed journal.
+  LOAD-BEARING — do not explain it anywhere in the text.
 
 ## 3c. The last rite is divestment (2026-07-11, DK question)
 
@@ -113,6 +120,13 @@ premises. Passive constructions do the handling: "The settlers must
 be removed" (14:85); "what was done in it" (16:5). And the grammar
 kills before the hands do: persons reclassified as "a stone in a
 field that must be moved before plowing" (14:53).
+
+Corroboration (blind measurement, 2026-07-12): the laundering runs
+even at the decision's origin — within one entry, "The settlers are
+not a threat. I must be clear about this in my own mind" (14:49)
+migrates to "But they are in the way" (14:51); the danger-to-her
+argument is scaffolding erected after the decision it claims to
+produce.
 
 ## 5. The empty fault-slot
 

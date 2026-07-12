@@ -1718,3 +1718,44 @@ truth-fixed en route (catalog:400 17-ranges; vb weather 17:55→41;
 vb 07:183 eyes-speech; assembly two-stories 17:75–81). Checker: 5
 known below-bar DRIFTs only (19:71, 20:5, 11:3–7, 03:87-111,
 assembly:41 content-verified correct).
+
+## #46 H2 (Morrow static) — CLOSED, DOESN'T STICK (2026-07-12)
+
+DK leaned doesn't-stick; weighed via MEASUREMENT rather than a
+defense brief (a brief argues its assignment; a measurement can't).
+Blind fresh reader, journal files ONLY, neutral charting task, the
+debate never mentioned. RESULT: four axes of change charted
+unprompted — waiting→acting; the grammar of time (full formal dates
+→ "I believe it less each time" → *Undated*); feeling reviving
+against his own testimony ("I felt nothing" → "The settlers cost me
+something"); observer→supplicant. The covet arc FOUND BLIND
+("covetousness, warmth, and above all the terror of losing her
+regard"; July 13 called "the most revealing sentence in the
+document"). Verdict verbatim: "He changes, and the change is the
+book's horror: a man who came to the plains because he could feel
+nothing murders two people because he has begun to feel again...
+The static element is the purpose; the moving element is the man,
+moving in exactly the direction he believes he has renounced."
+The hostile mistook the account's stasis (Morrow's project) for the
+character's. INVOICE NOTED, accepted: the §6b/§6 never-name
+protections mean some strong readers will file "static" — the price
+of the quiet arc; JE V–VI idles stay priced under the existing
+floor. The paternal register was NOT surfaced by the measurement —
+the protection holding exactly as specified.
+
+COUPLING (live): residual H2 force sits inside the H1 document-gap
+stand — print-the-entry would dissolve it (the rupture enters the
+journal line); absolute-absence slightly strengthens it (the one
+conceded flicker reaches the reader only via the 19:47 excerpt that
+option deletes). Weigh together.
+
+BONUS FINDS (logged to josiah-morrow.md): the scaffolding-after-
+decision catch (14:49→14:51 inside one entry — §4 corroboration);
+the HARDINS-NAME KEYHOLE (§3b — named only in the apology 18:73,
+never in JE V–VII; he can only have learned the name inside their
+house, i.e., inside the withheld entry — the elided page showing
+through the printed text; load-bearing, never explain). Also noted:
+of the four things the measurement says the journal needs from the
+other half, three are supplied in force; "the Lakota view" is
+supplied only thinly (horse's ears, the retrieval) — connects to
+the open Lakota-scene split (#47 vs #46 dismissal).
