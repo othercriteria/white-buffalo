@@ -2296,3 +2296,71 @@ instrument could not tell. Closing line: men "build a *she* out of
 whatever vast white thing is available and then demand that she
 redeem them. The book knows this about its madman... It does not
 yet know that its own cover is doing it too."
+
+## Gender-round dispositions (2026-07-12, DK ruling + enactment)
+
+BUFFALO SEXING (the fork): DK pessimistic the image model can
+render "a bull-bodied 'she'" that lands as SHE rather than as
+something-more-complicated; and an honesty constraint on the
+own-it branch — what would be owned "isn't something we alighted
+to without a prior stance on, and which had some degree of its own
+pull" (the default came from training-distribution gravity, not
+choice; claiming it retroactively as intention would be false).
+TRACK C SPEC THEREFORE: attempt cow-morphology re-cuts first, and
+note the text's spec is precisely the hard render case — COW
+MORPHOLOGY AT BULL SCALE ("taller than any cow in the herd"; "no
+cow reaches her size"). If the model cannot produce an outsized
+cow that reads cow, the keep-branch returns ONLY with an honest
+ledger entry (noticed late, deliberated, kept — the repo can carry
+that record truthfully; what it cannot carry is "we meant it").
+
+MORROW'S BODY (DK, new narrative question, textual treatment
+PUNTED for now — held open, #29-adjacent): what does Farrell DO
+with/for the body after our view ends? If he dies he joins Morrow
+unburied (the doubling's terminal form); if he buries him, the
+double receives what Morrow gave the Hardins (absolution-symmetry
+risk); January ground + no spade + his condition may withhold the
+choice entirely (the plains refusing to offer it — the book's
+idiom). Note: Farrell has already chosen what of Morrow he
+carries out — the account, not the man. DK correction adopted: the
+Hardin graves are NOT well-described as "unmarked" — they are
+unnamed but SIGNED (flat stones, rough rectangles, depth = the
+care Farrell reads); the book's semiotics is sign vs. label.
+
+BACKGROUND WOMEN (DK: "compatible with the book... good idea to
+work") — APPLIED x2, restraint dosage: (1) Ch 2 rail car (03:53):
+after the hands-folded sentence, one woman works a pocket ledger
+all afternoon and "did not once look out at the country" — the
+figuring motif (George's almanac margins) given a female owner,
+flat Farrell cadence, no pointing. Alternate held: "...as if the
+answer might come out different" (more inference, more groomed —
+not used). (2) Ch 4 Brandt scene (07:49): wife moved from
+trunk/blanket tableau to triage — "setting apart the things they
+could carry from the things they could not, two piles growing in
+the snow"; children now bring salvage TO her. Farrell's later
+advice ("take what you can carry") now ratifies a judgment she
+reached first, unremarked; Brandt's resistance reads against her
+too. Alternate held: giving her the decisive spoken line ("We go
+back") — rejected as too neat a reversal. NOT touched (each
+load-bearing as-is): Mrs. Canfield (has calculation), Morrow's
+mother (his formation, his voice), the Monterrey woman (the sound
+past words IS the verb), Catherine's ghost (designed).
+
+ALDRIDGE FRAME (gender instrument's "unwritten chapter" charge):
+prior record located and holds — #29 package A+2a already
+acknowledged the frame by pricing (hundred dollars owed on the
+answer in the saddlebag), reader C ruled named-once debt
+sufficient, regression re-run scored residual coldness "accepted
+as chosen... the book isn't dodging a verdict it owes." The
+gender variant (Aldridge's threat-model confirmed-but-misdirected,
+never weighed) is the same seam read through a new lens; no
+reopen without DK.
+
+LYRICISM-SLIDE CLAIM parked pending DK dive; context brief
+delivered in-session (see transcript): JE VII is the book's
+SHARPEST in-journal counter-pressure (stone-in-a-field; "I will
+not let anyone take that from me"; "I have tried to make it
+matter. But I cannot"), so the slide, if real, is JE VIII+ where
+examination is delegated to Farrell-side dissent and buried
+counter-sentences — known #29 ground ("the late pages run warm"),
+newly read as gendered performance rather than consolation.

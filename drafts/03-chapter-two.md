@@ -50,7 +50,7 @@ On the morning of the third day, I left.
 
 The railroad had come to this part of the country seven years earlier. Towns that had been weeks apart by coach were now a day apart on the cars. It still felt strange to me, though I had watched it happen.
 
-I took the cars from Watertown to Buffalo, changing at Rome, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families moving west. Children ran up and down the aisles while their mothers called after them. Men smoked cigars and talked business and politics. Women sat with their hands folded and their eyes on the passing scenery.
+I took the cars from Watertown to Buffalo, changing at Rome, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families moving west. Children ran up and down the aisles while their mothers called after them. Men smoked cigars and talked business and politics. Women sat with their hands folded and their eyes on the passing scenery. Across the aisle a woman kept a pocket ledger open on her knee and worked at its figures the whole afternoon. She did not once look out at the country.
 
 Someone had left a newspaper on the seat across from me. I read it without meaning to. Kansas, mostly, and the Congress—a speech on the Southern question by a man I had once seen ride by at the head of his Mississippians. I folded the paper and put it under the seat.
 
