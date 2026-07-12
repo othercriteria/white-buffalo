@@ -2010,6 +2010,40 @@ DECLINED, DECISIVELY (DK ratification of the leans):
 DOCUMENT GAP: remains the one OPEN major stand, both briefs at
 full strength. 31,569 words; checker at the 6 known flags.
 
+## THE DOCUMENT GAP — RULED, STAND PAT (2026-07-12, DK)
+
+Four cases laid out in full (stand pat / print in sequence /
+absolute absence / appendix) and RULED: the gap stands as-is.
+CONTROLLING GROUND (new to the record, DK-ratified): THE GAP IS
+CATHERINE'S ONLY PRIVACY. Every other version of her is owned by a
+man — the letters by her father's keeping, the drafts by Farrell's
+finding, the ghost by his fever. The one thing the book denies
+Morrow is the narration of her death; printing the entry would
+hand her death to her murderer's ledger-voice forever. Supporting
+grounds: the book's epistemology is wholly mediated (no unmediated
+event exists anywhere; the entry could only exist in Morrow's
+voice, whose two failure modes — spectacle or flattening — may
+have no needle-width between them); printing worsens Ch 10 (the
+19:47 excerpt becomes a rerun); the keyhole and the reading-night
+economy survive only under the gap. ABSOLUTE ABSENCE rejected on
+the merits (burns the book's one humanizing rupture; a monster's
+arc is a line). APPENDIX (DK float, examined as gate-opener):
+cop-out as miscellany ("DLC for the atrocity"), genuinely
+interesting as trapdoor (appendix ENDING on the murder entry;
+instantiates the diegetic editor with period-true suppression
+motives — the recomposition fanon's shadow made structural) —
+DECLINED for this problem (spends the verified ending's terminal
+position; Morrow's voice still gets her death), but the DIEGETIC-
+APPARATUS REGISTER is now a licensed move on the shelf for future
+problems. Hostile-line beam charges are henceforth landing-data
+with the Catherine-privacy ground as the standing answer. NO MAJOR
+STANDS REMAIN OPEN.
+
+BOOKKEEPING (2026-07-12): no LICENSE file — DELIBERATE. Absence
+fails closed (all rights reserved by default); correct posture for
+a public manuscript repo pre-publication. Revisit at the assembly/
+publication phase; no urgency.
+
 ## The unimpressed → without-wonder iteration (2026-07-12)
 
 DK's line, APPLIED then ITERATED: "unimpressed" applied first (the

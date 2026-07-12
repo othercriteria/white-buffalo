@@ -58,7 +58,7 @@ Aldridge found a table near the window. He sat with his back to the wall, his ha
 
 The afternoon passed. Men came and went. Some of them glanced at Aldridge; most did not. He watched the gray light fade toward evening, watched the barman light candles and then lamps. His thoughts moved in circles that had become familiar over the past months: Catherine's last letter, dated July. The silence since. The things a man might do to a woman, alone on the frontier, far from anyone who might help her.
 
-He had not approved of the marriage. George Hardin was a farmer's son from Ohio, a man with more ambition than sense, who had filled Catherine's head with talk of land and opportunity and the future that awaited them in the West. Aldridge had argued against it. He had threatened to cut her off. In the end, he had done neither, because she was his only child and her mother was dead and he could not bear to lose her entirely.
+He had not approved of the marriage. George Hardin was a farmer's son from Ohio, a man with more ambition than sense, who had filled Catherine's head with talk of land and opportunity and the future that awaited them in the West. Aldridge had argued against it. He had threatened to cut her off. In the end he had withdrawn both, because she was his only child and her mother was dead and he could not bear to lose her entirely.
 
 So he had let her go. Nearly three years now, and no grandchildren. He had expected—hoped, at least—that a child might bring her back East, or bring him West to meet it. Her letters had said nothing on the subject, which he took as its own kind of answer. Another sign that the marriage was not what it should be. Another reason to worry.
 
@@ -88,7 +88,7 @@ Farrell considered this distinction. "Why?"
 
 "No." But he pulled out a chair and sat, folding his hands on the table. His hands were calloused, the knuckles scarred. "Say what you came to say, Mr. Aldridge."
 
-Aldridge had rehearsed this too. He had written it out, back in Oswego, before he left. He had refined it during the journey, honing each phrase until it conveyed precisely what he needed to convey and nothing more. Now the words seemed foolish, inadequate.
+Aldridge had rehearsed this too. He had written it out, back in Oswego, before he left. He had refined it during the journey, honing each phrase until it conveyed precisely what he needed to convey and nothing more. Now the words seemed foolish.
 
 "My daughter," he said. "Her name is Catherine. She married a man named George Hardin nearly three years ago, against my wishes. They went west. Nebraska Territory, or thereabouts. She wrote to me regularly—every month, sometimes more often. This past year they came a little slower, but they came. They stopped in July."
 
@@ -112,7 +112,7 @@ Farrell leaned back in his chair. "What do you think happened to your daughter, 
 
 "I think her husband killed her."
 
-The words hung in the air between them. Aldridge had not said them aloud before. He had thought them, in the small hours of the night when sleep would not come. He had written them in a letter he did not send. But he had not spoken them until now.
+Aldridge had not said the words aloud before. He had thought them, in the small hours of the night when sleep would not come. He had written them in a letter he did not send. But he had not spoken them until now.
 
 "Why?"
 
@@ -126,7 +126,7 @@ Farrell watched him for a long moment. Then he said: "You want me to find your d
 
 "As you judge necessary."
 
-The silence stretched. Someone laughed at the bar, the sound jarringly normal. Aldridge waited.
+The silence stretched. Someone laughed at the bar. Aldridge waited.
 
 "The territory is large," Farrell said. "Winter is coming. Travel will be difficult."
 
@@ -170,13 +170,13 @@ Farrell stood. He looked down at Aldridge.
 
 "No," Farrell said. "You haven't."
 
-He turned and walked to the bar, spoke briefly with the barman, and then was gone, out into the night. The door closed behind him, and the cold air that had followed him in dissipated, absorbed into the warmth of the room.
+He turned and walked to the bar, spoke briefly with the barman, and then was gone, out into the night. The door closed behind him, and the cold air that had followed him in was absorbed into the warmth of the room.
 
 Aldridge sat at his table for a long time, the beaver-felt hat before him. The letters were back at the boarding house, waiting for the man who would carry them west. He did not need to look at them again. He had read them so many times that he knew them by heart. The early ones, full of hope and descriptions of the land. The middle ones, more measured, the hope beginning to curdle. And the last one, dated the twentieth of July, in which she had hoped the worst was behind them.
 
 He had not known, when he read it, that it would be the last.
 
-The barman came by, asked again if he wanted a drink. This time Aldridge said yes. He drank it without tasting it, paid, and left. The night was cold, colder than it had been when he arrived, and the walk back to the boarding house was long. But he walked it, because there was nothing else to do.
+The barman came by, asked again if he wanted a drink. This time Aldridge said yes. He drank it without tasting it, paid, and left. The night was cold, colder than it had been when he arrived, and the walk back to the boarding house was long. But he walked it.
 
 In the morning, Farrell came for the packet. He untied it at the table, counted the letters, and held the daguerreotype to the window light for a long moment before putting it away. Aldridge gave him the map he had drawn from memory and hope, and a description of George Hardin that relied too much on his own animosity to be trusted. Farrell took it all without comment.
 
