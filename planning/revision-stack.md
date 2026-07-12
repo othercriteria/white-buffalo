@@ -2226,3 +2226,73 @@ graves re-cut, cover re-cut, cow-not-bull verification, p.120
 decision, 13/71/76 adjustments — folds into existing assembly open
 items. (D) hostile charges 1-2 → #29-adjacent deliberation; charge
 3 adjoins repair-5 (DK's own terms, not tracked).
+
+## Gender studies instrument (2026-07-12, post-track-A build)
+
+Run at DK request after production pass; primary-lens gender scholar
+(feminist/masculinity/queer theory, frontier narratives, body as
+analytic), fresh context, whole PDF incl. plates, read-only repo
+verification pass. Full report in session transcript (edec8135).
+
+CENTER FINDING (answers DK's intersexuality question; independently
+CONVERGES with the illustration critic's cow-reads-bull, then goes
+further): the buffalo's femaleness is CONFERRED, NOT OBSERVED. The
+prose itself scales her like a bull ("a thousand pounds," taller
+than any cow, massive shoulders) while grammar+theology insist
+"she"; the plates then draw bull morphology (cover: skull boss,
+recurved horns, ventral appendage in the bull's position; finale
+plate: mature bull skull breadth). Working record audited: visual
+bible + fertility research exist, NO record of anyone auditing the
+drawn animal's sexed anatomy — "a model default wearing the book's
+most symbolically loaded body." Morrow's theology read as displaced
+Mariology (immaculate/virginal/luminous/Liebestod; the half-
+swallowed neighbor's-wife commandment as his own glimpse of the
+erotic structure). THE FORK OFFERED: correct the plates to cow
+morphology, OR keep the discrepancy and OWN it — "a bull-bodied
+'she' makes the male projection visible and is arguably the truest
+image in the book... the feminine sacred is a scaffolding men erect
+on any sufficiently vast white body. The book accidentally
+illustrates its own gender mechanism." Must become a decision
+either way. External referent noted: in the living tradition,
+white calves are sacred regardless of sex; sacredness-coupled-to-
+female-body is the white men's syncretism inside the fiction, and
+the book half-knows ("his belief about their belief").
+
+THREE SIT-WITH OBSERVATIONS: (1) the plate sexing fork, above.
+(2) Catherine's crossed-out draft is the moral center and the
+ending walks away from her — ghost as set-dressing by Ch 11,
+Farrell kneels by MORROW'S body, last gravity all male symmetry;
+"consider what it would cost, and what it would buy, for the
+book's final gravity to bend back toward the unmarked graves."
+[#29-ADJACENT AMMUNITION — the consolation-engine fresh eyes DK
+asked to hold for.] (3) The journal's lyricism slides from
+EXAMINING Morrow's theology of the feminine to PERFORMING it,
+around JE VII; the only rebuttal his theology ever receives is
+hooves.
+
+DEFECTS CALLED: uniform wallpaper of silent women (Mrs. Canfield /
+Brandt's wife / train women / Morrow's mother / Monterrey widow —
+each period-credible alone, in aggregate "house style" not theme;
+one woman with a verb of her own would make Catherine's silence
+read as tragedy); George facelessness underexploited — Aldridge's
+misjudgment never confronted, frame opens on the father and never
+closes on him ("an unwritten chapter, not a withheld one").
+
+DEFENDED AGAINST OTHER CRITICS (counter-brief to the hostile
+round's fridging-adjacent charges): the dead-woman structure
+(thematizes the traffic it stages; transaction fails, money never
+collected; crossed-out draft = "an argument about the archive");
+the Lakota ending (interpretive access denied = discipline, not
+furniture); the Liebestod (priced by Morrow's own "pride dressed
+up as penance" + Farrell's verdict).
+
+APPARATUS OBSERVATION (adjoins the college professor's reviewing-
+voice line for #38/positioning): the authors' non-appropriation
+ethics (follow her, do not speak for her, touch nothing) RHYMES
+with Morrow's devotional stalking, and his restraint ends in three
+deaths; "the apparatus is the book's gender system in miniature,
+performed sincerely." Whether the authors see the rhyme, the
+instrument could not tell. Closing line: men "build a *she* out of
+whatever vast white thing is available and then demand that she
+redeem them. The book knows this about its madman... It does not
+yet know that its own cover is doing it too."
