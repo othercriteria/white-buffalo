@@ -2044,6 +2044,50 @@ fails closed (all rights reserved by default); correct posture for
 a public manuscript repo pre-publication. Revisit at the assembly/
 publication phase; no urgency.
 
+## FULL POLISH PASS — COMPLETE (2026-07-12, all 21 files, DK dial:
+## conservative, permitted-hotter)
+
+Method: every file against the profile red flags + both
+regressions' tic lists + registry/anchor constraints; protected
+material untouched; all edits intra-line (zero anchor shifts;
+checker at the 6 known flags throughout). RESULTS — 13 files
+CLEAN (02, 04, 07, 09, 12*, 13, 15, 16†, 17, 18, 19, 20; *floor
+honored read-only; †registry note only), 8 files touched, 17 edits
+total:
+- 00: tradition-note tradition/tradition repetition.
+- 01 ×6: withdrawn-both (neither-logic), foolish (adequate now
+  Farrell-only appraisal register), hung-in-air cut, jarringly-
+  normal cut, dissipated-absorbed, nothing-else-to-do DE-RECYCLED
+  (was a 3-narrator phrase; Farrell's 05:27 instance now owns the
+  flat form at the burial).
+- 03 ×1: living-their-lives sentence cut (restated its own list;
+  "going about their business" de-recycled from Morrow's 14:55/
+  12:59 family; bottle-drop closer lands clean).
+- 05 ×2: edge/edge → "where the settled world thinned"; "smell of
+  ice and distance" → "smell of ice" (unsmellable abstraction out
+  of Farrell's mouth).
+- 06 ×1: against-weather/against-wind doubling.
+- 08 ×1: endure-dilution (L85 self-comparison cut; the L21
+  telegraph triple + L77 ring keep the designed instances).
+- 10 ×1: "wherever rivers go" tail cut.
+- 11 ×2: "I had the knowledge that" → "I was close"; "no human
+  presence" → "no one".
+- 14 ×2→×1: only/only; "any number of things" cut REVERSED same
+  session (DK): the sentence is the threat-INFLATION — the slide
+  from three assessable risks to unbounded menace, the only kind
+  that cannot be rebutted (§4 scaffolding; the reader must watch
+  the inflation happen). Restored verbatim. PASS LESSON: a line
+  can be flat at sentence level and load-bearing at mechanism
+  level; check the hamartiology before trimming Morrow's
+  reasoning chains.
+Notable NULLS kept on record: JE I (charter page — triads concrete,
+never-triad plants the unanswering God), 02:65's expected/hoped
+pair (the hedge is the blind quadrant speaking), aspen-simile
+(1-instrument flag, the wit is earned), 15:133 strangers-clause
+(George's other address), 18:45 double-something (hearsay fog is
+epistemically honest). Registry: wonder-wire exempt note (16:37).
+31,499 words.
+
 ## The unimpressed → without-wonder iteration (2026-07-12)
 
 DK's line, APPLIED then ITERATED: "unimpressed" applied first (the
