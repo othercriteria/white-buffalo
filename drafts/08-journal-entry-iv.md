@@ -84,7 +84,7 @@ The worst of the cold has broken. The snow is still deep, but the wind has shift
 
 The herd has begun to stir again, working along the river valleys. I follow. My body has adapted to the cold, or given up protesting it. I no longer feel the pain I felt in December. I no longer feel much of anything.
 
-She has grown through the winter. I had not thought that possible—I had assumed she would simply endure, as I have endured, waiting for the spring to bring growth and strength. But she is larger than she was in November. Her shoulders are broader, her hump more pronounced. She moves with a new confidence, a new power.
+She has grown through the winter. I had not thought that possible—I had assumed she would simply endure, waiting for the spring to bring growth and strength. But she is larger than she was in November. Her shoulders are broader, her hump more pronounced. She moves with a new confidence, a new power.
 
 She is becoming what she needs to be. So am I—less than a man, stripped down, kept for one use only.
 

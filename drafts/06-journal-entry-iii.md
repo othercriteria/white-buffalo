@@ -44,7 +44,7 @@ The white buffalo cannot absolve me. I know that. There is no absolution for wha
 
 *October the Ninth*
 
-Cold rain today, the first of the season. I sheltered in a stand of willows and watched the herd endure it, their great heads bowed against the weather, their breath steaming in the chill air. She stood among them, her white coat darkened by the wet, her head low against the wind.
+Cold rain today, the first of the season. I sheltered in a stand of willows and watched the herd endure it, their great heads bowed, their breath steaming in the chill air. She stood among them, her white coat darkened by the wet, her head low against the wind.
 
 I thought about going to her. The rain was cold, and I was tired, and it would have been easy to walk out into the herd and lie down beside her and let the cold take me. But that is not the death I am waiting for.
 

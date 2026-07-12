@@ -58,7 +58,7 @@ The boat reached the far shore and we disembarked, the horses stepping carefully
 
 ---
 
-Iowa was more of the same—flat land, bare trees, farms scattered across the emptiness. But there was something different about it too, a wildness at the edges that had not been present in Illinois. The farms were newer, cruder, the houses made of sod as often as wood. The people I passed had a look about them, a watchfulness that suggested they had not forgotten what it meant to live at the edge of the settled world.
+Iowa was more of the same—flat land, bare trees, farms scattered across the emptiness. But there was something different about it too, a wildness at the edges that had not been present in Illinois. The farms were newer, cruder, the houses made of sod as often as wood. The people I passed had a look about them, a watchfulness that suggested they had not forgotten what it meant to live where the settled world thinned.
 
 I stopped for a night in a small town whose name I never learned. There was a tavern that served food and rented rooms, and I took both. The food was bad and the room was worse, but there was whiskey, which was what mattered.
 
@@ -130,6 +130,6 @@ I stayed in Council Bluffs for two more days, buying supplies and asking questio
 
 On the third morning I packed my things and saddled my horse and rode out of town, following the trail that led along the Platte River into the west.
 
-The sky was gray, heavy with the promise of snow. The wind blew down from the north, carrying the smell of ice and distance.
+The sky was gray, heavy with the promise of snow. The wind blew down from the north, carrying the smell of ice.
 
 I did not look back.
