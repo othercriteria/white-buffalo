@@ -1825,15 +1825,21 @@ pivot from consolation to COUNTER-EVIDENCE (the seeing staged as
 harmless = the experiment Morrow refused to run, refuting the
 casus belli in the image).
 
-DK's line, APPLIED: "She was watching the white buffalo,
-unimpressed." — the victim's verdict on the sacrament itself; kills
-the fear-frame instead of negating it; compatible with the
-daguerreotype register (the unmoved face as judgment); buried
-materiality pun (un-impressed plate — the image never taken)
-costs nothing unfound. Fallback considered: "unmoved" (more
-period-neutral, doubles static register) — rejected because it
-aims at her state; "unimpressed" aims at the OBJECT. Period check:
-attested, and within Farrell's deadpan.
+DK's line, APPLIED then ITERATED: "unimpressed" applied first (the
+victim's verdict on the sacrament; kills the fear-frame instead of
+negating it) — then DK ngram-checked it: 1820-50 plateau is the
+older participial sense; the deadpan snap is 1920s+/2000s. REPLACED
+same session with "She was watching the white buffalo without
+wonder." — found via the book's own lexicon: WONDER IS MORROW'S OWN
+PREDICTED WORD for the settlers' seeing (14:55 "observe her and
+wonder at her strangeness and go about their business"), the best
+case he refused to risk. Farrell read that page the night before —
+a grounded adversarial echo (registered, fourth borrow): the fever
+runs Morrow's refused experiment and reports the result below his
+own floor. Period-invisible; drops the comma-snap that carried the
+modern flavor. Alternates held: "unmoved" (safest, state-aimed),
+"unawed" (anti-sacral, archaic-leaning), livestock comparison
+(strongest deflation, longest).
 
 DOUBLE CUT (DK): 20:43 ("among the dead and the living and the
 things that were neither" — groomed triad; mutual-watch already

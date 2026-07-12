@@ -38,7 +38,7 @@ The visions came again, but they were different now.
 
 The soldiers were still there, standing in their silent circle, but they no longer seemed threatening. They were just men—dead men, men I had known, men I had fought beside and watched die. They had followed me all this way, and now they stood witness.
 
-Catherine Hardin was there too. She stood beside the body of the man who had killed her, her face composed, her hands folded in front of her. She did not look at me. She was watching the white buffalo, unimpressed.
+Catherine Hardin was there too. She stood beside the body of the man who had killed her, her face composed, her hands folded in front of her. She did not look at me. She was watching the white buffalo without wonder.
 
 ---
 
