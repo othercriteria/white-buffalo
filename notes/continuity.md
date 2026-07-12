@@ -703,3 +703,12 @@ all three winters; Farrell's pursuit was paralleled on the high
 ground; white hunters know her value and why she is not taken.
 Nothing ceremonial, no Lakota speech; all signs from the attested
 record (notes/lakota-signs-research.md).
+
+## Classroom round 2 (2026-07-11 evening)
+
+Four instruments logged in the stack. Same-day edits fired in blind
+readers: calm-face chain, peace-cut, S1 signs. College seat verdict
++ the apparatus observation (the reviewing-voice asymmetry) routed
+to #38/positioning. #42 opened (Farrell's "any of it" flattening of
+Morrow's "this" — ratify-as-intentional recommended, DK to rule).
+Calm-face chain registered as owned in borrowed-language.md.

@@ -1239,3 +1239,72 @@ reads as maintained decision from both narrators' sides; Morrow
 relativized inside a longer watch; the commercial world sees her and
 names why it keeps off. Repair 3 CLOSED; #41 remaining = repair 5
 (DK's own terms, do not nag).
+
+## Classroom round 2 + college seminar (2026-07-11 evening)
+
+FOUR INSTRUMENTS: college seminar placement (Rowlandson/Cather/
+Jewett company), HS lit teacher (unit + predicted readings), HS
+history teacher (accuracy audit), blind student essay on the
+redemption prompt + teacher grading (A–, quotes spot-checked, one
+misattribution caught).
+
+HEADLINES:
+- College verdict: SEAT IT, "the problem text" of a "Dead Woman's
+  Archive" week, after Cather before Jewett, "downwind of the women,
+  where it can be seen." Gender exposure ruled survivable —
+  "productive discomfort" — because "the book contains the
+  instruments of its own indictment... A text that hands the seminar
+  the knife gets to be cut with it." The crossed-out draft = the
+  close-reading paper ("the novella's theory of its own procedure").
+- THE APPARATUS OBSERVATION (route to #38 + positioning): the front
+  matter belongs to the lineage of authenticating apparatus
+  (Rowlandson's vouching preface, Cather's frame) and "mostly holds
+  up as an object"; but "the book extends to its instrument the
+  reviewing voice it denies its woman — and Morrow's 'the weapon
+  does not question its use' now reads as the sentence the whole
+  apparatus exists to disprove, or to enact. That tension is not a
+  flaw... it IS the syllabus."
+- History verdict: USE WITH SCAFFOLDING; "the 1858 texture is
+  remarkably sound and the errors are teachable." New material
+  passed cold (trapper price beat = correct robe-trade logic;
+  almanac = "the antebellum West in one sentence"; signs = "the
+  Lakota have the most agency of anyone in the novel"). Its pairing
+  shelf independently reproduces classroom-apparatus.md's (Warren
+  1857, Bettelyoun, treaty Art. 5, winter counts recording
+  white-buffalo years).
+- Lit-teacher unit: "teachable and better than teachable"; JE IX
+  never read aloud (safe-messaging protocol); front matter must be
+  taught day one or "it detonates in week two."
+- STUDENT ESSAY (#29 regression datum): strong-student persona
+  argued EXPOSURE where the prior round's read REDEMPTION. The
+  same-day edits fired: calm-face chain built the essay's best move;
+  with Farrell's peace twin cut, the counter-passage engagement
+  landed on Morrow's subjective claim alone ("His meaning survives
+  only inside his own journal — which is exactly what a delusion
+  looks like from the outside"; "The book gives Morrow his script
+  and then shows us the empty theater."). S1 as "the ending's real
+  verdict."
+- GRADER'S HONEST SPLIT: 60/40 student-saved vs text-steered; the
+  CLASS-level redemption prediction STANDS, carried by
+  terminal-position imagery. THE REMAINING-CONSOLATION MAP (#29
+  ammunition, precise): the bloodstained vigil, "carry her own
+  illumination" (sanctioned borrow), the gold light (20:51, lean
+  keep), unafraid-Catherine (20:41), and above all the Lakota
+  retrieval FULFILLING Morrow's written request (18:65 "I hope the
+  Indians find her") — the best evidence for the redemption side,
+  which average readers will use without knowing it. Also: JE IX's
+  two decisive sentences ("the work of a broken mind... I believe
+  it, and that is enough") are buried under the Buena Vista
+  material — where the argument hides.
+- NEW ITEM #42, DK DECISION — the "any of it" paraphrase: Farrell's
+  gloss "he wrote that he was not sorry for any of it" (19:57) vs
+  Morrow's precise "I am not sorry for this" + explicit sorrow for
+  the Hardins (18:73-75). Farrell's summary erases Morrow's line
+  between costs and project, MANUFACTURING the "both things both
+  times" paradox he reports. Grader: "even his one sympathetic
+  reader garbles him... deliberate, it's one of the best quiet
+  touches in the book. Accidental, fix it." RECOMMEND RATIFY
+  (rhymes with "I made it fit"; readers flatten — the book's theme
+  of reading-as-violence), register like the kill-count. DK call.
+- Calm-face chain registered INTENTIONAL in borrowed-language.md
+  (grader warned: know which echoes you own; this one we own).
