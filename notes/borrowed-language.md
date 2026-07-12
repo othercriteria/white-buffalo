@@ -99,6 +99,20 @@ coinage — the registry tracks coined phrases; this is how every
 19th-c. writer says "mounted and stationary." Tracked here so the
 tic audit doesn't flag it as bleed. DK aware.
 
+## The frozen-dead face-word (2026-07-11, INTENTIONAL, intra-Farrell)
+
+"His face was calm" / "his face had been calm" — 09:21 (the dug-out
+young man), 15:75 (Ch 8 recall of him), 20:11 (Morrow's corpse,
+installed 2026-07-11 replacing "peaceful"). OWNED CHAIN: calm is
+what freezing does to a face; the Ch 11 use collapses benediction
+into observation, and the Ch 5 plant teaches the reading. First
+blind contact (student essay, same day): the chain fired exactly as
+built ("the book teaches us how to read that expression a hundred
+pages before it asks us to"). Registered so future audits read the
+echo as design, not drafting-model recycling — the grader
+specifically warned the authors to know which echoes they own; this
+one we own.
+
 ## Distance rhyme (2026-07-11, register pass)
 
 "perhaps fifty yards" — 02:25 (Morrow first sees the calf trailing
