@@ -1308,3 +1308,12 @@ HEADLINES:
   of reading-as-violence), register like the kill-count. DK call.
 - Calm-face chain registered INTENTIONAL in borrowed-language.md
   (grader warned: know which echoes you own; this one we own).
+
+### #42 — RATIFIED AS INTENTIONAL (2026-07-11, DK)
+Farrell's "not sorry for any of it" (19:57) vs Morrow's precise
+"not sorry for this" (18:73-75): the flattening stands as design —
+Farrell's summary erases Morrow's line between costs and project,
+manufacturing the paradox he reports; rhymes with "I made it fit"
+(reading-as-violence at sentence level). Honest register: arose in
+drafting, adopted because characteristic. Landing-data collector
+like the kill-count; future instrument flags are data, not defects.

@@ -712,3 +712,9 @@ readers: calm-face chain, peace-cut, S1 signs. College seat verdict
 to #38/positioning. #42 opened (Farrell's "any of it" flattening of
 Morrow's "this" — ratify-as-intentional recommended, DK to rule).
 Calm-face chain registered as owned in borrowed-language.md.
+
+## #42 ratified (2026-07-11, DK)
+
+Farrell's "any of it" flattening of Morrow's "this" is intentional:
+his one sympathetic reader garbles him, and the "both things both
+times" paradox is partly Farrell's construction. Do not harmonize.
