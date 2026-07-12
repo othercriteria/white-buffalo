@@ -1317,3 +1317,51 @@ manufacturing the paradox he reports; rhymes with "I made it fit"
 (reading-as-violence at sentence level). Honest register: arose in
 drafting, adopted because characteristic. Landing-data collector
 like the kill-count; future instrument flags are data, not defects.
+
+## Taste-item rulings + Ch 4 tightening pass (2026-07-12)
+
+PROVISIONAL KEEPS (DK, tracked for future instrument collisions):
+- Ch 9 closer "Only the living made noise in this country, and there
+  were so few of us left." — KEEP; DK stands by its prominence. Two
+  instruments split (defender: end on it / hostile-v2: most
+  self-satisfied sentence); future flags accrue here as data.
+- 20:51 light-change — DK open to less-ostentatious color; APPLIED
+  "the first hints of gold" → "a thin yellow" (demotes the payoff
+  from treasure to weak pigment; keeps the time-passing function;
+  removes the sacral-gold the hostile and the consolation map both
+  cited). Catalog annotation updated. If DK dislikes, one-line
+  revert.
+
+CH 4 TIGHTENING PASS (DK: not "one episode over" — trim at
+paragraph/sentence/clause/word level). Twelve trims, ~95 words, all
+intra-line (no shifts), no episode touched:
+- boredom clause tightened ("the particular boredom of men who have
+  been posted" → "the boredom of men posted");
+- "resupply" → "buy more" (the period audit's one-worder, found
+  still present at 07:9 — evidently missed in the original apply);
+- storm: "disappeared under a blanket of white... risen to a howl"
+  → "gone under the snow... risen until" (two stock figures out);
+- "and the world shrank to the few feet I could see" CUT (repeats
+  the twenty-feet fact);
+- "with the desperation of a man who knows his life depends on it"
+  CUT (seven matches already carry the stakes);
+- "though he had no more answers than I did" CUT (cadence tail;
+  the wry-answers move recurs in Ch 8's ghosts);
+- "a world made new by snow" → "the new snow";
+- Brandt's expression clause CUT ("a man who has just realized that
+  his life has taken a turn he did not expect" — the tableau does
+  it: wife pale on the trunk, children collecting belongings);
+- Kearny: "a place where a man could buy supplies and hear news and
+  drink whiskey" → "There would be whiskey..." (07:9 already
+  promised it);
+- trapper's "if I'm honest" CUT (modern discourse marker);
+- "—a man alone in this country had reason to be cautious—" CUT
+  (states the obvious);
+- "Men in this country learned not to ask questions that might have
+  uncomfortable answers." CUT (over-explanation of "He did not ask
+  who." — the profile's tell-after-show pattern).
+PRESERVED UNTOUCHED: the frostbite procedure (praised as the
+first half's procedural high point), "I found the creek by falling
+into it," "Fort Kearny was three days ahead. I made it in four,"
+the Brandt advice beats, the gold-talk texture, the enriched
+trapper scene, all of Creighton's speeches.

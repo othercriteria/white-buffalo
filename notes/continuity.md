@@ -718,3 +718,12 @@ Calm-face chain registered as owned in borrowed-language.md.
 Farrell's "any of it" flattening of Morrow's "this" is intentional:
 his one sympathetic reader garbles him, and the "both things both
 times" paradox is partly Farrell's construction. Do not harmonize.
+
+## Taste keeps + Ch 4 pass (2026-07-12)
+
+Ch 9 closer: PROVISIONAL KEEP (DK stands by prominence). 20:51:
+"first hints of gold" → "a thin yellow" (DK invited a quieter color;
+catalog annotation updated). Ch 4 tightened ~95 words at clause
+level, twelve trims, episodes intact; "resupply" (period-audit
+one-worder, still present) finally applied as "buy more." All
+intra-line, no anchor shifts.

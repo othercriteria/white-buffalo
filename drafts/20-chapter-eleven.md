@@ -48,7 +48,7 @@ It was not forgiveness. I had not earned that, and did not expect it. But the lo
 
 Time passed. I do not know how much.
 
-The sun moved behind the clouds, invisible but present, its light changing from gray to paler gray to the first hints of gold. The wind picked up, then died away. The white buffalo stood where she had stood, motionless, patient.
+The sun moved behind the clouds, invisible but present, its light changing from gray to paler gray to a thin yellow. The wind picked up, then died away. The white buffalo stood where she had stood, motionless, patient.
 
 And then she turned.
 

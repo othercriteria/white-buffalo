@@ -1,12 +1,12 @@
 # Chapter Four
 
-The Platte River corridor was the main road west, and even in early December it was not empty. I passed emigrants who had started too late and were now racing the snow, their wagons heavy with belongings they would have to abandon before spring. I passed traders heading back to the settlements with their season's profits, their pack mules laden with furs. I passed soldiers in blue coats riding in pairs and threes, their faces blank with the particular boredom of men who have been posted too far from anything that matters.
+The Platte River corridor was the main road west, and even in early December it was not empty. I passed emigrants who had started too late and were now racing the snow, their wagons heavy with belongings they would have to abandon before spring. I passed traders heading back to the settlements with their season's profits, their pack mules laden with furs. I passed soldiers in blue coats riding in pairs and threes, their faces blank with the boredom of men posted too far from anything that matters.
 
 The country was flat and wide and gray. The river ran brown between its banks, low after the dry autumn, its islands of sand and gravel exposed like the bones of the land. The trees along its banks were bare, their branches dark against the sky. Snow lay in patches on the northern slopes of the low hills, and the wind that came down from the north had teeth in it.
 
 I rode steady, making fifteen miles a day when the weather held, less when it didn't. The horse was sound—Hennessey had not cheated me there—and I had learned to read his moods well enough to know when to push and when to rest. We understood each other, the horse and I. Neither of us was in this for pleasure.
 
-At night I made camp wherever I could find shelter—a stand of cottonwoods, a hollow in the hills, the lee side of an abandoned sod house. I built small fires and cooked what I had and drank from my supply, which was holding but not increasing. I would need to resupply soon. Fort Kearny was ahead, and there would be whiskey there, or something close enough.
+At night I made camp wherever I could find shelter—a stand of cottonwoods, a hollow in the hills, the lee side of an abandoned sod house. I built small fires and cooked what I had and drank from my supply, which was holding but not increasing. I would need to buy more soon. Fort Kearny was ahead, and there would be whiskey there, or something close enough.
 
 The first week passed without incident. The second did not.
 
@@ -16,9 +16,9 @@ I pushed on. The trail was still visible, and I judged I could make the shelter 
 
 I was wrong.
 
-By mid-afternoon the trail had disappeared under a blanket of white, and the wind had risen to a howl, and I could not see twenty feet in any direction. The horse balked, turning his head away from the driving snow, and I could feel the tremor in his muscles—not exhaustion yet, but the beginning of it.
+By mid-afternoon the trail had gone under the snow, and the wind had risen until I could not see twenty feet in any direction. The horse balked, turning his head away from the driving snow, and I could feel the tremor in his muscles—not exhaustion yet, but the beginning of it.
 
-I dismounted and led him by the reins, one hand on his neck, feeling my way forward through the white. The cold bore down as I walked, and the world shrank to the few feet I could see. My beard froze solid. The moisture in my breath turned to ice on my collar.
+I dismounted and led him by the reins, one hand on his neck, feeling my way forward through the white. The cold bore down as I walked. My beard froze solid. The moisture in my breath turned to ice on my collar.
 
 I found the creek by falling into it.
 
@@ -28,15 +28,15 @@ Wet is deadly. I knew that. I had seen men die from less. I had to find shelter.
 
 The creek bottom offered some protection from the wind. I led the horse into a hollow where a fallen cottonwood had made a kind of natural windbreak, and I got to work.
 
-My hands were shaking too badly to strike a match. It took me seven tries before one finally caught, and by then the shaking had spread to my whole body. I fed the flame with dead grass, then twigs, then larger branches, coaxing it to life with the desperation of a man who knows his life depends on it.
+My hands were shaking too badly to strike a match. It took me seven tries before one finally caught, and by then the shaking had spread to my whole body. I fed the flame with dead grass, then twigs, then larger branches, coaxing it to life.
 
 The horse stood with his back to the wind, head down, snow crusting on his mane. He was shivering too—short bursts, then longer ones, the muscles of his flanks rippling under his coat. I had no blanket for him, nothing to offer except the hope that the fire would warm us both.
 
 I stripped off my boot and my sock and held my foot as close to the flames as I could bear. The skin was white, waxy, and I could not feel my toes. I rubbed them with my hands, forcing the blood back into the flesh, and gradually the feeling returned—pain at first, sharp and terrible, then a dull ache that was almost worse.
 
-I did not sleep that night. I fed the fire and rubbed my foot and talked to the horse, telling him things I had never told anyone, just to hear a human voice in the howling dark. He listened, or seemed to, his ears flicking toward me when I spoke, though he had no more answers than I did.
+I did not sleep that night. I fed the fire and rubbed my foot and talked to the horse, telling him things I had never told anyone, just to hear a human voice in the howling dark. He listened, or seemed to, his ears flicking toward me when I spoke.
 
-By morning the storm had passed. The sky was clear and pale, the sun coming up cold and distant over a world made new by snow. I saddled the horse and we went on, both of us slower than before.
+By morning the storm had passed. The sky was clear and pale, the sun coming up cold and distant over the new snow. I saddled the horse and we went on, both of us slower than before.
 
 Fort Kearny was three days ahead. I made it in four.
 
@@ -46,7 +46,7 @@ On the second day after the storm, I came upon a wagon that had broken an axle.
 
 It was a heavy farm wagon, the kind emigrants used to haul their possessions west, and it had come to grief in a shallow draw where a creek crossed the trail. One rear wheel had dropped into a hole hidden by snow, and the axle had snapped under the weight. The wagon now sat at an angle, its contents spilling out onto the frozen ground. The mules stood unhitched nearby, heads down, rumps to the wind.
 
-The owner was a man named Brandt—a German, by his accent—and he was standing beside the wreckage with the expression of a man who has just realized that his life has taken a turn he did not expect. His wife sat on a trunk nearby, wrapped in a blanket, her face pale. Two children, a boy and a girl of maybe six and eight, were collecting scattered belongings from the snow.
+The owner was a man named Brandt—a German, by his accent—and he was standing beside the wreckage. His wife sat on a trunk nearby, wrapped in a blanket, her face pale. Two children, a boy and a girl of maybe six and eight, were collecting scattered belongings from the snow.
 
 "Bad luck," I said.
 
@@ -86,7 +86,7 @@ I did not wait for him to answer. I touched my hat to the woman, nodded to the c
 
 ---
 
-Fort Kearny appeared on the thirteenth day, rising out of the flat land. It was not much to look at—a cluster of wood and sod buildings arranged around a parade ground, open to the plains on every side, with rows of planted cottonwoods still young and bare with the season—but it was civilization, of a sort. It was a place where a man could buy supplies and hear news and drink whiskey that had not been carried a thousand miles on muleback.
+Fort Kearny appeared on the thirteenth day, rising out of the flat land. It was not much to look at—a cluster of wood and sod buildings arranged around a parade ground, open to the plains on every side, with rows of planted cottonwoods still young and bare with the season—but it was civilization, of a sort. There would be whiskey that had not been carried a thousand miles on muleback.
 
 I stabled my horse and found the sutler's store and bought what I needed. Coffee, flour, bacon, ammunition. And whiskey, three bottles, at a price that would have bought a case in Cleveland. The sutler was a thin man with sharp eyes and a sharper sense of profit, and he watched me count out the money with an expression of professional satisfaction.
 
@@ -124,7 +124,7 @@ The speaker was a trapper, an old man with a face like worn leather and hands th
 
 The soldier shrugged. "The territory's full of strange ones. Doesn't mean anything."
 
-"Maybe not." The trapper took a drink from his cup. "But I've been out here thirty years, and I never saw anything like that. Never want to again, if I'm honest."
+"Maybe not." The trapper took a drink from his cup. "But I've been out here thirty years, and I never saw anything like that. Never want to again."
 
 I finished my drink and stood up. The trapper glanced at me as I passed, but said nothing. I went out into the cold and stood for a moment, looking north, toward the country I would be entering.
 
@@ -142,7 +142,7 @@ I collected my horse and rode out of the fort, heading west along the river, tow
 
 Three days past Fort Kearny, I met a man named Creighton.
 
-He was camped in a grove of cottonwoods a hundred yards off the main trail, and I smelled his fire before I saw it. I approached carefully—a man alone in this country had reason to be cautious—but he called out before I got close enough to be a threat.
+He was camped in a grove of cottonwoods a hundred yards off the main trail, and I smelled his fire before I saw it. I approached carefully, but he called out before I got close enough to be a threat.
 
 "Come on in if you're friendly. Coffee's hot."
 
@@ -160,7 +160,7 @@ He whistled softly. "That's hard territory. The fort people will tell you the Si
 
 "Looking for someone."
 
-He did not ask who. Men in this country learned not to ask questions that might have uncomfortable answers.
+He did not ask who.
 
 "Well," he said, "I hope you find them. And I hope they want to be found. Some folks come out here to get lost, you know. They don't take kindly to being tracked down."
 
