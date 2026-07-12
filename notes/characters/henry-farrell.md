@@ -33,7 +33,7 @@ designed; future instrument flags are landing-data.
 
 - Money and prices on everything (fifty cents and no questions,
   03:5; "I paid that too," 09:115; the hundred dollars in the final
-  inventory, 20:73). Morrow's economy is sacrificial; Farrell's is
+  inventory, 20:69). Morrow's economy is sacrificial; Farrell's is
   commercial. Neither narrator can borrow the other's.
 - Estimates in "maybe"/"about"/flat numbers/"I judged" — never
   "perhaps" (sole exception: the protected fifty-yards rhyme,

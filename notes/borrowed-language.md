@@ -17,7 +17,7 @@ does — the whole journal predates the reading).
 
 | Phrase | Morrow source | Farrell echo | Status |
 |---|---|---|---|
-| "like a ship through water" | 06:9 (JE III) | 20:61 (Ch 11) | KEEP — ruled deliberate (v0.7); the book's central image, borrowed at the only moment borrowing is true. SIGNAL PLANTED 2026-07-10: Ch 10's reading now quotes it ("*Like a ship through water,* he had written of her," 19:41) so Ch 11's reuse reads as haunting, not tic — the cold-reader counter-brief answered |
+| "like a ship through water" | 06:9 (JE III) | 20:53 (Ch 11) | KEEP — ruled deliberate (v0.7); the book's central image, borrowed at the only moment borrowing is true. SIGNAL PLANTED 2026-07-10: Ch 10's reading now quotes it ("*Like a ship through water,* he had written of her," 19:41) so Ch 11's reuse reads as haunting, not tic — the cold-reader counter-brief answered |
 
 ## Sanctioned echoes (grounded) — additions
 
@@ -26,8 +26,8 @@ does — the whole journal predates the reading).
 | ~~"the same clay"~~ | — | ~~19:59~~ | UN-SANCTIONED (v0.7 final critic): Ch 9 owns sameness (pre-reading recognition), Ch 10 owns only the difference ("he had found something to die for. And I had not."). No shared-origin metaphor survives in either voice |
 | ~~"The white buffalo was waiting."~~ | 18:59-81; 16:103 | ~~19:75~~ | CUT 2026-07-10 — un-sanctioned per the tic audit (near-verbatim closer answering a closer, the tic's most visible slot); Ch 10 now ends on "the dead men following behind." Borrow count back to continuity.md's three |
 | "white and sacred and wild" / "sacred and wild and free" | 02:61 (JE I) | 18:63 (JE IX) | INTRA-MORROW, registered 2026-07-10 as intentional — first-entry/last-entry bookend inside one voice; not a cross-narrator borrow, tracked so nobody "fixes" it |
-| ~~"a great and quiet peace"~~ | 16:99 (JE VIII) | ~~20:33~~ | FARRELL ECHO CUT 2026-07-11 (DK; stack #41 repair 1, FIVE instruments against the unmarked twin) — the phrase now exists ONLY in the journal: the sacrament claimed, never received. Prior status: DK-approved borrow 2026-07-09. The contamination DEVICE survives via ship (marked 19:41 → absorbed 20:57) + illumination (soft); a proposed non-sacral state-twin (tired-twin) was WITHDRAWN 2026-07-11 — DK and assistant concur the bare beat stands; ship + illumination carry the device alone |
-| "carry her own illumination" (soft: "as if lit from within") | 06:7 (JE III) | 20:57 (Ch 11) | KEEP — soft borrow, same approval; row added 2026-07-10 |
+| ~~"a great and quiet peace"~~ | 16:99 (JE VIII) | ~~20:33~~ | FARRELL ECHO CUT 2026-07-11 (DK; stack #41 repair 1, FIVE instruments against the unmarked twin) — the phrase now exists ONLY in the journal: the sacrament claimed, never received. Prior status: DK-approved borrow 2026-07-09. The contamination DEVICE survives via ship (marked 19:41 → absorbed 20:53) + illumination (soft); a proposed non-sacral state-twin (tired-twin) was WITHDRAWN 2026-07-11 — DK and assistant concur the bare beat stands; ship + illumination carry the device alone |
+| "carry her own illumination" (soft: "as if lit from within") | 06:7 (JE III) | 20:53 (Ch 11) | KEEP — soft borrow, same approval; row added 2026-07-10 |
 | "what her nature demands/demanded" | 18:61 (JE IX; cf. 16:97 "what she was made to do") | 20:31 (Ch 11) | KEEP — found by the essay-grader 2026-07-11, present since drafting, unregistered until now. Grounded (post-reading) and load-bearing: Farrell's one "naturalizing" sentence is Morrow's own phrase — "he's quoting the journal without knowing it." Morrow's sacramental frame already contained the naturalization; the borrow count returns to three (ship, illumination, nature) |
 
 **Ledger reconciliation (2026-07-10):** notes/continuity.md says "stay at
@@ -97,7 +97,7 @@ voice item #29 wants alive. Theme count: once, in Ch 9.
 
 ## Stock-idiom note (2026-07-11)
 
-"Sat their horses" now appears in both voices (08:49 Morrow, 20:63
+"Sat their horses" now appears in both voices (08:49 Morrow, 20:57
 Farrell, the riders beat). Classified STOCK PERIOD IDIOM, not a
 coinage — the registry tracks coined phrases; this is how every
 19th-c. writer says "mounted and stationary." Tracked here so the

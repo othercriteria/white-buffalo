@@ -1809,3 +1809,50 @@ corpse spec "peaceful"→"calm" aligned with the 20:11 swap).
 Anchors: 19 +2 (≥60) propagated (farrell file 19:63; geo-ledger,
 catalog, vb 19:73). Checker: 6 below-bar flags, all content-
 verified correct or known false. 31,444 words.
+
+## #29 CORNER OPENED BY DK — "unimpressed" + the double cut
+## (2026-07-12, APPLIED)
+
+Sequence: DK asked whether ghost-Catherine's 20:41 buffalo-watching
+was her first sight (YES — explicit first; 17:87 only ambient) and
+whether Farrell could know if the living Catherine ever saw her
+(NO — evidence chain can't reach it; canon says almost certainly
+never: George noticed the herd not her, 14:113; she kept to the
+house; the murder preempted the seeing). That made 20:41 the fever
+granting her posthumously the sight she was murdered to prevent —
+and surfaced the third repair path for the banked no-fear clause:
+pivot from consolation to COUNTER-EVIDENCE (the seeing staged as
+harmless = the experiment Morrow refused to run, refuting the
+casus belli in the image).
+
+DK's line, APPLIED: "She was watching the white buffalo,
+unimpressed." — the victim's verdict on the sacrament itself; kills
+the fear-frame instead of negating it; compatible with the
+daguerreotype register (the unmoved face as judgment); buried
+materiality pun (un-impressed plate — the image never taken)
+costs nothing unfound. Fallback considered: "unmoved" (more
+period-neutral, doubles static register) — rejected because it
+aims at her state; "unimpressed" aims at the OBJECT. Period check:
+attested, and within Farrell's deadpan.
+
+DOUBLE CUT (DK): 20:43 ("among the dead and the living and the
+things that were neither" — groomed triad; mutual-watch already
+built at 20:21-33) and 20:45 ("It was not forgiveness...") — THE
+MAP'S MOST-CONVICTED CARRIER (4 instruments + editor), gone whole:
+the naming-to-decline of forgiveness, the settlement clause, the
+agency-surrender (implicit in the kneel anyway). The visions
+section now ENDS on the verdict — "unimpressed." then the section
+break.
+
+CONSOLATION MAP BOOKKEEPING: resolved today — unafraid-Catherine
+(pivoted) and 20:45 (cut). Still standing: the bloodstained vigil
+(mythic license, keep), illumination (sanctioned borrow, now
+20:53), thin yellow (provisional keep, now 20:47), the
+requested-retrieval fulfillment (18:65→20:65), and JE IX's buried
+counter-sentences. #29 core (the ending never ratifying Morrow)
+remains held — but its two most-attacked carriers are gone by
+DK's own hand, from the Catherine-imagery conversation rather than
+from a frontal assault. Anchors: 20 −4 (≥47) propagated
+(geo-ledger 20:65; catalog 20:3-51, 20:69; vb 20:53/20:57–65/
+20:55/20:69; registry ship+illumination 20:53, sat-horses 20:57;
+farrell 20:69). Checker: the 6 known flags only. 31,384 words.

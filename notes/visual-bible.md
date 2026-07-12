@@ -123,7 +123,7 @@ slowing, head low (15:93); flanks dark with sweat in cold — "A sweaty horse in
 winter is a dying horse, if you cannot get him dry" (15:105); fed stripped
 cottonwood bark, partial recovery (15:107–115); breathing "heavy and labored"
 (17:93); tied to the stunted pine during the reading night (19:13); behind Farrell
-in the finale, "breath coming in slow clouds" (20:73).
+in the finale, "breath coming in slow clouds" (20:69).
 
 ## The white buffalo
 
@@ -157,11 +157,11 @@ Development timeline (all cites):
 - **Ch 11** — fifty yards from Farrell (20:21); eyes "dark and liquid and utterly
   without expression" (20:21); "blood, dried and frozen, crusted on her chest and
   forelegs" (20:21); breath steaming, motionless (20:23); turns and walks north,
-  "seemed to glow, to carry her own illumination" (20:59–61).
+  "seemed to glow, to carry her own illumination" (20:53).
 
 Constant features: eyes "dark, liquid, the eyes of any buffalo" (04:61); wakes
 before the herd, stands apart testing the air (04:21, 06:9); selective grazer
-(04:23); moves "like a ship through water" (06:9 — duplicated at 20:61, see
+(04:23); moves "like a ship through water" (06:9 — duplicated at 20:53, see
 critique §12). Horns "curved and thickened over the two years" by Sep 1858
 (16:17); [gap] remaining: length and color.
 
@@ -221,7 +221,7 @@ distance, never approaching" (16:49).
 Ch 11: "three or four," appearing on the northern ridge; "dressed in furs and
 leather, their faces painted or simply weathered to the color of old copper";
 expressions unreadable; a leader in front who looks at Farrell, then turns away;
-the buffalo "fell in among them" moving north (20:63–71). [gap] horses, gear,
+the buffalo "fell in among them" moving north (20:57–65). [gap] horses, gear,
 anything further — and that thinness is deliberate (distance is the book's stance).
 
 ## The visions (Farrell's DTs)
@@ -262,7 +262,7 @@ house, sagging log-and-turf roof, lean-to stable; single ~20×15 room, two candl
 cast-iron stove, plank counter (09:31–35). North: rolling hills → "broken ridges
 and deep draws," drifts higher than a horse's head (09:5–7). Death scene: valley
 opening into a wide meadow, ridges to the north, camp-to-valley "perhaps a mile"
-(19:73, 20:3, 20:59).
+(19:73, 20:3, 20:55).
 
 ## Season/weather quick table
 
