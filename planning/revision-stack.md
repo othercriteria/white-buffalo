@@ -1365,3 +1365,20 @@ first half's procedural high point), "I found the creek by falling
 into it," "Fort Kearny was three days ahead. I made it in four,"
 the Brandt advice beats, the gold-talk texture, the enriched
 trapper scene, all of Creighton's speeches.
+
+## JE V — RESOLVED (2026-07-12, DK)
+
+Instrument picture: regression-2 flagged "mild drag" (taste-tier);
+demolitionist's JE IV-VI boredom block cited two JE V exhibits;
+regression-3 (verbatim, post-edits) ruled "earns it"; no other
+instrument objected. 2-2 with the most recent verbatim reader
+clearing it → no surgery. Applied the demolitionist's two live
+exhibits as clause trims: "She is keeping track of me, as I keep
+track of her." CUT (third mutual-awareness beat + chiasmus button);
+"and I thought I knew what she looked like. But I did not." CUT
+(negation-restatement frame the emergence description makes
+redundant). PLUS the paternal lean (DK): "Good." appended to the
+young-bull verdict (10:57) — one word, unstated register; PROTECTED
+per character note §6b (protect, never name). Plate anchors
+(10:27 silver sheen, 10:67-71 clothesline, 10:75) untouched; all
+edits intra-line, no shifts. JE V off the shelf.

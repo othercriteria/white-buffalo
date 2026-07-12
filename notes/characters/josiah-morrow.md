@@ -152,6 +152,23 @@ books. The knowing/unknowing split: he KNOWS he is declining to write
 something; he does NOT know the refusal is itself the entry —
 evidence of the want his theology says cannot exist.
 
+## 6b. The paternal register (2026-07-12, DK — PROTECT, NEVER NAME)
+
+JE V carries a father's eye that the book must keep and never point
+at: "She is beautiful in a way I did not expect" (the parent
+surprised by the adult emerging); "She has begun to assert herself
+within the herd"; "as I expected" at her maturation milestones;
+and now the one-word lean, DK-approved 2026-07-12 — the young bull
+turned away, and Morrow's verdict: "Good." (10:57). The word
+carries pride, protectiveness, and lethality-approval in one syllable
+— the father and the man who needs her deadly, aligned and
+indistinguishable. JE I's "I will watch her grow" reads retroactively
+as the adoption. Dark join to §6: the man with no ledger line for
+want raises a daughter-shaped attachment to his own death, in the
+same season he begins watching the childless couple. PROTECTION
+RULE: no reviser names this register or adds to it; it works only
+unstated.
+
 ## 7. Madness ontology (2026-07-11, DK question, with the 02:11 fix)
 
 Does Morrow think he is mad? The text gives an arc: flat denial with

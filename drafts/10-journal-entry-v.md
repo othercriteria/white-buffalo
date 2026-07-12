@@ -12,7 +12,7 @@ She has survived her first year. I have survived alongside her.
 
 The herd has broken apart for the spring, the bulls drifting off to form their own groups while the cows and young animals move together across the greening land. She stays with the cows, as I expected. She is not yet old enough to breed, and will not be for another year or more, but she seems to prefer their company to the bulls'.
 
-I watch her from a distance, as I have always done. She knows I am here. I am certain of that now. When she grazes, she looks up sometimes and turns her head toward where I sit, and there is something in the motion that is more than animal wariness. She is keeping track of me, as I keep track of her.
+I watch her from a distance, as I have always done. She knows I am here. I am certain of that now. When she grazes, she looks up sometimes and turns her head toward where I sit, and there is something in the motion that is more than animal wariness.
 
 ---
 
@@ -20,7 +20,7 @@ I watch her from a distance, as I have always done. She knows I am here. I am ce
 
 She is beautiful in a way I did not expect.
 
-I have watched her all winter, watched her through the worst of the cold and the deepest of the snow, and I thought I knew what she looked like. But I did not. The winter had hidden her true form beneath a coat thickened for survival, beneath a posture hunched against the cold. Now, in the warmth of late spring, she has emerged.
+I have watched her all winter, watched her through the worst of the cold and the deepest of the snow. The winter had hidden her true form beneath a coat thickened for survival, beneath a posture hunched against the cold. Now, in the warmth of late spring, she has emerged.
 
 Her coat has thinned and brightened, white now with an almost silver sheen where the light catches it. Her muscles have grown—not just larger, but more defined, visible beneath the skin when she moves. Her shoulders are broad and powerful, her hump rising behind her neck like a monument. She is not yet full grown, but she is no longer small.
 
@@ -54,7 +54,7 @@ She has begun to assert herself within the herd.
 
 I noticed it first a week ago, when a young bull tried to approach her. He was not threatening—just curious, I think, drawn by her color or her smell. But she did not want him near. She lowered her head and moved toward him, and he backed away.
 
-She did not charge him. She did not need to. Her intention was clear, and he understood it.
+She did not charge him. She did not need to. Her intention was clear, and he understood it. Good.
 
 Since then I have watched her more closely, and I have seen other signs. The other cows give her space. The calves do not play near her. Even the older bulls, when the herd re-forms for the seasonal movements, seem to treat her with a deference that goes beyond simple recognition.
 

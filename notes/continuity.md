@@ -727,3 +727,12 @@ catalog annotation updated). Ch 4 tightened ~95 words at clause
 level, twelve trims, episodes intact; "resupply" (period-audit
 one-worder, still present) finally applied as "buy more." All
 intra-line, no anchor shifts.
+
+## JE V resolved (2026-07-12, DK)
+
+Two clause trims (mutual-awareness chiasmus; thought-I-knew frame) +
+the paternal lean: "Good." at the young-bull beat (10:57). The
+paternal register is canon and PROTECTED-UNSTATED (character note
+§6b): beauty-unexpected, asserting-herself, as-I-expected, Good. —
+never named in text, never to be named. Shelf now: Ch 10 re-summary
+only (structural), plus taste/#29 holdings.
