@@ -25,9 +25,9 @@ worked his father's land (04:43); left Virginia again at thirty-two (12:47);
 "thirty-four years feeling nothing" (18:51). Corporal then sergeant, Monterrey
 and Buena Vista — on the plateau with the Rifles (06:29–31, 18:21–29).
 Witness descriptions (no self-description exists): "thin as a rail, beard down to
-his chest" (05:117); "Thin as a rail, beard down past his chest" (07:179); "Tall.
+his chest" (05:117); "Thin as a rail, beard down past his chest" (07:177); "Tall.
 Thin. Beard like a bird's nest" (09:97); eyes — "nothing in his eyes. Nothing at
-all" (07:183). "My clothes hang loose" (04:13); "my body is thinner than it has
+all" (07:181). "My clothes hang loose" (04:13); "my body is thinner than it has
 ever been" (12:49). Blood froze in his beard eating raw meat (08:27).
 
 **Kit (complete, as text states it).** "No gun, only a knife" (02:13); "a blanket,
@@ -66,7 +66,7 @@ Nineteenth, Eighteen Fifty-Six (19:27, matching 02:3). [gap] dimensions/page cou
 
 **Movement.** On foot always; ~100 yards behind the herd (07:117); pace steady,
 "never varying, never stopping" (15:87); late: "slow, deliberate, as if every step
-required careful thought" (17:81); watches from rises/ridges at 100 yards–half a
+required careful thought" (17:83); watches from rises/ridges at 100 yards–half a
 mile (04:57, 10:15, 12:69).
 
 **Corpse (Ch 11).** On his back, arms flung wide, half-buried in drifted snow
@@ -153,7 +153,7 @@ Development timeline (all cites):
   (14:5); "massive shoulders, the great humped back, the horns that have curved and
   thickened... taller than any cow in the herd" (16:17 — see findings: maturity);
   witness: "white as milk" (07:117); "white as snow, biggest damn cow I ever saw"
-  (07:179); tracks "deeper than any horse" (13:61).
+  (07:177); tracks "deeper than any horse" (13:61).
 - **Ch 11** — fifty yards from Farrell (20:21); eyes "dark and liquid and utterly
   without expression" (20:21); "blood, dried and frozen, crusted on her chest and
   forelegs" (20:21); breath steaming, motionless (20:23); turns and walks north,
@@ -272,7 +272,7 @@ opening into a wide meadow, ridges to the north, camp-to-valley "perhaps a mile"
 | Ch 7 | mid/late Dec 1858 | Gray dawns (13:105) |
 | JE VII | Jun–Aug 3, 1858 | Green meadows, full creeks (14:5 — see findings: "mountain snows") |
 | Ch 8 | late Dec 1858 | Night snowstorm; thin gray clouds; ≈7 days (15:35–123) |
-| JE VIII | Sep 3–Nov 20, 1858 | Browning grass; "the third winter" (16:73); Nov 20 clear, wind died (16:87) |
+| JE VIII | Sep 3–Nov 20, 1858 | Browning grass; "the third winter" (16:73); Nov 20 clear, wind died (16:91) |
 | Ch 9 | late Dec 1858 | "Weather had been clear for days" (17:57) |
 | JE IX | undated dawn | "First gray light in the eastern sky"; severe cold (18:5) |
 | Ch 10 | ~Jan 1859 | Dusk arrival; night reading; gray pre-sunrise ride (19:3–73) |

@@ -1217,3 +1217,25 @@ TRIAGE:
   causally downstream of this exercise." NOT tracked as an action
   item; the reviewer's argument stays on file in #41 and the
   positioning hazard map. Do not nag.
+
+## #41 repair 3 — APPLIED 2026-07-11 (DK: all three signs)
+
+S1 JE VIII Jan 1 (16:79-81): the stake RENEWED — old one drawn and
+laid in the grass, new peeled stake, bright cloth, two buffalo
+skulls scarlet-bound facing the valley (Boller 1858-62, verbatim
+sign vocabulary); "I did not touch any of it" repeats 08:65's mode;
+"They have been keeping this valley longer than I have been keeping
+her." S2 Ch 9 (17:45): unshod flanking tracks, no pole-drags, men
+riding light (Marcy 1859 vocabulary) — the pursuit was never
+unobserved; seeds the riders. S3 Ch 4 trapper (07:123): the white
+hide's price + "I gave it thought myself, for about as long as it
+took to remember whose country she's walking in" — closes the
+fortune-on-the-hoof hole (Maximilian/Kurz price gradient; Kurz's
+Spaniard in the temptation). Research: notes/lakota-signs-research.md.
+Shifts: 16 +4 (≥78), 17 +2 (≥45), 07 +2 (≥123); live refs
+propagated with content verification (visual-bible/catalog Creighton
+refs truth-fixed to 07:177/181); checker OK 64. Forbearance now
+reads as maintained decision from both narrators' sides; Morrow
+relativized inside a longer watch; the commercial world sees her and
+names why it keeps off. Repair 3 CLOSED; #41 remaining = repair 5
+(DK's own terms, do not nag).

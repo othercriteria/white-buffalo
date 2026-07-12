@@ -76,6 +76,10 @@ The herd has settled into a valley north of the river, a sheltered place where t
 
 I watch her from the ridge above. I have watched her from this same spot for three days now, waiting for the right moment, the right conditions. I need clear weather—not for my sake, but so that she can see me clearly when I make my approach. I need calm—so that my movements are not masked by wind or noise.
 
+The stake is still on the ridge above the valley, three winters old now. But it is not the same stake. Someone has drawn the old one and laid it in the grass, and set a new one, peeled white, the cloth at its head still bright. Beside it there are two buffalo skulls now, set side by side facing the valley, a band of scarlet bound around each horn. I did not touch any of it. I made my camp farther along.
+
+They have been keeping this valley longer than I have been keeping her.
+
 I have waited two years. I can wait a little longer.
 
 ---

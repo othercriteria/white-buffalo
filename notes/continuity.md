@@ -692,3 +692,14 @@ ontology mapped in character note §7: madness = observers' verdict,
 community-indexed; his categories are empty/filled, weapon/man).
 Guardianship-sign candidates drafted, pending DK pick. File 20 +2
 shift ≥64 propagated.
+
+## Guardianship signs applied (2026-07-11, DK: all three)
+
+The renewed stake + scarlet-bound skulls (JE VIII, 16:79-81, Boller
+vocabulary); the unshod flanking tracks (Ch 9, 17:45, Marcy
+vocabulary); the trapper's price-and-refusal beat (Ch 4, 07:123).
+CANON NOW FIXES: the winter valley is kept ground, attended across
+all three winters; Farrell's pursuit was paralleled on the high
+ground; white hunters know her value and why she is not taken.
+Nothing ceremonial, no Lakota speech; all signs from the attested
+record (notes/lakota-signs-research.md).

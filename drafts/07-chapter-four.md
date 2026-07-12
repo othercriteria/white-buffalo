@@ -120,6 +120,8 @@ The speaker was a trapper, an old man with a face like worn leather and hands th
 
 "No hunter walks behind his prey. And I'll tell you the other thing. That was no ordinary animal. I've been taking hides all my life, and I never saw a cow near that size, nor a white one living—white to the ground, in November, with every other hide on the plains going dark for winter. The man I can't tell you much about. Thin, and a steady walker. It was the animal I couldn't look away from."
 
+"A hide like that is worth a year of ordinary robes to the right buyer. There's men would go north for it. I gave it thought myself, for about as long as it took to remember whose country she's walking in."
+
 The soldier shrugged. "The territory's full of strange ones. Doesn't mean anything."
 
 "Maybe not." The trapper took a drink from his cup. "But I've been out here thirty years, and I never saw anything like that. Never want to again, if I'm honest."

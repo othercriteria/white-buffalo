@@ -24,7 +24,7 @@ trade, and joined the volunteers at Vicksburg in 1846 (18:19) — on the
 plateau with the Mississippi Rifles at Buena Vista (18:29), also at
 Monterrey (04:41). Farrell (b. ~1826, enlisted at twenty, 03:63) fought
 at Monterrey and in the Mexico City campaign through Chapultepec
-(17:57–69) — Taylor's line then Scott's, a transfer many soldiers made
+(17:59–71) — Taylor's line then Scott's, a transfer many soldiers made
 after Monterrey. The two overlap only at Monterrey (19:37 "at Monterrey
 as I had").
 
@@ -115,7 +115,7 @@ Arithmetic that checks out, kept here so nobody re-derives it:
   "seven years earlier" (03:51, W&R RR 1851); Rock Island bridge
   "burned once already... two years back" (05:27–29, Effie Afton May
   1856); Spirit Lake "last year" (05:73–75, March 1857); Davis in the
-  Senate; "Harney did his work on the Blue Water" (07:157, Sept 1855).
+  Senate; "Harney did his work on the Blue Water" (07:159, Sept 1855).
 - Trader saw Morrow pass "maybe four months back" from a ~Dec 18–20
   visit → late August (09:89), matching the post-killing move north;
   "haven't seen either one since last summer" (09:63) matches an early
