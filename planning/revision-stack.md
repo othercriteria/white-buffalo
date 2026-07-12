@@ -1825,6 +1825,34 @@ pivot from consolation to COUNTER-EVIDENCE (the seeing staged as
 harmless = the experiment Morrow refused to run, refuting the
 casus belli in the image).
 
+## THE RETRIEVAL — RULED, KEEP AS-IS (2026-07-12, DK)
+
+Full brief-and-counter-brief laid out (retrieval case vs retrieval
+refused). DK: keep as-is, silence held. Grounds on the record:
+refusal INVENTS DOCTRINE (attributes a contamination theology the
+research note forbids inventing) and is a BACKHANDED TRIBUTE (a
+sacred order broken by Morrow centers him; a sacred order untouched
+by him erases him — "No sign passed"). The middle-ground options
+(cut 18:65's hope-sentences; one Farrell audit-sentence severing
+the transaction) both DECLINED — the hope is characteristic
+curation, and the audit would announce a parallel the book leaves
+to its reader. The average-reader redemption misread is accepted
+as the standing cost of the restraint doctrine, consistent with
+every prior ruling of this kind. Future fulfillment-flags are
+landing-data.
+
+PROVISIONAL KEEPS BLESSED (2026-07-12, DK): Ch 9 closer ("Only the
+living made noise...", 17:91) and the thin-yellow light (20:47) —
+both upgraded to FULL KEEPS. #29 status: the map is now discharged
+or ruled on every carrier except JE IX's buried counter-sentences
+(no ruling sought): verdict cut, peace-twin cut, calm chain owned,
+difference-statement cut, no-fear pivoted to without-wonder, 20:45
+cut, retrieval ruled, keeps blessed. The next slate doubles as the
+#29 VERIFICATION ROUND — does the rebuilt ending read as designed
+to fresh eyes?
+
+## The unimpressed → without-wonder iteration (2026-07-12)
+
 DK's line, APPLIED then ITERATED: "unimpressed" applied first (the
 victim's verdict on the sacrament; kills the fear-frame instead of
 negating it) — then DK ngram-checked it: 1820-50 plateau is the
