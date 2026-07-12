@@ -1382,3 +1382,35 @@ young-bull verdict (10:57) — one word, unstated register; PROTECTED
 per character note §6b (protect, never name). Plate anchors
 (10:27 silver sheen, 10:67-71 clothesline, 10:75) untouched; all
 edits intra-line, no shifts. JE V off the shelf.
+
+## Ch 10 rework (2026-07-12, DK: re-summary FUNCTION protected —
+## "the pause it induces IS for the reader's benefit")
+
+Eight clause-level edits, all intra-line, no shifts; the re-summary
+section's structure untouched:
+- NEW CATCH, no instrument ever flagged it: "The flames danced and
+  flickered, casting shadows on the snow" (19:59) was a near-verbatim
+  word-order-inverted recycle of 15:131 ("flickered and danced,
+  casting shadows on the snow"). Ch 8's instance is load-bearing
+  (the shadows produce the faces); Ch 10's was decoration. CUT.
+- Two pronoun-friction fixes (DK standard): "I walked to it" →
+  "the hollow" (antecedent was three nouns back); "a fire at its
+  mouth" → "at the hollow's mouth" ("it" had been the journal for
+  two paragraphs).
+- Divestment consistency (character note §3c): "A few possessions
+  were scattered about" → "His few possessions remained" — the camp
+  is left IN ORDER (blankets neat, journal staged); "scattered"
+  contradicted the design and duplicated 19:7's ashes.
+- Therapy-idiom trim: "and he had spent years looking for something
+  to make him whole again" CUT — the juxtaposition ("...broken in a
+  way I understood. / He had found the white buffalo.") now carries
+  the causality cold.
+- Summary-cadence tails: "following the white buffalo, waiting for
+  the end" CUT after "And then he had moved on."; the dreams triple
+  ("the blood and the smoke and the faces of the dead") CUT;
+  "evidence, proof" apposition → "proof".
+PROTECTED UNTOUCHED: the ship plant (19:41), the withheld-entry
+quote (19:47), the #42 flattening + both-things gloss (19:57), the
+condemnation (19:61), the rehearsal speech, "Not yet.", the closer
+("the dead men following behind"), all journal-found plate anchors.
+Structural shelf now EMPTY.

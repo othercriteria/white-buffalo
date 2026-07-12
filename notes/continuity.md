@@ -736,3 +736,11 @@ paternal register is canon and PROTECTED-UNSTATED (character note
 §6b): beauty-unexpected, asserting-herself, as-I-expected, Good. —
 never named in text, never to be named. Shelf now: Ch 10 re-summary
 only (structural), plus taste/#29 holdings.
+
+## Ch 10 rework (2026-07-12)
+
+Eight clause edits; headline: the Ch 8/Ch 10 flame-sentence
+near-duplicate cut (19:59 side; 15:131 keeps it, load-bearing).
+Re-summary structure intact per DK. Structural shelf now empty —
+remaining textual items are the provisional keeps, the violence-brink
+agenda, and #29.
