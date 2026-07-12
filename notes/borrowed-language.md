@@ -47,10 +47,10 @@ against the brown"; "white on white" reserved to Ch 11 (17's pre-reading instanc
 
 | Phrase | Morrow (owner) | Farrell (was) | Resolution |
 |---|---|---|---|
-| "cold was/is a living thing... presses from all sides" | 08:71 ("The cold here is a living thing" post the 2026-07-11 fragmenting — localized per DK; the 12:117 instance died in the JE VI shrink), 18:5 | 07:21, 17:5, 17:79, 17:103, 19:11 | All Farrell instances varied/cut; Morrow sole owner |
-| "finding every gap in my clothing/blanket" | 18:5 | 07:21, 17:99 | Farrell's varied ("working into my collar and cuffs") |
+| "cold was/is a living thing... presses from all sides" | 08:71 ("The cold here is a living thing" post the 2026-07-11 fragmenting — localized per DK; the 12:117 instance died in the JE VI shrink), 18:5 | 07:21, 17:5, 17:87, 17:103, 19:11 | All Farrell instances varied/cut; Morrow sole owner |
+| "finding every gap in my clothing/blanket" | 18:5 | 07:21, 17:87 | Farrell's varied ("working into my collar and cuffs") |
 | hollow-lexicon ("hollowed out," "hollow thing") | 18:35, 18:53 | 17:39 | Cut with the forge passage |
-| "let the cold take me" | 06:49 (JE III) | 15:75 (Ch 8, pre-reading) | RESOLVED 2026-07-11 (register-brief pair, prosecutor exhibit A): Farrell's varied — dying rendered as the dug-out man's precedent ("his face had been calm"); Morrow sole owner of cold-agency death |
+| "let the cold take me" | 06:49 (JE III) | 15:69 (Ch 8, pre-reading) | RESOLVED 2026-07-11 (register-brief pair, prosecutor exhibit A): Farrell's varied — dying rendered as the dug-out man's precedent ("his face had been calm"); Morrow sole owner of cold-agency death |
 
 ## Template ownership (2026-07-11, register-brief pair)
 
@@ -64,8 +64,11 @@ Not phrases but syntactic templates, assigned an owner and enforced:
   2026-07-11: the commandment half-naming + smoke-first habit, DK
   pick B+D'; see continuity.md and notes/characters/josiah-morrow.md).
   Farrell's pre-reading instance (15:49 "What remained was harder to
-  name") CUT; his paragraph now runs straight to "Maybe I was just
-  tired of turning back."
+  name") CUT 2026-07-11; its replacement ("Maybe I was just tired of
+  turning back.") CUT 2026-07-12 with the whole turn-back resolution
+  block (DK) — Ch 8's temptation now ends at "No one would even
+  know." and the section break does the pivot. Morrow's 14:23-25 is
+  the book's sole naming-refusal, full stop.
 - perhaps/maybe split COMPLETE: Farrell narration now 0 "perhaps"
   except the protected 20:21 fifty-yards rhyme (estimates flat, "about,"
   "maybe," "or so," "I judged"); Morrow keeps "perhaps" exclusively.
@@ -103,7 +106,7 @@ tic audit doesn't flag it as bleed. DK aware.
 ## The frozen-dead face-word (2026-07-11, INTENTIONAL, intra-Farrell)
 
 "His face was calm" / "his face had been calm" — 09:21 (the dug-out
-young man), 15:75 (Ch 8 recall of him), 20:11 (Morrow's corpse,
+young man), 15:69 (Ch 8 recall of him), 20:11 (Morrow's corpse,
 installed 2026-07-11 replacing "peaceful"). OWNED CHAIN: calm is
 what freezing does to a face; the Ch 11 use collapses benediction
 into observation, and the Ch 5 plant teaches the reading. First

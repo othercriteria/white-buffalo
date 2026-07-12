@@ -27,7 +27,7 @@ and Buena Vista — on the plateau with the Rifles (06:29–31, 18:21–29).
 Witness descriptions (no self-description exists): "thin as a rail, beard down to
 his chest" (05:117); "Thin as a rail, beard down past his chest" (07:177); "Tall.
 Thin. Beard like a bird's nest" (09:97); eyes — "nothing in his eyes. Nothing at
-all" (07:181). "My clothes hang loose" (04:13); "my body is thinner than it has
+all" (07:183). "My clothes hang loose" (04:13); "my body is thinner than it has
 ever been" (12:49). Blood froze in his beard eating raw meat (08:27).
 
 **Kit (complete, as text states it).** "No gun, only a knife" (02:13); "a blanket,
@@ -42,7 +42,7 @@ on the final night (18:7). NOTE: robe worded to stay outside journal-found.png's
 frame (rolled against the earth wall — the plate shows the blanket bed only). Clothing
 attested (full-read 2026-07-08): a coat and a shirt on the corpse ("His coat
 was torn, his shirt beneath it shredded," 20:13); worn boots via his tracks
-("the print of worn boots," 15:87; "boot-prints of a man," 13:61). [gap]
+("the print of worn boots," 15:83; "boot-prints of a man," 13:61). [gap]
 narrows to: hat (never mentioned in 2.5 years — bareheaded is licensed),
 colors/materials/cuts of coat and boots; [gap] food in final months ("No
 animals, no supplies," 19:5).
@@ -65,8 +65,8 @@ Nineteenth, Eighteen Fifty-Six (19:27, matching 02:3). [gap] dimensions/page cou
 (2.5 years of entries in one book).
 
 **Movement.** On foot always; ~100 yards behind the herd (07:117); pace steady,
-"never varying, never stopping" (15:87); late: "slow, deliberate, as if every step
-required careful thought" (17:83); watches from rises/ridges at 100 yards–half a
+"never varying, never stopping" (15:83); late: "slow, deliberate, as if every step
+required careful thought" (17:81); watches from rises/ridges at 100 yards–half a
 mile (04:57, 10:15, 12:69).
 
 **Corpse (Ch 11).** On his back, arms flung wide, half-buried in drifted snow
@@ -83,7 +83,7 @@ years" (01:69); pale eyes, "color difficult to determine in the lamplight" (01:7
 calloused hands, scarred knuckles (01:89); firm businesslike grip (01:191).
 Enlisted at twenty (03:61) → ~32 in Nov 1858 [inferred]. Scots-Irish Pennsylvania
 background (continuity notes); Monterrey, Chapultepec, Mexico City — Scott's
-campaign (17:27–29, 15:147). Beard on the trail — freezes solid (07:21, 11:7).
+campaign (17:27, 15:141). Beard on the trail — freezes solid (07:21, 11:7).
 [gap] hair, beard color, anything of his face beyond Ch 1's sketch.
 
 **Clothing.** Coat "worn but adequate" (01:69); buys "a heavy coat, wool blankets"
@@ -106,9 +106,9 @@ bottles with "the third perhaps a quarter full" (11:19 — see findings: arithme
 **Withdrawal, as visible.** Baseline tremor "learned to ignore," two drinks a night
 (09:9); seven tries to strike a match (07:31); saddling tremor, night sweats
 (11:31–35); constant tremor + sweating at the homestead (13:5, 13:101); full-body
-convulsion, wakes rigid, face wet (15:65–69); legs shaking, world "gray at the
-edges," stands blank in snow (15:101); braced rifle describes circles, misses a
-rabbit by a foot (15:105); talks aloud to absent people (15:29, 17:17, 19:13);
+convulsion, wakes rigid, face wet (15:59–63); legs shaking, world "gray at the
+edges," stands blank in snow (15:97); braced rifle describes circles, misses a
+rabbit by a foot (15:99); talks aloud to absent people (15:29, 17:17, 19:13);
 three tries to tie a knot (19:11); "every step uncertain" (20:7).
 
 **Travel rates.** ~15 mi/day in good weather (07:7); <5 mi/day in deep snow (09:7).
@@ -119,10 +119,10 @@ three tries to tie a knot (19:11); "every step uncertain" (20:7).
 from Hennessey with tack and saddlebags; grain carried (03:111, 07:7). No name. No
 horse blanket (07:33). Condition arc: shivering in the blizzard, snow crusting his
 mane (07:19–33); ice panic — eyes "wide and white," legs splayed (09:155–167);
-slowing, head low (15:99); flanks dark with sweat in cold — "A sweaty horse in
-winter is a dying horse, if you cannot get him dry" (15:111); fed stripped
-cottonwood bark, partial recovery (15:113–121); breathing "heavy and labored"
-(17:95); tied to the stunted pine during the reading night (19:13); behind Farrell
+slowing, head low (15:93); flanks dark with sweat in cold — "A sweaty horse in
+winter is a dying horse, if you cannot get him dry" (15:105); fed stripped
+cottonwood bark, partial recovery (15:107–115); breathing "heavy and labored"
+(17:93); tied to the stunted pine during the reading night (19:13); behind Farrell
 in the finale, "breath coming in slow clouds" (20:73).
 
 ## The white buffalo
@@ -230,13 +230,13 @@ Soldiers: "men in blue coats," faces "pale and still," at vision's edge, gone wh
 looked at directly (15:21); stand in circles at the fire, "dead eyes reflecting
 the flames," never speaking (15:25); walk beside the horse (17:7); "patient as
 stones" (19:11); coats "bright against the white" (20:7). Firelight shadows: his
-father (dead twenty years), his mother, men he killed (15:133–135). Catherine:
+father (dead twenty years), his mother, men he killed (15:125–127). Catherine:
 "dark hair blowing in the wind, her Eastern dress dragging through the snow,"
 walking ahead at fixed distance, never looking back (17:15); calm beside Morrow's
 body, hands folded (20:43). Ch 11 additions: "a man and a woman, older, dressed in
 the clothes of an earlier time" (20:45). Dreams: the buffalo in an empty Mexican
-village street — shuttered houses, cobblestones (15:144-148); Chapultepec's walls,
-short ladders, boy cadets (17:60-68).
+village street — shuttered houses, cobblestones (15:137-141); Chapultepec's walls,
+short ladders, boy cadets (17:58-66).
 
 ## Places (Farrell's route)
 
@@ -271,9 +271,9 @@ opening into a wide meadow, ridges to the north, camp-to-valley "perhaps a mile"
 | JE VI | Sep–Dec 1857 | Herd coats thickening Oct; winter by Dec 1 |
 | Ch 7 | mid/late Dec 1858 | Gray dawns (13:105) |
 | JE VII | Jun–Aug 3, 1858 | Green meadows, full creeks (14:5 — see findings: "mountain snows") |
-| Ch 8 | late Dec 1858 | Night snowstorm; thin gray clouds; ≈7 days (15:35–123) |
+| Ch 8 | late Dec 1858 | Night snowstorm; thin gray clouds; ≈7 days (15:35–117) |
 | JE VIII | Sep 3–Nov 20, 1858 | Browning grass; "the third winter" (16:73); Nov 20 clear, wind died (16:91) |
-| Ch 9 | late Dec 1858 | "Weather had been clear for days" (17:57) |
+| Ch 9 | late Dec 1858 | "Weather had been clear for days" (17:41) |
 | JE IX | undated dawn | "First gray light in the eastern sky"; severe cold (18:5) |
 | Ch 10 | ~Jan 1859 | Dusk arrival; night reading; gray pre-sunrise ride (19:3–73) |
 | Ch 11 | same morning | "Sky the color of steel"; gray → paler gray → "first hints of gold"; wind rises, dies (20:3–55) |

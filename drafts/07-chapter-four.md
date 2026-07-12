@@ -174,7 +174,9 @@ We talked for a while longer, trading news and rumors. He told me about the stat
 
 "I've heard."
 
-"Well, I've seen them too. About two weeks ago, crossing the Loup Fork. The buffalo was real enough—white as snow, biggest damn cow I ever saw. And the man was real too. Thin as a rail, beard down past his chest, walking along like he had all the time in the world."
+"Well, I've seen them too. About two weeks ago, crossing the Loup Fork. The buffalo was real enough—white as snow, and big. But it was the man I kept watching. Thin as a rail, beard down past his chest, walking along like he had all the time in the world."
+
+Thin as a rail, beard down past his chest. The drunk in Council Bluffs had used the same words, quoting his trapper. Maybe Creighton had heard them somewhere on the road—he carried everything else that moved along it. Or maybe the man just looked that way to everyone who saw him. There was no knowing. The story had been traveling longer than I had.
 
 "You talk to him?"
 

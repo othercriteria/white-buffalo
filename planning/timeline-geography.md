@@ -24,7 +24,7 @@ trade, and joined the volunteers at Vicksburg in 1846 (18:19) — on the
 plateau with the Mississippi Rifles at Buena Vista (18:29), also at
 Monterrey (04:41). Farrell (b. ~1826, enlisted at twenty, 03:63) fought
 at Monterrey and in the Mexico City campaign through Chapultepec
-(17:59–71) — Taylor's line then Scott's, a transfer many soldiers made
+(17:55–69) — Taylor's line then Scott's, a transfer many soldiers made
 after Monterrey. The two overlap only at Monterrey (19:37 "at Monterrey
 as I had").
 

@@ -38,9 +38,9 @@ of the text. Everything here is proposal until DK signs the map.
 | 12 | JE VI | village-passing | 12:45 | portrait plate — FOLD-OUT DECISION |
 | 13 | Ch 7 (evidence) | graves | 13:17–21 | landscape cut |
 | 14 | JE VII (the turn) | — deliberate | | |
-| 15 | Ch 8 (pursuit) | tracks-north | 15:83–93 | landscape cut |
+| 15 | Ch 8 (pursuit) | tracks-north | 15:77–87 | landscape cut |
 | 16 | JE VIII | — | | |
-| 17 | Ch 9 (sighting) | two-stories (PROMOTED s311, 2026-07-10) | 17:77–83 | landscape cut |
+| 17 | Ch 9 (sighting) | two-stories (PROMOTED s311, 2026-07-10) | 17:75–81 | landscape cut |
 | 18 | JE IX | morrow-hollow | 12:93 shelter, kept to the last vigil | portrait plate |
 | 19 | Ch 10 (camp, journal) | journal-found | 19:7–21 | portrait plate |
 | 20 | Ch 11 (finale) | finale-fifty-yards | 20:21–33 | portrait plate |
@@ -65,7 +65,7 @@ Measured in plateless words, since pages follow words (~250 w/page):
    Mississippi, burned once already — attested detail (05:27–29).
 2. **Back-half gap: JE VIII + Ch 9 (units 16+17, ~3,200 words bare,
    flanked by 14 also bare).** Proposed new plate: **two-stories** —
-   17:81–87, Farrell's first sight of them: "The snow was deep here...
+   17:77–83, Farrell's first sight of them: "The snow was deep here...
    a blank white page on which only two stories were written: the
    tracks of the buffalo, and the tracks of the man who followed her.
    ... Far ahead, perhaps a mile, a dark shape moved against the white

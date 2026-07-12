@@ -14,7 +14,7 @@ neither confirmed nor performed); physical residue (scarred
 knuckles, 01:89; the war rifle that "had not failed me yet," 03:43);
 flat intention ("I would kill him," 03:77, with precedent implied by
 "These things rarely were"). The CAPACITY is shown, displaced into
-memory — the Chapultepec dream (17:57-69) is the book's most violent
+memory — the Chapultepec dream (17:55-67) is the book's most violent
 passage and it is his: "my hands doing what my hands had learned to
 do." Present tense carries only readiness-texture (hand near the
 scabbard, 11:65; hand on the rifle in the night, 13:105).
@@ -42,7 +42,7 @@ designed; future instrument flags are landing-data.
   ("Fort Kearny was three days ahead. I made it in four," 07:41).
 - Forensic self-audit with costs attached ("I made it fit, because
   the tracks said what they said," 13:73; "the way I should have
-  done at the creek weeks before," 17:47).
+  done at the creek weeks before," 17:45).
 - Deflationary irony ("It was not complicated. These things rarely
   were," 03:79 — template owned by Farrell alone; Morrow's twin was
   cut).

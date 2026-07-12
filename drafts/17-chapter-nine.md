@@ -26,8 +26,6 @@ I would be riding, my mind as empty as the country around me, and suddenly I wou
 
 I remembered things I had not thought about in years. The face of a man I had killed in the fighting for the Bishop's Palace—young, younger than I was, his eyes wide with surprise as my bayonet went into his chest. The sound a woman made when she found her husband's body in the street, a sound that was not quite screaming and not quite sobbing and not quite anything I had words for. The smell of the hospital tents, where men lay in rows and died by the dozens and the surgeons worked until they could not stand.
 
-I had buried all of this. I had used whiskey and time and the simple practice of not thinking to keep it where I did not have to see it. Now it came back, and there was nothing I could do to stop it.
-
 ---
 
 Somewhere on that trail, I understood something.

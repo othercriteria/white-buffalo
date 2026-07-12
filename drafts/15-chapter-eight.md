@@ -24,7 +24,7 @@ I knew they were not real. I knew they came out of me, out of the memories I had
 
 In the cabin winter it had been the other things, the things men describe—the snakes on the walls, the insects pouring from the woodwork. Those had come at me all at once, and they had found me shut in and sitting still. These came quiet and patient and kept their distance. I did not know which was worse. I knew better than to sit still and find out.
 
-They followed me as I followed the trail. They watched me as I made camp at night. They stood in circles around my fire, their dead eyes reflecting the flames, and they did not speak and they did not move and they did not leave.
+They followed me as I followed the trail. They watched me as I made camp at night. They did not speak and they did not move and they did not leave.
 
 I talked to them, sometimes. I could not help it. The silence was too complete, and the words came out of me whether I wanted them to or not.
 
@@ -43,12 +43,6 @@ I sat on my horse at the edge of a frozen creek and looked at the empty land aro
 I could turn back. The thought came to me clearly, cutting through the fog that had settled over my mind. I could turn back, retrace my steps, find the trading post and the river and the long road east. I could return to Aldridge with my report—*your daughter is dead, killed by a madman, buried in a cold grave at the edge of the world*—and collect my money and find a warm room and all the whiskey I could drink.
 
 I could do that. No one would blame me. No one would even know.
-
-But I did not turn back.
-
-I do not know why. The reasons that had made sense before—the money, the job, the need to finish what I had started—seemed small and distant now, like things that belonged to someone else.
-
-Maybe I was just tired of turning back.
 
 ---
 

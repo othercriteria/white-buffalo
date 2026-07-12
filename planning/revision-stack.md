@@ -1666,3 +1666,55 @@ declines to show us is the most honest page in the book."
 - Closer-uniformity percept persists (#45 §7) — program reduced,
   did not eliminate; collect.
 STATUS: all items OPEN pending DK rulings; nothing applied.
+
+## Slate-4 edge work — APPLIED 2026-07-12 (DK-directed)
+
+Ch 8/9 redundancy (#45 slack-stretch + #46 H3, partial):
+- DK's cut: the Ch 8 turn-back resolution block (old 15:47-51) —
+  "But I did not turn back." + the reasons-gone paragraph + "Maybe
+  I was just tired of turning back." GONE. The temptation now ends
+  fully voiced ("No one would even know.") and the section break
+  does the pivot into "I rode north. / It was not a decision
+  exactly." Bonus the cut exposed: "But I did not turn back." was a
+  VERBATIM cross-chapter twin of 13:85 — Ch 7 owns the reasoned
+  refusal; Ch 8's is now enacted, not stated. Registry bullet
+  updated (14:23-25 sole naming-refusal, full stop).
+- Fire-circle trim (old 15:27): "They stood in circles around my
+  fire, their dead eyes reflecting the flames" cut from the FIRST
+  vision catalog — the flames→shadows→faces image now occurs once
+  (15:125, load-bearing); circle imagery first appears at 19:59 and
+  tightens toward the end (Ch 10 circle → Ch 11 "silent circle").
+- Buried-it cut (old 17:29): "I had buried all of this... whiskey
+  and time and the simple practice of not thinking..." — verbatim
+  restatement of 15:23's mechanism; the memories section now ends
+  cold on the hospital tents.
+
+Rumor chorus REWORKED (#43 W3 + #45 weakest-1 + #46 + #47, four
+instruments): notes/rumor-network.md NEW — the transmission map
+(McCulloch coins the tags → Council Bluffs → the corridor; Creighton
+the mail carrier is the VECTOR, his firsthand sighting narrated in
+secondhand clothes; the Kearny trapper the RESISTOR; the trader the
+UPSTREAM ISOLATE whose independent convergence on the eyes means
+contamination and truth are indistinguishable). Text: Creighton's
+deposition attention-divided ("white as snow, and big. But it was
+the man I kept watching." — kills the duplicate size-superlative
+against the trapper's); NEW Farrell beat (07:179) clocking the
+recycled tags and ruling provenance unrecoverable ("There was no
+knowing. The story had been traveling longer than I had.") — the
+borrowed-language discipline diegeticized. The drunk's telling
+deliberately NOT differentiated (it is McCulloch's verbatim; its
+fidelity is the point). Chorus stays four voices but the sameness
+is now a fingerprint, named once.
+
+ALDRIDGE FRAME — DK RULING 2026-07-12: stands UNCLOSED, "at least
+to the point of not giving it a scene." #47's repair declined;
+#46's on-the-record dismissal upheld ("the last paragraph closes it
+better than a scene would"). Future girder-flags are landing-data.
+
+Anchors: 15 −6 (≥53), 17 −2 (≥29), 07 +2 (≥179) propagated across
+catalog/visual-bible/geo-ledger/timeline/assembly/registry/farrell
+with content verification; several generation-stale anchors
+truth-fixed en route (catalog:400 17-ranges; vb weather 17:55→41;
+vb 07:183 eyes-speech; assembly two-stories 17:75–81). Checker: 5
+known below-bar DRIFTs only (19:71, 20:5, 11:3–7, 03:87-111,
+assembly:41 content-verified correct).
