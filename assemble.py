@@ -157,6 +157,8 @@ def main():
         text = re.sub(r"^# (.+)$", r"# \1 {.unnumbered}", text, count=1, flags=re.M)
         parts.append(inject(prefix, text))
     placed = sum(1 for p, *_ in PLACEMENTS)
+    # after the title page: restore page numbers for the body
+    (BUILD / "before-body.tex").write_text("\\clearpage\\pagenumbering{arabic}\n")
     book_md = BUILD / "book.md"
     book_md.write_text("\n\n".join(parts) + "\n")
     print(f"build/book.md written: {len(DRAFTS)} units, {placed} plates")
@@ -194,7 +196,14 @@ def main():
             "-V",
             "geometry:paperwidth=5.5in,paperheight=8.5in,margin=0.75in,bottom=0.9in",
             "-V",
-            "header-includes=\\usepackage{float}\\floatplacement{figure}{H}",
+            # cover as page one (before the title page), then the book;
+            # cover typography is a later design pass — plate runs bare
+            "header-includes=\\usepackage{float}\\floatplacement{figure}{H}"
+            "\\AtBeginDocument{\\pagenumbering{gobble}\\thispagestyle{empty}"
+            "{\\centering\\includegraphics[height=0.95\\textheight]"
+            "{art/cover.png}\\par}\\clearpage}",
+            "--include-before-body",
+            str(BUILD / "before-body.tex"),
         ],
         check=True,
         cwd=ROOT,
