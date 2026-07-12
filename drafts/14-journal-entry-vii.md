@@ -20,7 +20,7 @@ I do not know why I am watching them so closely. They are not a threat to her—
 
 Perhaps it is that they are the only other people in this country.
 
-Or it is the thing the commandment names — the one about a neighbor's house, and a neighbor's wife. But the commandments were written for living men, and I have not been one for two years.
+Or it is the thing the commandment names—the one about a neighbor's house, and a neighbor's wife. But the commandments were written for living men, and I have not been one for two years.
 
 In the mornings I find their smoke first now, and then the white of her.
 

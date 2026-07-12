@@ -11,16 +11,35 @@ unit map below is implemented as of v1: all 17 plates injected at
 their text anchors, matched by verbatim snippet (content-addressed —
 a drifted anchor fails the build loudly rather than front-running
 the knowledge). PDF: 5.5×8.5in, TeX Gyre Pagella 11pt, chapters
-unnumbered, figures pinned [H] (no float drift); 138 pp. EPUB:
+unnumbered, figures pinned [H] (no float drift); 131 pp. EPUB:
 cover.png as cover, TOC depth 1. Front matter: LaTeX title page
-from metadata; 00 contributes the notices only (novella marker,
-tradition note, AI note — in that order). QA rendering:
-poppler-utils in the flake (pdftoppm thumbnails).
+from metadata (title, "A novella" subtitle, authors, year); 00
+contributes the notices only (tradition note, AI note), unnumbered
+on the title verso. QA rendering: poppler-utils in the flake
+(pdftoppm thumbnails).
 
-Deliberately UNRESOLVED at v1 (unchanged open items): fold-out
-(village-passing runs the promoted portrait in-line), captions
-(none), corner-crop pass, cross-plate ground normalization, plate
-scaling refinements, mobi (needs calibre; EPUB suffices for now).
+Production pass (2026-07-12 evening, from the four-instrument PDF
+round): folio 1 = Chapter One forced recto (odd folios recto
+book-wide — parity was inverted at v1); mirrored margins with
+binding gutter (0.85in inner / 0.65in outer, measure unchanged);
+\raggedbottom (kills the five flush-bottom blowout pages);
+first-line indents, no inter-paragraph space; \frenchspacing;
+widow/club/broken penalties; notices URL on its own line (was
+clipped off-trim at v1); portrait plates 72%→85% width; spaced em
+dashes closed (front matter + one JE VII instance); one blank leaf
+closes the book; template \frontmatter/\mainmatter neutralized
+(numbering driven explicitly).
+
+Deliberately UNRESOLVED (open items): fold-out (village-passing
+runs the promoted portrait in-line), captions (none), corner-crop
+pass, cross-plate ground normalization, mobi (needs calibre; EPUB
+suffices for now). Added by the production round, still open:
+©/rights line (interacts with the attribution process — DK's
+call), plate grayscale-vs-cream-ground for print stock, TOC/list
+of plates (list blocked on caption doctrine; TOC placement fights
+notices-on-title-verso in the pandoc template), Note on the plates
+disclosing their synthesis (track B, content), running heads
+(taste), cover plate re-cut + typography (track C).
 PURPOSE: one artifact for future agent review rounds — no file
 lists, no structure spoilers from filenames. NOTE for instrument
 prompts: point agents at build/white-buffalo.pdf (regenerate with
