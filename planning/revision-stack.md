@@ -1953,6 +1953,63 @@ Lakota non-intervention is "plot-convenient... the book needs and
 cannot fully earn" — partially armed (unarmed/starving/post-Blue
 Water distance), noted as limit, no repair offered.
 
+## Slate-5 rulings — APPLIED + DECLINED (2026-07-12, DK)
+
+APPLIED:
+- S5-4 AUTHOR'S NOTE: new front-matter paragraph (before the AI
+  notice — the debt fronts the tooling). DK's structural directive:
+  no land-acknowledgement cant (would ring false against the
+  book's own Pawnee/Sioux succession point, 09:111); acknowledge
+  what the text cannot — we do not own the white buffalo or the
+  lands through which we've followed her, and we do not pretend
+  the tellers were ever the only people in it. Names Ptesáŋwiŋ as
+  living religious tradition; names the limits (no Lakota speech,
+  no invented ceremony, no interiority); sources+limits pointed at
+  the public working record. DK holds the pen on wording — cheap
+  veto.
+- S5-2 "could not have missed" REPLACED: "My hands shook, but at
+  that distance, on an animal her size, they would have served."
+  — tremor now present at the climax (the pacifist's demand),
+  certainty converted to Farrell's forensic assessment (the
+  rabbit/bison counter-brief honored), the CHOICE preserved (full
+  incapacity-inversion rejected — it would make the brink's
+  discharge involuntary and unmake the violence design).
+- S5-3 RETRIEVAL TIMING, smallest change: "They came from the
+  north" → "They were on the ridge to the north" + "I had not seen
+  them come." Arrival converted to discovered presence — the event
+  is Farrell's noticing, not their coming; timeline visibly severed
+  from the death (they may have watched the whole vigil); the
+  tracker's own witness quietly indicted. North kept (the
+  offerings' facing). Both instruments' repair, four words.
+- Niobrara idiom: 07:137 and 09:51 aligned to the book's own
+  established usage (07:157 "The Niobrara country") — the two
+  regression stumbles answered with two words.
+
+DECLINED, DECISIVELY (DK ratification of the leans):
+- Delay Catherine's first ghost to Ch 10 — the question-arc (walks
+  → asks → holds still) is the design; her Ch 9 appearance is her
+  hardest; "curated delirium" is the DT-engine read from outside.
+- Theme-said-aloud 17:35 — KEEP; 2 instruments praised vs 1 cut;
+  "small" needs the swallowed-whole/glass-at-a-time antithesis.
+- Catherine-weight (more crossed-out drafts) — the draft's power
+  is singularity ("a real woman for exactly one paragraph"); more
+  would make it a device.
+- Ch 2–3 transit fold — single-instrument flag; the corridor
+  carries praised period texture (ferry/Kansas 2x, Spirit Lake
+  attested + counterweighted) and plants the whiskey-supply logic.
+  WATCH: revisit if a third instrument names it.
+- JE III–VI differentiation — floor stands.
+- Hostile-5's certifying-machinery repair — CLOSED AS DESIGNED:
+  the horse's ears certify the RIDERS' reality, not the miracle's
+  meaning; the buffalo's mythic behavior stays covered (barely, per
+  the scholar) by Farrell's unreliability; the charge conflates
+  certification of actors with certification of sacrament. 6
+  instruments praise the same machinery.
+- 19:45 flattening tell — #42 landing-data; the student-flip
+  evidence shows readers spend the irony themselves.
+DOCUMENT GAP: remains the one OPEN major stand, both briefs at
+full strength. 31,569 words; checker at the 6 known flags.
+
 ## The unimpressed → without-wonder iteration (2026-07-12)
 
 DK's line, APPLIED then ITERATED: "unimpressed" applied first (the

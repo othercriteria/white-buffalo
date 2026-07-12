@@ -48,7 +48,7 @@ He named a price that would have made the sutler at Fort Kearny weep with envy. 
 
 "Anything else?"
 
-"Information. I'm looking for a homestead. Family named Hardin. Man and wife, settled somewhere up the Niobrara."
+"Information. I'm looking for a homestead. Family named Hardin. Man and wife, settled somewhere up in the Niobrara country."
 
 The trader's eyes narrowed slightly. "You the law?"
 

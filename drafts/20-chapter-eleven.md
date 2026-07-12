@@ -24,7 +24,7 @@ She did not move. She did not make any sound. She simply stood there, massive an
 
 Beyond her, at the far end of the valley, the herd stood bunched and dark. None of them came near.
 
-I had my rifle. I could have raised it, sighted on her, put a bullet through her heart. She was close enough that I could not have missed. One shot, and the thing that had killed Josiah Morrow would be dead.
+I had my rifle. I could have raised it, sighted on her, put a bullet through her heart. My hands shook, but at that distance, on an animal her size, they would have served. One shot, and the thing that had killed Josiah Morrow would be dead.
 
 I did not raise the rifle.
 
@@ -54,7 +54,7 @@ I watched her go. Her white coat moved through the snow like a ship through wate
 
 She was halfway across the meadow when I saw the others.
 
-They came from the north, three or four of them, on the ridge. Men on horseback, dressed in furs and leather, dark against the snow. They sat their horses and watched as the white buffalo approached.
+They were on the ridge to the north, three or four of them. Men on horseback, dressed in furs and leather, dark against the snow. I had not seen them come. They sat their horses and watched as the white buffalo approached.
 
 Lakota, I thought. Or another vision—another gift from the fever.
 

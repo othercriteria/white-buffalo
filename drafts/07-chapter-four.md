@@ -134,7 +134,7 @@ I had heard the stories in Council Bluffs, and now I was hearing them here. The 
 
 Most of the stories would be lies, or exaggerations, or simple mistakes. A white buffalo was rare but not impossible, and a man alone on the plains was common enough. Put them together and you had a story, but stories were not evidence.
 
-Still. The Niobrara. That was where the Hardins had gone. That was where I was heading.
+Still. The Niobrara country. That was where the Hardins had gone. That was where I was heading.
 
 I collected my horse and rode out of the fort, heading west along the river, toward the place where the trail turned north.
 
