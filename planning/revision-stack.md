@@ -1430,3 +1430,101 @@ also consolidating his owned registers, #42, and the
 must-survive-revision distinctions). Future "never shows violence"
 flags are landing-data. TEXTUAL STACK NOW: two provisional keeps
 (data collectors) + #29 (held, mapped). Nothing else.
+
+## #43 — Walking-simulator form audit (2026-07-12, DK-commissioned)
+
+DK named a blind spot: two modern forms he suspects the book slipped
+into — the walking simulator and the "pacifist run" — invisible to
+every prior instrument (litfic/period reviewers don't know these
+forms exist). Two hostile games-crit personas, fresh context, blind
+drafts-only reads, standing honesty constraint.
+
+VERDICT: STRUCTURAL-BUT-BENIGN. The skeleton is admitted — route,
+lore-dispenser chain (mapped: Garrett → Aldridge's quest packet →
+Hennessey → ferry brothers → tavern → CB drunk → sutler → trapper →
+Creighton → trader; "eight stations, eight barks, one direction"),
+the homestead as environmental-storytelling level, the found-journal
+binge, double arrival-after-the-event, the buffalo as glowing
+objective marker ("Journey's mountain"). But the form's
+characteristic WEAKNESSES ruled mostly absent: Farrell's reading is
+fallible and forced ("I made it fit" praised again — now a
+multi-instrument favorite), the withheld murder pages betray the
+collectible structure in the novel's favor, the withdrawal arc
+corrupts the camera ("no game's camera hallucinates Catherine
+Hardin"), the ending refuses the epiphany cutscene, and
+tracker-as-diegetic-environmental-storyteller defeats the Gone Home
+charge (the mode is motivated, not imported). Pre-videogame
+pedigrees conceded (Wuthering Heights, epistolary, belated-witness
+Western, Butcher's Crossing).
+
+PROPOSED REPAIRS (OPEN, DK to rule):
+- W1. Ch 10 "the reader's rerun": cut re-quoted lines the reader
+  already owns (names 19:41 ship, 19:55 unmake-me), keep only what
+  we DON'T have. COLLIDES with DK's protected re-summary ruling
+  (function = the pause) — but the verbatim-requote sub-charge is
+  narrower than the restatement charge; the flame-dupe cut already
+  went this direction. See #44 P1 for the complementary half.
+- W2. Informant friction: no one lies to Farrell, no one wants
+  anything from him; after Ch 1 no human agenda collides with his.
+  Suggested: let one informant lie; let the trapper's priced want
+  breathe (both reviewers independently praised the price beat —
+  2-for-2 landing on this week's addition).
+- W3. Vary the four sighting depositions ("three thin-man-empty-eyes
+  barks are a pattern, four are a fetch quest").
+Pull-quote: "walks like a walking simulator... and then does the one
+thing no game can: it doubts what it found in the room."
+
+## #44 — Pacifist-run form audit (2026-07-12, DK-commissioned)
+
+Counter-brief to the violence-brink closure, from the discipline
+that invented the term. VERDICT: PRESENT-BUT-INTERROGATED — the
+shape without the fraud, in the protagonists' arcs: the commission
+is critiqued on page one (Aldridge hires Farrell "so that he would
+not have to" = the reader's own contract, named), the rifle is
+systematically demoted to a walking stick (only present-tense shot
+misses a rabbit; effective uses: ice-sounding, a brace that fails),
+the hero is denied showdown/witness/payment/absolution and ends
+immobile ("at settlement it hands its hero an empty sack"), DTs =
+"Mexico's collections agency... the body count un-laundered." The
+horse-grounding line (20:65, this week) cited as the detail that
+saves the ghosts from wallpaper — 2-for-2 favorable.
+
+TWO TRANSACTIONS RULED LOCALLY FRAUDULENT:
+- P1. The document gap: Morrow WROTE the murder entry (16:5 declares
+  it; Farrell reads it, 19:47) and the book withholds it while
+  printing nine other entries verbatim — "the frame's editorial
+  hand, and the frame has no diegetic editor to blame." NB: the
+  curation is designed (Morrow file §3b), but the reviewer's charge
+  lands one level up — the BOOK's entry-selection has no in-fiction
+  account. (This is the frame-editor problem, new. DK's private
+  recomposition fanon answers it exactly, and is deliberately not
+  canon.) Repair demanded: show the entry, in Morrow's hand, as what
+  Farrell reads in Ch 10 — "the gap is currently the book's flinch
+  wearing the character's clothes." Complementary to W1: swap
+  requoted-owned lines OUT, murder entry IN; would preserve the
+  protected pause-function while changing the content mix. MAJOR
+  canon decision — stages the atrocity. DK's call.
+- P2. Catherine's calm ghost (20:41): "absolution manufactured
+  in-house and stamped with the victim's face. Nothing in the text
+  earns it." SECOND independent instrument to hit the
+  unafraid-Catherine cameo (grader's consolation map was first).
+  Routed to #29 ammunition per DK's defer instruction.
+- P3 (smaller): rough one edge of the death-liturgy — the Lakota
+  retrieval currently doubles as benediction for the man in the
+  snow; reviewer also re-flags Lakota-as-sacralizing-apparatus
+  ("the leader's unreadable look is a hedge, not a complication") —
+  landing-data on #41's applied repairs. Routed to #29 ammunition.
+Also ruled real, not fraud: suicide-by-buffalo as "ultimate
+outsourcing" is flagged ("his death is not his price; his death is
+his product. The Hardins paid his price") but Morrow's self-diagnosis
+(06:53 vanity) and the refused ratification hold it at interrogated.
+Pull-quote: "builds the genre's gun, carries it a thousand miles,
+and honestly never fires it — but it still lets its murderer draft
+his own absolution, and hides the one page where the blood is."
+
+CROSS-INSTRUMENT CONVERGENCE (#43/#44): both hit Ch 10 from opposite
+sides and their repairs compose into one move (W1+P1); both praised
+the trapper price beat, the horse-grounding, and "I made it fit";
+both flagged that the book's only interpersonal collision is Ch 1.
+STATUS: #43 W1-W3 and #44 P1 OPEN awaiting DK; #44 P2-P3 banked to
+the #29 consolation map.
