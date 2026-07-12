@@ -1528,3 +1528,141 @@ the trapper price beat, the horse-grounding, and "I made it fit";
 both flagged that the book's only interpersonal collision is Ch 1.
 STATUS: #43 W1-W3 and #44 P1 OPEN awaiting DK; #44 P2-P3 banked to
 the #29 consolation map.
+
+## #45 — Regression-4 (2026-07-12, reconstructed brief; verbatim
+## relaxed per DK 2026-07-11)
+
+Fair-reader blind report. VERDICT: publishable literary fiction,
+"modest tightening pass, not a rebuild." Verdict-level diff vs
+priors: crossed-out draft STILL #1 strongest ("the whole Hardin
+marriage... in one object") ✓; kill-count read as "final-entry
+candor" ✓ (ratify vindicated — reads as designed); voices "distinct,
+mostly blind-identifiable, nine of ten" ✓ (arbitrates #47's
+too-alike charge); withheld murder entry ranked STRENGTH #3 ("the
+book's most sophisticated structural choice") — see #46 collision;
+ship-infection read as deliberate but "a cold reader may score it
+as recycling"; horse's ears strength #4; stake/skulls strength #5;
+tallow horn honorable mention (both survival enrichments landing).
+ASKS: cut/roughen 20:45 not-forgiveness; trim Catherine's no-fear;
+witness-relay = weakest #1 (cut Creighton OR the trapper);
+delirium redundancy (soldiers tableau ×2, Mexico ×3 across
+15/17/18; slackest stretch mid-Ch8→half-Ch9); "she is beautiful"
+triple (06:59, 10:21, 12:71 — keep only 12:71) — COLLIDES with
+§6b paternal protection on 10:21; JE VI "thinnest" (floor holds);
+closer-uniformity percept PERSISTS post-program ("nearly every
+section closes on a groomed cadence line"); Ch 9 closer flagged
+again ("a fine sentence that knows it" — provisional keep collects
+another hit); aspen-simile flagged as showing off (15:9).
+CONTINUITY: (a) kill-count — reads as designed; (b) Virginia
+two-departures — RECONCILES via 04:43 return, no fix; (c) Niobrara
+re-cross — FALSE ALARM per geo-ledger (post = Middle Loup forks,
+homestead between Loup and Niobrara, winter valley north of the
+river; 17:47 crossing is correct); reader equated "up the Niobrara"
+(09:51, regional idiom) with the post's river. (d) Lakota/Sioux
+diction: Morrow's use trader-sourced (02:29); Farrell's 20:63
+GROUNDED — he read the word in the journal the night before (the
+infection mechanic, unplanned but real). Never stopped caring;
+dips at mid-Ch8 and JE V–VI idles.
+
+## #46 — Hostile-4, non-comparatist, trenchance high (2026-07-12)
+
+VERDICT: SERIOUS-BUT-REMEDIABLE ("the beam is not rotten, but there
+is a cut in it exactly at the load point, and the book made the cut
+itself"). CHARGES:
+- H1 (worst) = the document gap, prosecuted harder than #44 P1:
+  "the book cannot both hide the page and excerpt it — having the
+  wound and the bandage at once"; suppressing the act while keeping
+  the commentary lets Morrow "bank the feeling without dramatizing
+  it." NEW sub-charge: the procedural hole — how does a starving
+  knife-armed man kill two prepared people (powder-and-shot George);
+  "the book flags its own hole... shrugs, and walks north." REPAIR
+  IN EITHER DIRECTION: (i) write and print the entry at full
+  procedural pressure, OR (ii) absolute absence — strike the 19:47
+  excerpt AND 18:51 "I wrote of it at the time"; "half-measures are
+  the present disease."
+- H2: Morrow inoculated-and-static ("a character who has already
+  written his own critique cannot be caught"; nine entries one
+  note). Counter-brief already in canon: the covet arc (JE V–VII),
+  the July 13 falsified could-not entry, the paternal register —
+  the book DOES catch him where his self-audit can't. DK stand.
+- H3: detective re-derivations after the reader has outrun them
+  (09:119 count re-done at 13:69, then re-derived again 13:71);
+  repair: first occurrence only.
+- H4: Catherine's calm + 20:45 disclaimer = "keep the payment,
+  disown the purchase" (third instrument); NEW flag on the Ch 8
+  Mexican-street buffalo dream (15:141-153): "the book's two themes
+  soldered together where the reader could be trusted to hold them
+  apart."
+DISMISSED ON THE RECORD: shared-war contrivance (spent honestly at
+17:37); Lakota-as-scenery (stake/skulls/horse's ears = offstage
+agency); buffalo growth (patched in the open, 16:17); ALDRIDGE
+FRAME (the non-return is the design; the last paragraph "closes it
+better than a scene would") — direct collision with #47; period
+fabric ("no charge available... holds everywhere I pressed it").
+Pull-quote: "This book flinches exactly once, at its center, and
+calls the flinch restraint."
+
+## #47 — Hostile comparatist-2 (2026-07-12)
+
+VERDICT: DERIVATIVE-BUT-ALIVE ("borrowed bones... its own blood
+circulates. An anthology of influences does not choose its refusals
+this deliberately"). Damage ranking: CONRAD worst (uninvited) —
+Heart of Darkness "owns the whole load-bearing structure"; the
+refused return-to-the-Intended = the abandoned Aldridge frame, "a
+girder left sticking out of the concrete" (COLLIDES with #46's
+on-the-record dismissal AND regression's mild "never paid off");
+The Crossing/The Bear did man-and-sacred-beast with more tragic
+scope (the successful return = "the softer, cleaner, lesser shape");
+Melville survived by inversion ("the hunt where the hunter is the
+offering is genuinely not on the shelf"); Butcher's Crossing:
+Williams' hide economy gave his emptiness "a spine" this void
+lacks; Cather: Catherine reduced-to-function EXCEPT the crossed-out
+draft ("a real woman for exactly one paragraph"). Unstaged death
+ruled right-refusal AND self-protection ("the one scene that would
+have forced it to choose what the buffalo means"). CHARGES: voices
+too-alike-from-start (REFUTED by #45's 9-of-10 blind sort — but
+note both agree the ship-infection's legibility depends on register
+contrast); Lakota scene demand ("silence-as-reverence and
+silence-as-set-dressing are separated by a scene this book didn't
+write") — vs #46 dismissal; rumor chorus "could lose one voice."
+ORIGINAL per the shelf: inverted hunt, asynchronous braid,
+refracted murder, horse's ears ("the shelf does not own that
+move"), phrase-infection, refused climax. Pull-quote: "A Moby-Dick
+told from the harpoon's side of the bargain... the wound it
+declines to show us is the most honest page in the book."
+
+## Slate-4 convergence map (2026-07-12)
+
+- THE DOCUMENT GAP: perfect three-way split — #46 worst charge +
+  #44 P1 (fraud) vs #45 strength #3 ("most sophisticated structural
+  choice") vs #47 double-mark (honest refusal AND self-protection).
+  Note #46's and #47's pull-quotes BOTH center it, on opposite
+  sides. Options now on the table: print the entry / absolute
+  absence / stand pat as designed. DK STAND REQUIRED — the round's
+  headline.
+- 20:45 not-forgiveness: now 4 instruments + the editor's fresh
+  read (grader map, #44, #46, #45). Strongest convergence in the
+  book's history. BANKED to #29.
+- Catherine's calm/no-fear (20:41): 4 instruments (grader, #44 P2,
+  #46 H4, #45). BANKED to #29.
+- RUMOR CHORUS: 4 instruments this round (#43 W3, #47, #45 weakest
+  #1, #46 H3-adjacent "Kurtz-rumor mechanics run slightly too
+  mechanically"). Emergent consensus: cut or differentiate one of
+  the four depositions (candidates named: Creighton or the
+  trapper). Actionable, small, NOT #29-coupled.
+- Ch 8–9 redundancy: #45 (soldiers tableau ×2, Mexico ×3, slackest
+  stretch) + #46 H3 (re-derivations). Distinct targets, same
+  stretch. OPEN.
+- Aldridge frame: #47 charge vs #46 reasoned dismissal vs #45
+  neutral note. Split. DK stand (cheap to stand pat: one instrument
+  of three, and the dismissal is the better argument).
+- Middle-journal drag: #46 H2 + #45 (JE VI thinnest; beautiful
+  triple). Collides with JE VI floor + §6b protection on 10:21.
+  DK stand.
+- LANDING-DATA (positive): horse's ears 4-for-4 across the two
+  rounds; crossed-out draft #1 again; stake/skulls + tallow horn
+  praised; trapper price beat 3x; kill-count reads as candor;
+  period fabric unbreached; ship-infection "genuinely Brontëan."
+- Closer-uniformity percept persists (#45 §7) — program reduced,
+  did not eliminate; collect.
+STATUS: all items OPEN pending DK rulings; nothing applied.
