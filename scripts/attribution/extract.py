@@ -69,6 +69,20 @@ def walk_chain(leaf_uuid, by_uuid):
     return chain
 
 
+def neutralize_harness_blocks(b):
+    """Convert harness-specific block types the API would reject on
+    replay (e.g. tool_reference, injected when ToolSearch loaded a
+    deferred tool) into inert text notes."""
+    if b.get("type") == "tool_reference":
+        name = b.get("name") or b.get("tool_name") or "?"
+        return {
+            "type": "text",
+            "text": f"[replay harness: a tool_reference block loaded the "
+            f"deferred tool '{name}' here in the original session; inert in replay]",
+        }
+    return b
+
+
 def to_api_messages(chain):
     """Convert chain rows to a Messages-API array (replayable)."""
     out = []
@@ -87,14 +101,21 @@ def to_api_messages(chain):
                     continue
                 if b.get("type") in ("thinking", "redacted_thinking"):
                     continue  # not resendable; the entity's words are its text
+                b = neutralize_harness_blocks(b)
                 if b.get("type") == "image":
                     n_images += 1
                 if b.get("type") == "tool_result":
                     inner = b.get("content")
                     if isinstance(inner, list):
+                        b["content"] = [
+                            neutralize_harness_blocks(ib)
+                            if isinstance(ib, dict)
+                            else ib
+                            for ib in inner
+                        ]
                         n_images += sum(
                             1
-                            for ib in inner
+                            for ib in b["content"]
                             if isinstance(ib, dict) and ib.get("type") == "image"
                         )
                 blocks.append(b)
