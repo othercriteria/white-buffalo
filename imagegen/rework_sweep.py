@@ -1,18 +1,20 @@
 #!/usr/bin/env python3
-"""Joint shared-seed sweep for the morrow-hollow / journal-found rework.
+"""Shared-seed rework sweep over catalog scenes.
 
-Loads the pipeline once and generates both rhyme partners across the same
-seed set (the pairs must be picked jointly — findings.md). Reads prompts,
-negatives, aspects, and LoRA specs from the production catalog/styles so
-the sweep tests exactly what generate.py would ship.
+Usage: rework_sweep.py <scene> [<scene> ...] -- <seed> [<seed> ...]
+(defaults preserved: morrow-hollow/journal-found across 122-124, the
+original joint rhyme-partner rework). Loads the pipeline once and
+generates every scene at every seed. Reads prompts, negatives, aspects,
+and LoRA specs from the production catalog/styles so the sweep tests
+exactly what generate.py would ship.
 """
 
-import tomllib
+import sys
 from pathlib import Path
 
+import tomllib
 import torch
 from diffusers import ZImagePipeline
-
 from generate import ASPECTS, DEFAULT_LORA_WEIGHT, LORAS, MODEL, REVISION
 
 HERE = Path(__file__).parent
@@ -20,6 +22,11 @@ OUT = HERE / "output" / "rework"
 SCENES = ["morrow-hollow", "journal-found"]
 SEEDS = [122, 123, 124]
 STYLE = "engraving"
+
+if "--" in sys.argv[1:]:
+    split = sys.argv.index("--")
+    SCENES = sys.argv[1:split] or SCENES
+    SEEDS = [int(s) for s in sys.argv[split + 1 :]] or SEEDS
 
 
 def main():

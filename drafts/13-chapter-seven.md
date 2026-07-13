@@ -14,7 +14,7 @@ When the gray light of dawn began to seep through the window, I rose and went ou
 
 The graves were still there. They had not been a dream.
 
-I stood at the edge of the little plot where they lay, two low mounds covered in snow, each one marked by a cairn of stones. In the daylight I could see them more clearly than I had the night before. Someone had taken care with them—the stones were placed deliberately, forming rough rectangles over each grave, keeping the snow and the scavengers from the bodies beneath.
+I stood at the edge of the little plot where they lay. In the daylight I could see them more clearly than I had the night before: two rough rectangles of flat stones laid close together, showing through the snow. Someone had taken care with them—the stones placed deliberately, fitted one against the next, keeping the scavengers from the bodies beneath.
 
 Two graves. The trader had said there were two Hardins, a man and a wife. That matched what I saw. Husband and wife, buried side by side on the land they had tried to make their home.
 

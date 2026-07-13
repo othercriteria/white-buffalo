@@ -2464,3 +2464,27 @@ option), p.11 calf blaze, p.43 decision, p.108 differentiation,
 fort-kearny/trading-post keep decision, frozen-man + skull-shrine
 commission decisions (conflict 3). (D) briefs for DK: curated
 journal, twin-voice persistence at hostile altitude.
+
+## Graves cycle: text + plate (2026-07-13, DK "cairn is a misstep")
+
+Ch 7 13:17 reworked (thorough option chosen over narrow): "two low
+mounds covered in snow, each one marked by a cairn of stones" +
+inert daylight sentence -> daylight sentence now DOES the work: "In
+the daylight I could see them more clearly than I had the night
+before: two rough rectangles of flat stones laid close together,
+showing through the snow." Gains: kills the cairn/heap image the
+paragraph then refuted; Ch 6's night "piled rocks" (11:111) becomes
+a quietly revised misprision (unannounced, profile-compliant);
+"forming rough rectangles" dedup'd ("fitted one against the next");
+"keeping the SNOW and the scavengers" oddity fixed; "side by side"
+left to 13:19 (was about to double). 13:21 forensic line untouched
+(load-bearing + plate anchor). ALTERNATIVE HELD (narrow): "each
+laid over with stones" one-phrase swap — rejected because the
+daylight sentence stays inert and the covered/covered repetition
+appears. Ch 6 night version deliberately NOT touched.
+
+Plate re-cut in flight: catalog [graves] reworked (flatness carries
+attention budget; dome/heap negative family; citation quotes 13:21
+verbatim); sweep s93+201-205 running. GATE LESSON for findings.md:
+zoom gate must judge MASSING as well as detail — s93 passed on
+coursing while reading as domes at print context.
