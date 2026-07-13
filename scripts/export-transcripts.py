@@ -11,6 +11,15 @@ from pathlib import Path
 # Strip ANSI escape codes
 ANSI_ESCAPE = re.compile(r"\x1b\[[0-9;]*m|\[38;2;[0-9;]+m|\[39m")
 
+# Redact credential-shaped strings (API keys, bearer tokens) so a
+# shell-expansion accident in a session can't ship in the published
+# transcripts. Applied to all exported text.
+SECRETS = re.compile(
+    r"sk-ant-[A-Za-z0-9_-]{10,}"
+    r"|\bBearer\s+[A-Za-z0-9._~+/-]{20,}"
+    r"|-----BEGIN [A-Z ]*PRIVATE KEY-----"
+)
+
 
 def get_project_sessions_dir():
     """Get the Claude sessions directory for this project."""
@@ -88,6 +97,7 @@ def format_session_markdown(messages, session_id):
         content = msg["content"]
         # Strip ANSI escape codes
         content = ANSI_ESCAPE.sub("", content)
+        content = SECRETS.sub("[REDACTED-CREDENTIAL]", content)
         if msg["role"] == "compact_boundary":
             boundary_n += 1
             role = f"COMPACTION BOUNDARY {boundary_n}"
