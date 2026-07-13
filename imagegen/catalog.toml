@@ -438,6 +438,35 @@ citations = ["05:19-21 (sheer width, far shore a thin line of trees)", "05:23 (f
 underdetermined = ["steamboat's build beyond sidewheel/stacks", "ferry propulsion (text: ropes) — not asserted, illegible at this distance"]
 dni = "clean (Farrell aboard but a speck among specks; no identifiable figure)"
 
+[cover-tracks]
+# COVER RE-CUT 2026-07-13 (round-2 gender + both illustration critics:
+# the s78 cover pre-spends the growth arc and the whiteness, and its
+# body mis-sexes her; DK ruled replacement, tracks direction). The
+# boards carry the book's true device — the pursuit as inscription,
+# "a blank white page on which only two stories were written" (17:77)
+# — the promise, not the payoff. NEITHER walker appears. Composition
+# leaves the upper field open for the deferred cover typography.
+# HARD RENDER / GATE: the two trails must read as two DIFFERENT
+# scripts — cloven buffalo prints vs a man's boot prints. If the lines
+# are indistinguishable, the image says one story twice and fails.
+# Replaces cover.png as frontispiece + EPUB cover on promotion; the
+# s78 white-head plate stays in art/ as the record.
+# v2 (DK live catch): "tracks" rounds to the tire/ski prior; boots
+# grow modern tread. v2 fought both with "separate footprints" — and
+# won the prints but lost the TWO lines (single-trail prior).
+# v3 (physics audit, DK-directed): in deep snow the two scripts are
+# not two print-chains — a 1,000-lb cow PLOWS a continuous trench
+# (why winter travelers followed bison trails; why the model's line
+# prior half-right); a gaunt man post-holes a thin broken line. Big-
+# continuous vs small-discrete: truer, more differentiated at boards
+# scale, and it conscripts the line prior instead of fighting it.
+negative = "tire tracks, wheel ruts, wagon ruts, sled tracks, ski tracks, railroad, rails, road, tread pattern, lug sole, sneaker print, zigzag tread, buffalo, bison, man, person, human figure, rider, horse, animal, wolf, birds, trees, forest, mountains, peaks, crags, cliffs, alpine, cabin, fence, wagon, sun disc, visible sun, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering"
+prompt = "strictly monochrome ink, deep winter, a wide field of deep unbroken snow seen from low along the ground, two trails running away side by side toward the far north horizon, a stride apart, never touching, converging only at the vanishing point: one the broad plowed furrow of a single heavy buffalo, a continuous trench driven chest-deep through the snow, its walls rough; the other a thin broken line of a walking man's punched boot holes, small dark separate marks, one after another, parallel to the furrow; the snow otherwise untouched, a low bare ridge at the horizon, a tall pale empty sky filling the upper half of the frame, no figure anywhere"
+aspect = "portrait"
+citations = ["17:77 (snow untouched by wind, a blank white page on which only two stories were written: the tracks of the buffalo, and the tracks of the man who followed her)", "15:77-87 (the pursuit north by track)", "17:79 (both walkers unseen at distance — here unseen entirely)"]
+underdetermined = ["horizon treatment; sky texture (kept minimal for typography room)"]
+dni = "the pursuit as inscription; neither walker shown — the promise, not the payoff"
+
 [two-stories]
 # Gap fill #2 (assembly.md, DK-blessed): Ch 9's first sight of them,
 # breaking the longest back-half bare run. From behind Farrell's eyes
