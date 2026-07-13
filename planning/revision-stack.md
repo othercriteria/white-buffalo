@@ -2761,3 +2761,22 @@ taught himself," both cognition-verbs performing (naming) the
 self-deception from inside and outside. The sanctioned
 contamination echo (20:31 "her nature demanded") UNTOUCHED — the
 correction lands upstream, at the reading, not the ending.
+
+## Disclosure-asymmetry (gender-r2 defect claim) — CLOSED, no change
+## (2026-07-13, DK skepticism confirmed by play-out)
+
+Drafting the symmetric sentence exposes the flaw: a murdered-wife-
+device notice has NO ADDRESSEE (the Ptesáŋwiŋ paragraph addresses a
+living external party who did not consent; "the genre" is the book
+itself), is SELF-GRADING (internal-to-art wrongs are answerable
+only in craft), and would damage the tradition note by converting
+its specificity into sensitivity-statement genre. The notice's
+"a man who takes what is not his" is already UNSCOPED and carries
+the wife-reading for whoever brings it; scoping = pointing.
+
+PRINCIPLE BANKED: obligations to external parties -> the notice;
+obligations internal to the art -> the working record the notice
+points to (which now holds the Catherine deliberations at length —
+the lid, the refusal, the gender rounds). The charge paid out in
+drafts/, the only honest register. Rebuttal ready if a future
+instrument re-raises.
