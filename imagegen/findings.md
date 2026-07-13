@@ -806,3 +806,36 @@ GATE AMENDMENT (standing): the zoom gate now has an explicit
 MASSING check — judge the object's volume/silhouette at print size,
 not only its surface detail. Detail can be correct while the form
 contradicts the text.
+
+## Bookend pair re-cut: first-sighting + finale-fifty-yards (2026-07-13)
+
+Round-2 charges: s87 calf at a rear straggler's heels (gap illegible
+at print context) and pale; s87 finale head carried bull mass, blood
+read as piebald spotting. Canon audit BEFORE prompting: 16:17 gives
+her massive shoulders + thickened curved horns (so bulk stays); 20:21
+puts blood on chest AND forelegs (dark lower legs are canon; the
+defect was stain-as-stockings). Female-legibility levers: horn tips
+hooked inward, narrow face, short beard — cow head at bull scale, the
+text's own hard case.
+
+Joint sweep (rework_sweep generalized), 9 shared seeds incl.
+incumbent: rhyme leaders s304 (+0.562, a record) and s87 (+0.497)
+BOTH failed content gates (s304: calf a distant dot, sun-disc glow
+returned, 3/4 stance; s87: red-tinted blood). **s305 swept the
+content gates on both scenes** — text-exact trailing geometry (herd
+away, calf alone behind, wide gap, paper-white) and the most
+cow-reading finale head of the field, square watching stance, breath
+steam, sourceless sky. Blood rendered RED at first (coordinator's own
+prompt edit had dropped the original "black-crusted" color guard —
+lesson: when rewording a won charge, carry its guard tokens
+forward); re-rolled with "ink-black" restored, stain landed black
+with ragged running edges. Rhyme +0.241 vs s304's +0.562: QUALITY
+BEFORE CORRELATION when they diverge — both-scene content correctness
+is what the rhyme exists to serve. 2x zooms: finale clean; calf
+grazes head-down and leans slightly ovine at zoom though it reads
+right at print size — FLAGGED to DK for veto rather than silently
+passed (his gate). Clamped (9.19% / 5.36%) -> art/. OOM note: a
+leaked ollama runner held 12.7GB; PYTORCH_CUDA_ALLOC_CONF=
+expandable_segments:True got the sweep through the remaining margin.
+
+art/first-sighting.png := s305; art/finale-fifty-yards.png := s305.

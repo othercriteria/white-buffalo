@@ -68,8 +68,13 @@ dni = "clean"
 # Rhyme partner: finale-fifty-yards (calf trailing the herd / cow facing the
 # viewer). Both landscape. When the finale generates, sweep ITS seeds against
 # this plate's seed and pick jointly (quality + correlation).
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, winter, snowy ground, cattle, cows, oxen, dairy calf, domestic livestock, farm animals, color, tinted, hand-colored"
-prompt = "strictly monochrome ink, seen from a low rise in bare rolling treeless sand hill country under a tall sky of shifting spring clouds, a herd of wild American bison walking away into the distance along a creek bottom, shaggy dark humped shoulders and massive low-slung heads, and far behind the herd, alone and apart with empty grass between, a single young bison calf, stocky and woolly-headed with the first rise of a shoulder hump, its coat white as snow against the brown April grass"
+# RE-CUT 2026-07-13 (round-2 instruments + coordinator zoom): promoted s87
+# put the calf at a rear straggler's heels (gap illegible at print
+# context) and let her read pale, not white. Her two jobs — alone, and
+# blazing — now carry the attention budget. Wrong-age whites guarded
+# (prior sweeps produced white ADULTS).
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, winter, snowy ground, cattle, cows, oxen, dairy calf, domestic livestock, farm animals, white adult bison, adult white cow, second white animal, gray calf, cream calf, color, tinted, hand-colored"
+prompt = "strictly monochrome ink, seen from a low rise in bare rolling treeless sand hill country under a tall sky of shifting spring clouds, a herd of wild American bison walking away into the distance along a creek bottom, shaggy dark humped shoulders and massive low-slung heads, the last animals of the herd walking well ahead, and far behind them, across a wide stretch of empty brown grass, one small bison calf entirely alone, no adult anywhere near her, stocky and woolly-headed with the first rise of a shoulder hump, her coat pure white, the single brightest thing in the scene, white as bare paper against the brown April grass"
 aspect = "portrait"  # format doctrine: plates are portrait; rhyme bookend with finale
 citations = ["02:43 (six months, autumn calf)", "02:25 (trails by ~50 yards; sun through shifting clouds)", "02:27 (white as snow/bone, not pale, not cream)", "02:21 (~200 animals, cows center, bulls on edges)"]
 underdetermined = []
@@ -369,8 +374,17 @@ underdetermined = ["journal dimensions (bible gap)"]
 dni = "clean — the book's central object as pure evidence"
 
 [finale-fifty-yards]
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, color, tinted, hand-colored, red, crimson, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, person, man, human figure, kneeling figure, hunter, visible sun, sun disc, smoke, steam column"
-prompt = "strictly monochrome ink, a great pure white bison cow, white over her whole body from head to hindquarters, standing motionless at fifty yards squarely facing the viewer across a snow-covered valley meadow, her broad white chest toward us, black-crusted dried bloodstains dark on that chest and down both forelegs, her back and flanks clean white, her breath steaming in the cold, her whole form in view seen level across the snow, the dawn sky pale and sourceless with the sun behind clouds, low rolling ridges to the north, the dark herd bunched small at the far end of the valley"
+# RE-CUT 2026-07-13 (round-2 instruments; the sexing question, gender
+# round): promoted s87's head carried bull mass and the blood read as
+# piebald spotting. Canon constrains the fix: 16:17 gives HER massive
+# shoulders and thickened curved horns and 20:21 puts blood on chest
+# AND FORELEGS (dark lower legs are canon — the defect is stain reading
+# as natural stockings/spots). Female legibility levers that remain:
+# horn tips hooked inward, narrow face, short beard, cow head at bull
+# scale. This is the text's own hard case: an outsized cow that reads
+# COW.
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, bull bison head, broad skull boss, heavy beard, piebald, spotted coat, pinto markings, dappled, dark stockings, leopard spots, color, tinted, hand-colored, red, crimson, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, person, man, human figure, kneeling figure, hunter, visible sun, sun disc, smoke, steam column"
+prompt = "strictly monochrome ink, a great white bison cow, unmistakably a cow for all her size, her face narrow, her beard short, her horns curved and hooked sharply inward at the tips, the head of a cow and not a bull, white over her whole body from head to hoof, standing motionless at fifty yards squarely facing the viewer across a snow-covered valley meadow, her broad white chest toward us, dried blood crusted ink-black in matted streaks and smears down that chest and down both forelegs, stains with ragged running edges, not spots and not markings, her back and flanks clean white, her breath steaming in the cold, her whole form in view seen level across the snow, the dawn sky pale and sourceless with the sun behind clouds, low rolling ridges to the north, the dark herd bunched small at the far end of the valley"
 aspect = "portrait"  # format doctrine; rhyme partner of first-sighting (seed 57 anchor)
 citations = ["20:21 (fifty yards; blood dried and frozen on chest and forelegs)", "20:23 (breath steaming, motionless)", "20:3-51 (steel sky, thin yellow)", "20:69 (horse behind, breath in slow clouds)", "19:73 (valley meadow, ridges north)"]
 underdetermined = []
