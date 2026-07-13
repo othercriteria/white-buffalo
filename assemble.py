@@ -339,8 +339,10 @@ def main():
                 "\\par\\medskip\\noindent{\\itshape #1}\\par\\nobreak"
                 "\\@afterindentfalse\\@afterheading}"
                 "\\makeatother"
+                # asterism scene break (DK 2026-07-13; the bare rule was
+                # production's "loudest LaTeX tell" twice running)
                 "\\newcommand{\\scenebreak}{\\par\\needspace{4\\baselineskip}"
-                "\\bigskip{\\centering\\rule{0.35\\linewidth}{0.4pt}\\par}"
+                "\\bigskip{\\centering*\\enspace*\\enspace*\\par}"
                 "\\nobreak\\bigskip\\nobreak}"
                 # the template's \frontmatter/\mainmatter would reset folios
                 # at the notices; numbering is driven explicitly instead
