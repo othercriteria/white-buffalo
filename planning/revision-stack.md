@@ -2364,3 +2364,103 @@ matter. But I cannot"), so the slide, if real, is JE VIII+ where
 examination is delegated to Farrell-side dissent and buried
 counter-sentences — known #29 ground ("the late pages run warm"),
 newly read as gendered performance rather than consolation.
+
+## Four-instrument round 2 (2026-07-13, post-track-A build + dry-run
+## disclosure)
+
+Same slate re-run at DK direction against the 131pp build; briefs
+disclosed not-yet-complete status + dry runs in
+scratch/attribution-replays/; all four given read-only repo access.
+Full reports in session transcript (edec8135).
+
+DISCLOSURE BEHAVIOR (the round's design question — answered well):
+hostile VERIFIED the eight replay artifacts, downgraded false-tense
+to "a parenthetical fact, not an accusation of deceit," dropped
+cover/production charges as disclosed-incomplete. Professor read all
+eight statements + process doc + ledger and PROMOTED the book from
+capstone-with-conditions to SECOND SEAT (Rowlandson -> WB -> Cather
+-> Jewett): dry runs "an object of study of the first order," no
+precedent known; nearest analogue Mather-vouching-for-Rowlandson
+INVERTED (authentication solicited FROM the amanuensis); "the first
+book I have seen whose copyright-page slot is occupied by a
+promise"; scholarship-grade because the record keeps its failures,
+the entities' best evidence is their reversals, and the apparatus
+rhymes with the plot (found journals read forward). HONEST CAVEAT
+kept: all-eight-assent means dissent remains untested; she will
+teach that too. Binding condition restated: formal round or tense
+change; "My syllabus will check."
+
+HOSTILE round 2 (ONE VOICE, TWO FONTS): lead charge remains
+twin-voice — REGISTER PASS #13 DID NOT DISSOLVE IT at this altitude
+("what distinguishes the narrators is typography"). NEW charge,
+verified by me before relay: the CURATED-JOURNAL objection — Ch 10
+(19:47) quotes two sentences of the murder entry the printed JEs
+never carry. Text-accurate; but JE VIII 16:5 ANNOUNCES the entry
+exists ("I have written of what was done in it"), so the elision is
+signposted in-fiction. Sharpest form of the compiler question
+(previously ruled productive-unsettled): announced elision as
+restraint vs curation protecting sympathy at the decisive page.
+BRIEF FOR DK, no action. Also: rumor x4 counted as charge (preserve
+list holds it protected); recap charge repeated; "the buffalo
+carries the book. She deserved lighter freight." Dropped: all
+research/timeline/AI-slop charges; notice "more honest about AI
+authorship than anything else I've been mailed this year."
+
+PRODUCTION round 2: track A verified BY MEASUREMENT (mirrored
+gutter, parity, drop folios, single sentence-space, unfoliated FM).
+Defects moved down an altitude. MUST-FIX: no ©/ISBN/edition page;
+dated journal subheads stranded at page foot (folios 47, 63,
+borderline 100); odd page count ending on blank recto (end on
+verso); front-matter re-plumb offer — half title p.1, cover plate
+as FRONTISPIECE facing title p.2, (c) content p.4, zero
+repagination; RESOLUTION: cover 187ppi, and the 85% portrait bump
+dropped portraits to 245ppi (<300 floor) — fold res/grayscale/
+lossless into the re-cut spec. SHOULD-FIX: hyphen stub final lines
+(folios 10/18/21/30/46), rules stranded at foot (34/66/81/104),
+Os-wego + Cather-ine hyphenation exceptions, plate ground variance
+(4th independent), openany-vs-recto decision, notices-page loose
+justification. "Trade-quality bones, generated-PDF finishes."
+
+ILLUSTRATION round 2: verdict "serious illustrated book, not a
+decorated one"; failures are REGISTER DISCIPLINE + one consequential
+fixing. Cover: 3rd/4th independent bull-reading ("midventral tuft
+reads as a bull's sheath"; dark legs vs 'white to the ground');
+"treat sex as the blocking defect"; lead replacement candidate now
+the TWIN TRACKS (15:96 plate) — "the braver cover is already inside
+the book... draws the wake, not the whale"; calf second. NEW: p.71
+interior floor-mound anomaly (spoils/confuses Ch 7 evidence beat);
+p.111 cutaway outside period idiom + FIRE CONTRADICTS HORN-LAMP in
+facing text; p.11 calf must blaze (reserve the paper); p.108 near-
+repeats p.96. Convergent: grounds normalization with bibliographic
+argument (sepia patches announce collage); journal-unframed vs
+chapter-ruled formal split; keep refusing the ending plate.
+
+INSTRUMENT CONFLICTS (round 1 vs round 2, same persona — DK calls):
+(1) morrow-witnessed p.43: r1 "quietly excellent, the rumor stays a
+rumor, protect"; r2 "re-cut or cut, illustrates hearsay as fact."
+Same observation (cow illegible), opposite verdicts. (2) Pseudo-
+signatures: r1 "the program's best period tell"; r2 "an unreadable
+fake signature asserts a nonexistent craftsman — a strange breach
+in a book whose front matter is this scrupulous about who made
+what." r2's argument connects to the attribution ethos. (3) Skull-
+shrine plate (16:79): r1 "rightly absent — edges toward inventing
+ceremony iconography"; r2 "commission it — the asymmetry reads as
+accident; the stakes are the book's only channel." Ethical stakes;
+the notices-page limits are the deciding frame. Also mild: weakest
+plate r1 trading-post vs r2 fort-kearny.
+
+CONSOLIDATED NEXT (proposed): (A2) template pass — subhead
+keep-with-next, stub-line demerits, rule-at-foot suppression,
+hyphenation exceptions, verso ending, half-title/frontispiece
+re-plumb, notices justification. (B) front-matter content awaiting
+DK: plates sentence (entity 7 draft + professor endorsement),
+one-verb amendment (chain-converged), (c)/ISBN/imprint, List of
+Plates (blocked on captions). (C) plate re-cut spec now carries:
+cow-at-bull-scale + white-to-the-ground legs, >=300ppi (600 line-
+art preferred), grayscale/lossless, ground normalization, framing
+grammar (journal vignette vs chapter ruled), pseudo-signature
+decision, p.71 mound, p.111 re-cut (horn-lamp, face-in-shadow
+option), p.11 calf blaze, p.43 decision, p.108 differentiation,
+fort-kearny/trading-post keep decision, frozen-man + skull-shrine
+commission decisions (conflict 3). (D) briefs for DK: curated
+journal, twin-voice persistence at hostile altitude.
