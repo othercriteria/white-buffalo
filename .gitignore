@@ -29,3 +29,4 @@ imagegen/training/output/
 imagegen/training/village_raw/*
 !imagegen/training/village_raw/manifest*.md
 __pycache__/
+scripts/attribution/.venv/

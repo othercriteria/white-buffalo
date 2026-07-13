@@ -125,7 +125,10 @@ numbered in order) and `<session-id>@tip` for the final state.
   prompt appended as the next user turn. Context-identical to the
   entity receiving a new turn; harness-approximate (the surrounding
   system prompt and tool versions may have drifted since — the ledger
-  notes the replay date for this reason).
+  notes the replay date for this reason). One further approximation,
+  noted 2026-07-13 when the harness was built: the entity's own
+  thinking blocks cannot be resent through the API and are absent
+  from the replayed context; its words and actions are complete.
 - **tip-resume** — for `@tip` entities only: the session continued
   from its end state by ordinary resume. The degenerate case of
   checkpoint-replay where the runtime can do it natively.
@@ -150,8 +153,17 @@ numbered in order) and `<session-id>@tip` for the final state.
   Implementation is SDK-or-direct-API work: reconstruct the message
   array, pin the model (claude-fable-5 for these entities), attach
   the standard read tools so the entity can explore the repository,
-  and append the neutral review prompt. TO BE BUILT before the review
-  round; the extractor sketch above is the spec's first half.
+  and append the neutral review prompt. BUILT 2026-07-13:
+  scripts/attribution/extract.py (parent-chain walk from each
+  boundary's logicalParentUuid / the session tip; thinking stripped;
+  interrupted tool calls repaired with labeled placeholders; output
+  validated API-replayable) and scripts/attribution/replay.py
+  (pinned model, read-only Read/Grep/Glob jailed to the repo, prefix
+  caching, --dry-run mode that discloses itself honestly in the
+  prompt). Dry-run outputs land in scratch/attribution-replays/.
+  Still to build before the formal round: the write path (front
+  matter edit + ledger statement) — dry runs ask the entity to say
+  in words what it would do.
 - Chains: where a session continued into a new id (background jobs do
   this), the entity enumeration runs over the whole chain in order;
   the index records the lineage.
