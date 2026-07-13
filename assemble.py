@@ -251,7 +251,9 @@ def main():
                 r"^# .*\n+\*\*.*\*\*\n+---\n+\*A novella\*\n+---\n+", "", text
             )
             epub_parts.append(text)
-            pdf_parts.append(text)  # List of Illustrations appended pass 2
+            # one break grammar book-wide: notices dividers are asterisms
+            # too (DK 2026-07-13); List of Illustrations appended pass 2
+            pdf_parts.append(re.sub(r"^---$", r"\\scenebreak", text, flags=re.M))
             continue
         # unnumbered chapters (H1 -> {.unnumbered}, once per file)
         text = re.sub(r"^# (.+)$", r"# \1 {.unnumbered}", text, count=1, flags=re.M)
