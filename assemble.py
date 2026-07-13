@@ -441,6 +441,20 @@ def main():
                 "\\newcommand{\\scenebreak}{\\par\\needspace{8\\baselineskip}"
                 "\\bigskip{\\centering*\\enspace*\\enspace*\\par}"
                 "\\nobreak\\bigskip\\nobreak}"
+                # title page: quiet letterspaced trade (A3 design pass,
+                # variant A of scratch/title-variants — no rules; the
+                # book's boundary grammar is whitespace, not furniture)
+                "\\renewcommand{\\maketitle}{\\thispagestyle{empty}"
+                "\\null\\vspace{0.16\\textheight}"
+                "{\\centering{\\addfontfeatures{LetterSpace=18}"
+                "\\fontsize{22}{27}\\selectfont WHITE BUFFALO\\par}"
+                "\\vspace{1.4\\baselineskip}"
+                "{\\addfontfeatures{LetterSpace=14}\\scshape a novella\\par}"
+                "\\vspace{0.32\\textheight}"
+                "{\\addfontfeatures{LetterSpace=8}\\large BEN COHEN "
+                "\\normalsize\\itshape and \\large\\upshape DANIEL KLEIN\\par}"
+                "\\vfill{\\addfontfeatures{LetterSpace=8}2026\\par}"
+                "\\vspace{0.06\\textheight}}\\clearpage}"
                 # the template's \frontmatter/\mainmatter would reset folios
                 # at the notices; numbering is driven explicitly instead
                 "\\renewcommand{\\frontmatter}{}\\renewcommand{\\mainmatter}{}"
