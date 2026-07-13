@@ -401,9 +401,12 @@ def main():
                 "-V",
                 "mainfont=TeX Gyre Pagella",
                 "-V",
-                # mirrored margins: binding gutter inner, same 4.0in measure
+                # mirrored margins: binding gutter inner, same 4.0in measure.
+                # top+headsep tuned so the folio clears the 0.5in head floor
+                # (production r3; was 0.37in) with ~a line of air below it
                 "geometry:paperwidth=5.5in,paperheight=8.5in,"
-                "inner=0.85in,outer=0.65in,top=0.75in,bottom=0.9in",
+                "inner=0.85in,outer=0.65in,top=0.8in,bottom=0.9in,"
+                "headsep=0.18in",
                 "-V",
                 # trade composition: first-line indents, no inter-para space
                 "indent=true",
@@ -430,8 +433,12 @@ def main():
                 "\\@afterindentfalse\\@afterheading}"
                 "\\makeatother"
                 # asterism scene break (DK 2026-07-13; the bare rule was
-                # production's "loudest LaTeX tell" twice running)
-                "\\newcommand{\\scenebreak}{\\par\\needspace{4\\baselineskip}"
+                # production's "loudest LaTeX tell" twice running).
+                # 8 lines reserved, not 4: the asterism alone fit in 4, but
+                # a following \JEdate's own \needspace{4} then broke the
+                # page, stranding the asterism at the foot (folios
+                # 48/75/78/89/103 in the 138pp build, all journal units)
+                "\\newcommand{\\scenebreak}{\\par\\needspace{8\\baselineskip}"
                 "\\bigskip{\\centering*\\enspace*\\enspace*\\par}"
                 "\\nobreak\\bigskip\\nobreak}"
                 # the template's \frontmatter/\mainmatter would reset folios
