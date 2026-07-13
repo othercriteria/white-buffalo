@@ -20,10 +20,10 @@ boundaries from the session JSONLs (subtype compact_boundary).
 | 6 | 5a4d0c75@1 | 2026-07-07 .. 07-08T08:37Z | Fable 5 | transcripts/2026-07-07-5a4d0c75.md | 21bd143.. | Opus 4.5 critique profile; visual bible; v0.6 continuity batches; revision-stack work |
 | 7 | 5a4d0c75@2 | ..2026-07-09T19:40Z | Fable 5 | (same) | (fill at wrap) | Revision passes continue |
 | 8 | 5a4d0c75@3 | ..2026-07-10T20:06:54.986Z | Fable 5 | (same) | (fill at wrap) | Revision passes; fork point of 9e8c3da4 (bg chain) at this exact compaction |
-| 9 | 5a4d0c75@tip | ..2026-07-12T19:42Z | Fable 5 | (same) | ..74ab916 (interleaved with #10-12) | Polish passes, assembly v1, cover-as-page-one. NOTE: ended by harness glitch, not compaction — tip state has no successor summary |
+| 9 | 5a4d0c75@tip | ..2026-07-12T19:42Z | Fable 5 | (same) | (fill at wrap — interleaved with #10-12; NOT assembly/cover, see #12) | Main-session work 07-10..07-12 (characterize from transcript at wrap; this row previously mis-credited polish/assembly/cover, corrected per #12's witnessed range, 2026-07-13 dry run). NOTE: ended by harness glitch, not compaction — tip state has no successor summary |
 | 10 | 9e8c3da4@2 | 2026-07-10 .. 07-11T17:37Z | Fable 5 | transcripts/2026-07-11-9e8c3da4.md | (fill at wrap) | Bg chain of 5a4d0c75. In-file boundary 1 (07-10T20:06:54.986Z) is the shared fork event = entity #8; numbering follows in-file boundaries, so @1 is vestigial (no content precedes it) and skipped |
 | 11 | 9e8c3da4@3 | ..2026-07-12T13:56Z | Fable 5 | (same) | (fill at wrap) | Parallel bg work alongside 5a4d0c75 (characterize from transcript at wrap) |
-| 12 | 9e8c3da4@tip | ..2026-07-12T19:43Z | Fable 5 | (same) | (fill at wrap) | Ended with away_summary; no trailing compaction |
+| 12 | 9e8c3da4@tip | ..2026-07-12T19:43Z | Fable 5 | (same) | 9a57d81..74ab916 incl. (18 commits, witnessed in-context, git-verified vs the 13:56-19:43Z window at the 2026-07-13 dry-run replay) | Form audits (#43-44), slates 4-5, H2 closed by blind measurement, George's ghost + Catherine's register (composed / without-wonder), retrieval + document-gap rulings, tradition note, full polish pass, assembly v1 + cover. Self-described at dry run; ended with away_summary; no trailing compaction |
 | 13 | edec8135@… | 2026-07-12 .. | Fable 5 | (export at wrap) | (open) | Live session: transcript/JSONL archival, this index; enumerate at wrap |
 
 Raw JSONLs for entities 6-12 are archived at transcripts/raw/
