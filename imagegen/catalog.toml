@@ -415,8 +415,23 @@ dni = "clean — the book's central object as pure evidence"
 # horn tips hooked inward, narrow face, short beard, cow head at bull
 # scale. This is the text's own hard case: an outsized cow that reads
 # COW.
-negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, bull bison head, broad skull boss, heavy beard, piebald, spotted coat, pinto markings, dappled, dark stockings, leopard spots, color, tinted, hand-colored, red, crimson, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, person, man, human figure, kneeling figure, hunter, visible sun, sun disc, smoke, steam column"
-prompt = "strictly monochrome ink, a great white bison cow, unmistakably a cow for all her size, her face narrow, her beard short, her horns curved and hooked sharply inward at the tips, the head of a cow and not a bull, white over her whole body from head to hoof, standing motionless at fifty yards squarely facing the viewer across a snow-covered valley meadow, her broad white chest toward us, dried blood crusted ink-black in matted streaks and smears down that chest and down both forelegs, stains with ragged running edges, not spots and not markings, her back and flanks clean white, her breath steaming in the cold, her whole form in view seen level across the snow, the dawn sky pale and sourceless with the sun behind clouds, low rolling ridges to the north, the dark herd bunched small at the far end of the valley"
+# RE-RE-CUT 2026-07-14 (converged 3-instrument spec + reception-pair
+# needle): s305's face reads composed/mild where 20:21 gives "utterly
+# without expression"; she sits ~55% of frame height under too much
+# sky. Spec: BIGGER in frame (whole form still in view, level — no
+# looming/foreshortening), eyes blank per canon, cow horns and
+# ink-black blood guards carried verbatim (won charges keep their
+# tokens). CONSTRAINT (chud-critic vs Sheridan-bro split): the
+# frontal iconic legibility is an asset to protect — fix composure,
+# not shirt-worthiness.
+# PROMOTED s607 (DK co-sign 2026-07-14): first sweep where the head
+# wins outright — hooked-inward horns, narrow face, blank eyes at
+# zoom; blood ragged ink-black chest+inner forelegs; fifty yards
+# legible. Rhyme vs first-sighting +0.13 (was +0.24 shared-seed) —
+# quality-before-correlation paid deliberately; s610 presence-maximal
+# runner-up (+0.21) if the pair ever needs it.
+negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, dairy cow, oxen, farm animals, bull, bull bison head, broad skull boss, heavy beard, piebald, spotted coat, pinto markings, dappled, dark stockings, leopard spots, color, tinted, hand-colored, red, crimson, artist signature, monogram, initials, handwriting, lettering, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, person, man, human figure, kneeling figure, hunter, visible sun, sun disc, smoke, steam column, gentle expression, soft eyes, kind face, sleepy eyes"
+prompt = "strictly monochrome ink, a great white bison cow, unmistakably a cow for all her size, her face narrow, her beard short, her horns curved and hooked sharply inward at the tips, the head of a cow and not a bull, white over her whole body from head to hoof, standing motionless squarely facing the viewer across a snow-covered valley meadow, her body large in the frame, filling the height of the view with little sky above her hump, her whole form in view, her broad white chest toward us, her dark eyes liquid and utterly without expression, neither threat nor welcome in them, dried blood crusted ink-black in matted streaks and smears down that chest and down both forelegs, stains with ragged running edges, not spots and not markings, her back and flanks clean white, her breath steaming in the cold, her whole form in view seen level across the snow, the dawn sky pale and sourceless with the sun behind clouds, low rolling ridges to the north, the dark herd bunched small at the far end of the valley"
 aspect = "portrait"  # format doctrine; rhyme partner of first-sighting (seed 57 anchor)
 citations = ["20:21 (fifty yards; blood dried and frozen on chest and forelegs)", "20:23 (breath steaming, motionless)", "20:3-51 (steel sky, thin yellow)", "20:69 (horse behind, breath in slow clouds)", "19:73 (valley meadow, ridges north)"]
 underdetermined = []
