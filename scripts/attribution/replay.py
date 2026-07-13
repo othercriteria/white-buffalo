@@ -46,7 +46,9 @@ pre-compaction state (or session tip) of a Claude Code session on this \
 project, replayed verbatim. The harness differs from the original session \
 runtime: only read-only repository tools are attached (Read, Grep, Glob), \
 and your original thinking blocks are not part of the replayed context. \
-Use the tools as much or as little as you want."""
+Note that only your text output enters the saved record — thinking blocks \
+from this run are not preserved, so anything you want on the record must \
+be said in text. Use the tools as much or as little as you want."""
 
 TOOLS = [
     {
