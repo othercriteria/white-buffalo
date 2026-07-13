@@ -194,9 +194,29 @@ def inject(prefix, text):
         para_end = text.find("\n\n", idx)
         if para_end == -1:
             para_end = len(text)
-        img = f"\n\n![](art/{plate}){{width={width}}}"
+        # plates reference the knocked-out copies (grounds -> page
+        # white, DK 2026-07-13: cream in art/ is the record; cream in
+        # the book is artifice); art/ is never modified
+        img = f"\n\n![](build/plates/{plate}){{width={width}}}"
         text = text[:para_end] + img + text[para_end:]
     return text
+
+
+def knockout_plates():
+    """Produce build/plates/ = art/ plates with grounds knocked to
+    page white (imagegen/knockout.py; PIL lives in that venv)."""
+    plates = sorted({p for _, _, p, _ in PLACEMENTS} | {"cover.png"})
+    subprocess.run(
+        [
+            str(ROOT / "imagegen" / ".venv" / "bin" / "python"),
+            "knockout.py",
+            *[str(ROOT / "art" / p) for p in plates],
+            "-o",
+            str(BUILD / "plates"),
+        ],
+        check=True,
+        cwd=ROOT / "imagegen",
+    )
 
 
 def illustrations_list(folios):
@@ -246,6 +266,7 @@ def plate_folios(pdf):
 
 def main():
     BUILD.mkdir(exist_ok=True)
+    knockout_plates()
     epub_parts, pdf_parts = [], []
     for path in DRAFTS:
         prefix = path.name[:2]
@@ -359,12 +380,15 @@ def main():
                 # front matter: half title (p.1), cover plate as
                 # frontispiece facing the title (p.2), then \maketitle;
                 # cover/half-title typography still a design pass
+                # plate/text boundary is whitespace, not furniture:
+                # codified minimum air around in-text cuts
+                "\\setlength{\\intextsep}{18pt plus 4pt minus 2pt}"
                 "\\AtBeginDocument{\\pagenumbering{gobble}"
                 "\\thispagestyle{empty}\\null\\vspace{0.28\\textheight}"
                 "{\\centering\\LARGE White Buffalo\\par}\\clearpage"
                 "\\thispagestyle{empty}"
                 "{\\centering\\includegraphics[height=0.95\\textheight]"
-                "{art/cover.png}\\par}\\clearpage}",
+                "{build/plates/cover.png}\\par}\\clearpage}",
                 "--include-after-body",
                 str(BUILD / "after-body.tex"),
             ],
@@ -390,7 +414,7 @@ def main():
             str(epub),
             *common,
             "--epub-cover-image",
-            str(ROOT / "art" / "cover.png"),
+            str(BUILD / "plates" / "cover.png"),
             "--toc",
             "--toc-depth=1",
         ],

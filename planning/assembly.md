@@ -67,14 +67,37 @@ prompts: point agents at build/white-buffalo.pdf (regenerate with
 - Journal-side scenes are full-page PORTRAIT plates facing their entry;
   Farrell-side evidence/places are LANDSCAPE in-text cuts set into his
   narration (period practice). Two doctrinal flexes already ruled:
-  homestead-alive and speaking-to-her are journal-side but landscape
-  (lateral subjects).
+  homestead-alive and speaking-to-her are landscape (lateral subjects).
 - A plate should sit at or just after its text anchor — the reader sees
-  the image with the words, never before the knowledge. This matters
-  most for morrow-witnessed (must not front-run the rumors) and
-  journal-found (must not front-run the camp discovery).
+  the image with the words, never before the knowledge, AND NEVER
+  MERELY EQUAL TO IT (corollary, art-critic consultation 2026-07-13,
+  DK-ratified): a plate earns adjacency by exceeding its sentence —
+  detail to verify (the evidence class: graves) or difficulty to
+  perform (the discovery class: frozen-man). Test for every future
+  plate: after the anchor sentence is read, does the image still have
+  a job? If the sentence exhausts the image, the placement (or the
+  plate) is wrong. Said-then-shown deflates; said-then-sought and
+  said-then-verified serve.
 - Farrell is never depicted; killings/death/resolution stay traces-only.
-  Nothing in this map bends either rule.
+- CAPTIONS: none, ever (CLOSED 2026-07-13, DK sign-off; both
+  consultants, independently, high confidence). Uncaptioned in-text
+  cuts + the titled List of Illustrations is the complete period
+  arrangement (Kent's Moby-Dick; Tenniel's cuts). A caption under the
+  frozen-man names what the image hides; the List does its naming at
+  a distance where it cannot intervene in the act of reading.
+- PLATE/TEXT BOUNDARY: whitespace only — no rules, no frames, and the
+  journal-vignette/chapter-ruled split is DECLINED permanently (both
+  consultants: orientation+scale already encode the narrator split; a
+  second axis is apparatus to decode). \intextsep codified at 18pt.
+  The half-page [b]-float grammar proposal: retired unimplemented.
+- GROUNDS: knocked out to page white AT ASSEMBLY (build/plates/, via
+  imagegen/knockout.py paper-tone division; DK 2026-07-13: cream in
+  art/ is the record and the model's working register; cream in the
+  assembled book is artifice — "Mexico as sepia filter." art/ is never
+  modified). Road not taken, recorded: production consultant argued
+  one uniform cream ("plates laid into the record"). Register bonus:
+  plate snow and page paper are now the same white — the
+  whiteness-as-paper metaphor is literal at assembly level.
 
 ## Unit-by-unit map
 

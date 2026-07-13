@@ -2488,3 +2488,27 @@ attention budget; dome/heap negative family; citation quotes 13:21
 verbatim); sweep s93+201-205 running. GATE LESSON for findings.md:
 zoom gate must judge MASSING as well as detail — s93 passed on
 coursing while reading as domes at print context.
+
+## Caption/separation/adjacency consultation (2026-07-13) — CLOSED
+
+Two consultants (production designer, illustration critic) on the
+frozen-man adjacency worry + the caption/separation opens. CONVERGED:
+captions none-ever (DK signed off; doctrine finally caught up —
+uncaptioned cuts + titled List = complete period arrangement);
+framing split DECLINED by both (reversing their own predecessors'
+twice-made proposal); boundary = whitespace only (intextsep 18pt).
+SPLIT on frozen-man placement: production wanted the head-piece
+inversion (plate before the passage, look-back mechanic); art critic
+ruled KEEP AS BUILT and won (DK): the adjacency is said-then-SOUGHT
+— the sentence transfers a perceptual task the image doesn't finish;
+inversion is precious/unreliable/trust-spending. PLACEMENT COROLLARY
+ratified into assembly.md: "never before the knowledge, never merely
+equal to it" + the evidence/discovery classes + the
+does-the-image-still-have-a-job test. GROUNDS: DK ruled knock out to
+page white as an ASSEMBLY action (art/ untouched — cream there is
+the record; bookwide cream is "Mexico as sepia filter");
+imagegen/knockout.py divides each plate by its paper_clamp tone;
+production's uniform-cream position recorded as road-not-taken.
+Half-page [b] float grammar: retired unimplemented. This also
+discharges round-2 production items 8/9 (RGB cast + ground variance)
+for the assembled book; print-res floor for portraits remains open.
