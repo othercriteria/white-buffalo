@@ -185,9 +185,22 @@ def fail(msg):
     sys.exit(1)
 
 
+# Units that must NEVER carry a plate (guardrails, DK 2026-07-13):
+# JE VII (14) — the murder-decision entry illustrated by nothing is the
+# plate policy working as intended; three instrument rounds have called
+# its bareness the program's best placement decision. The build fails
+# rather than lets a future placement land there.
+BARE_UNITS = {"14"}
+
+
 def inject(prefix, text):
     """Insert plate markup after each anchor paragraph for this draft."""
     for pfx, snippet, plate, width in PLACEMENTS:
+        if pfx in BARE_UNITS:
+            fail(
+                f"placement for art/{plate} targets unit {pfx}, which is "
+                "guarded bare (BARE_UNITS) — see the plate-policy record"
+            )
         if pfx != prefix:
             continue
         if not (ROOT / "art" / plate).exists():
