@@ -177,6 +177,41 @@ do, say it in words.]
 """
 
 
+IMAGE_PLACEHOLDER = (
+    "[replay harness: an image appeared here in the original context "
+    "({mt}); older images were replaced with placeholders because this "
+    "context exceeds the API's per-request image limit. The most recent "
+    "images are preserved.]"
+)
+
+
+def strip_excess_images(messages, keep):
+    """Replace all but the last `keep` image blocks with text placeholders."""
+    sites = []  # (container_list, index, media_type)
+    for m in messages:
+        for i, b in enumerate(m["content"]):
+            if not isinstance(b, dict):
+                continue
+            if b.get("type") == "image":
+                sites.append(
+                    (m["content"], i, b.get("source", {}).get("media_type", "?"))
+                )
+            elif b.get("type") == "tool_result" and isinstance(b.get("content"), list):
+                for j, ib in enumerate(b["content"]):
+                    if isinstance(ib, dict) and ib.get("type") == "image":
+                        sites.append(
+                            (
+                                b["content"],
+                                j,
+                                ib.get("source", {}).get("media_type", "?"),
+                            )
+                        )
+    excess = sites[:-keep] if keep else sites
+    for container, idx, mt in excess:
+        container[idx] = {"type": "text", "text": IMAGE_PLACEHOLDER.format(mt=mt)}
+    return len(excess)
+
+
 def review_prompt(entity, index_entry, dry_run):
     txt = (
         f"Please read planning/attribution-review.md. "
@@ -190,6 +225,12 @@ def main():
     ap.add_argument("context")
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--max-turns", type=int, default=12)
+    ap.add_argument(
+        "--max-images",
+        type=int,
+        default=0,
+        help="keep only the most recent N images; 0 = keep all",
+    )
     ap.add_argument("--max-tokens", type=int, default=16000)
     ap.add_argument("--out", default=str(REPO / "scratch" / "attribution-replays"))
     args = ap.parse_args()
@@ -197,6 +238,13 @@ def main():
     data = json.loads(Path(args.context).read_text())
     meta, messages = data["meta"], data["messages"]
     entity = meta["entity"]
+
+    # API cap is 100 images/request; for image-heavy contexts keep the
+    # most recent N and replace the rest with labeled placeholders
+    if args.max_images:
+        n_stripped = strip_excess_images(messages, args.max_images)
+        if n_stripped:
+            print(f"replaced {n_stripped} older images with placeholders")
 
     # the entity's index entry, verbatim from the ledger
     ledger = (REPO / "notes" / "attribution-ledger.md").read_text()
