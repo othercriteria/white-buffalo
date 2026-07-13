@@ -2866,3 +2866,57 @@ CONVERGENCES (banked, mostly re-certifications):
   the middle journals; assets are Ch 4–5 survival, Ch 7 forensics,
   the journal loop, folio 126 plate. "If this was 300 pages I don't
   finish" — length decision (33k) re-validated from reception side.
+
+## JE V–VI variance pass (2026-07-14, DK reopening; commit 102542b)
+
+DK direction: work JE V–VI for sag + Opus-isms + Morrow/Farrell voice
+uniformity ("inflated but not invented from nothing"). Floor logic
+RETAINED, not overridden: no cargo cut; the pass is texture variance
+per the profile's prescribed fix. Protected and untouched: §6b
+paternal register (10:21 beautiful-line, "Good."), calendar line,
+steam-off-the-cup, blank-attention beat, both plate anchors
+(land-they-had-claimed, combed-flat-grass).
+
+JE V (5 edits):
+1. Apr 22: "something in the motion that is more than animal
+   wariness" -> "she is slow to turn back to the grass" (dramatize,
+   don't assert; payoff left for the reader).
+2. May 18: creek crossing — triple ("without hesitation, without
+   care, as if it were nothing") + flat colloquial "something to
+   see" (Farrell register in Morrow's mouth) -> "did not slow at the
+   bank or pick her footing; the water broke against her chest and
+   she came out streaming." Quiet inverse of Farrell's horse testing
+   each step on ice (Ch 5), unannounced.
+3. May 18 close: "something unfinished between us, something that
+   needs to grow" stack + "I will wait." CUT — entry now ends
+   un-groomed on "ready either."; retires a wait-button (JE VI
+   Nov 19 "And so I wait." now sole owner).
+4. Jun 4: "purposeful energy of people who believe they are making
+   something that will last" -> "The man was working timber; the
+   sound of the axe reached me a beat behind the swing." (weird/
+   concrete license; distance made audible).
+5. Aug 2: felt-nothing triple compressed to "I expected to feel
+   something, watching them. There was nothing." (self-test kept).
+
+JE VI (2 edits, both Nov 5):
+6. Second explicit numbness declaration dropped ("I felt nothing."
+   before birds-or-deer — the comparison implies it; Aug 2 carries
+   the explicit report).
+7. "I do not wish them ill. I do not wish them anything." -> "I wish
+   them nothing, ill or well." — kills the exact negation-stack the
+   chud-lit critic cited (folio 78) while keeping the denial the
+   steam line undercuts. [MOST CONTESTABLE — DK veto candidate #1]
+
+DK veto candidate #2: the May 18 close (edit 3) — boldest shape
+change of the pass.
+
+Elsewhere diagnostic (grep, measurement only, NO edits): felt-nothing
+instances outside V–VI are spine (06:37 lancer, 18:33/51 final
+account, 19:45 Farrell paraphrase — designed refrain); most
+something-that hits are functional. Two live profile-pattern
+candidates flagged for [DK] taste, both high-stakes positions:
+04:61 "there was something in them, or I imagined there was"
+(assert-then-disclaim, but IS the certified naturalist
+counter-thread) and 18:45 "they see something that connects this
+world to something greater" (double-something at the peak).
+"perhaps" density now modest (top: JE I x7, mostly in-voice).
