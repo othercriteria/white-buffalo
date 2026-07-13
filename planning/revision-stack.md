@@ -2920,3 +2920,21 @@ candidates flagged for [DK] taste, both high-stakes positions:
 counter-thread) and 18:45 "they see something that connects this
 world to something greater" (double-something at the peak).
 "perhaps" density now modest (top: JE I x7, mostly in-voice).
+
+### Addendum (2026-07-14, DK check): rupture-chain audit for 102542b
+DK provisionally ok'd "ill or well" and fully ok'd the May 18 rough
+ending, conditional on a load-bearing/echo check against 19:47 ("I
+did not know I would feel this... I thought I was past feeling") —
+including the Nov 5 "I felt nothing." cut. RESULT: clean. No verbatim
+pair exists ("past feeling" is unique to 19:47; the rupture works
+against a baseline, not an echo). Baseline has five surviving
+supports (10:71 expected-to-feel, 12:59 not-part-of-world, 12:63
+ill-or-well, JE VII 87+107 no-pleasure/cannot-make-it-matter, 18:51
+cost-me-something callback). "I felt nothing" verbatim now solely
+owned by Buena Vista 06:37 — war-numbness as the anchor use.
+TIGHTENINGS: (a) Aug 2 compression is now a clean structural
+inversion of the rupture (expected-feeling-got-none vs
+expected-none-got-feeling); (b) "ill or well" maps point-for-point
+onto Farrell's 19:45 paraphrase "no hatred, no sympathy" — the
+paraphrase now reads as a condensation of the actual entry.
+"Ill or well" upgraded from provisional: it corroborates Ch 10.
