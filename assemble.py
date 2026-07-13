@@ -305,6 +305,19 @@ def main():
             # too (DK 2026-07-13); List of Illustrations appended pass 2
             pdf_parts.append(re.sub(r"^---$", r"\\scenebreak", text, flags=re.M))
             continue
+        # "Journal Entry N" -> "From the Journal — N" (DK 2026-07-13):
+        # each unit holds a batch of dated entries, and "From" admits
+        # the excerption honestly — the compiler's one visible
+        # fingerprint. Assembly-level: filenames and the "JE" planning
+        # shorthand stay.
+        if prefix in JE_PREFIXES:
+            text = re.sub(
+                r"^# Journal Entry (.+)$",
+                r"# From the Journal — \1",
+                text,
+                count=1,
+                flags=re.M,
+            )
         # unnumbered chapters (H1 -> {.unnumbered}, once per file)
         text = re.sub(r"^# (.+)$", r"# \1 {.unnumbered}", text, count=1, flags=re.M)
         text = inject(prefix, text)
