@@ -82,8 +82,6 @@ They have been keeping this valley longer than I have been keeping her.
 
 In three winters I have not once walked in her trail, though the snow is always easier where she has broken it.
 
-I have waited two years. I can wait a little longer.
-
 ---
 
 *January the Fourth*

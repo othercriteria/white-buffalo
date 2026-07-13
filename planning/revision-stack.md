@@ -2512,3 +2512,33 @@ production's uniform-cream position recorded as road-not-taken.
 Half-page [b] float grammar: retired unimplemented. This also
 discharges round-2 production items 8/9 (RGB cast + ground variance)
 for the assembled book; print-res floor for portraits remains open.
+
+## Trail-refusal sentence + waiting-couplet cut (2026-07-13, DK)
+
+Image work on the cover (s514's merged trail) raised the question:
+would Morrow walk in her footsteps? RULED NO from the text's own
+liturgy (the stake precedent: non-contact reverence; walking her
+trail = taking from her) and 17:77's two-stories geometry. Physics
+audit (DK-directed) established the real track geometries: a
+1,000-lb cow PLOWS a continuous trench in deep snow (discrete cloven
+prints only on scoured crust, two staggered rows); a gaunt man
+post-holes a thin broken line. The two scripts = big-continuous vs
+small-discrete; cover v3 prompt conscripts the model's line prior
+accordingly.
+
+EXPANSION APPLIED (DK approved, placement mine): JE VIII Jan 1, own
+paragraph after the keeping line: "In three winters I have not once
+walked in her trail, though the snow is always easier where she has
+broken it." Beside the stake liturgy, never linked aloud; the
+retrospective covers all winters without touching JE IV's protected
+stub form; lands before Ch 9's two-stories so the two-lines-apart
+reads as kept discipline. JE IV placement REJECTED: herd-swath
+confound (he follows the herd's beaten road there; the refusal only
+means something where her line runs apart).
+
+CUT (DK): "I have waited two years. I can wait a little longer." —
+the trail sentence implies the waiting; the couplet was the
+profile's groomed closer AND the stack's flagged "I can wait"
+button (item at line ~158; JE VI 12:117's instance now unique).
+Entry now ends on the physical fact carrying the patience. Jan 4's
+"Soon." lands harder without the wait-counter before it.
