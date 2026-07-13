@@ -839,3 +839,41 @@ leaked ollama runner held 12.7GB; PYTORCH_CUDA_ALLOC_CONF=
 expandable_segments:True got the sweep through the remaining margin.
 
 art/first-sighting.png := s305; art/finale-fifty-yards.png := s305.
+
+## New plate: frozen-man (2026-07-13) — the register ceiling round
+
+First plate commissioned since the catalog run (round-2 instrument
+commission; r1's never-depict-the-dead pattern knowingly amended — DK
+rationale in catalog: the one naturalistic dead man as counterweight
+to Morrow's rhetorical death and Farrell's spectral dead; not on the
+written DNI list, which covers the killings/Morrow/ending/Lakota).
+Composition = the text's own near-miss (09:17): wide quiet landscape,
+the hand small and findable, never foreground. Calm face (15:69,
+owned chain) prose-only — and the promoted placement keeps it off the
+plate's PAGE: the face line falls after the page turn.
+
+DK graded the sweep LIVE against his horrific line: s401/s402 OVER
+(claw silhouettes performing death); s403 register-perfect but
+HANDLESS — kept as the CONTROL: same landscape minus the hand,
+proving ~12 dark pixels carry the entire charge; s404 ON the line
+(good hand, dark drift-hollow beside it); s405 UNDER the line and
+complete — promoted provisionally, s404/s403 fallbacks (seeds
+reproducible: v1 prompt now provenance-pinned in catalog; v2
+near-miss wording drafted at 08b31ac, never needed). s406 failed
+continuity (fresh tracks vs a body drifted over to the crown).
+
+Pathos-mining question (DK) resolved on the dose test: the plate
+ADDS no claim the text doesn't make and matches the anchor's own
+quantity of horror; the discomfort is supplied by the reader
+completing the sign — the book's method applied to its reader.
+Mining is addition; s401/402 were the additive versions and were
+rejected. The dark limb vs "pale": engraver's necessity, accepted
+with eyes open (findable beats faithful; a pale hand on white paper
+is s403).
+
+FLAG for the plate program: frozen-man lands at folio 53 with
+trading-post at 54 — adjacent plates. Strengthens r1/r2's
+trading-post/fort-kearny expendability question; DK's call, not
+bundled here.
+
+art/frozen-man.png := s405 (clamped, 7.65% over-white). 18 plates.

@@ -66,6 +66,12 @@ PLACEMENTS = [
     ("08", "I did not touch it. I did not camp near it.", "offering-stake.png", "85%"),
     (
         "09",
+        "reaching up out of the white.",
+        "frozen-man.png",
+        "100%",
+    ),
+    (
+        "09",
         "a horse stood in a lean-to stable against the south wall, its breath steaming in the cold air.",
         "trading-post.png",
         "100%",
@@ -136,6 +142,7 @@ PLATE_TITLES = {
     "fort-kearny.png": "Fort Kearny",
     "morrow-witnessed.png": "The trapper's tale",
     "offering-stake.png": "The offering stake",
+    "frozen-man.png": "The frozen man",
     "trading-post.png": "The trading post",
     "homestead-alive.png": "The land they had claimed",
     "homestead.png": "The homestead, abandoned",

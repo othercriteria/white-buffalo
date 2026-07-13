@@ -125,8 +125,17 @@ dni = "clean"
 # Morrow plate — never this one. The composition is the text's own
 # near-miss ("I might have passed him by"): a wide quiet landscape in
 # which the hand is SMALL and must be found, not a foreground hand.
-negative = "face, head, corpse visible, body exposed, torso, shoulder, arm above the elbow, emerging figure, zombie, skull, bones, person standing, human figure, rider, horse, birds, raven, crow, vulture, wolf, cross, grave marker, blood, close-up, foreground hand, large hand, dramatic, looming, low angle, mountains, peaks, crags, cliffs, alpine, trees, forest, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a wide quiet winter landscape in broken treeless hill country seen from an animal trail, a narrow draw between low ridges filled with drifted snow, the drift smooth and wind-carved, rising over one low buried length, and small in the white field, easy to miss, a single bare human hand and forearm reaching up out of the snow, stiff and still, the only mark in the emptiness, gray overcast winter light, the land open and silent in every direction"
+# PROVENANCE: promoted s405 was generated with THIS prompt (v1); DK
+# graded the sweep live (401/402 over the horrific line, 403
+# register-perfect but HANDLESS — kept in findings as the control
+# proving the hand carries the whole charge, 404 on the line, 405
+# under it and complete). A stronger near-miss wording (v2) was
+# drafted at commit 08b31ac and never needed; use it if re-rolls come.
+# The dark limb fights "pale" (09:17) — the engraver's necessity: a
+# pale hand on white paper would be no hand; findable beats faithful
+# here, accepted with eyes open.
+negative = "face, head, corpse visible, body exposed, torso, shoulder, arm above the elbow, emerging figure, zombie, skull, bones, person standing, human figure, rider, horse, birds, raven, crow, vulture, wolf, cross, grave marker, blood, mountains, peaks, crags, cliffs, alpine, trees, forest, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, deep winter in broken treeless hill country, a narrow draw between low ridges filled with drifted snow, the drift smooth and wind-carved, rising in one place over a low buried length the size of a man, and reaching up out of the white surface a single bare human hand and forearm, stiff and still, fingers slightly curled, the only mark in the unbroken snow, a faint animal trail winding past below the draw, gray overcast winter light, the land empty in every direction"
 aspect = "landscape"
 citations = ["09:5 (broken ridges and deep draws, no plan to it)", "09:17 (drifted over him almost to the top of his head; 'the hand—pale and stiff, reaching up out of the white')", "09:7 (drifts higher than a horse's head)", "15:69 (the calm face — chain-owned, prose-only: a constraint on this plate, not content)"]
 underdetermined = []
