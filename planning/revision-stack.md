@@ -2938,3 +2938,26 @@ expected-none-got-feeling); (b) "ill or well" maps point-for-point
 onto Farrell's 19:45 paraphrase "no hatred, no sympathy" — the
 paraphrase now reads as a condensation of the actual entry.
 "Ill or well" upgraded from provisional: it corroborates Ch 10.
+
+## A3 batch COMPLETE (2026-07-14, commits 06dc6f9 + 58e16e3; 142pp)
+- Head margin: folio top 0.37in -> 0.51in (top=0.8in, headsep=0.18in;
+  relation solved empirically: folio-top = top - headsep - 7.92pt).
+  ~1 line of air folio->text.
+- Asterism strands: mechanism was scenebreak's needspace{4} satisfied
+  by the asterism alone, then \JEdate's own needspace{4} breaking the
+  page (all 5 strands were journal units). scenebreak now reserves 8.
+  Full-book scan: zero foot-strands; top-of-page asterisms remain by
+  design (marker survives the turn).
+- M4 short pages: resolved by the reflow — old folio 48 ends flush on
+  "That life is over."; pre-plate page now ends exactly on "a leather-
+  bound book." with the plate overleaf (ideal turn). No float work.
+- S9 sentence-spacing: CLOSED FALSE (frenchspacing live in
+  header-includes — proven by sibling macros rendering; r2
+  measurement stands).
+- Title page: variant A applied (letterspaced caps, no rules; echoes
+  the ILLUSTRATIONS head). Variant B (Victorian rules) built and
+  declined — whitespace-not-furniture extends to display. Both in
+  scratch/title-variants/ for DK veto.
+- M6 TK-line reset still rides with real furniture (rights/ISBN).
+- 142pp (was 138; needspace-8 + shorter block); colophon recto 141,
+  blank verso 142 — end-leaf guarantee held.
