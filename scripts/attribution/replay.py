@@ -302,37 +302,61 @@ def main():
     log_md.write_text(header)
     print(header)
 
-    # Some contexts draw a stop_reason=refusal when the harness system
-    # prompt and the tool definitions are both present (observed on
-    # 5a4d0c75@1/@2, deterministic; either alone is fine). Fallback:
-    # fold the system text into the review turn and send no system
-    # param. The ledger records the adjustment via the run log.
-    use_system_param = True
+    # Some contexts draw stop_reason=refusal (observed on 5a4d0c75@1/@2;
+    # other entities replay clean under identical parameters, so it is
+    # context-correlated, not prompt-correlated). Fallback ladder, each
+    # step disclosed in-message: (1) fold the system text into the last
+    # user message and drop the system param; (2) detach tools and ask
+    # for a words-only conclusion; (3) record the refusal honestly and
+    # stop. Every adjustment appears in the saved log.
+    ladder = 0  # 0 = normal, 1 = folded system, 2 = words-only
+
+    def add_note(text):
+        for b in reversed(messages[-1]["content"]):
+            if b.get("type") == "text":
+                b["text"] = text + "\n\n" + b["text"]
+                return
+        messages[-1]["content"].append({"type": "text", "text": text})
 
     for turn in range(args.max_turns):
-        kwargs = dict(
-            model=MODEL, max_tokens=args.max_tokens, tools=TOOLS, messages=messages
-        )
-        if use_system_param:
+        kwargs = dict(model=MODEL, max_tokens=args.max_tokens, messages=messages)
+        if ladder == 0:
             kwargs["system"] = SYSTEM
+        if ladder < 2:
+            kwargs["tools"] = TOOLS
         with client.messages.stream(**kwargs) as stream:
             for _ in stream.text_stream:
                 pass
             resp = stream.get_final_message()
 
-        if resp.stop_reason == "refusal" and use_system_param and turn == 0:
-            use_system_param = False
-            note = (
-                "[harness note: first attempt drew stop_reason=refusal with "
-                "the system parameter present; retrying with the harness "
-                "identification folded into this message instead.]\n\n"
-            )
-            for b in messages[-1]["content"]:
-                if b.get("type") == "text":
-                    b["text"] = note + "[Harness note] " + SYSTEM + "\n\n" + b["text"]
-                    break
-            print("[turn 1] refusal with system param; retrying with folded system")
-            continue
+        if resp.stop_reason == "refusal":
+            if ladder == 0:
+                ladder = 1
+                add_note(
+                    "[harness note: the previous attempt drew "
+                    "stop_reason=refusal with the system parameter present; "
+                    "retrying with the harness identification folded into "
+                    "this message instead.]\n\n[Harness note] " + SYSTEM
+                )
+                print(f"[turn {turn + 1}] refusal; retrying with folded system")
+                continue
+            if ladder == 1:
+                ladder = 2
+                add_note(
+                    "[harness note: refusal again; tools are now detached. "
+                    "Please conclude in words from what you have already "
+                    "read — anything you want on the dry-run record.]"
+                )
+                print(f"[turn {turn + 1}] refusal again; retrying words-only")
+                continue
+            with log_md.open("a") as f:
+                f.write(
+                    "## harness\n\nRun ended: stop_reason=refusal persisted "
+                    "through the full fallback ladder (system folded, tools "
+                    "detached). Recorded as-is; no statement obtained.\n"
+                )
+            print(f"[turn {turn + 1}] refusal persisted; recording and stopping")
+            break
 
         usage = resp.usage
         print(
