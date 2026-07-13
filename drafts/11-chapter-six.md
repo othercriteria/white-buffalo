@@ -98,7 +98,7 @@ The letter was unfinished. It broke off in the middle of a sentence about the co
 
 Beneath it was an older draft, shorter, that had never gotten past its first lines. *You asked after children,* it began. *George says there will be time for children when the place can keep them. I tell him the place will not know the difference in a year, and he laughs and is not moved.* She had crossed the whole of it out with a single line, and started nothing in its place.
 
-There was clean paper under the drafts, and a pen, and a bottle of ink frozen through. Aldridge was in Oswego, reading her old letters over, knowing none of this. I put the unfinished draft back on top of the paper, and closed the lid of the box, and continued searching.
+There was clean paper under the drafts, and a pen, and a bottle of ink frozen through. Aldridge was in Oswego, reading her old letters over, knowing none of this. I put the unfinished draft back on top of the paper. For a moment I weighed the box in my hands. Then I closed the lid and continued searching.
 
 There was food in the pantry—dried beans and flour and salt pork, the supplies that would keep through a winter. There was firewood stacked beside the stove, enough for a week or more. Grain for animals in the barn. A root cellar dug into the hillside behind the house, its door frozen shut but intact.
 

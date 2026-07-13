@@ -2687,3 +2687,34 @@ wrap cells; Opus 4.5 extension decision [DK]). Notices-vs-colophon
 placement conflict [DK]. Rights/license/ISBN real furniture [DK].
 F (rounds): next instrument re-run AFTER A3+B2+C2(1-3) land; add
 the period-auditor and a cold general reader to the slate then.
+
+## The lid (2026-07-13, DK + coordinator deliberation) — APPLIED
+
+Gender-r2's sharpest find (Farrell returns the drafts to the box and
+carries the male journal home) deliberated with DK's broadening:
+Aldridge will never come West; retrieval agents won't curate a
+writing box; so the lid choice is DEFINITIVE on whether Aldridge
+ever learns what's in the drafts. Ruling structure: the crossed-out
+draft is the letter Catherine herself killed — carrying it delivers
+the unsent and makes Farrell her editor; the box is indivisible
+(can't carry the hopeful draft and suppress the crossed one); the
+box is also the natural unit of carriage (loose paper dies in a
+winter saddlebag) AND the decorous unit of delivery — same noun,
+both beats. Leaving it shut whole = Farrell's best act of
+sign-reading: he sees the words AND the line through them, and
+obeys the line. The outcome DK predicted held; it is now chosen,
+not defaulted.
+
+APPLIED: (V2) Ch 11 southward inventory (20:69) gains "and her
+letters in their box," between the supplies and the hundred dollars
+— the box surfaces in the ledger of what he is NOT carrying, beside
+the money he is; no reasoning. (Softened V1) Ch 6 lid moment
+(11:101): "I put the unfinished draft back on top of the paper. For
+a moment I weighed the box in my hands. Then I closed the lid and
+continued searching." — the weighing LITERAL (a small box, hefted),
+the deliberative sense riding under the physical verb; no
+recipient, no purpose, per DK's sweet-spot spec. Full V1 (stated
+reasoning) rejected as the one thing the book never does. Remains
+question (Aldridge shipping the bodies East) deliberately
+unwritten — post-frame, covered by the unclosed-Aldridge ruling;
+reasoning on record here.

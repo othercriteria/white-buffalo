@@ -66,6 +66,6 @@ The white buffalo reached them. They turned their horses, and she fell in among 
 
 I watched until they disappeared over the ridge.
 
-Behind me, the horse waited. I could hear him shifting in the snow, his breath coming in slow clouds. He would carry me south if I could reach him—back to the creek, back to the homestead where the Hardins had laid in enough supplies to last a winter, back to Oswego and the hundred dollars owed me on the answer in my saddlebag, back to the living world. He would carry me, if I could make myself move.
+Behind me, the horse waited. I could hear him shifting in the snow, his breath coming in slow clouds. He would carry me south if I could reach him—back to the creek, back to the homestead where the Hardins had laid in enough supplies to last a winter, and her letters in their box, back to Oswego and the hundred dollars owed me on the answer in my saddlebag, back to the living world. He would carry me, if I could make myself move.
 
 I was not moving. I was kneeling in an empty valley beside a man I had never met, with blood on the snow and nothing left to follow.
