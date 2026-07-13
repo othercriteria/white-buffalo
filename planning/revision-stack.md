@@ -2976,3 +2976,20 @@ imagegen env migrated to Python 3.14 (torch 2.10+cu128, safetensors
 0.8; commit 8fdea63) — old sweeps not bit-reproducible on new stack;
 fifty-yards s607 promoted earlier (81492c4); art/cover.png demoted
 (d0d4441).
+
+## C2 verify items closed (2026-07-14)
+- C2(3) tracks-north furrow vocabulary: CLOSED NO-CHANGE. The furrow
+  idea does not transfer from the cover — tracks-north v4 already
+  carries a DK ruling AGAINST fused furrows (separate prints, clean
+  snow between; "furrows" heads its negative), and 15:79 canon gives
+  sharp-edged discrete prints at a shallow-draw crossing. Frontispiece
+  (JE VIII deep-snow trail-breaking = furrow) and Ch 8 (fresh crossing
+  = deep prints) are different ground and different snow; the
+  divergence is load-bearing — the reader learns the snow varies.
+  Uniform vocabulary would be the false move.
+- C2(8) offering-stake cloth: VERIFIED ACCEPTABLE. Zoom shows
+  thread-fringe ends and ragged tail ("worked to threads" legible);
+  stake head split and weathered. Residual: cloth body near the knot
+  more intact than a literalist read — noted, no re-cut.
+- C2(9) first-sighting calf gap: VERIFIED at print scale during the
+  whole-book read (folio 11) — the empty stretch reads.
