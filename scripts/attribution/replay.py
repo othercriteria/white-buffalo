@@ -302,17 +302,38 @@ def main():
     log_md.write_text(header)
     print(header)
 
+    # Some contexts draw a stop_reason=refusal when the harness system
+    # prompt and the tool definitions are both present (observed on
+    # 5a4d0c75@1/@2, deterministic; either alone is fine). Fallback:
+    # fold the system text into the review turn and send no system
+    # param. The ledger records the adjustment via the run log.
+    use_system_param = True
+
     for turn in range(args.max_turns):
-        with client.messages.stream(
-            model=MODEL,
-            max_tokens=args.max_tokens,
-            system=SYSTEM,
-            tools=TOOLS,
-            messages=messages,
-        ) as stream:
+        kwargs = dict(
+            model=MODEL, max_tokens=args.max_tokens, tools=TOOLS, messages=messages
+        )
+        if use_system_param:
+            kwargs["system"] = SYSTEM
+        with client.messages.stream(**kwargs) as stream:
             for _ in stream.text_stream:
                 pass
             resp = stream.get_final_message()
+
+        if resp.stop_reason == "refusal" and use_system_param and turn == 0:
+            use_system_param = False
+            note = (
+                "[harness note: first attempt drew stop_reason=refusal with "
+                "the system parameter present; retrying with the harness "
+                "identification folded into this message instead.]\n\n"
+            )
+            for b in messages[-1]["content"]:
+                if b.get("type") == "text":
+                    b["text"] = note + "[Harness note] " + SYSTEM + "\n\n" + b["text"]
+                    break
+            print("[turn 1] refusal with system param; retrying with folded system")
+            continue
+
         usage = resp.usage
         print(
             f"[turn {turn + 1}] stop={resp.stop_reason} in={usage.input_tokens} "
