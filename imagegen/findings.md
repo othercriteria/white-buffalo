@@ -775,3 +775,34 @@ Round-1 fallbacks retired: s302 (bascule leaf, anachronistic), s304
 (handsome, draw illegible). s306 note: the model volunteered a TRAIN
 on the deck — right idea, wrong moment (train + open draw is a
 contradiction; also it steals the steamer's beat).
+
+## Plate 7 re-cut: graves (2026-07-13) — the massing gate
+
+Round-2 instrument panel + coordinator zoom re-read the promoted s93
+at PRINT CONTEXT as two domed stone heaps — the original zoom gate
+had judged the stone COURSING (flat, no crosses) and missed the
+MASSING (domed). The forensics make this substantive, not cosmetic:
+13:21 reasons deep-burial FROM flat-lying stones; a dome testifies
+to the shallow burial the text rules out.
+
+Cycle (one-image-at-a-time discipline, DK): (1) text first — DK
+ruled Ch 7's "cairn of stones" a misstep; 13:17 reworked so the
+daylight sentence performs the night-glance correction ("two rough
+rectangles of flat stones laid close together, showing through the
+snow"); Ch 6's "piled rocks" kept as designed misprision. (2)
+catalog [graves] re-prompted: flatness carries the attention budget
+(zero-sum corollary applied), dome/heap family negatived, 13:21
+quoted in citations. (3) Sweep s93+201-205: weeping willows
+returned in s93/s201/s205 (mourning-emblem prior beats the negative
+AGAIN — third occurrence; negatives are probabilistic, the zoom
+check remains the gate); s204 regressed to raised beds; s202
+flattest but grew a fence line. **s203 passed all gates**: flat
+single-course rectangles, snow between stones (now the text's own
+phrase), brushy thickets, sod structure, pole wall contained, clean
+corners, no scrawl. Clamped (6.45% over-white snow highlights) ->
+art/graves.png.
+
+GATE AMENDMENT (standing): the zoom gate now has an explicit
+MASSING check — judge the object's volume/silhouette at print size,
+not only its surface detail. Detail can be correct while the form
+contradicts the text.
