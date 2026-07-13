@@ -2718,3 +2718,46 @@ reasoning) rejected as the one thing the book never does. Remains
 question (Aldridge shipping the bodies East) deliberately
 unwritten — post-frame, covered by the unclosed-Aldridge ruling;
 reasoning on record here.
+
+## Manufacturing-her-refusal: B + Farrell epistemic correction
+## (2026-07-13, DK ruling) — APPLIED
+
+Gender-r2 sit-with #3 deliberated. Textual state established: the
+MECHANICAL admission exists (16:23 "Not unless I make her"; 16:39
+"provoke the instinct") but the moral counter-pressure lives only in
+JE III (06:53 vanity/pride) — the back half's liturgy ran unopposed,
+giving the lyricism-slide finding an address (counter-sentences
+don't slide, they STOP). Oct 26's sentence performs the laundering
+in one breath: "I will force her to react, to choose... because she
+is what she is... she will choose fight."
+
+DK REFRAME adopted: Morrow already IS a knowing predator at the
+subsistence level — eats the kin's flesh raw (JE IV Dec 11), walks
+in another's skin (the half-hide robe) — licensed naturalistically
+(a need he is sensitive to as a human; the herd, by nature, is
+not). The theology exempts only HER; the final act is the exemption
+collapsing: the one animal he vowed never to take from becomes the
+one he takes most from, papered with her name. (On the record, DK:
+"topping from the bottom" is in the gender scholar's toolbox — his
+submission is itself the script he authors — too facile as a
+write-off, right as a note.)
+
+APPLIED (B), JE VIII Oct 26, after "she will choose fight": "Or I
+will have chosen it for her, and called it hers. I have decided
+that it comes to the same thing." — full sight for ten words, the
+self-deception performed by "I have decided," the liturgy resuming
+over it (commandment-line device, second use).
+
+APPLIED (Farrell epistemic correction, DK's opening: not a moral
+position, a LESS COGNITIVELY DISTORTED relation to animals used
+instrumentally — the horse is the book's standing model: bark,
+sweat-death rule, use-as-taking carried honestly, never
+theologized, which is WHY its ears can testify at the end). Ch 10
+reading night, directly after the unmake-quote: "I had worked
+animals all my life and taken what they had, and known I was
+taking it. He had taught himself that she was giving." —
+cross-echo designed: Morrow's "I have decided" / Farrell's "He had
+taught himself," both cognition-verbs performing (naming) the
+self-deception from inside and outside. The sanctioned
+contamination echo (20:31 "her nature demanded") UNTOUCHED — the
+correction lands upstream, at the reading, not the ending.

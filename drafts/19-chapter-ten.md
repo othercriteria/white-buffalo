@@ -54,6 +54,8 @@ The fire burned low as I read the final entries. He had grown calm as the end ap
 
 *She can take this hollow thing I have become and unmake it,* he had written. *She can give my death a meaning that my life never had.*
 
+I had worked animals all my life and taken what they had, and known I was taking it. He had taught himself that she was giving.
+
 On the last page he wrote that he was sorry for the Hardins. A few lines below, he wrote that he was not sorry for any of it. I read the page twice, and it said both things both times.
 
 I set the journal down and looked into the fire. The soldiers stood around me in a circle, watching, waiting. Catherine Hardin stood with them, her pale face turned toward me, her eyes asking questions I could not answer.

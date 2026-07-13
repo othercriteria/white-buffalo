@@ -64,6 +64,8 @@ I will approach her at dawn, when the light is pale and the air is cold and the 
 
 I will run at her, shouting, waving my arms, doing everything I can to seem like a threat. I will force her to react, to choose between flight and fight. And because she is what she is—proud, powerful, sacred—she will choose fight.
 
+Or I will have chosen it for her, and called it hers. I have decided that it comes to the same thing.
+
 She will lower her head and charge. She will strike me with those horns, those hooves, all that weight. And I will die.
 
 ---
