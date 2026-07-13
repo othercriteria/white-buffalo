@@ -204,8 +204,23 @@ dni = "distance enforced: tiny figures, no faces, no interiority — the watchin
 # rules out). Flatness now carries the attention budget; dome/heap
 # family added to the negative. Note "low mounds" (13:17) = barely a
 # ground swell, not a stone dome.
-negative = "mountains, peaks, crags, cliffs, alpine, cross, crosses, headstone, gravestone, grave marker, dome, domed, mounded stones, stone heap, heaped stones, stone pile, piled stones, stacked stones, loaf, barrow, fence, person, human figure, color, tinted, hand-colored, artist signature, monogram, lettering, weeping willow, frame house, clapboard, brick chimney, masonry chimney, shingles"
-prompt = "strictly monochrome ink, two graves side by side in level snowy ground, each a rough rectangle of many flat stones laid close together in a single flat course, the stone rectangles lying flat and low, flush with the ground like patches of rough pavement, barely raised, no heap and no dome, unmarked, no cross and no headstone, snow between the stones, the pole wall of a lean-to at the frame's edge, a low snow-covered sod house small in the middle distance, brushy willow thickets along the frozen creek, gray winter light"
+# RE-CUT 2026-07-14 (coordinator whole-book read, post-A3): promoted
+# s203 rendered a tall vertical-log PALISADE and a heavy log building
+# — fort furniture in timber-poor country (same error class as the
+# cover's tire tracks). Mechanism: "the pole wall of a lean-to" — wall
+# is the head noun, so the model built a wall of poles; the lone
+# "fence" negative lost. Fix: lean-to element REMOVED (the attractor),
+# sod construction language strengthened, fort/stockade family added
+# to negative. Graves language unchanged — flatness charges keep
+# their tokens.
+# PROMOTED s709 (DK bless 2026-07-14): fitted flat courses, no doming;
+# house reads layered sod/turf (only convincing sod wall of 13 seeds;
+# DK: background plants "a bit sus" but not weeping-willow — accepted).
+# s708 had the single best graves (flush pavement, softened footprints
+# = 13:45 evidence) but an unambiguous STONE cottage — failed the same
+# material-culture audit this re-cut exists to enforce. s704 alternate.
+negative = "mountains, peaks, crags, cliffs, alpine, cross, crosses, headstone, gravestone, grave marker, dome, domed, mounded stones, stone heap, heaped stones, stone pile, piled stones, stacked stones, loaf, barrow, fence, palisade, stockade, log wall, vertical posts, post wall, timber wall, fort, corral, log cabin, log building, log walls, person, human figure, color, tinted, hand-colored, artist signature, monogram, lettering, weeping willow, frame house, clapboard, brick chimney, masonry chimney, shingles"
+prompt = "strictly monochrome ink, two graves side by side in level snowy ground, each a rough rectangle of many flat stones laid close together in a single flat course, the stone rectangles lying flat and low, flush with the ground like patches of rough pavement, barely raised, no heap and no dome, unmarked, no cross and no headstone, snow between the stones, open level ground around the graves, a low snow-covered house built of cut sod blocks with a turf roof, small in the middle distance, brushy willow thickets along the frozen creek beyond it, bare open plains at the horizon, gray winter light"
 aspect = "landscape"
 citations = ["11:111-113, 13:17-21 (two graves, side by side, rough rectangles of stones, unmarked, behind the barn)", "13:21 (deep burial: 'the stones lay flat, not mounded up as they would have been over a shallow burial')"]
 underdetermined = []

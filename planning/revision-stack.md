@@ -2961,3 +2961,18 @@ paraphrase now reads as a condensation of the actual entry.
 - M6 TK-line reset still rides with real furniture (rights/ISBN).
 - 142pp (was 138; needspace-8 + shorter block); colophon recto 141,
   blank verso 142 — end-leaf guarantee held.
+
+## Graves palisade re-cut: s709 promoted (2026-07-14, DK bless)
+Coordinator whole-book read caught fort furniture (palisade + log
+building) in promoted s203 — self-inflicted: "the pole wall of a
+lean-to" (head-noun lesson, 3rd instance; "fence" negative lost).
+Fix: attractor removed, sod language strengthened, stockade family
+negatives. 13 seeds (12 old-stack + s999 first new-stack render):
+palisade 0/13. s709 promoted (fitted flat graves + only convincing
+sod house); s708's graves were best-in-class but its house was
+unambiguous stone masonry — failed the audit the re-cut enforces.
+DK: background plants "a bit sus," accepted. ALSO this cycle:
+imagegen env migrated to Python 3.14 (torch 2.10+cu128, safetensors
+0.8; commit 8fdea63) — old sweeps not bit-reproducible on new stack;
+fifty-yards s607 promoted earlier (81492c4); art/cover.png demoted
+(d0d4441).
