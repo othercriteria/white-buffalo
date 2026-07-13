@@ -56,11 +56,11 @@ I watched the settlers again today. Closer this time—perhaps a quarter mile fr
 
 The man was mending harness by the door. The woman came out to him with something steaming in a cup, and she stood beside him while he drank it, her hand on his shoulder, neither of them speaking. They moved around each other with the ease of people who have long since stopped needing words.
 
-I felt nothing. I watched them as I would watch birds or deer, creatures going about their business. They are not part of the world I inhabit now.
+I watched them as I would watch birds or deer, creatures going about their business. They are not part of the world I inhabit now.
 
 The herd moved on, and I moved with it. The settlers stayed where they were, in their little house, with their little life.
 
-I do not wish them ill. I do not wish them anything. The steam off the cup has stayed with me since. It is the only warm thing I have seen in a month.
+I wish them nothing, ill or well. The steam off the cup has stayed with me since. It is the only warm thing I have seen in a month.
 
 ---
 

@@ -12,7 +12,7 @@ She has survived her first year. I have survived alongside her.
 
 The herd has broken apart for the spring, the bulls drifting off to form their own groups while the cows and young animals move together across the greening land. She stays with the cows, as I expected. She is not yet old enough to breed, and will not be for another year or more, but she seems to prefer their company to the bulls'.
 
-I watch her from a distance, as I have always done. She knows I am here. I am certain of that now. When she grazes, she looks up sometimes and turns her head toward where I sit, and there is something in the motion that is more than animal wariness.
+I watch her from a distance, as I have always done. She knows I am here. I am certain of that now. When she grazes, she looks up sometimes and turns her head toward where I sit, and she is slow to turn back to the grass.
 
 ---
 
@@ -24,13 +24,11 @@ I have watched her all winter, watched her through the worst of the cold and the
 
 Her coat has thinned and brightened, white now with an almost silver sheen where the light catches it. Her muscles have grown—not just larger, but more defined, visible beneath the skin when she moves. Her shoulders are broad and powerful, her hump rising behind her neck like a monument. She is not yet full grown, but she is no longer small.
 
-I watched her today as she crossed a creek, the water splashing up around her legs. She moved through it without hesitation, without care, as if it were nothing. The power in her movement was something to see.
+I watched her today as she crossed a creek. She did not slow at the bank or pick her footing; the water broke against her chest and she came out streaming.
 
 A year ago, she could not have killed me. Now she could. One charge, one blow of her head, and I would be done.
 
-But I am not ready. And I do not think she is ready either. There is something unfinished between us, something that needs to grow as she has grown.
-
-I will wait.
+But I am not ready. And I do not think she is ready either.
 
 ---
 
@@ -38,7 +36,7 @@ I will wait.
 
 Saw people today. The first I have seen since the Lakota in January.
 
-They were far to the south, near the river, and at first I thought they were Indians. But they were not. They were white—a man and a woman, I think, though at that distance it was hard to be sure. They were building something—a house, or the start of one. They had a wagon and some animals, and they moved with the purposeful energy of people who believe they are making something that will last.
+They were far to the south, near the river, and at first I thought they were Indians. But they were not. They were white—a man and a woman, I think, though at that distance it was hard to be sure. They were building something—a house, or the start of one. They had a wagon and some animals. The man was working timber; the sound of the axe reached me a beat behind the swing.
 
 I watched them for a long time. The herd was grazing in the valley below me, and she was with them, and the people were too far away to be any threat to either of us. But still I watched.
 
@@ -70,7 +68,7 @@ The woman was outside when I watched, hanging clothes on a line strung between t
 
 The man came out while I was watching. He said something to her that I could not hear, and she laughed, and he put his arm around her, and they stood together looking out at the land they had claimed.
 
-I did not feel anything, watching them. I expected to. But there was nothing. They were simply there, like the grass and the sky and the buffalo grazing in the valley below.
+I expected to feel something, watching them. There was nothing. They were simply there, like the grass and the sky and the buffalo grazing in the valley below.
 
 The herd is moving north again, following the grass. She is with them, and I am with her.
 
