@@ -877,3 +877,31 @@ trading-post/fort-kearny expendability question; DK's call, not
 bundled here.
 
 art/frozen-man.png := s405 (clamped, 7.65% over-white). 18 plates.
+
+## Cover re-cut: cover-tracks (2026-07-13) — three prompts, two text
+## changes, one physics audit
+
+The marquee replacement (s78's pre-spent growth/whiteness + mis-sexed
+body, per three instruments + DK ruling; tracks direction DK-named).
+v1: "tracks" rounded to the tire/ski prior — continuous grooves —
+and boots grew modern tread (DK live catch). LESSON BANKED: same
+failure family as weeping-willows/cairns (scene word resolving to
+its dominant modern referent) but in the HEAD NOUN, where negatives
+cannot win; the fix is renaming the concept ("separate footprints").
+v2: prints won, but the single-trail prior ate the TWO lines — and
+s514's merged trail raised the real question (would Morrow walk in
+her footsteps?), answered from the stake liturgy (non-contact; NO)
+and enacted into the text: JE VIII trail-refusal sentence + the
+waiting-couplet cut (see revision-stack). v3 (DK-directed physics
+audit): in deep snow the two scripts are one broad plowed TRENCH
+(1,000-lb cow; why winter travelers followed bison trails; the line
+prior conscripted, not fought) vs a thin broken line of post-holes
+(gaunt man). DK pick s524: "satisfying, visceral, anatomical charge
+— we can see the wake of the buffalo and what she will do to
+Morrow." Zoom gates: boot marks are HOLES (no tread possible),
+corners clean, no scrawl, upper field open for the deferred cover
+typography. Clamped (4.80%) -> art/cover-tracks.png; s78 stays in
+art/ as the record. Frontispiece, EPUB cover, and List title ("The
+two trails") switched. Boards production (bleed, typography) remains
+the open design pass. This cover changed the book twice before it
+existed — the coherence loop's best run yet.

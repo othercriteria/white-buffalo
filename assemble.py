@@ -214,7 +214,7 @@ def inject(prefix, text):
 def knockout_plates():
     """Produce build/plates/ = art/ plates with grounds knocked to
     page white (imagegen/knockout.py; PIL lives in that venv)."""
-    plates = sorted({p for _, _, p, _ in PLACEMENTS} | {"cover.png"})
+    plates = sorted({p for _, _, p, _ in PLACEMENTS} | {"cover-tracks.png"})
     subprocess.run(
         [
             str(ROOT / "imagegen" / ".venv" / "bin" / "python"),
@@ -242,7 +242,7 @@ def illustrations_list(folios):
         "\\null\\vspace{1\\baselineskip}",
         "\\begin{center}\\scshape Illustrations\\end{center}",
         "\\vspace{2\\baselineskip}",
-        "\\noindent Frontispiece.~The white buffalo\\par\\smallskip",
+        "\\noindent Frontispiece.~The two trails\\par\\smallskip",
     ]
     for (_, _, plate, _), folio in zip(PLACEMENTS, folios):
         lines.append(
@@ -403,7 +403,7 @@ def main():
                 "{\\centering\\LARGE White Buffalo\\par}\\clearpage"
                 "\\thispagestyle{empty}"
                 "{\\centering\\includegraphics[height=0.95\\textheight]"
-                "{build/plates/cover.png}\\par}\\clearpage}",
+                "{build/plates/cover-tracks.png}\\par}\\clearpage}",
                 "--include-after-body",
                 str(BUILD / "after-body.tex"),
             ],
@@ -429,7 +429,7 @@ def main():
             str(epub),
             *common,
             "--epub-cover-image",
-            str(BUILD / "plates" / "cover.png"),
+            str(BUILD / "plates" / "cover-tracks.png"),
             "--toc",
             "--toc-depth=1",
         ],
