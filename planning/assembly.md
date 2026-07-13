@@ -26,9 +26,26 @@ binding gutter (0.85in inner / 0.65in outer, measure unchanged);
 first-line indents, no inter-paragraph space; \frenchspacing;
 widow/club/broken penalties; notices URL on its own line (was
 clipped off-trim at v1); portrait plates 72%→85% width; spaced em
-dashes closed (front matter + one JE VII instance); one blank leaf
-closes the book; template \frontmatter/\mainmatter neutralized
-(numbering driven explicitly).
+dashes closed (front matter + one JE VII instance); template
+\frontmatter/\mainmatter neutralized (numbering driven explicitly).
+
+A2 pass (2026-07-13, from round 2): front matter re-plumbed — half
+title p.1, cover plate as frontispiece facing the title p.2,
+notices spread pp.4-5, LIST OF ILLUSTRATIONS on its own recto
+(titles only, from PLATE_TITLES in assemble.py; plates stay
+uncaptioned, so the caption doctrine holds; folios measured by a
+two-pass build). JE dated subheads keep-with-next (\JEdate);
+scene rules bound to following text (\scenebreak); no hyphenated
+stub final lines; proper-name hyphenation exceptions;
+\emergencystretch; book closes on a verso, even page count.
+openany KEPT as a decision (recto-only openings would scatter
+blank versos through a plated novella). PDF and EPUB now build
+from separate variants (raw TeX transforms are PDF-only). Front
+matter content (B): "generated and revised the prose" (the
+chain-converged one-verb amendment) + the plates-attribution
+paragraph (image-model-drawn, partiality-as-limit). Rights
+line/ISBN/imprint still deliberately absent — await real
+publication facts and the license decision (DK's).
 
 Deliberately UNRESOLVED (open items): fold-out (village-passing
 runs the promoted portrait in-line), captions (none), corner-crop

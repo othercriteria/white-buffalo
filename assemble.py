@@ -123,6 +123,47 @@ PLACEMENTS = [
 ]
 
 
+# Journal-entry files: their dated subheads get keep-with-next handling
+JE_PREFIXES = {"02", "04", "06", "08", "10", "12", "14", "16", "18"}
+
+# Reader-facing titles for the List of Illustrations (front matter;
+# plates themselves stay uncaptioned per the open caption doctrine).
+# Keyed by plate file, ordered by PLACEMENTS.
+PLATE_TITLES = {
+    "first-sighting.png": "The first sighting",
+    "speaking-to-her.png": "Speaking to her",
+    "ferry-bridge.png": "The ferry at Rock Island",
+    "fort-kearny.png": "Fort Kearny",
+    "morrow-witnessed.png": "The trapper's tale",
+    "offering-stake.png": "The offering stake",
+    "trading-post.png": "The trading post",
+    "homestead-alive.png": "The land they had claimed",
+    "homestead.png": "The homestead, abandoned",
+    "homestead-interior.png": "The house",
+    "village-passing.png": "The village, passing",
+    "graves.png": "The graves",
+    "tracks-north.png": "Tracks, north",
+    "two-stories.png": "Two stories",
+    "morrow-hollow.png": "The last night",
+    "journal-found.png": "Left to be found",
+    "finale-fifty-yards.png": "Fifty yards",
+}
+
+
+def pdf_transforms(prefix, text):
+    """PDF-only raw-LaTeX substitutions (raw TeX is dropped from EPUB).
+
+    - scene-break rules become \\scenebreak (bound to following text,
+      never stranded at a page foot);
+    - JE dated subheads become \\JEdate{...} (kept with at least two
+      lines of entry text; following paragraph flush per house style).
+    """
+    text = re.sub(r"^---$", r"\\scenebreak", text, flags=re.M)
+    if prefix in JE_PREFIXES:
+        text = re.sub(r"^\*([^*\n]+)\*$", r"\\JEdate{\1}", text, flags=re.M)
+    return text
+
+
 def fail(msg):
     print(f"ASSEMBLY FAILED: {msg}", file=sys.stderr)
     sys.exit(1)
@@ -151,9 +192,54 @@ def inject(prefix, text):
     return text
 
 
+def illustrations_list(folios):
+    """List of Illustrations page (front matter, unfoliated, recto).
+
+    Emitted as an explicit ```{=latex} raw block: pandoc's line-based
+    raw-TeX heuristic mangles brace groups (a leaked \\scshape once set
+    the whole body in smallcaps), and the EPUB drops the block cleanly.
+    """
+    lines = [
+        "```{=latex}",
+        "\\cleardoublepage",
+        "\\thispagestyle{empty}",
+        "\\null\\vspace{1\\baselineskip}",
+        "\\begin{center}\\scshape Illustrations\\end{center}",
+        "\\vspace{2\\baselineskip}",
+        "\\noindent Frontispiece.~The white buffalo\\par\\smallskip",
+    ]
+    for (_, _, plate, _), folio in zip(PLACEMENTS, folios):
+        lines.append(
+            f"\\noindent {PLATE_TITLES[plate]}\\dotfill~{folio}\\par\\smallskip"
+        )
+    lines.append("```")
+    return "\n".join(lines)
+
+
+def plate_folios(pdf):
+    """Physical pages of the plates from a built PDF, converted to folios."""
+    out = subprocess.run(
+        ["pdfimages", "-list", str(pdf)], capture_output=True, text=True, check=True
+    ).stdout
+    pages = sorted({int(l.split()[0]) for l in out.splitlines()[2:] if l.split()})
+    text = subprocess.run(
+        ["pdftotext", str(pdf), "-"], capture_output=True, text=True, check=True
+    ).stdout
+    for i, page in enumerate(text.split("\f"), 1):
+        if "Chapter One" in page:
+            offset = i - 1  # physical page of folio 1, minus 1
+            break
+    else:
+        fail("could not locate Chapter One for folio offset")
+    plates = [p for p in pages if p > offset]  # drop the frontispiece
+    if len(plates) != len(PLACEMENTS):
+        fail(f"expected {len(PLACEMENTS)} plate pages, found {len(plates)}")
+    return [p - offset for p in plates]
+
+
 def main():
     BUILD.mkdir(exist_ok=True)
-    parts = []
+    epub_parts, pdf_parts = [], []
     for path in DRAFTS:
         prefix = path.name[:2]
         text = path.read_text()
@@ -164,21 +250,29 @@ def main():
             text = re.sub(
                 r"^# .*\n+\*\*.*\*\*\n+---\n+\*A novella\*\n+---\n+", "", text
             )
-            parts.append(text)
+            epub_parts.append(text)
+            pdf_parts.append(text)  # List of Illustrations appended pass 2
             continue
         # unnumbered chapters (H1 -> {.unnumbered}, once per file)
         text = re.sub(r"^# (.+)$", r"# \1 {.unnumbered}", text, count=1, flags=re.M)
+        text = inject(prefix, text)
+        epub_parts.append(text)
+        ptext = pdf_transforms(prefix, text)
         if prefix == "01":
             # body proper begins here: folio 1 on a recto (PDF only;
             # raw TeX is dropped from the EPUB)
-            text = "\\cleardoublepage\\pagenumbering{arabic}\n\n" + text
-        parts.append(inject(prefix, text))
+            ptext = "\\cleardoublepage\\pagenumbering{arabic}\n\n" + ptext
+        pdf_parts.append(ptext)
     placed = sum(1 for p, *_ in PLACEMENTS)
-    # one blank leaf closes the book (PDF only)
-    (BUILD / "after-body.tex").write_text("\\clearpage\\thispagestyle{empty}\\null\n")
+    # close on a verso with an even physical page count (PDF only)
+    (BUILD / "after-body.tex").write_text(
+        "\\clearpage\\ifodd\\value{page}\\else\\thispagestyle{empty}\\null\\fi\n"
+    )
     book_md = BUILD / "book.md"
-    book_md.write_text("\n\n".join(parts) + "\n")
-    print(f"build/book.md written: {len(DRAFTS)} units, {placed} plates")
+    book_md.write_text("\n\n".join(epub_parts) + "\n")
+    book_pdf_md = BUILD / "book-pdf.md"
+    book_pdf_md.write_text("\n\n".join(pdf_parts) + "\n")
+    print(f"build/book.md + book-pdf.md written: {len(DRAFTS)} units, {placed} plates")
 
     common = [
         "--resource-path",
@@ -198,51 +292,83 @@ def main():
         "lang=en-US",
     ]
     pdf = BUILD / "white-buffalo.pdf"
-    subprocess.run(
-        [
-            "pandoc",
-            str(book_md),
-            "-o",
-            str(pdf),
-            *common,
-            "--pdf-engine=xelatex",
-            "-V",
-            "documentclass=book",
-            "-V",
-            "classoption=openany",
-            "-V",
-            "fontsize=11pt",
-            "-V",
-            "mainfont=TeX Gyre Pagella",
-            "-V",
-            # mirrored margins: binding gutter inner, same 4.0in measure
-            "geometry:paperwidth=5.5in,paperheight=8.5in,"
-            "inner=0.85in,outer=0.65in,top=0.75in,bottom=0.9in",
-            "-V",
-            # trade composition: first-line indents, no inter-para space
-            "indent=true",
-            "-V",
-            # cover as page one (before the title page), then the book;
-            # cover typography is a later design pass — plate runs bare.
-            # Preamble: single sentence spacing, ragged bottom (kills the
-            # flush-bottom glue blowouts), and no widows/clubs/page-turn
-            # hyphens.
-            "header-includes=\\usepackage{float}\\floatplacement{figure}{H}"
-            "\\frenchspacing\\raggedbottom"
-            "\\widowpenalty=10000\\clubpenalty=10000\\brokenpenalty=10000"
-            # the template's \frontmatter/\mainmatter would reset folios
-            # at the notices; numbering is driven explicitly instead
-            "\\renewcommand{\\frontmatter}{}\\renewcommand{\\mainmatter}{}"
-            "\\AtBeginDocument{\\pagenumbering{gobble}\\thispagestyle{empty}"
-            "{\\centering\\includegraphics[height=0.95\\textheight]"
-            "{art/cover.png}\\par}\\clearpage}",
-            "--include-after-body",
-            str(BUILD / "after-body.tex"),
-        ],
-        check=True,
-        cwd=ROOT,
-    )
-    print(f"{pdf.relative_to(ROOT)} written")
+
+    def build_pdf(src_md):
+        subprocess.run(
+            [
+                "pandoc",
+                str(src_md),
+                "-o",
+                str(pdf),
+                *common,
+                "--pdf-engine=xelatex",
+                "-V",
+                "documentclass=book",
+                "-V",
+                # openany kept deliberately: recto-only openings would
+                # scatter blank versos through a plated novella
+                "classoption=openany",
+                "-V",
+                "fontsize=11pt",
+                "-V",
+                "mainfont=TeX Gyre Pagella",
+                "-V",
+                # mirrored margins: binding gutter inner, same 4.0in measure
+                "geometry:paperwidth=5.5in,paperheight=8.5in,"
+                "inner=0.85in,outer=0.65in,top=0.75in,bottom=0.9in",
+                "-V",
+                # trade composition: first-line indents, no inter-para space
+                "indent=true",
+                "-V",
+                # Preamble: single sentence spacing; ragged bottom (kills
+                # flush-bottom glue blowouts); no widows/clubs/page-turn
+                # hyphens; no hyphenated stub as a paragraph's last line;
+                # proper names never hyphenated; \JEdate and \scenebreak
+                # keep-with-next devices; emergencystretch tames loose
+                # justified lines (notices page).
+                "header-includes=\\usepackage{float}\\floatplacement{figure}{H}"
+                "\\usepackage{needspace}"
+                "\\frenchspacing\\raggedbottom"
+                "\\widowpenalty=10000\\clubpenalty=10000\\brokenpenalty=10000"
+                "\\finalhyphendemerits=10000000"
+                "\\emergencystretch=1.5em"
+                "\\hyphenation{Oswego Catherine Aldridge Farrell Morrow "
+                "Hardin Niobrara Monterrey Chapultepec Kearny Creighton}"
+                "\\makeatletter"
+                "\\newcommand{\\JEdate}[1]{\\needspace{4\\baselineskip}"
+                "\\par\\medskip\\noindent{\\itshape #1}\\par\\nobreak"
+                "\\@afterindentfalse\\@afterheading}"
+                "\\makeatother"
+                "\\newcommand{\\scenebreak}{\\par\\needspace{4\\baselineskip}"
+                "\\bigskip{\\centering\\rule{0.35\\linewidth}{0.4pt}\\par}"
+                "\\nobreak\\bigskip\\nobreak}"
+                # the template's \frontmatter/\mainmatter would reset folios
+                # at the notices; numbering is driven explicitly instead
+                "\\renewcommand{\\frontmatter}{}\\renewcommand{\\mainmatter}{}"
+                # front matter: half title (p.1), cover plate as
+                # frontispiece facing the title (p.2), then \maketitle;
+                # cover/half-title typography still a design pass
+                "\\AtBeginDocument{\\pagenumbering{gobble}"
+                "\\thispagestyle{empty}\\null\\vspace{0.28\\textheight}"
+                "{\\centering\\LARGE White Buffalo\\par}\\clearpage"
+                "\\thispagestyle{empty}"
+                "{\\centering\\includegraphics[height=0.95\\textheight]"
+                "{art/cover.png}\\par}\\clearpage}",
+                "--include-after-body",
+                str(BUILD / "after-body.tex"),
+            ],
+            check=True,
+            cwd=ROOT,
+        )
+
+    # pass 1: build without the List of Illustrations to measure folios;
+    # pass 2: insert the list into the front matter (folios unaffected)
+    build_pdf(book_pdf_md)
+    folios = plate_folios(pdf)
+    pdf_parts[0] = pdf_parts[0] + "\n\n" + illustrations_list(folios)
+    book_pdf_md.write_text("\n\n".join(pdf_parts) + "\n")
+    build_pdf(book_pdf_md)
+    print(f"{pdf.relative_to(ROOT)} written (plates at folios {folios})")
 
     epub = BUILD / "white-buffalo.epub"
     subprocess.run(

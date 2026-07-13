@@ -12,7 +12,9 @@ The white buffalo is sacred to the Lakota people. Ptesáŋwiŋ, the White Buffal
 
 ---
 
-This novella was written with the assistance of Claude, an AI assistant developed by Anthropic. The authors conceived, directed, and edited the work; Claude generated the prose.
+This novella was written with the assistance of Claude, an AI assistant developed by Anthropic. The authors conceived, directed, and edited the work; Claude generated and revised the prose.
+
+The illustrations were likewise generated under the authors' direction — drawn by an image model, human-curated, and audited against the text. Their engraving idiom is the visual language of the same period record the narrators see by; it inherits that record's partiality, and is kept as a limit, not a cover. Every candidate, every rejection, and the reasons for both are preserved in the repository.
 
 The full working record of the book—the drafts, the working notes and planning ledgers, the illustration pipeline and its findings, and complete transcripts of the writing sessions—is kept at:
 
