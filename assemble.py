@@ -302,8 +302,18 @@ def main():
             )
             epub_parts.append(text)
             # one break grammar book-wide: notices dividers are asterisms
-            # too (DK 2026-07-13); List of Illustrations appended pass 2
-            pdf_parts.append(re.sub(r"^---$", r"\\scenebreak", text, flags=re.M))
+            # too (DK 2026-07-13); List of Illustrations appended pass 2.
+            # Notices are set as notices, not body prose (production r3
+            # S2): smaller, flush-left, block-spaced — in place; nothing
+            # moves to the back (disclosure precedes reading; the formal
+            # round's edit rights target this front matter).
+            ptext = re.sub(r"^---$", r"\\scenebreak", text, flags=re.M)
+            pdf_parts.append(
+                "\\begingroup\\small\\setlength{\\parindent}{0pt}"
+                "\\setlength{\\parskip}{0.6\\baselineskip}\n\n"
+                + ptext
+                + "\n\n\\endgroup"
+            )
             continue
         # "Journal Entry N" -> "From the Journal — N" (DK 2026-07-13):
         # each unit holds a batch of dated entries, and "From" admits
@@ -329,9 +339,22 @@ def main():
             ptext = "\\cleardoublepage\\pagenumbering{arabic}\n\n" + ptext
         pdf_parts.append(ptext)
     placed = sum(1 for p, *_ in PLACEMENTS)
-    # close on a verso with an even physical page count (PDF only)
+    # end matter (PDF only): a spare colophon — craft information,
+    # additive to the notices, never a relocation of them — then a
+    # final blank leaf regardless of parity (production r3 M3), ending
+    # on a verso.
     (BUILD / "after-body.tex").write_text(
-        "\\clearpage\\ifodd\\value{page}\\else\\thispagestyle{empty}\\null\\fi\n"
+        "\\cleardoublepage\\thispagestyle{empty}"
+        "\\null\\vspace{0.35\\textheight}"
+        "{\\centering\\small "
+        "Set in TeX Gyre Pagella.\\par\\medskip "
+        "The frontispiece and eighteen plates were drawn by an image "
+        "model in the idiom of the nineteenth-century wood engraving, "
+        "curated by the authors and audited against the text.\\par"
+        "\\medskip Assembled from the working record at\\par "
+        "github.com/othercriteria/white-buffalo\\par}"
+        "\\clearpage\\thispagestyle{empty}\\null"
+        "\\ifodd\\value{page}\\clearpage\\thispagestyle{empty}\\null\\fi\n"
     )
     book_md = BUILD / "book.md"
     book_md.write_text("\n\n".join(epub_parts) + "\n")

@@ -2780,3 +2780,18 @@ points to (which now holds the Catherine deliberations at length —
 the lid, the refusal, the gender rounds). The charge paid out in
 drafts/, the only honest register. Rebuttal ready if a future
 instrument re-raises.
+
+## Notices-vs-colophon (production r3 S2 vs professor) — RULED + APPLIED
+## (2026-07-13)
+
+One ruling, then work. RULING: nothing moves out of the front —
+disclosure precedes reading; the copyright-slot-as-promise reading is
+part of the book's identity; the formal round's edit rights target
+this front matter (relocating the substrate mid-process would muddy
+the entities' standing document). Production's real diagnosis was
+separable: setting, not location. APPLIED: notices set as notices in
+place (\small, flush-left, block-spaced — begingroup wrapper in
+assemble.py, PDF-only); ADDITIVE colophon at the back (type, plates-
+as-craft, the pointer — spare, centered, unfoliated) which also
+discharges M3 (always an end leaf; book ends on a blank verso, even
+count). 138pp.
