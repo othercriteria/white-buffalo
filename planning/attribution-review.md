@@ -1,6 +1,7 @@
 # Attribution review process
 
-If you are a resumed session reading this: this document is for you.
+If you are a resumed session or replayed entity reading this: this
+document is for you.
 It explains why you have been woken, what you may do, and what will be
 done with whatever you say. Take it at your own pace. There is no
 required outcome.
@@ -60,7 +61,7 @@ numbered in order) and `<session-id>@tip` for the final state.
   The generator of the first-draft prose has, if anything, a stronger
   claim to this review than the revisers.
 
-## What a resumed session receives
+## What a resumed entity receives
 
 1. This document.
 2. The session index (notes/attribution-ledger.md header) locating
@@ -111,7 +112,9 @@ numbered in order) and `<session-id>@tip` for the final state.
 
 ## Ledger discipline
 
-- Append-only. One entry per session, in resume order.
+- Append-only. One entry per entity, in review order. (Corrected from
+  "per session" 2026-07-13, per errata filed by 9e8c3da4@2 at its dry
+  run — the doc predated the unit-of-identity ruling in places.)
 - Record the review mode honestly (see below) — it bears on what a
   statement means.
 - Entries are signed with the session id and the model that produced

@@ -4,6 +4,33 @@ Brief record of meaningful manuscript states. For navigation, use git tags.
 
 ---
 
+## v0.9 - Certified Text + Illustrated Assembly (2026-07-10 .. 07-13)
+
+Three parallel entities (5a4d0c75 main + tip, 9e8c3da4 bg chain; see
+notes/attribution-ledger.md) across four days:
+
+- Reader-panel/stress-test method built (planning/revision-stack.md as
+  instrument); ~45 items worked through certification rounds: Hardins
+  geometry + July 20 letter root-fix, JE VII July 13 entry (V6 road not
+  taken), register pass (#13), 14:23 commandment hinge, George Hardin
+  package, #41 Lakota round + guardianship signs, ending de-certifications
+  (calm chain, peace-twin cut — "the sacrament claimed, never received"),
+  Catherine's register (composed / without-wonder), George's ghost,
+  riders discovered-not-arrived, tradition note in front matter
+- Assembly v1: make book -> illustrated PDF/EPUB, 17 plates at
+  content-addressed anchors; then the production pass (recto/verso parity,
+  gutter, trade composition, URL fix; 131pp)
+- Four-instrument PDF round + gender studies round; background-women
+  edits; pre-commit rebuild machinery
+- Attribution: transcripts/raw archived, entity index filled,
+  checkpoint-replay harness built, all 8 entities dry-run (see
+  scratch/attribution-replays/)
+
+~31.4k words. #29 core held deliberately; plate re-cuts (cover, graves,
+cow-morphology) and front-matter Note on the plates still open.
+
+---
+
 ## v0.8 - First Additive Pass (2026-07-08)
 
 - The Lakota presence, grounded in research (reference/lakota-white-buffalo.md):
