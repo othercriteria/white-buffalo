@@ -2795,3 +2795,74 @@ assemble.py, PDF-only); ADDITIVE colophon at the back (type, plates-
 as-craft, the pointer — spare, centered, unfoliated) which also
 discharges M3 (always an end leaf; book ends on a blank verso, even
 count). 138pp.
+
+## Reception-axis pair: chud-lit critic + Sheridan bro (2026-07-14,
+## 138pp build e5c9fdb) — FINDINGS ONLY, dispositions deferred [DK]
+
+New instrument type, DK-commissioned: the dissident-right/Dimes Square
+chud-lit reviewer (calibrated to fire the "Early Life" reflex at the
+front matter and keep reading) and its milder cousin, the Taylor
+Sheridan bro (non-reader, DM'd the PDF by the former persona's
+workplace analogue "Derek"). Correlated pair by construction — the
+second lives inside the first's referral network — so agreements count
+once; splits are the finding. Full texts relayed in session
+transcript. DK explicitly did not pre-commit to any response
+direction; NOTHING here is queued.
+
+Verdicts: critic = "recommend, with the sneer confined to the front
+matter" (went in expecting "goyslop with a conscience," conceded the
+book "does not flinch once"). Bro = finished same day, one sitting +
+one break; Monday message to Derek is a request for another rec;
+would tell his dad ("short dark Lonesome Dove"), not the group chat.
+
+SPLITS (the payload):
+1. fifty-yards plate (folio 126): critic "one notch too slick, an
+   album cover" (5th hostile persona in the re-cut column) vs bro
+   "best one in the whole book, that thing should be on a shirt."
+   Same property read twice — the slickness IS the iconic legibility.
+   Constraint on the converged C2(1) re-cut spec: fix the composure
+   (blank eyes, scale, cow horns, keep blood) WITHOUT trading away
+   shirt-worthiness. The spec must thread this needle.
+2. Notice page inverts: critic reads it as provocation, verdict
+   "print it anyway, it's part of the object" (assent to
+   disclosure-precedes-reading from the maximally hostile reader);
+   bro: Lakota paragraph CONVERTS ("made me trust it MORE, like they
+   knew where the line was") while the AI line is his near-quit point
+   — he read Ch 1 "looking for the seams" and "didn't find them."
+   Implication: notice guarantees a suspicious first read; Ch 1 must
+   (and currently does) win on prose alone.
+3. Ghost-Catherine (folio 106): bro isolates her from the soldier
+   visions as the thinnest vision beat ("pushing it a little," visions
+   80%); first instrument to make that separation. Critic silent on
+   it. New, uncorroborated, low-severity.
+
+CONVERGENCES (banked, mostly re-certifications):
+- JE V–VI sag (folios 62–80) now certified across registers: critic
+  "competent gray, same-shaped"; bro physically put the iPad down at
+  folio 76, unsure he'd return. Retention mechanism identified as
+  SEQUENCING: graves reveal at folio 73 lands before the sag and
+  pulls the reader through. Any fix = texture variance in middle
+  entries, not expansion (per opus-4-5 profile length caution).
+- Journal-loop reveal (folio 119 → folio 9 first line) named
+  best-in-book by both, independently.
+- Replaced stake + skulls (JE VIII, folio 104) does decisive work for
+  both: critic — the detail that "decides the argument" for restraint
+  over subtraction on the Lakota question; bro — "quietly the
+  scariest thing in the book and nobody explains it. Good."
+- Summer elision read as colder-not-cheaper by both (bro registered
+  ~10 min of feeling cheated, then reversed).
+- Worked-animals sentence (folio 122) quoted by critic as "worth the
+  price of the book"; critic independently reproduced DK's
+  knowing-predator frame ("the sacralized suicide is still an
+  extraction").
+- Known prose tics re-confirmed from a new angle: groomed cadence
+  closes on every entry, negation-stack at peaks (cites 78, 96).
+- Plates: critic ~"fourteen kino, five cope"; figure plates leak
+  uncanny (morrow-hollow waxiness folio 113 — bro, by contrast,
+  lists 113 as a favorite; another mild split), ferry (27) "a little
+  too smooth" per bro on primed inspection only. Bro would not have
+  clocked AI plates unprimed.
+- Bro bounce-risk profile for the demographic: highest-risk pages are
+  the middle journals; assets are Ch 4–5 survival, Ch 7 forensics,
+  the journal loop, folio 126 plate. "If this was 300 pages I don't
+  finish" — length decision (33k) re-validated from reception side.
