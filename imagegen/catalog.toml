@@ -109,6 +109,29 @@ citations = ["07:89-105 (wood-and-sod, parade ground, 'boxes dropped by a carele
 underdetermined = []
 dni = "clean"
 
+[frozen-man]
+# NEW PLATE 2026-07-13 (round-2 commission; r1's never-depict-the-dead
+# restraint reconciled by composing at the DISCOVERY, not the
+# excavation: the man stays under the snow, the hand is the trace).
+# DK rationale on the record: the naturalistic dead as counterweight —
+# against Morrow's conviction that he is already dead (he is nothing
+# of the sort) and against Farrell's spectral soldiers; the one plainly
+# dead man in the book, shown plainly, not luridly. The calm face
+# (15:69) opens the owned calm-face chain (Ch 5/8/11): PROSE-ONLY,
+# never drawn. Genre priors to fight: memento-mori carrion birds,
+# crosses, and the horror prior's emerging torso.
+# REGISTER CEILING (DK, 2026-07-13): if any page makes a younger
+# reader turn quickly past, it must be the finale or the graves or a
+# Morrow plate — never this one. The composition is the text's own
+# near-miss ("I might have passed him by"): a wide quiet landscape in
+# which the hand is SMALL and must be found, not a foreground hand.
+negative = "face, head, corpse visible, body exposed, torso, shoulder, arm above the elbow, emerging figure, zombie, skull, bones, person standing, human figure, rider, horse, birds, raven, crow, vulture, wolf, cross, grave marker, blood, close-up, foreground hand, large hand, dramatic, looming, low angle, mountains, peaks, crags, cliffs, alpine, trees, forest, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a wide quiet winter landscape in broken treeless hill country seen from an animal trail, a narrow draw between low ridges filled with drifted snow, the drift smooth and wind-carved, rising over one low buried length, and small in the white field, easy to miss, a single bare human hand and forearm reaching up out of the snow, stiff and still, the only mark in the emptiness, gray overcast winter light, the land open and silent in every direction"
+aspect = "landscape"
+citations = ["09:5 (broken ridges and deep draws, no plan to it)", "09:17 (drifted over him almost to the top of his head; 'the hand—pale and stiff, reaching up out of the white')", "09:7 (drifts higher than a horse's head)", "15:69 (the calm face — chain-owned, prose-only: a constraint on this plate, not content)"]
+underdetermined = []
+dni = "the dead as trace and counterweight: one hand, one shape under snow; the man is never exposed; no face ever"
+
 [trading-post]
 # Vignette. Research idiom: log walls banked with sod (Bordeaux analog);
 # reads as "sod house, low and rough" (09:31) from any distance.

@@ -9,7 +9,9 @@ and LoRA specs from the production catalog/styles so the sweep tests
 exactly what generate.py would ship.
 """
 
+import subprocess
 import sys
+import time
 from pathlib import Path
 
 import tomllib
@@ -29,6 +31,40 @@ if "--" in sys.argv[1:]:
     SEEDS = [int(s) for s in sys.argv[split + 1 :]] or SEEDS
 
 
+def wait_for_vram(min_free_mib=10_000, timeout_s=1800, poll_s=20):
+    """Block until the GPU has room. This box shares its 4090 with a
+    voice-assistant stack whose ollama model (~13 GiB) loads on demand
+    and expires after a short keep-alive; sweeps launched into that
+    window OOM at pipeline load. Waiting beats failing."""
+    start = time.time()
+    while True:
+        free = int(
+            subprocess.run(
+                [
+                    "nvidia-smi",
+                    "--query-gpu=memory.free",
+                    "--format=csv,noheader,nounits",
+                ],
+                capture_output=True,
+                text=True,
+                check=True,
+            ).stdout.split()[0]
+        )
+        if free >= min_free_mib:
+            if time.time() - start > poll_s:
+                print(f"VRAM free: {free} MiB — proceeding")
+            return
+        waited = int(time.time() - start)
+        if waited > timeout_s:
+            print(
+                f"VRAM wait timed out after {waited}s "
+                f"({free} MiB free); proceeding anyway"
+            )
+            return
+        print(f"VRAM: {free} MiB free < {min_free_mib} needed; waiting ({waited}s)...")
+        time.sleep(poll_s)
+
+
 def main():
     with open(HERE / "catalog.toml", "rb") as f:
         catalog = tomllib.load(f)
@@ -36,6 +72,7 @@ def main():
         style = tomllib.load(f)[STYLE]
 
     OUT.mkdir(parents=True, exist_ok=True)
+    wait_for_vram()
     print(f"Loading {MODEL} @ {REVISION[:8]}...")
     pipe = ZImagePipeline.from_pretrained(
         MODEL, revision=REVISION, torch_dtype=torch.bfloat16

@@ -260,7 +260,13 @@ buildings on a parade ground, "boxes dropped by a careless god," useless stockad
 sutler's store (07:89–105). Trading post: junction of two frozen creeks; low sod
 house, sagging log-and-turf roof, lean-to stable; single ~20×15 room, two candles,
 cast-iron stove, plank counter (09:31–35). North: rolling hills → "broken ridges
-and deep draws," drifts higher than a horse's head (09:5–7). Death scene: valley
+and deep draws," drifts higher than a horse's head (09:5–7). The frozen man's
+draw (before the post, Ch 5): snow drifted over him "almost to the top of his
+head"; the visible sign is one hand, "pale and stiff, reaching up out of the
+white" (09:17); young man, settler's clothes, no coat — learned only after
+digging (09:19); unburiable — frozen ground, no shovel; covered back with snow
+(09:25). His calm face (15:69) opens the owned calm-face chain (Ch 5/8/11):
+prose-only, never drawn. Death scene: valley
 opening into a wide meadow, ridges to the north, camp-to-valley "perhaps a mile"
 (19:73, 20:3, 20:55).
 
