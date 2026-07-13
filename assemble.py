@@ -168,6 +168,15 @@ def pdf_transforms(prefix, text):
     text = re.sub(r"^---$", r"\\scenebreak", text, flags=re.M)
     if prefix in JE_PREFIXES:
         text = re.sub(r"^\*([^*\n]+)\*$", r"\\JEdate{\1}", text, flags=re.M)
+    # pandoc 3 leaves captionless images as bare \includegraphics in an
+    # ordinary (indented!) paragraph — never centered, and immune to
+    # float spacing. \bookplate centers on the measure with codified air.
+    text = re.sub(
+        r"^!\[\]\((build/plates/[^)]+)\)\{width=(\d+)%\}$",
+        lambda m: f"\\bookplate{{{int(m.group(2)) / 100}}}{{{m.group(1)}}}",
+        text,
+        flags=re.M,
+    )
     return text
 
 
@@ -356,7 +365,9 @@ def main():
                 # proper names never hyphenated; \JEdate and \scenebreak
                 # keep-with-next devices; emergencystretch tames loose
                 # justified lines (notices page).
-                "header-includes=\\usepackage{float}\\floatplacement{figure}{H}"
+                # graphicx explicitly: with all images inside raw
+                # \bookplate calls, pandoc no longer auto-loads it
+                "header-includes=\\usepackage{graphicx}"
                 "\\usepackage{needspace}"
                 "\\frenchspacing\\raggedbottom"
                 "\\widowpenalty=10000\\clubpenalty=10000\\brokenpenalty=10000"
@@ -381,8 +392,12 @@ def main():
                 # frontispiece facing the title (p.2), then \maketitle;
                 # cover/half-title typography still a design pass
                 # plate/text boundary is whitespace, not furniture:
-                # codified minimum air around in-text cuts
-                "\\setlength{\\intextsep}{18pt plus 4pt minus 2pt}"
+                # \bookplate centers each cut on the measure (recto and
+                # verso alike) with the codified air on both sides
+                "\\newcommand{\\bookplate}[2]{\\par"
+                "\\addvspace{18pt plus 4pt minus 2pt}"
+                "{\\centering\\includegraphics[width=#1\\linewidth]{#2}\\par}"
+                "\\addvspace{18pt plus 4pt minus 2pt}}"
                 "\\AtBeginDocument{\\pagenumbering{gobble}"
                 "\\thispagestyle{empty}\\null\\vspace{0.28\\textheight}"
                 "{\\centering\\LARGE White Buffalo\\par}\\clearpage"
