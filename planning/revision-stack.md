@@ -2370,7 +2370,7 @@ newly read as gendered performance rather than consolation.
 
 Same slate re-run at DK direction against the 131pp build; briefs
 disclosed not-yet-complete status + dry runs in
-scratch/attribution-replays/; all four given read-only repo access.
+transcripts/attribution-dryruns/; all four given read-only repo access.
 Full reports in session transcript (edec8135).
 
 DISCLOSURE BEHAVIOR (the round's design question — answered well):
@@ -2542,3 +2542,148 @@ profile's groomed closer AND the stack's flagged "I can wait"
 button (item at line ~158; JE VI 12:117's instance now unique).
 Entry now ends on the physical fact carrying the patience. Jan 4's
 "Soon." lands harder without the wait-counter before it.
+
+## Five-instrument round 3 (2026-07-13, post-frontispiece/production
+## build, 136pp) — assessment + post-compaction plan
+
+Same-brief re-run (round-2 verbatim where possible; page count + the
+notice's new verbs updated; gender scholar pointed at "what the book
+fronts itself with"). DK hypothesis CONFIRMED: the object now reads
+opinionated, and the instruments responded to it as designed rather
+than accidental — the illustration critic APPLIED our own placement
+doctrine as its critical tool; production called the fundamentals
+"better than most self-produced books I'm sent"; the professor
+verified the List folios and the plate program's stated ethics
+against the plates and found both hold.
+
+VINDICATED THIS ROUND: frontispiece ("the entire novella in one
+plate; the best single design decision in the object" — professor;
+"keep — essential... spends nothing, pays off at p.110" — critic);
+frozen-man ("the exemplar — said-then-sought at full power"); JE VII
+bare ("the single best placement decision in the book"); the
+knockout (snow-as-page "a register bonus the book actually earns");
+track A/A2 cures all held (parity, gutter, URL, subheads, stubs-as-
+composition — none resurfaced).
+
+STANDING CHARGES (3rd consecutive hostile round — treat as
+certified, deliberate-or-not is DK's): (1) twin-voice ("one
+instrument wearing two coats"; register pass did not dissolve it at
+hostile altitude; NEW facet: 'perhaps' hedges distributed alike in
+both mouths). (2) Recap climax + offstage violence. (3) Lakota-as-
+numinous-scenery despite (because of) the disclaimer. (4) Unclosed
+Aldridge frame (ruled ground, holds). NEW hostile facets: JE VII
+chain-of-maybes indicted (the same passage regression called "the
+most damning, most human reason" — briefs-not-verdicts exhibit A);
+TK stubs quoted as ammunition; dropped AGAIN: research (3x
+airtight), timeline, ship-through-water (cleared as earned echo).
+
+CONVERGED RE-CUT: fifty-yards (folio 126) hit by THREE instruments
+independently — hostile ("black paint-splash... nearly plush...
+collapses at the exact moment the text needs awe"), critic ("a
+shade small, pretty, and knowing; re-cut for mass and blankness;
+cow-correct horns; KEEP the blood"), gender ("the buffalo-nickel
+body — the period visual archive has a GENDER partiality too...
+a decision, not an accident of the training set"). Spec: bigger in
+frame, eyes with nothing in them, cow horn-set, blood unchanged.
+
+GENDER ROUND 2 (the deepest single report): (1) THE LID — Farrell
+returns Catherine's draft to the box and closes it, carries
+Morrow's journal home; "the archive that survives this book is
+male, and the book stages that fact." Ask: ONE BEAT of Farrell
+noticing what he carries vs leaves — or knowingly leave unmarked.
+DK-grade, #29-adjacent. (2) Manufacturing-her-refusal: JE VIII's
+mechanics as coerced consent ("he scripts her consent by
+engineering her resistance"); one sentence of half-seeing would
+complete the self-knowledge — or leave it, knowingly. (3)
+DISCLOSURE ASYMMETRY: the notice has an ethics for Ptesáŋwiŋ and
+none for the genre's own murdered wife; "the paratext's conscience
+is real but half-built." (4) No plate keyed to Catherine's PAPER
+(letters/box/handwriting) — the paper woman the text constructs is
+unillustrated; candidate plate (distinct from the shelved
+daguerreotype decision). (5) Defenses filed against fridging and
+mystified-femininity — the counter-brief to hostile's charge 4.
+(6) The recursion note, on the record: conceived/directed/generated
+is reproductive grammar; "the recursion is gendered."
+
+PRODUCTION ROUND 3 (new layer entirely — image chain + page
+make-up + display typography): M1 RESOLUTION now quantified as THE
+gate (frontispiece 187ppi, portraits 245, landscape 304; idiom
+wants 600+ line-art); M2 RGB->grayscale (extend knockout.py); M3
+book ends flush on last surface — always add end leaf (+colophon
+candidate); M4 hard anchors make mid-chapter short pages (folios
+48, 119) — the [b]-float returns as production's own ask; pair
+with the anchor-adjacency audit when implemented; M5 asterisms
+stranded at page foot (folios 48/75/78/89/103); M6 TK line will
+need RESETTING not just substitution; S1 title page undesigned
+("the single strongest generated-PDF signal"); S2 notices set as
+body prose — production wants the attribution essay moved to a
+COLOPHON at the back; INSTRUMENT CONFLICT with professor (who
+teaches the notices page up front as "the most pedagogically dense
+two pages I've been sent in years") — DK call; S5 head margin
+0.37in < 0.5in floor; S9 claims wide sentence spacing — CONTRADICTS
+r2's measured verification of \frenchspacing; verify cheaply before
+acting. Critic's plate-program asks, consolidated with above:
+re-form village-passing to landscape or THE GATEFOLD (portrait crop
+"the wrongest formal call in the book"); p.72 floor-patch = decide
+plant-or-paint-out; trading-post cut/move (3 votes, 2 rounds; buys
+frozen-man its empty spread); tracks-north re-cut to speak the
+frontispiece's furrow vocabulary (consistency obligation the cover
+created); fort-kearny reconsider (smallness-as-subject or drop);
+offering-stake cloth too intact vs "worked to threads" (text-image
+check); morrow-hollow p.113: r3 LICENSES as visionary register
+(vs r1/r2 re-cut) — instrument conflict, DK call; PROTECT list
+reaffirmed (no captions, no Farrell, no corpse, no Catherine, no
+JE VII plate, nothing after p.126).
+
+PROFESSOR ROUND 3: adoption holds (second seat, Rowlandson -> WB ->
+Cather -> Jewett); the apparatus formulation to keep: dry runs
+"demonstrate the claim is performable without yet making it true";
+"the rehearsal has already exercised the right the notice
+describes" (notice amendments trace to the replay chain);
+ARCHIVAL ALARM (ACTED ON THIS SESSION): replay statements lived in
+scratch/ ("the evidentiary base of the book's central paratextual
+promise stored in the wastebasket") -> MOVED to
+transcripts/attribution-dryruns/, all pointers updated. Ship-
+blockers she reiterates: TK, anticipatory tense, bare p.1 cover.
+"The desk copy... lets students watch a paratext in the act of
+becoming true or false."
+
+## POST-COMPACTION PLAN (work queue, ordered; DK approvals in place
+## unless marked [DK])
+
+A3 (mechanical, template): end leaf always (M3); asterism foot-
+strand fix (M5, strengthen \scenebreak keeps or pair w/ float
+work); verify-then-fix S9 frenchspacing claim; head margin to
+0.5in (S5 — reflows everything, do before folio-sensitive work);
+title-page design pass (S1) [DK taste review]; TK line resetting
+note (M6, rides with real furniture).
+B2 (image chain, in knockout.py/assemble): grayscale conversion
+(M2); resolution strategy (M1) — try hi-res regeneration
+(1248x1824) on ONE plate as probe, else placed-size reduction or
+professional rescreen [probe first, then DK]; ground/frame grammar
+normalization (S6) + corner-crop pass (old item).
+C2 (plate re-cuts, one-at-a-time discipline, each with catalog
+provenance): (1) fifty-yards re-re-cut (3-instrument converged
+spec above); (2) village-passing re-form landscape / gatefold [DK:
+gatefold is a bindery/cost call]; (3) tracks-north furrow-
+vocabulary re-cut; (4) p.72 floor-patch decision [DK]; (5)
+trading-post cut/move [DK]; (6) fort-kearny [DK]; (7) morrow-hollow
+conflict [DK: r3 licenses vs r1/r2 re-cut]; (8) offering-stake
+cloth check; (9) first-sighting calf gap (r3 still reads her near
+the herd — verify at print size before re-rolling; DK accepted the
+plate).
+D (text, all [DK], all small): the LID beat (Ch 10/11 — what
+Farrell carries vs leaves); manufacturing-her-refusal half-seeing
+sentence (JE VIII/IX or Farrell-side — or knowingly decline);
+disclosure-asymmetry sentence for the murdered-wife device (notice
+edit — interacts with attribution process, maybe formal-round
+material); curated-journal brief (hostile r2/r3) still parked;
+twin-voice standing charge disposition.
+E (apparatus): formal-round prerequisites checklist lives at
+planning/attribution-review.md technical notes + ledger dry-run
+record (write path; only-text-persists warning [done]; entity-9
+mode question [DK]; image-heavy replay params recorded; fill-at-
+wrap cells; Opus 4.5 extension decision [DK]). Notices-vs-colophon
+placement conflict [DK]. Rights/license/ISBN real furniture [DK].
+F (rounds): next instrument re-run AFTER A3+B2+C2(1-3) land; add
+the period-auditor and a cold general reader to the slate then.

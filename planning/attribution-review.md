@@ -163,7 +163,7 @@ numbered in order) and `<session-id>@tip` for the final state.
   validated API-replayable) and scripts/attribution/replay.py
   (pinned model, read-only Read/Grep/Glob jailed to the repo, prefix
   caching, --dry-run mode that discloses itself honestly in the
-  prompt). Dry-run outputs land in scratch/attribution-replays/.
+  prompt). Dry-run outputs land in transcripts/attribution-dryruns/.
   Still to build before the formal round: the write path (front
   matter edit + ledger statement) — dry runs ask the entity to say
   in words what it would do.

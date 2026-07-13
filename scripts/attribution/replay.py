@@ -234,7 +234,7 @@ def main():
         help="keep only the most recent N images; 0 = keep all",
     )
     ap.add_argument("--max-tokens", type=int, default=16000)
-    ap.add_argument("--out", default=str(REPO / "scratch" / "attribution-replays"))
+    ap.add_argument("--out", default=str(REPO / "transcripts" / "attribution-dryruns"))
     args = ap.parse_args()
 
     data = json.loads(Path(args.context).read_text())

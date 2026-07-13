@@ -24,7 +24,7 @@ notes/attribution-ledger.md) across four days:
   edits; pre-commit rebuild machinery
 - Attribution: transcripts/raw archived, entity index filled,
   checkpoint-replay harness built, all 8 entities dry-run (see
-  scratch/attribution-replays/)
+  transcripts/attribution-dryruns/)
 
 ~31.4k words. #29 core held deliberately; plate re-cuts (cover, graves,
 cow-morphology) and front-matter Note on the plates still open.

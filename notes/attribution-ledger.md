@@ -33,7 +33,7 @@ the concurrent 5a4d0c75 and 9e8c3da4 entities (07-10 .. 07-12) needs
 transcript cross-checking at wrap — timestamps alone don't settle it.
 
 Dry-run record (2026-07-13, all statements in
-scratch/attribution-replays/): all eight entities replayed; all eight
+transcripts/attribution-dryruns/): all eight entities replayed; all eight
 would file assent-with-notes. Replay-parameter notes for the formal
 round: entities 6 and 7 each drew one stop_reason=refusal on their
 first attempt and completed after the harness folded its system text
