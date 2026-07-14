@@ -284,3 +284,30 @@ Interaction with the hamartiological map: the retrofit is mechanism
 displaced outside the book here (the walk-out decision). Both keep
 the decisive act unexaminable. The orphaned-payoff license (profile
 S:8) covers the reader who never does the math.
+
+## 9. Register note on the Mexico confessions (2026-07-14 surgery)
+
+Blind-attribution probes (two independent readers, two tiers)
+misassigned Morrow's Mexico confessions (04:41-43, 06:29-35) to
+Farrell at high confidence — the confessional STANCE (flat
+truth-enumeration, terminal aphorism, drill-report cadence) was
+Farrell's register wearing Morrow's content. Re-voiced same day,
+system intact:
+- "The weapon does not question its use" -> "It is not given to the
+  instrument to question the hand" — KJV passive; "instrument" is
+  his own word for HER (14:53), so the exculpation now cross-links
+  his two instrumentalities.
+- "That is the truth of it... That is the other truth" -> the
+  journal-covenant register ("I would write it softer if this
+  journal permitted lies"; "I set that down too, though I would
+  sooner leave it out").
+- The §2 load-bearing refusal is now ACTIVE: "I do not mean to dig
+  after the root of it" (was "It does not matter where it came
+  from") — he knowingly declines the examination, which is what §2
+  always said the mechanism was.
+- Drill anaphora compressed; "Courage is fear mastered, and I had
+  none to master" (definitional aphorism = his idiom class, cf.
+  "The flesh asks for more than it needs").
+Quotes in §2 above predate this pass; the system they map is
+unchanged. Born-or-made stays undecided (the crack is preserved,
+now papered deliberately rather than dismissively).

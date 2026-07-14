@@ -38,9 +38,9 @@ There is no wood in it. I burn what the herd leaves—the dried dung the emigran
 
 The things I carried with me—memories, desires, the weight of what I was—are falling away like dead skin. I am becoming simpler. Whether I am being refined or only starved, I cannot tell.
 
-In Mexico I was made into a weapon. That is the truth of it, however I might wish to say it differently. They took the boy I was and they filed him down and they put an edge on him and they pointed him at other men. I was good at it. That is the other truth, the one I wish I could deny.
+In Mexico I was made into a weapon. I would write it softer if this journal permitted lies. They took the boy I was and they filed him down and they put an edge on him and they pointed him at other men. And I was good at it—I set that down too, though I would sooner leave it out.
 
-I killed seventeen men with certainty and perhaps more. Some of them I saw clearly, their faces visible in the instant before I fired. Some of them I did not see at all—just shapes in the smoke, falling when I pulled the trigger. After a time I stopped thinking about it. The weapon does not question its use.
+I killed seventeen men with certainty and perhaps more. Some of them I saw clearly, their faces visible in the instant before I fired. Some of them I did not see at all—just shapes in the smoke, falling when I pulled the trigger. After a time I stopped thinking about it. It is not given to the instrument to question the hand.
 
 But the war ended and they sent me home and I was expected to become a man again. I tried. I went back to Virginia and I worked my father's land and I attended church on Sundays and I said the words one says when one is trying to be human. None of it took. The weapon remained, even when there was nothing to cut.
 

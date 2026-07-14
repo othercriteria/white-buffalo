@@ -3253,3 +3253,49 @@ RESULTS:
   unit (marks time by endurance-cadence); rumor redundancy Ch 3-5
   (lampshaded not fixed); terminal line "closes too prettily";
   commandment thread reads unresolved-dark not controlled-orphan.
+
+### Twin-voice surgery + fusion-dream wrongness (2026-07-14, DK)
+Acting on the probe round's localization. THE SURGERY (Mexico-
+confession register re-voiced toward Morrow's own idiom, system and
+felt-nothing chain untouched):
+1. 04:41 "That is the truth of it, however I might wish to say it
+   differently" -> "I would write it softer if this journal
+   permitted lies" (journal-covenant register); "I was good at it.
+   That is the other truth, the one I wish I could deny" -> "And I
+   was good at it—I set that down too, though I would sooner leave
+   it out."
+2. 04:43 "The weapon does not question its use" -> "It is not given
+   to the instrument to question the hand" — KJV passive;
+   "instrument" cross-links to 14:53 (she is the instrument of it).
+3. 06:29 drill anaphora compressed to one Morrow-rhythm sentence.
+4. 06:31 "But it was not courage. I could not have said what it
+   was, then." -> "It was not courage. Courage is fear mastered,
+   and I had none to master." (definitional aphorism, his class).
+5. 06:33 emptiness kept; "that was simply not there" -> "and it
+   stood empty" (the swept house, church-goer's idiom).
+6. 06:35 refusal made ACTIVE: "I do not mean to dig after the root
+   of it" (was the dismissive "It does not matter") — enacts §2's
+   knowing-refusal mechanism instead of asserting around it.
+Morrow note §9 added (quote drift vs §2 documented).
+THE DREAM (15:139-145, DK: "we would benefit from weirdness... he
+should get things wrong"): the fusion-dream buffalo is now WRONG in
+ways the reader can check against Morrow's journal — a BULL, blind
+in one eye, circling nervously, a twitch in the flank "the way it
+runs in a played-out horse" (sourced from Farrell's own failing
+horse; his tremor projected). Unglossed — no waking correction, the
+reader does the work (orphan license). Kills the gift-wrapped
+mirror (Opus's "worst offender") by making the fusion a fevered
+confabulation from bar-talk instead of a mystical channel; "closer
+than I had ever been" now lands ironic. Ch 11's real her —
+massive, still, expressionless — retroactively exposes every
+particular.
+PROFESSOR-ADJACENT OBSERVATION (DK): Opus misquoted the book's
+final line as "I was not moving." and criticized ITS groomed
+cadence — but the actual close is the longer rougher sentence
+("...nothing left to follow"). The reader's memory groomed the
+ending down to its cadence line: the pull of polish demonstrated
+in the reader, not the text; partial self-refutation of the
+too-pretty critique. Meaning delivered to the wrong address.
+Pagination: 142pp -> 144pp (dream growth); colophon recto + blank
+verso hold; folios after Ch 8 shift (+1: two-stories 115,
+morrow-hollow 118, journal-found 125, fifty-yards 131).

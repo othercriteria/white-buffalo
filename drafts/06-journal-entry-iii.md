@@ -26,13 +26,13 @@ I have been thinking about what I did in Mexico.
 
 I do not like to think about it. I have spent years not thinking about it, filling my mind with the farm and the church and the small offices of an ordinary life. But out here there is nothing to distract me. There is only the grass and the sky and the buffalo and the long hours of walking, and in those hours the memories come whether I want them or not.
 
-I was a good soldier. I did what I was told, and I did it well. When they said advance, I advanced. When they said fire, I fired. When they said hold this position until relieved, I held it, though the relief came late and the position was costly to hold.
+I was a good soldier. I did what I was told and I did it well—advanced when they said advance, fired when they said fire, held what I was told to hold though the relief came late and the holding was costly.
 
-I was promoted twice. Once after Monterrey, once after Buena Vista. They made me a corporal, and then they made me a sergeant, and both times they told me it was because I had shown courage under fire. But it was not courage. I could not have said what it was, then.
+They promoted me twice, corporal after Monterrey and sergeant after Buena Vista, and both times the word they gave for it was courage. It was not courage. Courage is fear mastered, and I had none to master.
 
-It was a kind of emptiness. A place inside me where the fear should have been, where the hesitation should have been, that was simply not there. When other men froze, I moved. When other men ran, I stood.
+There was a place in me where the fear should have been, where the hesitation should have been, and it stood empty. When other men froze, I moved. When other men ran, I stood.
 
-I do not know when this emptiness came to me, whether I was born with it or it was made in me. It does not matter where it came from. It was there, and the army found a use for it.
+Whether I was born with that emptiness or Mexico made it in me, I cannot say, and I do not mean to dig after the root of it. It was there, and the army found a use for it.
 
 At Buena Vista, I killed a man with my hands. He was a Mexican lancer, separated from his unit, and he came at me with his sword and I caught his arm and I broke it and then I put my hands around his throat and I squeezed until he stopped moving. It took a long time. He was strong, and he fought, and I watched his face as he died and I felt nothing.
 

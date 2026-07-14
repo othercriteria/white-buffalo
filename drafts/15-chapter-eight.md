@@ -138,10 +138,10 @@ I was in Mexico, in a village I recognized—a place we had passed through durin
 
 At the end of the street there was a white buffalo.
 
-She stood in the middle of the road, enormous, impossible, her whiteness wrong against the brown of the buildings around her. She watched me with eyes that were not the eyes of an animal.
+It was a bull, enormous, impossible, his whiteness wrong against the brown of the buildings around him. One eye was clouded blind. He circled in the road as I came on, not holding his ground, his big head swinging, a twitch running in his flank the way it runs in a played-out horse. He watched me sidelong out of the seeing eye, and it was not the eye of an animal.
 
 "I'm looking for a man," I said. "A man who follows you."
 
-She did not answer. But she turned, slowly, and began to walk. And I followed her down the empty street.
+The bull did not answer. He came out of his circling and began to walk, and I followed him down the empty street.
 
 I woke to gray light and frozen breath and the knowledge that I was closer than I had ever been.
