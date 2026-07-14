@@ -2993,3 +2993,44 @@ fifty-yards s607 promoted earlier (81492c4); art/cover.png demoted
   more intact than a literalist read — noted, no re-cut.
 - C2(9) first-sighting calf gap: VERIFIED at print scale during the
   whole-book read (folio 11) — the empty stretch reads.
+
+## Materiality audit (2026-07-14, DK-commissioned mid-generation;
+## fresh-context instrument over all drafts + full catalog)
+
+VERDICT: DK's guess CONFIRMED — text broadly good, ZERO blockers;
+chronology (railroad dates, Rock Island/Effie Afton "two years back,"
+Spirit Lake, Panic-of-'57 gold traffic, Buena Vista/Davis) checked
+hard and correct. Pencil-vs-ink worry: clean (Morrow all-pencil; the
+frozen ink is Catherine's). Winter physics, muzzleloader continuity,
+horse care, sod-vs-log differentiation, Lakota observed-objects-only
+discipline: all-clear.
+
+PROMPT FIXES APPLIED (same day):
+1. "flat-roofed" period-wrong (soddies = low-pitched pole-and-sod so
+   water sheds; trading post's sagging roof already knew) -> "sod roof
+   pitched low and shallow over poles," both exteriors. INVALIDATED
+   the alive v5 sweep (roof plainly visible in summer); v6 re-sweep.
+   Winter s805 LOCK SURVIVES: roof snow-buried, error not rendered.
+2. "block the size of a long loaf" undersized + self-defeating
+   (loaf=rounded, the negatives' own enemy) -> flat rectangular slab,
+   1ft x 2-3ft.
+3. windlass -> pulley-and-rope (11:51 is canonical; catalog rule).
+4. fort-kearny phantom citation ('boxes dropped by a careless god' —
+   not in text) deleted; clothesline cite 10:75 -> 10:67.
+5. cover-tracks furrow-vs-prints divergence documented in-comment as
+   deliberate (JE VIII deep-drift trail-breaking vs Ch 7/8 shallow
+   crossings; DK s524 ruling) — audit offered reconcile-or-document,
+   we document.
+
+TEXT-SIDE OPTIONAL [DK], logged not queued:
+- Buffalo chips never burned (3 summers on the plains; signature
+  Plains fuel; defensible in winter, absence noticeable to experts).
+- Whiskey never slushes (omission not error; one thawed-bottle beat
+  would close it).
+- JE VIII "brown dead grass" (Jan 1) vs Ch 11 "white on white"
+  (Jan 5), same valley — weather-explicable; one dusting line would
+  make it airtight.
+
+PIPELINE NOTE: chained-sweep deadlock found and fixed — a background
+wait-loop's pgrep pattern matched its own shell wrapper; sequential
+sweeps in one command now, no wait loops.

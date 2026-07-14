@@ -105,7 +105,7 @@ dni = "clean"
 negative = "mountains, peaks, crags, cliffs, alpine, stockade, palisade, wall, fortification, person, human figure, rider, color, tinted, hand-colored, artist signature, monogram, lettering"
 prompt = "strictly monochrome ink, a frontier army post seen from across dead-grass bottomland in early winter: long low sod and adobe buildings and a few unpainted two-story frame buildings scattered loosely around a wide open parade ground, a bare central flagstaff flying a small flag, nothing else on the pole, a thin line of young bare cottonwood trees, no stockade and no wall, smoke rising from the chimneys of the buildings, the flat gray river corridor beyond, snow patched on the ground"
 aspect = "landscape"
-citations = ["07:89-105 (wood-and-sod, parade ground, 'boxes dropped by a careless god', unstockaded, sutler's store)", "07:5 (flat wide gray corridor)"]
+citations = ["07:89-105 (wood-and-sod buildings around a parade ground, open to the plains on every side, unstockaded; sutler's store)", "07:5 (flat wide gray corridor)"]
 underdetermined = []
 dni = "clean"
 
@@ -160,14 +160,19 @@ dni = "clean"
 # CANONICAL (the dead plate carried the lumpy-cobble caveat from
 # promotion — this re-roll settles both). House block + anti-cottage
 # negatives ported from homestead-alive v2 (proven).
+# v4 (2026-07-14, DK package deal w/ graves s709 + interior): lumpy-
+# cobble caveat finally attacked head-on (blocks-as-loaves language,
+# anti-sandbag/cobble negatives, both exteriors identically); canon
+# 11:55 unbroken-snow asserted (promoted render had invented legible
+# track-trails to the door).
 # v3 (2026-07-10): DK — s241 "acquired a moat": the creek wrapped the
 # house in open dark water. Topology fixed (the creek bends around the
 # HILL, at a distance) and state fixed (frozen and snow-covered — it is
 # December; no open water anywhere).
-negative = "moat, pond, lake, open water, dark water, water around the house, island, ditch, mountains, peaks, crags, cliffs, alpine, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, masonry chimney, shingles, fence, smoke, dog, person, human figure, weeping willow, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a low flat-roofed sod house buried in snow on open level ground, its walls of flat-cut sod bricks laid in courses, a dark door opening and one small dark window, a cold stovepipe and no smoke rising through the sod roof, a pole lean-to behind it, a well frame with windlass near the door, and off beyond the house a frozen creek lying white and snow-covered under the ice where it bends around a low hill, brushy bare willow thickets marking its course, scattered pines on the far north-facing slope, December, utterly still"
+negative = "sandbags, sandbag wall, rounded blocks, cobblestone, cobbles, boulder wall, rubble wall, stone masonry, footprints, fresh tracks, boot prints, trail of tracks, moat, pond, lake, open water, dark water, water around the house, island, ditch, mountains, peaks, crags, cliffs, alpine, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, masonry chimney, shingles, fence, smoke, dog, person, human figure, weeping willow, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a low sod house buried in snow, its sod roof pitched low and shallow over poles on open level ground, its thick walls built of long flat blocks of cut prairie sod laid like brickwork in level staggered courses, the wall faces roughly squared, each block a long flat rectangular slab a foot wide and two to three feet long, a dark door opening and one small dark window, a cold stovepipe and no smoke rising through the sod roof, a pole lean-to behind it, a wooden well frame holding a pulley and rope near the door, and off beyond the house a frozen creek lying white and snow-covered under the ice where it bends around a low hill, brushy bare willow thickets marking its course, scattered pines on the far north-facing slope, December, utterly still, the snow around the door unbroken, no fresh tracks, only vague shallow depressions almost filled by later snows"
 aspect = "landscape"
-citations = ["11:51-77 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:6-10 (willow-lined valley, broken hills, pines on north slopes)", "10:75 (clothesline)", "11:9 (December, no smoke)"]
+citations = ["11:51-77 (sod house, one window, stovepipe, latch; barn; well; garden)", "11:6-10 (willow-lined valley, broken hills, pines on north slopes)", "10:67 (clothesline)", "11:9 (December, no smoke)"]
 underdetermined = []
 dni = "traces-only: exterior desolation; no interior violence evidence in this frame"
 
@@ -179,13 +184,26 @@ dni = "traces-only: exterior desolation; no interior violence evidence in this f
 # a farm across a valley is intrinsically horizontal, and the
 # alive/dead rhyme with the existing landscape vignette outranks
 # format purity. Added 2026-07-09 (DK gap-fill ruling).
+# v4 (2026-07-14): wall language + anti-cobble negatives synced with
+# homestead v4 (DK package deal) — joint sweep, same seeds, pick pair.
+# DK 2026-07-14: seed-sharing/rhyme RELAXED for this pair — shared
+# seeds buy weak massing, not real uniformity; same-building
+# consistency must come from the shared wall language. Pick each
+# independently.
+# v5 (2026-07-14, DK: s802 building arrangement unworkable — two
+# similar-mass structures side by side, no legible well): ONE building
+# asserted, lean-to hidden behind, single washline, well frame before
+# the door. Pose freed by DK ("any pose of appropriate togetherness")
+# -> the anchor beat prompted directly (paused together, looking out).
+# Existing fallbacks: s806 (arrangement works, wall log-ish at ends),
+# s801 (best wall; doubled washline, one figure).
 # v2 (2026-07-10): round 1's houses broke the rhyme-pair continuity —
 # s202 a steep-gabled thatch cottage, s100 log-fronted; the alive/dead
 # pair must show THE SAME BUILDING as homestead.png (low soddy, cut-sod
 # courses). Also a model-fill DOG cut: the text never gives the Hardins
 # one, and the killing logistics quietly depend on that absence.
-negative = "mountains, peaks, crags, cliffs, alpine, forest, winter, snow, faces, close-up, foreshortening, weeping willow, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, shingles, fence, dog, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, seen level from a ridge across a wide summer valley, a small homestead far below: a low flat-roofed sod house, its walls of flat-cut sod bricks laid in courses, a stovepipe with a thin thread of smoke rising through the sod roof, a plowed field beside it, a well frame with a windlass near the door, washing on a line strung between two posts, two tiny figures at their work in the yard, brushy willows along the creek where it bends around a low hill, the valley grass moving under the wind, high summer light, the figures far too small for faces"
+negative = "second building, barn, shed beside the house, two houses, outbuildings flanking, two clotheslines, group of people, three figures, crowd, sandbags, sandbag wall, rounded blocks, cobblestone, cobbles, boulder wall, rubble wall, stone masonry, mountains, peaks, crags, cliffs, alpine, forest, winter, snow, faces, close-up, foreshortening, weeping willow, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, shingles, fence, dog, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, seen level from a ridge across a wide summer valley, a small homestead far below: a low sod house, its sod roof pitched low and shallow over poles, its thick walls built of long flat blocks of cut prairie sod laid like brickwork in level staggered courses, the wall faces roughly squared, each block a long flat rectangular slab a foot wide and two to three feet long, the sod house the only building, its low pole lean-to tucked out of sight behind it, a stovepipe with a thin thread of smoke rising through the sod roof, a plowed field beside it, before the door a wooden well frame holding a pulley and rope, to one side a single washline strung between two posts with clothes hung out, and in the open yard two tiny figures paused together side by side, looking out across the valley, brushy willows along the creek where it bends around a low hill, the valley grass moving under the wind, high summer light, the figures far too small for faces"
 aspect = "landscape"
 citations = ["10:67-71 (Aug 2 1857: sod house, plowed and planted field, well dug, woman hanging clothes on a line between two posts, the man coming out)", "10:68 (watched from the ridges)", "14:37 (the sod house seen from the ridge, smoke from their chimney, the man in his field)", "11:3 (creek bends around a low hill — same site as the winter vignette)", "12:55 (quarter-mile watching distance)"]
 underdetermined = ["yard layout beyond the cited elements"]
@@ -233,18 +251,37 @@ dni = "canonical trace of the killings — the permitted evidence, nothing more"
 # do the real work. Bedframe smear (13:35) deliberately CUT — two
 # traces carry it; more would overload (kit-manifest lesson). Added
 # 2026-07-09 (DK gap-fill ruling).
+# v4 (2026-07-14, DK floor-patch ruling): promoted render's patch was
+# a raised HEAP of loose soil (reads spilled bucket, confuses the Ch 7
+# evidence beat) on a part-plank floor vs 13:9 packed earth. Patch
+# forced flat/flush/tamped; plank-floor negatives; garment research
+# language untouched (won charges keep their tokens).
+# v5 (2026-07-14, DK: "another round"): v4 sweep s801-808 — floor
+# ruling LANDED (s805 flat tamped patch, both traces) but s805 split
+# the garments across the doorway (11:77 "next to" stretched) and the
+# paired-garment seed (s801) lost the neat bed AND the broken chair.
+# v5 asserts: pegs a hand apart beside the door, garments almost
+# touching; bed made flat and square; rug/mat negatives (s808's oval
+# rug = the floor confuser reborn).
+# v6 (2026-07-14, DK on s828: "excellent in many ways, but the object
+# in the corner doesn't read broken chair"): broken chair DROPPED from
+# the prompt — focus on what the model does well. Design holds: the
+# garments do the real work (v2 comment), the flat tamped patch stays
+# as the single quiet trace, and canon's table-and-two-chairs (11:77)
+# stands intact. Trace count now 1 (was 2; bedframe smear was already
+# cut on the same principle).
 # v3 (2026-07-10): DK caught hanger + modern dress in promoted s210.
 # Research (reference/interior-garments-research.md): NO hangers before
 # 1869/1903 — garments hang from pegs by collar loops, bunched at a
 # single point, a long crumpled cone with NO shoulder shape; the 1850s
 # dress cue is the waist seam + dense waist pleating + limp full-skirt
 # yardage pooling low; the man's sack coat hangs slack from its collar.
-negative = "person, human figure, coat hanger, clothes hanger, wire hanger, shoulder hanger, hanging rod, closet rail, modern dress, short dress, fire burning, flames, smoke, glowing window, warm light, lamplight, candlelight, curtains, wallpaper, plaster wall, brick, paneling, modern furniture, clutter, blood, red, color, tinted, hand-colored, artist signature, monogram, lettering"
+negative = "heap, pile of dirt, mound of earth, loose soil, spilled earth, dirt pile, wooden floor, floorboards, plank floor, rug, floor mat, carpet, unmade bed, rumpled blankets, person, human figure, coat hanger, clothes hanger, wire hanger, shoulder hanger, hanging rod, closet rail, modern dress, short dress, fire burning, flames, smoke, glowing window, warm light, lamplight, candlelight, curtains, wallpaper, plaster wall, brick, paneling, modern furniture, clutter, blood, red, color, tinted, hand-colored, artist signature, monogram, lettering"
 # v4: v3's rich garment clause became its own subject — all 3 seeds
 # split into garment-still-life + glimpsed room (one dress on invisible
 # shoulders). v4 = v2's proven room language (s210's coherent single
 # room) + the garment fix folded in compactly.
-prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, dust thick on a rough plank table, the bed neatly made against the far wall, a cold iron stove, and near the door a woman's dark full-skirted dress and a man's loose dark coat hanging side by side from wooden pegs, the cloth bunched at the pegs and falling in long limp folds, below them a chair with a snapped front leg propped against the corner, and in the packed-earth floor by the threshold a swept patch of newer darker tamped dirt, no people, deep stillness"
+prompt = "strictly monochrome ink, the single dim room of an abandoned sod house seen from its open doorway, gray winter light from one small window, dust thick on the table, the bed against the far wall made flat and square, its blankets drawn tight and undisturbed, a cold iron stove, and on the wall beside the door two wooden pegs set a hand apart, a woman's dark full-skirted dress and a man's loose dark coat hanging from them together, side by side and almost touching, the cloth bunched at the pegs and falling in long limp folds, a rough table with two plain chairs, the floor bare hard packed earth throughout, no boards, and in it by the threshold a patch of newer darker earth tamped level, flat and flush with the floor around it, nothing raised, no people, deep stillness"
 aspect = "landscape"
 citations = ["11:77 (table and two chairs, bed neatly made, cold stove with pipe through the sod roof, shelves with dishes and books, dress and coat on pegs)", "11:73-83 (gray light through the small window, closed-up smell, dust thick on the table)", "13:33 (dark patch dug out and tamped with fresh dirt near the door; a crack in the wall; the broken chair propped in the corner as if meant for repair)"]
 underdetermined = ["room arrangement beyond cited anchors (twenty-by-fifteen analog per trading post; text gives no dimensions here)"]
@@ -469,6 +506,11 @@ underdetermined = ["steamboat's build beyond sidewheel/stacks", "ferry propulsio
 dni = "clean (Farrell aboard but a speck among specks; no identifiable figure)"
 
 [cover-tracks]
+# MATERIALITY AUDIT 2026-07-14: the furrow here KNOWINGLY diverges
+# from tracks-north/two-stories (discrete prints) and the text's
+# "hoofprints" — different ground: JE VIII trail-breaking in deep
+# drifted snow (chest-deep = plowed trench) vs Ch 7/8 shallow fresh
+# crossings. Deliberate, DK-ruled (s524 physics audit); not an error.
 # COVER RE-CUT 2026-07-13 (round-2 gender + both illustration critics:
 # the s78 cover pre-spends the growth arc and the whiteness, and its
 # body mis-sexes her; DK ruled replacement, tracks direction). The
