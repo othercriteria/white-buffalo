@@ -102,8 +102,43 @@ dni = "clean"
 # Vignette. Research: reference/plate-settings-research.md (Mills 1858
 # photo = ground truth). POLICY: the "lone rider" removed — that rider
 # is Farrell; the plate IS his approach view.
-negative = "mountains, peaks, crags, cliffs, alpine, stockade, palisade, wall, fortification, person, human figure, rider, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a frontier army post seen from across dead-grass bottomland in early winter: long low sod and adobe buildings and a few unpainted two-story frame buildings scattered loosely around a wide open parade ground, a bare central flagstaff flying a small flag, nothing else on the pole, a thin line of young bare cottonwood trees, no stockade and no wall, smoke rising from the chimneys of the buildings, the flat gray river corridor beyond, snow patched on the ground"
+# v2 (2026-07-14, DK re-cut, second-least-recently-touched): promoted
+# render missed on three counts + one mechanical — (1) trees rendered
+# as MATURE poplar columns vs 07:89 "planted cottonwoods still young
+# and bare with the season" (sapling age asserted, poplar/mature
+# family negated); (2) the Platte rendered as a wide LAKE vs 07:5
+# low braided river, exposed sand and gravel islands ("bones of the
+# land" — asserted); (3) vantage went INTERIOR (parade-ground
+# furniture, fence clutter) vs the approach-view policy — distance
+# asserted, post small on the level land; (4) faint script lettering
+# in both bottom margins survived promotion (negative held but lost;
+# distance composition should starve the margin-vignette behavior).
+# v2.1 (2026-07-14, DK on s931/s928): wind coherence asserted — s931's
+# chimney smoke disagreed with the flag about wind direction (broke
+# immersion); flag and every plume now bound to one steady wind.
+# Finalists re-rolled at both seeds: DIVERGED (sky/river phase-swap —
+# seed reuse only holds structure under unchanged prompts; DK).
+# v2.2 (2026-07-14, DK: fresh sweep, encode the sweep's lessons):
+# wind coherence kept; LEVEL ground vantage asserted (s922/s925 went
+# aerial — emblem-class rule #5); tents negated (s921 crowd+tents);
+# sapling rows pinned to the parade-ground edges (s927 read vineyard
+# grid). Fallback if none land: untweaked s928_v2 / s931_v2 (DK).
+# PROMOTED s951 v2.2 (DK bless 2026-07-14, "satisfactory"): wind
+# coherent — flag and plume agree rightward, verified at zoom (s950
+# failed exactly here: flag left, three plumes right; s945/946 mixed).
+# Truest "not much to look at" approach: post a low line under a wide
+# sky, river visible but modest (DK-accepted), margins clean, no
+# figures/tents/fence/vignette. TREE-HEIGHT CORRECTION on the record:
+# the render ignores the prompt's "hardly taller than a man" and is
+# RIGHT to — Kearny's cottonwoods were planted ~1850, so Dec 1858
+# "still young and bare" trees stand well above a man; the sapling
+# assertion over-corrected v1's mature poplar columns. Residual: the
+# smoking chimney is a tall dark stack, faintly industrial at zoom;
+# at plate scale reads chimney+smoke (bakehouse/smithy defensible).
+# s944 coherent runner-up (crumbly sod); s942 lettering+frame;
+# s947/948 vignette-mask relapse.
+negative = "tents, camp, aerial view, bird's eye view, top-down, high angle, overhead, poplars, lombardy poplars, tall trees, mature trees, old trees, avenue of trees, windbreak, forest, lake, pond, wide water, open water, dark water, fence, corral, wagon, cannon, mountains, peaks, crags, cliffs, alpine, stockade, palisade, wall, fortification, person, human figure, rider, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a level view from the ground, a frontier army post seen from far off across flat dead-grass bottomland in early winter, the whole post small and low on the level land under a wide sky: long low sod and adobe buildings and a few unpainted frame buildings scattered loosely around a wide open parade ground, open to the plains on every side, a central flagstaff flying a small flag, thin bare newly planted cottonwood saplings, hardly taller than a man, set in lines along the edges of the parade ground, no stockade and no wall, one steady wind over the whole post so that the flag on its staff and every plume of chimney smoke stream sideways in the same direction, and beyond the post the shallow braided river running low between its banks, long bars of exposed sand and gravel showing like bones through the water, snow patched on the dead grass"
 aspect = "landscape"
 citations = ["07:89-105 (wood-and-sod buildings around a parade ground, open to the plains on every side, unstockaded; sutler's store)", "07:5 (flat wide gray corridor)"]
 underdetermined = []

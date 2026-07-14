@@ -3127,3 +3127,19 @@ Prerequisites locked (see catalog dni): 09:25 unmarkable frozen man,
 11:111 unmarked Hardin graves, 09:35 settled tooled trader.
 All candidate renders archived under imagegen/output/rework/ with
 version suffixes.
+
+### Fort-kearny re-cut PROMOTED s951 v2.2 (2026-07-14, DK bless)
+[DK]-queue item CLOSED. v1 defects: mature poplar columns (vs 07:89
+young planted cottonwoods), the Platte as a LAKE (vs 07:5 low braided
+river, exposed bars), interior parade-ground vantage (vs approach-
+view policy), margin script. v2 sweep (12): all four fixed across the
+board; finalists s928 (full scene) / s931 (best building line, truest
+distance). DK caught wind incoherence (s931 smoke vs flag) -> wind
+bound to one steady stream, flag + every plume. Same-seed rerolls
+DIVERGED (sky/river phase-swap; seed reuse holds only under unchanged
+prompts — now thrice-confirmed). Fresh v2.2 sweep (12): s951 wind-
+coherent + approach-true; s950 the counterexample (flag left, plumes
+right). Tree-height correction recorded: ten-year cottonwoods beat
+the prompt's saplings; the model out-argued the prompt and the text
+sides with the model. Speaking-to-her checked same session: holds
+(lateral grammar intact, no action).
