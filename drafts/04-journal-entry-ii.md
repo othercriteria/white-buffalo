@@ -34,6 +34,8 @@ The herd has turned north. I do not know why. Better grass, or water, or somethi
 
 The country here is empty in a way I had not imagined. I have been west before, but not this far, not into the true plains. Here there is nothing but grass and sky, the two meeting at a line so distant it seems to belong to another world. A man could walk for days and see nothing but the same endless brown and blue.
 
+There is no wood in it. I burn what the herd leaves—the dried dung the emigrants call chips, gathered by the armload where the buffalo have passed. It makes a low, steady fire, near smokeless.
+
 The things I carried with me—memories, desires, the weight of what I was—are falling away like dead skin. I am becoming simpler. Whether I am being refined or only starved, I cannot tell.
 
 In Mexico I was made into a weapon. That is the truth of it, however I might wish to say it differently. They took the boy I was and they filed him down and they put an edge on him and they pointed him at other men. I was good at it. That is the other truth, the one I wish I could deny.

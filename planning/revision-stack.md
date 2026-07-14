@@ -3034,3 +3034,23 @@ TEXT-SIDE OPTIONAL [DK], logged not queued:
 PIPELINE NOTE: chained-sweep deadlock found and fixed — a background
 wait-loop's pgrep pattern matched its own shell wrapper; sequential
 sweeps in one command now, no wait loops.
+
+### Materiality optional items ENACTED (2026-07-14, DK direction)
+1. Whiskey slush (Ch 5, after rationing para): trader's cloudy bottle
+   slushes in deepest cold, Kearny bottles stay liquid — the slush is
+   a period diagnostic (watered whiskey freezes higher), pays off the
+   "cloudy with age or manufacture" plant. "I drank it anyway."
+2. DT echo (Ch 9, want-of-drink line): half-sleep ritual — thaws
+   whiskey he doesn't have, wakes before the first swallow. Craving
+   as pure prelude, per DK's spec.
+3. Brown-vs-white CLOSED (JE VIII Jan 4): windless snowfall Jan 2-3
+   buries the valley's brown grass. Bonus coherence: the snowfall IS
+   what he waited through ("I need clear weather"), and fresh snow
+   underwrites Ch 10's sharp trail.
+4. Buffalo chips (JE II Jul 3, after nothing-but-grass-and-sky):
+   procedural, no sacral hedging. RULING REASONING (DK asked): his
+   scruple attaches to HER (trail-refusal), not the herd; chips are
+   the purest case of the scavenger economy (already-discarded, from
+   no living thing) — wolf-leavings eater has no excreta qualm.
+   Aphorism closer ("I take nothing not already left behind")
+   considered and CUT as profile-pattern; entry stays procedural.

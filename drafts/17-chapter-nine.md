@@ -44,7 +44,7 @@ Twice that day I crossed the tracks of horses, small and unshod, four or five to
 
 The tracks came down to a river I took to be the Niobrara, running low under old ice below a long bend. I dismounted and led the horse across, sounding the ice ahead of us with the butt of my rifle, the way I should have done at the creek weeks before. It held. On the far bank the tracks went on north, and I went on with them.
 
-The last of my food had gone two days back, a heel of hardtack chewed in the saddle. I was not hungry. The want of drink had crowded out every smaller want.
+The last of my food had gone two days back, a heel of hardtack chewed in the saddle. I was not hungry. The want of drink had crowded out every smaller want. In my half-sleep I thawed whiskey I did not have—stood the bottle by the coals, watched the slush turn and clear—and woke each time before the first swallow.
 
 I followed. I did not think anymore about why. The reasons had fallen away somewhere back along the trail, lost in the snow like everything else. What remained was motion, and the simple animal need to see this thing through.
 

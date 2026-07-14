@@ -90,7 +90,7 @@ In three winters I have not once walked in her trail, though the snow is always 
 
 Soon.
 
-The weather has cleared. The wind has died. The herd is settled, grazing peacefully in the valley, undisturbed by predators or storms or any of the dangers that haunt the plains.
+Snow fell through the second day and into the third, straight down, windless, and buried the last of the valley's brown grass. Now the weather has cleared. The wind has died. The herd is settled, grazing peacefully in the valley, undisturbed by predators or storms or any of the dangers that haunt the plains.
 
 She stands at the edge of the herd, alone, facing north. She has been standing like that for most of the morning, as if she knows what is coming.
 
