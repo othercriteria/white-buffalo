@@ -24,9 +24,9 @@ She is always there. Always visible, even at a distance, a bright point in the b
 
 I have been thinking about what I did in Mexico.
 
-I do not like to think about it. I have spent years not thinking about it, filling my mind with work and whiskey and the small distractions that make up a life. But out here there is nothing to distract me. There is only the grass and the sky and the buffalo and the long hours of walking, and in those hours the memories come whether I want them or not.
+I do not like to think about it. I have spent years not thinking about it, filling my mind with the farm and the church and the small offices of an ordinary life. But out here there is nothing to distract me. There is only the grass and the sky and the buffalo and the long hours of walking, and in those hours the memories come whether I want them or not.
 
-I was a good soldier. That is the first thing to understand. I did what I was told, and I did it well. When they said advance, I advanced. When they said fire, I fired. When they said hold this position until relieved, I held it, though the relief came late and the position was costly to hold.
+I was a good soldier. I did what I was told, and I did it well. When they said advance, I advanced. When they said fire, I fired. When they said hold this position until relieved, I held it, though the relief came late and the position was costly to hold.
 
 I was promoted twice. Once after Monterrey, once after Buena Vista. They made me a corporal, and then they made me a sergeant, and both times they told me it was because I had shown courage under fire. But it was not courage. I could not have said what it was, then.
 

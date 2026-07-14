@@ -3080,3 +3080,26 @@ clipped these at assembly anyway).
 DK NOTE (interiors, for the record): both finalists carry "a good
 uncanny perturbed feeling ... important along with the more concrete
 forensic aspects" — perturbation as asset, not defect class.
+
+### JE III Sept 28 — Farrell-cue excision (2026-07-14, DK: "primarily
+reacting to just that sentence")
+Surgical, two edits:
+1. "work and whiskey and the small distractions that make up a life"
+   -> "the farm and the church and the small offices of an ordinary
+   life." Whiskey is Farrell's METHOD — Ch 9's recognition beat ("he
+   went looking for something large enough to swallow it whole; I had
+   poured whiskey into it for ten years. That was the difference")
+   needs the methods distinct or the twin-voice collapses into
+   identity. Replacement drawn from Morrow's own Virginia decade
+   (JE II: father's land, church, "the words one says"); "offices"
+   in the period-religious sense is his register, "distractions" was
+   modern-psych.
+2. "That is the first thing to understand" CUT from JE III (verbatim
+   recycle with JE IX:27, profile flag); JE IX's Buena Vista account
+   keeps the phrase uniquely.
+OBSERVED, NOT ACTED [DK]: (a) the drill anaphora ("When they said
+advance, I advanced...") still reads report-register, Farrell-
+adjacent — left standing per DK's narrowed diagnosis; (b) "white
+form" density — 2x within JE III (line 9 ship-through-water is
+canonical via Ch 10 quote; line 21 near-repeats it) + JE VI + JE IX.
+Cheap dedup available at line 21 ("looking for her among them").
