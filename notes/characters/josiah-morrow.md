@@ -231,3 +231,56 @@ into his specificity, as DK predicted.
 
 Related: notes/borrowed-language.md (template ownership),
 planning/revision-stack.md #16, #29.
+
+## 8. The providence retrofit (DK canon reading, 2026-07-14)
+
+The journal's first-page date is itself a lie of omission — the one
+lie committed structurally rather than by any sentence. NEVER ENACT
+IN TEXT; the reading collapses into mere unreliability the moment
+any sentence traces it.
+
+The claim: Morrow heard talk of THIS white buffalo and walked to
+her, then authored providence by starting the book after the
+decision. The evidence is already placed:
+
+- Timeline (reader-computable from the book's own dates): born 1824
+  (18:17); "thirty-one years old when I left Virginia" (14:37) ->
+  second departure 1855. She is "perhaps six months old" on April
+  19, 1856 (02:43) -> born autumn 1855, out of season. "Trader's
+  talk, at the posts on the Missouri, before I walked out past the
+  last of them" (02:29) in late 1855 is NEWS-driven talk — and the
+  book's own rumor economy (Ch 3-4: Council Bluffs -> Kearny ->
+  trader, everyone quoting the same trapper) shows exactly how word
+  of a white calf born that fall would run the river posts within
+  weeks. The talk was most probably of her.
+- The seam in his own hand: "I knew what I had been WAITING for"
+  (02:31) — reaches back before page one. "I came out here to die.
+  I should write that down plainly so that whoever reads this will
+  understand" (02:5) — record management; the failed-deaths sequence
+  (land, Sioux, hunger) as scaffolding for the providence story.
+- His documented habit of fogging decisive moments: "I joined the
+  volunteers in eighteen forty-six. I do not remember deciding"
+  (18:19). And JE IX licenses the retrofit reading in his own voice:
+  "grasping at meaning where there was none. It does not matter. I
+  believe it, and that is enough" (18:67).
+- The walked-into-existence mirror: his account opens mid-stride
+  with no origin ("I have walked a long time. I do not know how
+  long," 02:3) and issues its birth certificate only at the end
+  (18:17). A life that begins by arrival, origin displaced outside
+  the text — exactly what he ascribes to her: "An autumn calf, born
+  when no calf is born" (02:43). He imagines her the way he
+  authored himself.
+- His one piece of POSITIVE theological construction (everything
+  else is reported hearsay): "take her back to whatever sacred
+  place she came from" (18:65) — extrapolated from "brought them
+  their most holy things" (02:29; a bringer implies a from), the
+  "whatever" marking both ignorance and need. Consistent with the
+  hearsay-fog rule (18:45 double-something ruling): he never fakes
+  Lakota theology; the one thing he builds is an origin for her,
+  because he needs her to have the kind of origin he gave himself.
+
+Interaction with the hamartiological map: the retrofit is mechanism
+2's twin — origin displaced into passive voice there ("I was made"),
+displaced outside the book here (the walk-out decision). Both keep
+the decisive act unexaminable. The orphaned-payoff license (profile
+S:8) covers the reader who never does the math.
