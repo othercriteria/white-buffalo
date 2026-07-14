@@ -427,8 +427,23 @@ dni = "the enumerated permitted traces ONLY (scrubbed stain, broken chair); no v
 # v4 (2026-07-10): v3's lines fused into continuous FURROWS at plate
 # scale (DK: reads drag-marks, no discernible steps — not the intent).
 # Footfall spacing asserted: separate prints, clean snow between.
-negative = "furrows, continuous lines, ruts, drag marks, grooves, wheel ruts, sled tracks, wagon trail, overhead view, aerial view, top-down, bird's eye view, map, person, human figure, animal, buffalo in frame, horse, paw prints, claw marks, giant footprints, craters, holes, pits, mountains, peaks, crags, cliffs, alpine, trees, forest, fence, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a low level view across wide snow-covered ground under a gray sky, two dotted trails of separate small prints running side by side, each print a distinct dark mark with clean snow between it and the next, spaced like footfalls, one trail of heavier marks and one of lighter, dwindling away from the viewer toward the empty northern horizon, the marks softened by later snowfall, their makers long gone, nothing anywhere in the plate but the two print-trails and the gently rolling white emptiness"
+# v5 (2026-07-14, DK register re-cut with two-stories): the promoted
+# render is in the WRONG MEDIUM — soft graphite-gray wash, pencil-
+# study tonality, no committed blacks; against cover-tracks /
+# journal-found / the re-cut plates it reads as a sketch bound into
+# a wood-engraved book. Content language UNTOUCHED (the footfall-
+# spacing charges survived a three-version fight); engraving-idiom
+# block added, wash/graphite family negated.
+# PROMOTED s1002 v5 (DK bless 2026-07-14): two trails of distinct
+# spaced footfalls, clean snow between marks, heavier/lighter
+# distinction legible for the first time; banded sky, committed
+# blacks, clean margins. Crisp edges match the plate's ACTUAL anchor
+# (Ch 8 fresh rediscovery, 15:79 "edges still sharp") better than
+# the inherited "softened" charge — placement outranks the design
+# note. s1007 alternate (softer, trails overlap per 15:79 license);
+# s1003-1006/1008 furrow-fusion relapse under the denser line.
+negative = "pencil, graphite, pencil shading, soft shading, wash, gray wash, watercolor, faded, pale drawing, lithograph, unfinished sketch, light sketch, furrows, continuous lines, ruts, drag marks, grooves, wheel ruts, sled tracks, wagon trail, overhead view, aerial view, top-down, bird's eye view, map, person, human figure, animal, buffalo in frame, horse, paw prints, claw marks, giant footprints, craters, holes, pits, mountains, peaks, crags, cliffs, alpine, trees, forest, fence, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink cut in dense wood-engraving line, deep blacks and fine white line work, the gray sky banded with dark horizontal graver lines, every snow surface modeled with fine directional hatching, the brightest snow reserved as clean paper white, a low level view across wide snow-covered ground under a gray sky, two dotted trails of separate small prints running side by side, each print a distinct dark mark with clean snow between it and the next, spaced like footfalls, one trail of heavier marks and one of lighter, dwindling away from the viewer toward the empty northern horizon, the marks softened by later snowfall, their makers long gone, nothing anywhere in the plate but the two print-trails and the gently rolling white emptiness"
 aspect = "landscape"
 citations = ["13:60-72 (two sets: one very large, deep hoofprints of an animal heavier than any horse or ox; the boot-prints of a man; old, filled in and softened, but the shape still there; leading away north)", "15:77-81 (buffalo tracks deep, human tracks lighter, worn boots, steady stride, never varying)"]
 underdetermined = []
@@ -733,8 +748,28 @@ dni = "the pursuit as inscription; neither walker shown — the promise, not the
 # is the subject; do not "fix" by adding her. The man stays a speck
 # (the engraver's honest mile, unlike the finale's necessary
 # compression). No LoRA — identity illegible at this scale by design.
-negative = "buffalo, bison, cattle, herd, large animal, animal in the foreground, horse and rider, mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering"
-prompt = "strictly monochrome ink, a wide shallow valley filled with unbroken snow seen level from a low rise at its southern end, the snow smooth and untouched by wind, a pale gray winter morning sky, and running away down the length of the valley toward the north two thin dotted trails of tracks side by side, hoofprints and boot prints, dwindling with the distance, and far off along the trails, a mile away, one tiny dark figure of a man walking, a small dark speck against all the white, nothing else in the valley, the whole plate carrying white space and distance"
+# v2 (2026-07-14, DK register re-cut with tracks-north): same wrong-
+# medium diagnosis — feathery wash ridges, no committed blacks (the
+# speck of the man is the plate's only dark). Content UNTOUCHED (the
+# absent cow stays absent; the man stays a speck). The design's
+# white-space-and-distance is redefined in the idiom's terms:
+# emptiness = reserved paper against hatched darks, not uniform pale
+# wash.
+# v2.1 (2026-07-14): v2's "valley sides modeled with hatching" made
+# the sides the SUBJECT — all 8 renders alpine glacial troughs with
+# rock crags (negative lost wholesale) vs 17:75 "ridges that seemed
+# too far away to matter." Sides clause CUT; flatness asserted
+# positively (low ridges far off, low against the sky, no rock
+# anywhere); gorge/fjord family negated.
+# PROMOTED s1015 v2.1 (DK bless 2026-07-14): wide shallow valley,
+# ridges low and far, floor reserved paper white, two parallel
+# dotted trails (heavier/lighter), ONE dark figure walking away,
+# the cow rightly absent. s1012 was compositionally purer but
+# rendered TWO figures at the trail's end — fatal in a plate about
+# one visible story and one invisible one. s1014 grew a third
+# trail; s1011 a frame rule; s1016 fused a trail continuous.
+negative = "glacial valley, gorge, canyon, ravine, fjord, mountain pass, rock outcrops, boulders, dark rock, bare rock, steep slopes, deep valley, high valley walls, pencil, graphite, pencil shading, soft shading, wash, gray wash, watercolor, faded, pale drawing, lithograph, unfinished sketch, light sketch, buffalo, bison, cattle, herd, large animal, animal in the foreground, horse and rider, mountains, peaks, crags, cliffs, alpine, trees, forest, faces, close-up, foreshortening, low angle, dramatic perspective, wide-angle, looming, color, tinted, hand-colored, artist signature, monogram, initials, handwriting, lettering"
+prompt = "strictly monochrome ink cut in dense wood-engraving line, deep blacks and fine white line work, the gray morning sky banded with dark horizontal graver lines, the unbroken snow of the valley floor reserved as clean paper white, flat open plains country in winter: a wide shallow valley seen level from a low rise at its southern end, the valley's ridges far off at either side and low against the sky, hardly higher than the land itself, no rock anywhere, the snow smooth and untouched by wind, and running away down the length of the valley toward the north two thin dotted trails of tracks side by side, hoofprints and boot prints, dwindling with the distance, and far off along the trails, a mile away, one tiny dark figure of a man walking, a small dark speck against all the white, nothing else in the valley, the whole plate carrying white space and distance"
 aspect = "landscape"
 citations = ["17:75-77 (flatter, more open, a wide valley; snow deep, untouched by wind, a blank white page, only two stories written)", "17:79 (far ahead, a mile or more, a dark shape moved against the white — the man)", "17:79 (the buffalo lost in the white — rendered by her absence)", "15:79-83 (hoofprints and boot prints, the validated print language)"]
 underdetermined = ["valley landform detail", "light direction (sun sourceless behind cloud)"]

@@ -3168,3 +3168,25 @@ Pipeline notes: pgrep kill of a live sweep works (kill -9 needed);
 a nohup-detached relaunch inside a harness background task loses
 notification — don't; rework_sweep skips existing outputs (mv aside
 before regen).
+
+### Register re-cut PROMOTED: tracks-north s1002 + two-stories s1015
+(2026-07-14, DK bless). DK diagnosis: both plates read against the
+visual language of cover-tracks / journal-found — soft graphite-wash
+pencil-study tonality, no committed blacks; wrong MEDIUM in a
+wood-engraved book. Fix: content charges verbatim (won charges keep
+their tokens — footfall spacing, absent cow, speck-man), engraving-
+idiom block added (dense line, banded sky, hatched modeling, snow
+reserved as paper white), wash/graphite family negated.
+Detours: two-stories v2's "valley sides modeled with hatching" made
+the sides the subject — 8/8 alpine glacial troughs vs 17:75 "ridges
+too far away to matter"; sides clause cut, flatness asserted
+positively. Kills at zoom: s1012 TWO figures at the trail's end
+(fatal: one visible story, one invisible); s1014 third trail;
+furrow-fusion relapse in 5/8 tracks-north seeds under denser line.
+Bonus finding: s1002's crisp print edges match folio 101's actual
+anchor (15:79 fresh rediscovery, "edges still sharp") better than
+the design's inherited "softened" charge — placement outranks the
+design note.
+Same session: morrow-witnessed and offering-stake reviewed at DK
+request — both STAND (silhouette rule, stake charges all present);
+no action.
