@@ -3212,3 +3212,44 @@ fainter band read at zoom as the DRIVEN HORSE HERD behind the line,
 12:45 verbatim; apparent defect inverted into canon. s1031
 alternate. B2 note: homestead-alive s881 roof overhang queued
 (same-seed fix, roof tokens only).
+
+### Weak-agent probe round (2026-07-14, DK: "probe a bit," pre
+twin-voice disposition). Four fresh-context agents, three tiers.
+CAVEAT: subagents receive CLAUDE.md (drafting-model identity, "each
+narrator distinct") — mild priming, noted.
+Instruments: (a) Haiku 4.5 naive full read, comprehension Qs;
+(b+c) Sonnet 5 AND Haiku 4.5 blind attribution — 10 shuffled
+excerpts, headers/dates stripped, 5 per narrator, Mexico-confession
+pairs planted as hard cases (scratch/voice-probe.md, key in
+scratch/voice-probe-key.txt); (d) Opus 4.8 theme/motivation read.
+RESULTS:
+- Comprehension floor HIGH: Haiku tracked plot, both motivation
+  chains, non-endorsement of Morrow's logic, the ending. Its one
+  real confusion = the walk-out timeline arithmetic — it FELT the
+  providence seam (josiah-morrow.md #8) as friction. Seam is
+  perceptible at floor tier.
+- TWIN-VOICE: convergence is REAL, LOCALIZED, ONE-DIRECTIONAL.
+  Sonnet and Haiku produced IDENTICAL groupings, 8/10 each,
+  identical errors: Morrow's two Mexico confessions (excerpts from
+  04:41-49 and 06:29-35) assigned to Farrell at HIGH confidence —
+  not felt as hard cases. Both built their "Farrell" profile partly
+  from Morrow's sentences ("The weapon does not question its use"
+  quoted as Farrell's signature). NO Farrell excerpt ever leaked
+  toward Morrow. Outside the war-confession register the voices
+  separate crisply at every tier (devotional/present/outward vs
+  forensic/past/self-indicting).
+- Opus corroborates from full text: "emptiness asserted in
+  near-identical terms in both documents... flattens the two men
+  into one where the point was resonance, not identity"; flags
+  ship-through-water Ch 11 unmarked reuse (insufficient signal for
+  the colonization reading); independently lands on Morrow-authors-
+  himself "and the book knows it completely" (convergent with
+  josiah-morrow.md #8) plus the counter-cost: "Morrow is too good a
+  critic of himself."
+- Opus [DK] candidates logged NOT acted: Ch 8 fusion-dream (cut/
+  bury); "stop narrating the theme" (thesis-line blunting — NOTE
+  counter-brief: period first-person confessional convention
+  licenses self-glossing; evaluations are briefs); JE IV weakest
+  unit (marks time by endurance-cadence); rumor redundancy Ch 3-5
+  (lampshaded not fixed); terminal line "closes too prettily";
+  commandment thread reads unresolved-dark not controlled-orphan.
