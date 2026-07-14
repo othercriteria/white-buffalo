@@ -3054,3 +3054,29 @@ sweeps in one command now, no wait loops.
    no living thing) — wolf-leavings eater has no excreta qualm.
    Aphorism closer ("I take nothing not already left behind")
    considered and CUT as profile-pattern; entry stays procedural.
+
+### Homestead package PROMOTED (2026-07-14, DK bless)
+One commit, three plates, per the graves-consistency package deal:
+- homestead (winter): s805. Rough-lock held against the v6 sheet —
+  v6's corrected slab language bought no improvement (steep gables,
+  loaf courses, tracked snow). Unbroken door-snow intact.
+- homestead-alive: s881. Anchor beat nearly literal (pair at the
+  creek bank looking out, 10:69); only fully correct pulley-and-rope
+  well of the sweep (11:51). Soft spots accepted: flat-pole roof
+  read, loaf-leaning courses. s888 (best roof/depth) KILLED at the
+  zoom gate: second figure reads child — contradicts 11:79 no-cradle.
+- homestead-interior: s871. Doorway POV; best threshold patch of 12
+  seeds (dark, flat, tamped, in the reveal) — the v4 floor ruling
+  fully landed. Runner-up s865 had the almost-touching garment pair
+  but a rubble-reading patch; patch outranks pair (forensic heart of
+  Ch 7). DK: model tells (chair-frame gap around table leg, mattress
+  askew on made bed) read as Morrow's imperfect restoration — kept.
+Housekeeping in same commit: graves.png and finale-fifty-yards.png
+were promoted post-batch-clamp as raw copies (over-white 8.8%/6.8%);
+paper-clamped in place now. All 19 art files at zero over-white
+(archival invariant restored; built output unchanged — knockout
+clipped these at assembly anyway).
+
+DK NOTE (interiors, for the record): both finalists carry "a good
+uncanny perturbed feeling ... important along with the more concrete
+forensic aspects" — perturbation as asset, not defect class.
