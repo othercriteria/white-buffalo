@@ -97,8 +97,8 @@ PLACEMENTS = [
     (
         "12",
         "the grass lay combed flat by the poles, long marks running south.",
-        "village-passing.png",
-        "85%",
+        "village-passing-foldout.png",
+        "100%",
     ),
     (
         "13",
@@ -147,7 +147,7 @@ PLATE_TITLES = {
     "homestead-alive.png": "The land they had claimed",
     "homestead.png": "The homestead, abandoned",
     "homestead-interior.png": "The house",
-    "village-passing.png": "The village, passing",
+    "village-passing-foldout.png": "The village, passing",
     "graves.png": "The graves",
     "tracks-north.png": "Tracks, north",
     "two-stories.png": "Two stories",
@@ -168,6 +168,36 @@ def pdf_transforms(prefix, text):
     text = re.sub(r"^---$", r"\\scenebreak", text, flags=re.M)
     if prefix in JE_PREFIXES:
         text = re.sub(r"^\*([^*\n]+)\*$", r"\\JEdate{\1}", text, flags=re.M)
+    # Gatefold (the format doctrine's one permitted exception; DK bless
+    # 2026-07-14, s1036). The panorama ships on a fold-out leaf: recto
+    # (\cleardoublepage — the fold opens outward), double-width page via
+    # the \pdfpagewidth primitive (mechanics probed same day: XeLaTeX +
+    # xdvipdfmx handle mixed page sizes), folio counted but unprinted.
+    # Leaf width 10.75in = 2x trim minus 1/4in fold clearance
+    # (production-honest; the PDF carries the unfolded leaf). Centering
+    # is hardcoded recto math: origin = 1in + \oddsidemargin = inner =
+    # 0.85in; image left = (10.75 - 10.1)/2 = 0.325in; hspace = -0.525in.
+    # Revisit if A-series geometry ever moves. Emitted as a {=latex}
+    # fence (see illustrations_list on pandoc's raw-TeX line heuristic).
+    # Must run BEFORE the \bookplate rule, which would otherwise match.
+    text = re.sub(
+        r"^!\[\]\((build/plates/village-passing-foldout\.png)\)\{width=\d+%\}$",
+        lambda m: (
+            "```{=latex}\n"
+            "\\clearpage{\\pagestyle{empty}\\cleardoublepage}\n"
+            "\\pdfpagewidth=10.75in\n"
+            "\\thispagestyle{empty}\n"
+            "\\vspace*{\\fill}\n"
+            "\\noindent\\hspace*{-0.525in}"
+            f"\\includegraphics[width=10.1in]{{{m.group(1)}}}\n"
+            "\\vspace*{\\fill}\n"
+            "\\clearpage\n"
+            "\\pdfpagewidth=5.5in\n"
+            "```"
+        ),
+        text,
+        flags=re.M,
+    )
     # pandoc 3 leaves captionless images as bare \includegraphics in an
     # ordinary (indented!) paragraph — never centered, and immune to
     # float spacing. \bookplate centers on the measure with codified air.

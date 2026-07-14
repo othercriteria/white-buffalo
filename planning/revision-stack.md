@@ -3190,3 +3190,25 @@ design note.
 Same session: morrow-witnessed and offering-stake reviewed at DK
 request — both STAND (silhouette rule, stake charges all present);
 no action.
+
+### Village-passing GATEFOLD promoted s1036 (2026-07-14, DK bless)
+The format doctrine's one permitted fold-out exception, exercised.
+Mechanics: xelatex \pdfpagewidth toggle probed standalone (mixed
+page sizes through xdvipdfmx), then wired in assemble.py — special-
+cased plate emission to a {=latex} fence: recto via \cleardoublepage
+(inserted blank verso empty-styled after a first build printed a
+folio on it), 10.75in leaf (2x trim minus 1/4in fold clearance,
+production-honest), folio counted unprinted, hardcoded recto
+centering (revisit if A-geometry moves). Downstream folios +1;
+142pp and colophon recto/blank verso HELD. Generation: ASPECTS
+already carried foldout ratios (earlier session provisioning).
+Round 1 (0/8): the wide aspect broke the portrait's v5 calibration —
+near-field pull amplified, LoRA caption-prior woke (faux-French
+engraver captions 2/8), standing lodges, second processions; the
+"abreast of the viewer" bend clause read as depth-approach. Round 2
+countermeasures (distance restated twice, ONE line asserted, bend
+made lateral, caption/camp negated): s1036 promoted — the second
+fainter band read at zoom as the DRIVEN HORSE HERD behind the line,
+12:45 verbatim; apparent defect inverted into canon. s1031
+alternate. B2 note: homestead-alive s881 roof overhang queued
+(same-seed fix, roof tokens only).
