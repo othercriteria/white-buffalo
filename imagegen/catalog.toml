@@ -144,12 +144,84 @@ dni = "the dead as trace and counterweight: one hand, one shape under snow; the 
 [trading-post]
 # Vignette. Research idiom: log walls banked with sod (Bordeaux analog);
 # reads as "sod house, low and rough" (09:31) from any distance.
-negative = "mountains, peaks, crags, cliffs, alpine, frame house, clapboard, brick chimney, masonry chimney, shingles, person, human figure, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, a low rough trading post of cottonwood logs banked heavily with sod, its log-and-turf roof sagging along the middle under snow, a guyed stovepipe with a thread of smoke, firewood and stacked hides against the walls, a pole lean-to stable at one end, standing alone at the junction of two frozen creeks, one small window faintly lit from within, rendered in pale ink tone only, dusk, deep drifted snow and broken hills beyond"
+# v2 (2026-07-14, DK: rework, keep the plate): the plate anchors the
+# real->fictional gradient of places terminating at the homestead —
+# drop only on unfixable visual language. Promoted render's OVAL
+# vignette mask (the book's only non-rectangular plate) diagnosed as
+# a model artifact, suspected driver "rendered in pale ink tone only"
+# (fade-to-edges attractor) — clause cut, full rectangular plate
+# asserted, oval/vignette-mask family added to negative. Materiality
+# synced to 09:31: roof of POLES and turf (was log-and-turf), and the
+# text's horse restored to the lean-to stable ("its breath steaming"
+# — the current prompt omitted it). Lit window KEPT: the book's last
+# inhabited light before the fictional terminal. Frozen-creek state
+# asserted (moat lesson). Log walls are canonical here (09:31) — no
+# anti-log negatives, unlike the sod plates.
+# v2.1 (2026-07-14, DK on s909: gable window): unwanted on both counts
+# — 09:35's candle-lit single room wants the building DIM (no generous
+# gable light), and a sagging pole-and-turf roof over low log walls has
+# no framed gable cavity for an attic room. The "lit from within"
+# charge had landed in the gable; window pinned low in the log wall,
+# gable/attic/loft family negated. Same seed regen (s909), composition
+# otherwise blessed.
+# v2.2 (2026-07-14): v2.1 regen kept the gable window — the window
+# charge is BOUND into the gable mass at this seed; repinning lost.
+# Root fix: the text gives this building NO window at all (candle-lit
+# single room is the cite; the lit window was an uncited nicety) —
+# window clause DELETED, blank gable asserted. (v2.1 was never
+# actually rendered — rework_sweep skips existing outputs; the "v2.1
+# regen" was the v2 original re-thumbed. v2 original archived as
+# s909_v2.png.)
+# v2.3 (2026-07-14): v2.2 render fixed the gable (blank, no window)
+# but invented a leaning GRAVE CROSS in the foreground and opened dark
+# flowing water bottom-right (negatives lost again — this seed lineage
+# spawns foreground water under prompt perturbation). Cross family
+# negated; frozen state asserted POSITIVELY (homestead moat-fix
+# pattern: no open water anywhere). Hedge: 3 fresh seeds alongside
+# (s913-915 diverged wildly — the prompt's stability lives at s909).
+# v2.4 (2026-07-14, DK: "nudge the cross back in"): the v2.2 accident
+# RE-LICENSED as deliberate engraver-sentiment — the period
+# illustrator's partiality the notice already claims as a limit. It
+# counterpoints the book's grave imagery: Farrell cannot mark the
+# frozen man's grave (09:25), the Hardins' graves are defined by NO
+# crosses (11:111); the one inhabited waypoint gets the settled
+# world's cheap sentiment. Cross family OUT of the negative; positive
+# charge kept minimal (small, weathered, leaning, half-buried — quiet
+# by construction, since asked-for elements render featured). v2.3
+# materiality kept whole (frozen assertion, blank gable).
+# v2.4b (2026-07-14): cross clause moved to prompt TAIL — v2.4's
+# mid-prompt insertion cost the building (gable opened, lean-to merged
+# into the roof, ridge straightened); tail position is the gentler
+# perturbation. Cross location proved seed-stable across renders
+# (DK: "diffusion magic").
+# v2.4c (2026-07-14, DK): cross material nudged — worked wood -> two
+# roughly cut branches bound together; the milled cross was the
+# engraver over-finishing his own sentiment. FAILED: branch/bark
+# tokens too generative — stick-bundle cross (4-5 arms, reads snag),
+# twig fringe on the roofline, second stovepipe.
+# v2.4d (2026-07-14): period idiom instead — "a rude cross of two
+# unhewn sticks bound together"; "two" load-bearing, twig attractors
+# dropped. FAILED: A-frame/trestle read, building regressed again.
+# LESSON (4 rolls): the model holds "cross" or "rough sticks" but the
+# conjunction collapses — stick-material tokens dissolve the cross
+# form into debris. Prompt reverted to v2.4b wording (worked cross).
+# PROMOTED s909 v2.4b (DK bless 2026-07-14): building strong (banked
+# sod over log courses, lean-to stable + horse per 09:31, sagging
+# ridge, both creeks frozen, blank gable, no lettering); cross of
+# worked wood ACCEPTED on materiality — the post is the one place on
+# the gradient where sawn lumber is honest (09:35 rough-hewn plank
+# counter; a 30-year trader has tools, boards, time; the rude branch
+# cross is the traveler's, the trader would square his). Candidates
+# archived: s909_v2 (oval-era prompt fixed, gable window),
+# s909_v22 (accidental cross, open water), s909_v23 (crossless,
+# clean), s909_v24 (mid-prompt cross, building regressed),
+# s909_v24c/d (stick-cross failures).
+negative = "gable window, attic window, upper window, dormer, loft window, second story, upper storey, window in the roof, oval, oval frame, oval vignette, vignette border, rounded frame, rounded corners, fading edges, feathered edges, soft faded border, circular mask, open water, dark water, flowing stream, dark stream, black water, meltwater, thaw, mountains, peaks, crags, cliffs, alpine, frame house, clapboard, brick chimney, masonry chimney, shingles, person, human figure, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, a full rectangular plate drawn edge to edge, a low rough trading post of cottonwood logs banked heavily with sod, its roof of poles and turf sagging along the middle under the weight of snow, the gable ends closed with plain logs under the roof, a guyed stovepipe with a thread of smoke, firewood and stacked hides against the walls, a pole lean-to stable against one end wall with a dark horse standing in it, the horse's breath steaming in the cold air, the building standing alone at the junction of two creeks, both creeks frozen hard and lying white and still under unbroken snow-covered ice, no open water anywhere, the gable end a blank face of plain logs with no opening in it, dusk, deep drifted snow and broken hills beyond, and off in the foreground snow a single small wooden cross, weathered gray and leaning, half-buried in the drift"
 aspect = "landscape"
 citations = ["09:31-35 (junction of two frozen creeks, low sod house, sagging log-and-turf roof, lean-to stable, two candles)", "09:5-7 (broken ridges, drifts higher than a horse's head)"]
-underdetermined = []
-dni = "clean"
+underdetermined = ["the cross: image-only by DK ruling 2026-07-14 — a burial at the post the text never mentions; licensed engraver-sentiment (orphaned significant detail per profile license)"]
+dni = "CROSS IS IMAGE-ONLY, PERMANENTLY (DK 2026-07-14): the text must never name it — naming would over-explain the orphan and collapse the counterpoint. Its prerequisites are LOCKED in the text and must survive any future pass: (1) 09:25 Farrell cannot mark the frozen man's grave ('nothing to mark it with that would last until spring'); (2) 11:111 the Hardins' graves have 'no crosses, no headstones'; (3) 09:35 the trader is settled and tooled ('counter made of rough-hewn planks'; 'waiting there since the flood'). The cross reads only against those three."
 
 [homestead]
 # Vignette. Research-grounded (reference/homestead-construction.md);

@@ -3103,3 +3103,27 @@ adjacent — left standing per DK's narrowed diagnosis; (b) "white
 form" density — 2x within JE III (line 9 ship-through-water is
 canonical via Ch 10 quote; line 21 near-repeats it) + JE VI + JE IX.
 Cheap dedup available at line 21 ("looking for her among them").
+
+### Trading-post re-cut PROMOTED s909 v2.4b (2026-07-14, DK bless)
+The [DK]-queue "trading-post oval" item CLOSED. Chain: v2 killed the
+oval 12/12 (root cause "rendered in pale ink tone only" = fade-to-
+edges attractor; full rectangular plate asserted) and restored the
+text's horse to the lean-to stable; s909 won the sweep (s907
+runner-up lost on open foreground water). DK caught the gable window
+(v2.1 mislabeled — rework_sweep skips existing outputs, so v2.1
+never rendered); v2.2 fixed the gable at the root (text gives the
+building NO window — candle-lit single room, 09:35) but invented a
+grave cross + open water. DK RE-LICENSED the cross ("cheap
+sentimentality an artist might toss in ... in service of maybe the
+least sentimental image in the book"); v2.3 (crossless, clean)
+banked as fallback; v2.4b (cross clause at prompt tail) recovered
+building + cross both. Material nudge to branch-cross FAILED twice
+(v2.4c stick-bundle, v2.4d trestle — the model can't hold
+cross-of-rough-sticks); worked wood accepted on materiality: the
+post is the gradient's one honest place for sawn lumber (plank
+counter, settled trader).
+RULING: cross is IMAGE-ONLY, permanently — text must never name it.
+Prerequisites locked (see catalog dni): 09:25 unmarkable frozen man,
+11:111 unmarked Hardin graves, 09:35 settled tooled trader.
+All candidate renders archived under imagegen/output/rework/ with
+version suffixes.
