@@ -3143,3 +3143,28 @@ right). Tree-height correction recorded: ten-year cottonwoods beat
 the prompt's saplings; the model out-argued the prompt and the text
 sides with the model. Speaking-to-her checked same session: holds
 (lateral grammar intact, no action).
+
+### Morrow-hollow + journal-found tandem PROMOTED (2026-07-14, DK)
+The "morrow-hollow conflict" [DK]-queue item CLOSED. Diagnosis: the
+two plates depict THE SAME CAMP hours apart (JE IX written in it
+before dawn; Farrell kneels at its edge at dusk, 19:5), but v2
+morrow-hollow's landform came from the EARLIER winters' bluff
+hollows (08:37, 12:93) while journal-found followed Ch 10's canon.
+Resolution: Ch 10 forensic canon governs both (low hill, cutbank,
+man-deep, stunted pine); landform block shared VERBATIM; vigil
+re-cited to 18:57; tandem addition — Morrow WRITING in the book,
+planting the object found "as if left to be found" 7pp later.
+Process: v3 joint sweep KILLED live by DK at s963 (depth stack
+resolved as predella split-plate; cave arch; half-frame figure).
+v3.1 fixed split/figure; herd came close and the white cow vanished
+because the coordinator compressed v2's won herd clause — restored
+verbatim in v3.2. Of 18 total renders only s987 + s998 carried the
+white cow; s998 promoted (open scoop + cow standing apart = 18:57
+verbatim; DK favorite). journal-found s967 promoted (DK: "the
+characteristic rebuke — a mundane scene with footsteps walking away
+towards an act that can't live up to the vigil's nighttime
+imagination of it"). s966 killed on a smoking pit vs 19:7 "cold."
+Pipeline notes: pgrep kill of a live sweep works (kill -9 needed);
+a nohup-detached relaunch inside a harness background task loses
+notification — don't; rework_sweep skips existing outputs (mv aside
+before regen).

@@ -498,12 +498,54 @@ dni = "clean"
 # cow — the vigil missing. Camp language compressed per the attention-
 # budget corollary; freed budget spent on the herd as a distant massed
 # body with the white cow asserted as a pale point within it.
-negative = "cave, cavern, grotto, arched cave mouth, dark cave opening, tunnel, mountains, peaks, crags, cliffs, alpine, bonfire, tall flames, blazing fire, torch, lantern, glow, lens flare, orange, hat, tent, wagon, domestic cattle, farm animals, buffalo close by, large animal in the foreground"
-prompt = "strictly monochrome ink, a winter night on the plains, a wide shallow hollow eroded under the slumping lip of a pale crumbling sandstone bluff, a sculpted snowdrift curling over the lip, jmorrow, the tall thin bearded man seated small within the hollow, his back to the earthen wall, a worn blanket over his head and shoulders, a small low fire of thin sticks burning before him, its low flame the one bright point in the hollow, and far beyond and below the camp, on the floor of a broad valley under moonlit cloud, a great buffalo herd bunched together, hundreds of tiny dark animals massed in the far distance, and within the distant herd a single buffalo cow of pure white, one small pale point against the dark mass, seen level from a distance across the snow"
+# v3 (2026-07-14, DK tandem rework with journal-found — the CONFLICT
+# item): this plate and journal-found depict THE SAME CAMP hours
+# apart (JE IX written in it before dawn; Farrell kneels at its edge
+# at dusk, 19:5). v2's sandstone-bluff landform was imported from the
+# EARLIER winters' hollows (08:37, 12:93 — the habit, not this site);
+# Ch 10's forensic canon governs the final camp (19:15/19:21: lee of
+# a low hill, cutbank, ~six feet, carved by water or wind; 19:13
+# stunted pine). LANDFORM BLOCK NOW SHARED VERBATIM with journal-
+# found (homestead-pair lesson: same-site consistency from shared
+# language, seeds picked independently). Vigil re-cited to 18:57 —
+# JE IX gives it for THIS camp. TANDEM ADDITION: Morrow WRITING in
+# the book — plants the object Farrell finds 'as if left to be
+# found' seven pages later. Crater family negated (v2 render read as
+# a pit in flat ground, pocked rim).
+# v3.1 (2026-07-14, DK killed the sweep at s963 — pattern caught
+# live): the depth stack ("close man in hollow" + "herd far below on
+# a valley floor") resolved as a SPLIT PLATE — main image plus a
+# predella strip of valley along the bottom (s962, s963); the hollow
+# went cave-arch and the figure blew up to half-frame (lora + hand-
+# scale "writing in a small book" magnetized close framing — the
+# speaking-to-her lesson in a new shape). Fix: continuity asserted
+# (one single continuous scene, one unbroken slope), openness
+# asserted against the arch, figure explicitly small and distant,
+# writing demoted to posture ("bent over the book on his knees"),
+# panel-division family negated. journal-found unaffected (no depth
+# stack) — its sweep resumed unchanged.
+# v3.2 (2026-07-14): v3.1 fixed the split and (at s984) the arch and
+# figure — but the herd came CLOSE and the white cow VANISHED, the
+# exact v2 defect, because v3.1 compressed the v2 herd clause ("won
+# charges keep their tokens" violated by the coordinator). v2 herd
+# charge restored VERBATIM onto v3.1's landform/figure block.
+# PROMOTED s998 v3.2 (DK bless 2026-07-14): the only two renders of
+# 18 with the white cow were s987 and s998 (both DK favorites); s998
+# adds the OPEN scoop (no cave arch — the v3.1/v3.2 landform fight
+# finally won), the smaller figure, and the cow STANDING APART at
+# the herd's edge — 18:57 verbatim. Figure: blanket over his head,
+# open book in hand, fire with sparks, haunted not iconic. Rim marks
+# resolve as scrub stubs, not fence; margins clean. s987 first
+# alternate (arch-mouth Gothic, cow present, more nativity gravity).
+# Herd nearer than "far distance" — licensed by 12:93 "not far from
+# where the herd has gathered"; the visible cow outranks pure
+# distance with no cow (the v2 lesson, relearned at full price).
+negative = "split panel, inset panel, two panels, divided composition, framed inset, picture-in-picture, second image, horizontal band, border line, close-up, large figure, crater, pit, sinkhole, round hole, cave, cavern, grotto, arched cave mouth, dark cave opening, tunnel, overhanging roof of earth, mountains, peaks, crags, cliffs, alpine, bonfire, tall flames, blazing fire, torch, lantern, glow, lens flare, orange, hat, tent, wagon, domestic cattle, farm animals, buffalo close by, large animal in the foreground"
+prompt = "strictly monochrome ink, one single continuous scene, deep winter night on the plains, seen level from a distance: on the dark flank of a low hill a small camp in a shallow open hollow, scooped into the hillside and open to the sky, no roof of earth over it, a raw earthen cutbank at its back, a snowdrift curling over the bank lip, a stunted pine standing dark at the camp's edge, jmorrow, the tall thin bearded man a small distant figure seated in the hollow with his back against the earth wall, a worn blanket over his head and shoulders, bent over the small book on his knees, a low fire of thin sticks at the hollow's mouth, its flame the one bright point in the dark, and far beyond and below the camp, on the floor of a broad valley under moonlit cloud, a great buffalo herd bunched together, hundreds of tiny dark animals massed in the far distance, and within the distant herd a single buffalo cow of pure white, one small pale point against the dark mass, seen level from a distance across the snow"
 aspect = "portrait"
 lora = "morrow-ep12"
-citations = ["08:37 (sheltering in a hollow in the bluffs, out of the wind; herd clustered in a broad valley, snow beaten down by their hooves; 'I can see her from here')", "08:39 ('Even in the depths of winter, she glows')", "12:93 (hollow in the bluffs where the wind cannot reach, small fires, 'I can watch them from here')", "06:21 (his whole kit: a blanket, a knife, flint and steel, journal and pencil)"]
-underdetermined = ["hour/moonlight — entries fix winter night register ('small fires') but not the moon; moonlit cloud is the period second-source convention, not canon", "bluff height"]
+citations = ["18:5-7 (the last night: sitting in the dark under his blanket, writing the final entry)", "18:57 (the valley below, the herd gathered, her white form standing apart — the vigil from THIS camp)", "19:15-21 (the same hollow Farrell finds: lee of a low hill, cutbank, about six feet deep; fire pit at the entrance)", "19:13 (stunted pine at the camp's edge)", "06:21 (his whole kit: a blanket, a knife, flint and steel, journal and pencil)", "08:37, 12:93 (earlier winters — the hollow-camp habit; precedent only, NOT this site)"]
+underdetermined = ["hour/moonlight — 18:7 has him writing by a tallow-horn wick in darkness at the very end; the fire is licensed by 19:7's ash-filled pit (it burned that night) and by the nocturne's need for a light source; moonlit cloud is the period second-source convention, not canon"]
 dni = "clean"
 
 [offering-stake]
@@ -575,8 +617,21 @@ dni = "clean"
 # pulled outside and level per rule #5. Research: the abandoned camp's
 # dominant impression is SMALLNESS — "from twenty feet away, a smudge
 # and a body-print under a bank lip." Rhyme partner: morrow-hollow.
-negative = "cave, cavern, grotto, arched cave mouth, dark cave opening, tunnel, mountains, peaks, crags, cliffs, alpine, person, human figure, horse, fire burning, flames, smoke, weeping willow"
-prompt = "strictly monochrome ink, dusk on the winter plains, a small abandoned camp in a shallow hollow in the lee of a low hill, sheltered by a raw earthen cutbank no taller than a man, a snowdrift curling over the bank lip, a stunted pine standing at the camp's edge, a bed of blankets neatly arranged against the back of the hollow, a single dark leather-bound book lying on the blankets, a cold fire pit at the hollow's entrance with its gray ash streaked away by the wind, a single line of footprints leading away from the camp down toward the valley, no people, the light failing, seen level from a short distance across the snow"
+# v3 (2026-07-14, DK tandem rework): landform block synced VERBATIM
+# with morrow-hollow v3 (same camp, hours apart); fire-pit position
+# synced ("at the hollow's mouth"). Design otherwise unchanged — the
+# journal alone still carries the plate (kit-manifest lesson holds).
+# PROMOTED s967 v3 (DK bless 2026-07-14): hollow tucked under the
+# drift lip in the hillside, blankets neat with the dark book, cold
+# charred pit, one line of prints walking away downhill at dusk.
+# s966 lost on a SMOKING pit (19:7 says cold); s968 frame rule;
+# s969 pit-read; s970 wave-cornice mannerism. DK READING, for the
+# record: "the characteristic rebuke. A mundane scene with footsteps
+# walking away towards an act that can't live up to the vigil's
+# nighttime imagination of it" — the pair's grammar: nocturne vigil
+# (occupied) answered by mundane dusk (abandoned).
+negative = "crater, pit, sinkhole, round hole, cave, cavern, grotto, arched cave mouth, dark cave opening, tunnel, mountains, peaks, crags, cliffs, alpine, person, human figure, horse, fire burning, flames, smoke, weeping willow"
+prompt = "strictly monochrome ink, dusk on the winter plains, a small abandoned camp in a shallow hollow carved by wind and water into the side of a low hill, the hollow about as deep as a man is tall, sheltered by a raw earthen cutbank, a snowdrift curling over the bank lip, a stunted pine standing dark at the camp's edge, a bed of blankets neatly arranged against the back of the hollow, a single dark leather-bound book lying on the blankets, a cold fire pit at the hollow's mouth with its gray ash streaked away by the wind, a single line of footprints leading away from the camp down toward the valley, no people, the light failing, seen level from a short distance across the snow"
 aspect = "portrait"  # matches morrow-hollow for the shared-seed rhyme (occupied/abandoned)
 citations = ["19:5 (found the camp at dusk)", "19:7 (hollow in the lee of a low hill, cutbank; cold fire pit, ashes scattered by the wind; bed of blankets; tracks leading away)", "19:9 (a single set of footprints leading out of the camp and down into the valley)", "19:13 (stunted pine at the edge of the camp)", "19:21 (perhaps six feet deep, carved by water or wind into the side of the hill; blankets at the back, neatly arranged)", "19:23 (leather-bound book on the blankets, as if left to be found)"]
 underdetermined = ["journal dimensions (bible gap)"]
