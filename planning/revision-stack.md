@@ -3299,3 +3299,50 @@ too-pretty critique. Meaning delivered to the wrong address.
 Pagination: 142pp -> 144pp (dream growth); colophon recto + blank
 verso hold; folios after Ch 8 shift (+1: two-stories 115,
 morrow-hollow 118, journal-found 125, fifty-yards 131).
+
+### Weak-agent probe ROUND 2 (2026-07-14, DK: verbatim rerun post-
+surgery; stability + effect confounded, acknowledged)
+- Haiku naive: STABLE. Comprehension floor high again; voice verdict
+  strengthened ("their voices never blur... at no point did I lose
+  track"); new reading surfaced (grave-stones as harshest irony).
+  Confusion moved to a different real gap (Farrell's departure
+  undated) — rerun variance across genuinely underdetermined spots.
+- Sonnet blind attribution: 8/10 -> 10/10. BOTH round-1 errors
+  flipped; the reader's own evidence quotes the surgery's new tokens
+  as Narrator B's signature ("It is not given to the instrument to
+  question the hand"; "Courage is fear mastered") — causal-shaped,
+  not coincidence-shaped. Hardest call moved to Farrell's Mexico
+  memory, assigned CORRECTLY at medium confidence; closest cross-
+  pair now 5/10 with unprompted "if the authors intended these two
+  narrators to blur deliberately at points of shared trauma, this
+  is the pair where it happens" — resonance-not-identity achieved
+  and perceived.
+- Haiku blind attribution: 8/10 -> 5/10 (chance). The surgery
+  removed the cadence crutch that had made 2/10 easy-but-wrong; the
+  floor reader reorganized by CONTENT axis (soldier vs hunter),
+  errors now symmetric. It bundles 2+10 together correctly — hears
+  one voice, can't name whose. No cost in-book (structural cues did
+  the work both rounds for the naive floor reader).
+- Opus theme read: the Ch 8 fusion-dream VANISHED from the
+  mechanical list (round 1's "worst offender" — the wrongness fix
+  took it off the table); the sentence-level "emptiness asserted in
+  near-identical terms" complaint gone, replaced by content-level
+  "biographical symmetry laid on thick"; the NEW JE III refusal
+  line quoted approvingly as the book's better instinct. Correctly
+  quotes the actual final line this round. Ending upgraded to
+  "lands... earns the ambiguity more than it withholds." STABLE
+  complaint across rounds: the rumor refrain (lampshaded not cut).
+  NEW: JE IX weakest (origin-digging "stock derivation" now reads
+  against JE III's refusal — partly surgery-induced contrast;
+  counter-brief: the final account BREAKING his own three-year rule
+  is the deathbed-confession arc, "I have never written about Buena
+  Vista" marks it deliberate). ESCALATED one-fix: global voice
+  differentiation ("one identical instrument") — rewrite-scale;
+  counter-evidence: both blind instruments + both naive floor reads
+  find the voices distinct post-surgery; the residual uniformity is
+  the drafting-model profile operating at whole-book texture level,
+  already the campaign's standing subject. Logged [DK], not acted.
+TWIN-VOICE DISPOSITION: CLOSED at surgical scope (DK direction
+pending final word). The certified defect (Mexico-confession
+register convergence) is fixed and verified by instrument flip;
+remaining asks are briefs, not certified defects.

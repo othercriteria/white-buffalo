@@ -10,9 +10,9 @@ Then I started seeing the men.
 
 --- Excerpt 2 ---
 
-In Mexico I was made into a weapon. That is the truth of it, however I might wish to say it differently. They took the boy I was and they filed him down and they put an edge on him and they pointed him at other men. I was good at it. That is the other truth, the one I wish I could deny.
+In Mexico I was made into a weapon. I would write it softer if this journal permitted lies. They took the boy I was and they filed him down and they put an edge on him and they pointed him at other men. And I was good at it—I set that down too, though I would sooner leave it out.
 
-I killed seventeen men with certainty and perhaps more. Some of them I saw clearly, their faces visible in the instant before I fired. Some of them I did not see at all—just shapes in the smoke, falling when I pulled the trigger. After a time I stopped thinking about it. The weapon does not question its use.
+I killed seventeen men with certainty and perhaps more. Some of them I saw clearly, their faces visible in the instant before I fired. Some of them I did not see at all—just shapes in the smoke, falling when I pulled the trigger. After a time I stopped thinking about it. It is not given to the instrument to question the hand.
 
 --- Excerpt 3 ---
 
@@ -56,8 +56,8 @@ I turned back. Three hours wasted, and the morning gone with them. I rode down o
 
 --- Excerpt 10 ---
 
-I was promoted twice. Once after Monterrey, once after Buena Vista. They made me a corporal, and then they made me a sergeant, and both times they told me it was because I had shown courage under fire. But it was not courage. I could not have said what it was, then.
+They promoted me twice, corporal after Monterrey and sergeant after Buena Vista, and both times the word they gave for it was courage. It was not courage. Courage is fear mastered, and I had none to master.
 
-It was a kind of emptiness. A place inside me where the fear should have been, where the hesitation should have been, that was simply not there. When other men froze, I moved. When other men ran, I stood.
+There was a place in me where the fear should have been, where the hesitation should have been, and it stood empty. When other men froze, I moved. When other men ran, I stood.
 
-I do not know when this emptiness came to me, whether I was born with it or it was made in me. It does not matter where it came from. It was there, and the army found a use for it.
+Whether I was born with that emptiness or Mexico made it in me, I cannot say, and I do not mean to dig after the root of it. It was there, and the army found a use for it.
