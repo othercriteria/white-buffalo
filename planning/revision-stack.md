@@ -3515,3 +3515,60 @@ ALSO: #3 trim applied (JE III negation head — "It was not courage."
 cut; definitional aphorism stands alone via word-juxtaposition).
 Items #2 (self-inoculation) and #4 (beautiful ladder) ruled
 DELIBERATE by DK, closed as chosen costs.
+
+### Hostile sweep 2 (2026-07-15, post-elided-entry): identical
+prompt, 4 tiers. TRACE-LANDING VERDICT: PARTIAL.
+- Opus tier: the Hardin-murder elision VANISHED from the indictment
+  (charge sheet AND dropped charges) — its offstage charge now
+  names only the goring. One tier, one run; consistent with traces
+  changing what the gap feels like where they were planted.
+- Fable tier: the charge SURVIVES as lead ("the rigged flinch";
+  implied-editor derived cold a THIRD time, now "bookkeeping
+  fraud") — but the planted trace was DETECTED and converted:
+  "the book's best line ('He had never known I was in the world')
+  is spent consecrating the evasion" (charge) AND "the one place
+  the withholding pattern pays for itself" (approvals). The trace
+  reads as payment, not camouflage — which is what traces can do;
+  only content could do more.
+- Sonnet tier: charge unchanged (lead); no trace detection.
+- Haiku tier: moral-evasion lead as before (evidence quality much
+  improved this round — no fabrications; still misses 17:33/19:61).
+NEW FINDINGS, both real:
+1. KILL-COUNT (Sonnet): JE II "seventeen men with certainty and
+   perhaps more" (war total) vs JE IX Buena Vista "I do not know
+   how many. Dozens, certainly. Perhaps more." Built defense exists
+   IN JE II's own sentence (seventeen = attributed/seen faces; the
+   smoke-shapes are the "perhaps more" — Buena Vista's dozens are
+   magnitude-certainty without attribution). [DK]: defend-as-
+   designed or two-word JE IX fix ("Dozens, it may be.").
+2. THE FAMOUS SECRET (Fable): the buffalo is territory-wide rumor
+   (priced hide, "I gave it thought myself" — trapper; trader saw
+   Morrow pass) yet the journal weighs ONLY the settlers as threat.
+   Defense: that IS the delusion's shape — the paranoia fixes on
+   the neighbors (the commandment wire's word), the murder protects
+   the untestable bond, not the secret; Opus-v1 read exactly this
+   as "authentic and ugly and exactly right." But Fable's point
+   stands that NO device registers the irony, and FARRELL KNOWS
+   BOTH FACTS (heard the hide priced at Kearny; read the journal).
+   [DK] option: one Ch 10 clause where Farrell registers it — "he
+   had killed them for what half the territory already carried" —
+   which would answer the charge AND sharpen the murder's
+   senselessness (anti-consolation). Counter: another theme-gloss;
+   the book has been convicted of narrating its mirrors.
+STABLE RESIDUE (controls, unchanged): voice-texture charge at
+Fable/Opus (post-surgery displacement holds — zero Mexico-
+confession exhibits anywhere); notice/vanishing-Indian tableau at
+max articulation; Aldridge frame (Sonnet, full volume; certified
+chosen residual); groomed-closers "zero exceptions" (Sonnet;
+overclaims vs May 18 but pattern real); choreographed-visions/
+weather-agreement (Fable 5; profile family). Ship-simile OSCILLATES
+(Opus charged it this round, missed the Ch 10 plant; dropped it
+last round having seen the plant) — #36 is reader-dependent,
+confirmed twice.
+DROPPED-CHARGE ACCRETIONS: anachronism held under a THIRD full
+audit (+ service-record Monterrey/Chapultepec via Scott's transfer,
+daguerreotype dating); internal chronology held again (ages, calf,
+arithmetic); Lakota-appropriation KILLED at Sonnet tier ("you can't
+convict a book of breaking a promise it kept"); husband-reveal =
+"earned foreshadowing"; Catherine-pretext defeated by the letter
+draft; withdrawal medicine defended by the horse-ears boundary.
