@@ -3405,3 +3405,63 @@ CONCESSIONS EXPANDED both runs, including THIS SESSION's additions:
 NO NEW CERTIFIED DEFECTS. The attack surface has consolidated onto
 chosen costs argued at maximum strength — which is what a finished
 book's hostile review is supposed to look like.
+
+### Hostile critic SWEEP (2026-07-15): identical prompt, 4 tiers
+(Fable / Opus 4.8 / Sonnet 5 / Haiku 4.5), new "notes to the editor"
+apparatus (dropped charges + grudging approvals + receipts) to keep
+reviews non-redundant. FULL TEXTS in the four agent transcripts.
+CHARGE MATRIX (by tier):
+- Withheld murder/climaxes: UNIVERSAL (Fable lead w/ implied-editor;
+  Opus 2; Sonnet 1 as withheld confrontation; Haiku implicit).
+  Certified design cost; the IMPLIED-EDITOR sub-charge now derived
+  cold TWICE at Fable tier (yesterday's object review + today) =
+  the sweep's most stable new item. [DK]
+- Voice/twin collapse: 3 of 4 (Haiku charged moral stance instead).
+  Evidence at every tier is now CONTENT twinning (same war, same
+  battle, shell/ghosts figure pair, announced parallels) — the
+  Mexico-confession passages appear in NO charge sheet (surgery
+  displacement holding). NOTE: Opus claims "strip the datelines and
+  you could not, blind, sort Morrow's sentences from Farrell's" —
+  EMPIRICALLY FALSIFIED by yesterday's blind-attribution instrument
+  (Sonnet 10/10 post-surgery). The charge survives as texture
+  critique; its strongest formulation is now testably wrong.
+- Notice/appropriation: all four keep a form of it; all four DROP
+  the text-level erasure charge in notes ("the theft is thematized,
+  not committed" — Fable; "scrupulous in exactly the way the front
+  matter promises" — Sonnet; noble-savage refusal noted — all).
+  Residue = ending-as-tidying + notice-as-underwriting. Chosen cost
+  at maximum articulation.
+- Self-inoculation (Fable 5 + Opus 5): the lampshade family
+  (calf growth, "I made it fit", vision taxonomy, front-matter
+  scruple) charged as "concession deployed in place of repair."
+  NEW consolidated apparatus-level charge. [DK] — adjacent to
+  implied-editor; both ask what the apparatus owes.
+- Static middle / cadence metronome (Opus 4, Sonnet 3): journal
+  closers + the "beautiful" ladder (JE III -> V -> VI escalation —
+  arguably designed; profile-adjacent). [DK] minor.
+- Inert protagonist (Fable 3, Sonnet 1, Haiku 2): certified
+  anti-Western design.
+DROPPED-CHARGE CERTIFICATIONS (defenses that held under attack):
+- Timeline: rebuilt independently by Fable AND Sonnet; "airtight" /
+  "load-bearing continuity work, not luck."
+- Historical audit: Fable + Opus checked Effie Afton 1856, Davis at
+  Buena Vista, Harney/Blue Water, Spirit Lake, Panic of '57, Pikes
+  Peak — "every one holds."
+- SHIP-SIMILE REVERSAL: Opus tier DROPS the recycling charge — "the
+  contamination is deliberate, not careless" via the Ch 10 plant —
+  reversing hostile-2's attack; ledger item #36 (2-2) gains a
+  hostile-tier defense vote.
+- Buffalo biology, Aldridge frame ("load-bearing, not a botch"),
+  unearned mercy ("the abstention is paid for"): all dropped.
+RELIABILITY GRADIENT: Haiku fabricated evidence (nonexistent tears,
+misattributed and invented quotes — consolation charge rests on
+them; floor-beneath-the-floor for the redemption misread, weight
+accordingly); Sonnet receipts 100% verified (incl. Brandt); Fable/
+Opus 100% + historical audit (one Fable receipt slip: two Morrow
+quotes paired as cross-narrator evidence).
+NEW [DK] ITEMS: implied-editor apparatus question (top);
+self-inoculation family; "It was not courage" negation head (2
+instruments quote the surgery's new line as tic exemplar — cheap
+trim available: open on "Courage is fear mastered..."); beautiful-
+ladder deliberateness check. ZERO new certified text defects; the
+sweep's open items are apparatus/taste questions.
