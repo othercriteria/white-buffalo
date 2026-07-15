@@ -3346,3 +3346,62 @@ TWIN-VOICE DISPOSITION: CLOSED at surgical scope (DK direction
 pending final word). The certified defect (Mexico-confession
 register convergence) is fixed and verified by instrument flip;
 remaining asks are briefs, not certified defects.
+
+### Hostile round 4 (2026-07-15): text-only (4a) + FIRST object
+review (4b, built PDF). Both cold, fable-tier, no prior-round feed.
+LEDGER MIGRATION:
+- "Consolation machine" (h1 lead): STAYS DEAD both runs. Ending not
+  attacked; horse-ears beat conceded as "smartest move on any page"
+  (4a) / DT arc "genuinely distinguished" (4b).
+- Voice-collapse (#13, h2 lead): DEMOTED to charge 3 in both runs,
+  and its evidence DISPLACED off the surgical zone — neither run
+  can quote Morrow's Mexico confessions as Farrell any more; both
+  cite whole-book texture (negation-restatement, cadence closers).
+  4b even drafts the NEW surgery line ("It was not courage...") as
+  tic evidence — register changed, negation shape retained; the
+  residue is the drafting-model profile at texture level (= Opus v2
+  concurrence). Known-open, rewrite-scale, not certified.
+- Withheld-murder ("hostile's cleverest attack", early rounds):
+  NEW LEAD both runs, strongest form yet: 4a's receipt (Ch 10
+  quotes the suppressed entries — the book HAS them); 4b extends to
+  Morrow's own death (white space between JE IX and Ch 11) and adds
+  the genuinely NEW formal charge: the "From the Journal" EXCERPTING
+  APPARATUS IMPLIES AN EDITOR THE FICTION NEVER SUPPLIES, and the
+  excerpts omit exactly the two scenes of consequence. [DK] NEW:
+  the implied-editor question (who excerpted?) — apparatus-level,
+  possibly answerable with one front-matter or header touch,
+  possibly best left as the book's constitutive silence.
+- Notice-vs-ending ethics: both runs, maximal form ("announced as
+  ethics, functions as decor" / "its front matter contains its
+  conscience"). Certified chosen cost (the notice exists because of
+  it; indigenous-scholar round ruled ending "leans sovereign-
+  custody"). 4b adds the TK-copyright jab (pre-publication
+  placeholder; non-actionable) and the gatefold-as-"limit as
+  spectacle" reading — which is the design stated hostilely (the
+  width IS the two miles).
+- Rigged timeline / inert protagonist (4a #2): the missed-climax
+  flinch charge, certified as anti-Western design in the CROWN
+  round. Buffalo size miracle (4a #5): wonder-wire exempt, self-
+  audited in text, certified.
+- Ch 10 AS RECAP (4b #2): the interleave means the reader holds the
+  journal before Farrell does — structural design cost of the
+  alternation (dramatic irony is the engine); noted, not new work.
+PLATE CHARGES (4b #4) — [DK] candidates, first hostile plate audit:
+  (a) first-sighting calf "woolly lamb-like blob" (p11 plate is
+  early-generation; morphology candidate for a B2-adjacent re-cut);
+  (b) graves plate: "raised slab tombs" read persists for a hostile
+  eye despite the flatness fight, and the BARN IS ABSENT — text
+  puts the graves behind the barn (13:17); the plate shows graves
+  with the house beyond and no lean-to in sight (occlusion
+  defensible, audit miss honest); (c) morrow-hollow "cutaway
+  diagram" read of the scooped hollow + herd proximity (the 12:93
+  license, knowingly accepted at promotion).
+CONCESSIONS EXPANDED both runs, including THIS SESSION's additions:
+  whiskey-slush diagnostic + DT thaw-ritual ("the novella's finest
+  image", 4a); trader/trapper voices "individuated in a way the two
+  principals never are" (4b — a left-handed compliment worth
+  keeping); Catherine-at-the-window dramatic irony "the one moment
+  the book trusts a reader completely" (4b).
+NO NEW CERTIFIED DEFECTS. The attack surface has consolidated onto
+chosen costs argued at maximum strength — which is what a finished
+book's hostile review is supposed to look like.
