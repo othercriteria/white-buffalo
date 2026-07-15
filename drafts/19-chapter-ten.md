@@ -66,12 +66,14 @@ Morrow had made worse choices than mine—choices I could not forgive.
 
 ---
 
-I slept for a few hours, the journal clutched to my chest. The dreams were bad—Mexico, always Mexico—but I was used to bad dreams. I woke before dawn and lay in the cold, listening to the wind, thinking about what I was going to do.
+I slept for a few hours, the journal clutched to my chest. The dreams were bad—Mexico, always Mexico, but wrong in new ways: a street in Monterrey with a plank door standing open at the end of it, firelight inside, a kettle at the boil, and no one in the room, no one anywhere in the town. I was used to bad dreams. I was not used to that. I woke before dawn and lay in the cold, listening to the wind, thinking about what I was going to do.
 
 I could turn back. The journal was proof of what had happened to the Hardins, a document that could be taken to Aldridge and presented as the resolution of his commission. The man who killed your daughter is dead, I could tell him. This is his confession. Justice has been done, or something close to it.
 
 But the man who killed his daughter was not dead. Not yet.
 
-The tracks leading from the camp were still fresh enough to follow. The valley below was maybe a mile away. If I moved now, in the gray light before sunrise, I might find him. I might see, at last, the thing he had been seeking.
+The tracks leading from the camp were still fresh enough to follow. The valley below was maybe a mile away. If I moved now, in the gray hour before sunrise, I might find him. I might see, at last, the thing he had been seeking.
 
-I did not know what I expected to find. But I gathered my things and saddled my horse and rode down into the valley, the journal in my saddlebag, the dead men following behind.
+I did not know what I expected to find. But I gathered my things and saddled my horse, and I took the rifle from its scabbard and laid it across the saddlebow before I mounted. He had no gun and wanted nothing saved, his own life least of all. I knew that by now the way I knew his handwriting. I kept off the trail line anyway, to the broken ground, watching the ridges as I went. He had taught me what watching was for.
+
+I rode down into the valley, the journal in my saddlebag, the dead men following behind.

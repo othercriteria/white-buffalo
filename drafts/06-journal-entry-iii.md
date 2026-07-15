@@ -28,7 +28,7 @@ I do not like to think about it. I have spent years not thinking about it, filli
 
 I was a good soldier. I did what I was told and I did it well—advanced when they said advance, fired when they said fire, held what I was told to hold though the relief came late and the holding was costly.
 
-They promoted me twice, corporal after Monterrey and sergeant after Buena Vista, and both times the word they gave for it was courage. It was not courage. Courage is fear mastered, and I had none to master.
+They promoted me twice, corporal after Monterrey and sergeant after Buena Vista, and both times the word they gave for it was courage. Courage is fear mastered, and I had none to master.
 
 There was a place in me where the fear should have been, where the hesitation should have been, and it stood empty. When other men froze, I moved. When other men ran, I stood.
 

@@ -10,6 +10,8 @@ I knelt beside him and brushed the snow from his face.
 
 His face was calm. His eyes were open, staring up at the gray sky.
 
+He had never known I was in the world.
+
 His chest was crushed, the ribs staved in, the shape of his body wrong in ways that spoke of massive force. His coat was torn, his shirt beneath it shredded and dark with frozen blood. He had been trampled, gored, broken—killed by something with the weight and power to destroy a man completely.
 
 I looked up.

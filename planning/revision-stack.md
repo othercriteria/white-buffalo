@@ -3465,3 +3465,53 @@ instruments quote the surgery's new line as tic exemplar — cheap
 trim available: open on "Courage is fear mastered..."); beautiful-
 ladder deliberateness check. ZERO new certified text defects; the
 sweep's open items are apparatus/taste questions.
+
+### THE ELIDED ENTRY (2026-07-15, DK capstone): the murder entry
+drafted as ground truth, never to be published.
+scratch/je-elided-august-1858.md — the August 5-7, 1858 entry
+Morrow wrote and the book withholds. Status: NOT canon-published,
+NOT a living document (no sync obligation); exists so the published
+surface is consistent with a real document.
+THE TACTICAL SOLUTION (how a semi-starved, knife-only man kills an
+armed homesteader and is not badly hurt): ambush at the victim's
+faithful routine — George works the barn alone before dawn,
+unarmed ("a man does not carry a rifle to pitch hay"), taken from
+behind by a walk-hardened man the war trained who does not care if
+he lives. Not a fight; the horror is the ease. Catherine is the
+harder death — she fought "with what the room gave her," reached
+the door twice — and the entry DECLINES to render it ("I will not
+write it further than that"): the withholding instinct operating
+inside the withheld document. Forensics all sourced: barn blood
+(never cleaned), house struggle at door, tamped patch, propped
+chair, squared bed, wiped table, latch caught, animals loosed,
+nothing taken ("What the wolves leave is left; what this leaves is
+not"), two-day deep graves with flat stone courses (deep BECAUSE
+flat — mounds are what wolves try), the kettle at the boil as the
+rupture trigger for the canonical "I did not know I would feel
+this. I thought I was past feeling."
+TRACES PLANTED in published text (all post-reading, per DK spec):
+1. Obvious contamination: "He had never known I was in the world."
+   — Farrell over Morrow's body (Ch 11), Morrow's sentence about
+   George become Farrell's about Morrow; the pursuit chain of men
+   unknown to the man ahead; pre-echoes "a man I had never met."
+2. Subtle contamination: "the gray hour before sunrise" (Ch 10
+   ride-down; was "gray light"; grep-verified unique against the
+   book's 6-file "gray light" baseline).
+3. Dream: Ch 10 post-reading Mexico dream now carries the entry's
+   charged images — open plank door, firelight, kettle at the boil,
+   no one anywhere — "wrong in new ways," chaining to Ch 8's
+   wrong-dream register, unglossed.
+4. Tactical posture: Ch 10 ride-down — rifle across the saddlebow
+   despite knowing him unarmed, off the trail line, watching the
+   ridges, "He had taught me what watching was for." Journal-
+   grounded, no lampshade to the entry.
+Constraints honored: Ch 10 summary sentences verbatim-compatible;
+JE VIII seal; JE IX "not enough, did not last" (feeling ebbs to "I
+followed"); hamartiological map (no active self-conviction;
+coveting wire untouched); implied-editor question UNTOUCHED (the
+entry's existence sharpens it deliberately — DK has a broader
+tactic in mind).
+ALSO: #3 trim applied (JE III negation head — "It was not courage."
+cut; definitional aphorism stands alone via word-juxtaposition).
+Items #2 (self-inoculation) and #4 (beautiful ladder) ruled
+DELIBERATE by DK, closed as chosen costs.
