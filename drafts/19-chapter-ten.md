@@ -48,6 +48,8 @@ He had watched them for weeks, he wrote. He had seen them building their home, w
 
 He had buried them himself, taken two days to do it properly, piling stones on the graves to keep the animals away. And then he had moved on.
 
+He had heard of white buffalo at the posts on the Missouri before he ever walked out past them; it was on the first page of his account. Talk had carried him to her, and talk had carried me after him—the drunk in Council Bluffs, the trapper at Fort Kearny, Creighton on the road, every one of them handing her along like coin. The Hardins had never spoken of her at all.
+
 ---
 
 The fire burned low as I read the final entries. He had grown calm as the end approached, his writing clearer, more certain. He knew what he was going to do. He knew what it would cost.

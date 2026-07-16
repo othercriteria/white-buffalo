@@ -3572,3 +3572,20 @@ arithmetic); Lakota-appropriation KILLED at Sonnet tier ("you can't
 convict a book of breaking a promise it kept"); husband-reveal =
 "earned foreshadowing"; Catherine-pretext defeated by the letter
 draft; withdrawal medicine defended by the horse-ears boundary.
+
+### The famous-secret disposition (2026-07-16, DK + coordinator)
+Fable-2's charge reasoned through Morrow's triple epistemic state
+(vaulted origin / weighting-not-confabulation / thirty-month
+isolation) — full analysis in josiah-morrow.md §10. Verdict: the
+charge dissolves; the text was already pricing all three factors
+(benign branch priced at 14:55; rifle weighed in the hazing entry;
+Lakota weighed as non-threat knowers at 16:47-55). DISCOVERY: the
+journals name the Hardins exactly once — JE IX's apology — and the
+surname mechanism is now canon: correspondence METADATA on the
+cleaning day (11:93 address faces; no reading-into; the covenant
+holds). ENACTED: the one orphan worth surfacing — men-like-himself,
+the talk-fetched class — now registers on Farrell's side (Ch 10,
+after the Hardins summary): "Talk had carried him to her, and talk
+had carried me after him... The Hardins had never spoken of her at
+all." DK's designed silence: the one-step extension (a talk-fetched
+man likely comes to kill her) stays off-page permanently.

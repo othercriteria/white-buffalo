@@ -366,3 +366,28 @@ name-gradient is therefore ACTIVE refusal: personhood granted only
 in the apology, and only after both refusals — the nameless
 surveillance entries, the nameless death document — have done
 their work. Do not "fix" in either direction.
+
+### §10 addendum (DK, 2026-07-16): surname mechanism RESOLVED + the
+Farrell-side enactment.
+- MECHANISM: post-murder, in the house, from the correspondence
+  METADATA — 11:93 shows the letter box on the shelf with letters
+  "addressed to Catherine Hardin" in Aldridge's hand; the address
+  faces are exterior (folded covers/envelopes, period-correct), so
+  the name is unavoidable to the man who tidied the house, and no
+  reading-INTO is required (his covenant — "Their flour is theirs"
+  — forbids the affairs of the dead; the outside of a letter is
+  not the inside). He learns their name from the grieving father's
+  handwriting — the same letters that fetch Farrell. Timing: the
+  cleaning day (elided entry, Aug 7) — so "I do not know who any
+  of it was for" was written by a man who had just learned whose
+  it was, and the entry's namelessness is refusal from the first
+  hour of knowing. JE IX's apology grants the name five months on.
+- ENACTED (Ch 10, after the Hardins summary): the talk-fetched-me
+  register beat, DK-blessed form. Farrell holds JE I's posts-talk
+  + his own rumor-chain and closes on "The Hardins had never
+  spoken of her at all."
+- DESIGNED SILENCE (DK ruling): Farrell could follow the thought
+  one step further — the low probability that a talk-fetched man
+  does NOT come to kill her — but it is not top-of-mind in the
+  moment or the recounting, and laying it out would weaken the
+  story. The extension stays off-page, permanently. Do not enact.
