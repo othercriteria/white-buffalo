@@ -3602,3 +3602,57 @@ unadorned and is CONSISTENT with JE II's smoke-shapes epistemics
 (seventeen = the seen/attributed; Buena Vista's toll unknowable —
 which is exactly why the certain count never moves). Scale-work
 fully carried by the waves + rifle-too-hot beats.
+
+### Hostile sweep 3 (2026-07-16, post kill-count fix + Ch 10
+talk-beat): verbatim, 4 tiers.
+DK'S WORRY CLEARED: the Ch 10 talk-fetched-me paragraph drew ZERO
+trust-the-reader flags at any tier — unremarked everywhere — and
+the famous-secret charge is GONE at its source tier (Fable-2's
+charge 2 has no round-3 descendant). Kill-count: extinguished at
+its source tier (Sonnet). LATE-CHANGE SENSITIVITY CONFIRMED: both
+final-quarter edits fully re-priced within one round.
+TRACES COMPOUNDING: Opus-3 praises the kettle dream as the ONE
+image that "escapes the book's uniform polish... left unglossed";
+Fable-3 calls "He had never known I was in the world" "the best
+sentence here and a genuinely fine structural payoff" AND uses it
+to DEFEAT its own drafted anticlimax-cheat charge. The elided
+entry's vault also works as designed: Fable-3 dropped the
+tactical-implausibility charge because "I cannot convict a scene
+that does not exist" (the answer sits in the drawer).
+NEW FINDINGS (both Fable-3):
+1. THE OWNERLESS CHAPTER ONE — third-person interiority in
+   Aldridge's head, "a document belonging to no one, in a book
+   made of documents." Genuinely new, formally real, and it CUTS
+   BOTH WAYS on the implied-editor question: either it's the frame
+   leak that sharpens the charge, or it PROVES the book is
+   novelistic convention rather than found-documents, deflating
+   "who excerpted the journal" from the other side. Feeds directly
+   into DK's broader tactic. [DK]
+2. SHELL/GHOST FIGURE-SHARE — Morrow's "a shell in the shape of a
+   man" (JE IX) vs Farrell's "ghosts wearing the shapes of men. I
+   had been one of them" (Ch 7, BEFORE he reads the journal) — the
+   one cross-narrator figure that contamination cannot excuse
+   (Fable-3 kept it for exactly that reason while dropping the
+   ship-simile as motivated). [DK]: vary one, or certify as the
+   pre-contact kinship the twins thesis requires.
+DEFENSE ACCRETIONS: chronology passed its FOURTH independent
+adversarial audit ("interlocks to the month"); ship-simile dropped
+at Fable (Ch 10 plant honored: "the echo is motivated") while
+charged at Opus (plant missed) — #36 oscillation now 3 runs
+observed each way; endorses-Morrow dropped again ("the rhetoric
+visibly dissents"); detective's-leap dropped at Opus ON "I made it
+fit" (the self-audit as defense, same line the inoculation charge
+attacks — briefs cut both ways, twice demonstrated); JE III's "dig
+after the root" praised as "the book's best instinct" second round
+running; AI-authorship-as-demerit explicitly dropped ("I attack
+pages, not provenance") — a first.
+METHODOLOGY: Haiku-3 breached containment — cited "the authors'
+own Opus critique file" (CLAUDE.md injection surfacing as a
+charge); its prose-tic critique is not independent evidence at
+this tier, retroactively discounting same-family observations in
+prior rounds. Haiku floor: fabrications persist (body "under
+stars," Ch 8/11 confusion).
+STABLE RESIDUE (all chosen/known): withheld murder (Fable lead,
+now argued with the knife-vs-powder shielding point); Catherine
+absent-center; ethics-as-paratext; self-inoculation;
+one-voice-texture; wait-beat middle; groomed closers.
