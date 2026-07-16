@@ -3589,3 +3589,16 @@ after the Hardins summary): "Talk had carried him to her, and talk
 had carried me after him... The Hardins had never spoken of her at
 all." DK's designed silence: the one-step extension (a talk-fetched
 man likely comes to kill her) stays off-page permanently.
+
+### Kill-count inconsistency KILLED (2026-07-16, DK: "sticks in the
+craw; we don't need more evidence into the unreliability of
+Morrow's self-narrativizing"). Sonnet-sweep-2's catch: JE II
+"seventeen men with certainty and perhaps more" (war total, twice
+load-bearing — JE V's self-identification formula reuses it) vs
+JE IX Buena Vista "Dozens, certainly. Perhaps more." Resolution:
+REMOVE the odd instance — JE IX now "I killed that day. I do not
+know how many. I loaded and fired..." The not-knowing stands
+unadorned and is CONSISTENT with JE II's smoke-shapes epistemics
+(seventeen = the seen/attributed; Buena Vista's toll unknowable —
+which is exactly why the certain count never moves). Scale-work
+fully carried by the waves + rifle-too-hot beats.

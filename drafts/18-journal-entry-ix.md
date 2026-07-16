@@ -30,7 +30,7 @@ I was on the plateau with the Mississippi Rifles. Colonel Davis was our commande
 
 The Mexicans came at us in waves. Cavalry first, then infantry, wave after wave of men in blue uniforms with bayonets fixed and flags flying. We shot them down and they kept coming. We shot them down again and they kept coming again. The field in front of us filled with bodies, and still they came, climbing over their own dead to reach us.
 
-I killed that day. I do not know how many. Dozens, certainly. Perhaps more. I loaded and fired and loaded and fired until my rifle was too hot to hold, and then I took another from a dead man and loaded and fired that one too. I did not feel anything. I did not think anything. I was a weapon doing its work.
+I killed that day. I do not know how many. I loaded and fired and loaded and fired until my rifle was too hot to hold, and then I took another from a dead man and loaded and fired that one too. I did not feel anything. I did not think anything. I was a weapon doing its work.
 
 It should have horrified me—the blood, the screaming, the way men looked when they died, the sounds they made. It did not. I was empty inside, a shell in the shape of a man.
 
