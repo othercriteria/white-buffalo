@@ -3656,3 +3656,72 @@ STABLE RESIDUE (all chosen/known): withheld murder (Fable lead,
 now argued with the knife-vs-powder shielding point); Catherine
 absent-center; ethics-as-paratext; self-inoculation;
 one-voice-texture; wait-beat middle; groomed closers.
+
+## Book-club re-run (2026-07-16, DK-requested, post-hostile-focus)
+
+Method: the slate-5 "Book club discussion" prompt re-run VERBATIM
+(8-member mixed-persona panel, meeting-record deliverable; prompt
+recovered from transcripts/raw/9e8c3da4 and preserved at
+scratch/book-club-prompt.txt). General-purpose agent, session
+model, drafts/00-20 only. Baseline = slate-5 club (2026-07-12).
+
+VERDICT-LEVEL DIFF vs slate-5:
+- RECOMMEND: 7 yes / 1 abstain (DNF-on-principle) — up from 6-2.
+  No "no" votes. Ratings 3 to 5, two 5s; only sub-4 is the DNF.
+- THE DOCUMENT GAP FLIPPED SIDES. Slate-5: the engineer docked to
+  3/5 over the withheld murder ("Marcus 3/5 over it"). This run:
+  the librarian's 5-star verdict IS the gap ("Not a wasted page.
+  The withheld murder is the book"); the thriller reader FLIPPED
+  BACK LOOKING FOR THE MISSING ENTRY, "convinced his copy had a
+  gap" — the elided entry registering as a physically real absent
+  document, which is precisely the capstone's design condition.
+  Only the DNF reader still calls it "a cheat." The gap is no
+  longer star-docking material at this table.
+- NEVER-KNEW LINE AT AVERAGE-READER TIER: the thriller reader
+  wanted the two men to meet, "then I realized 'He had never
+  known I was in the world' is the meeting, and it's crueler" —
+  the anticlimax-cheat defense that Fable-3 ran, arrived at
+  independently by the club's genre reader. Trace confirmed
+  landing at all tiers it has now been shown to.
+- MORROW SPLIT REPRODUCED WITH A LIVE FLIP: opened 4-yes/3-no,
+  closed 3-yes/4-no + abstain when the nurse switched ON
+  Farrell's verdict line "He had taught himself that she was
+  giving" (+ the front matter's "takes what is not his" frame).
+  Slate-5 shape (4-no/3-yes/1-abstain) recovered — but this time
+  the swing happened in-room on a planted line. Redemption
+  misread: DID NOT MATERIALIZE, second club running.
+- AUTHOR'S NOTE IN PLAY (first club to read it): read ALOUD in
+  the Lakota discussion; table split respectfully (silence-as-
+  ethics vs watchers-without-interiority) and synthesized on "the
+  riders are the only people in the book who act correctly the
+  first time"; the no-sign look called "the most eloquent moment
+  in it." The note is carrying the conversation it was built for.
+- WITHOUT-WONDER: third club-tier contact, again as designed
+  ("even Farrell's guilt can't make her perform awe... She
+  refuses the myth") — deployed as DEFENSE against the
+  Catherine-as-device objection this time.
+RESIDUE (landing-data, no reopens):
+- Confession-register sameness at casual tier, POST-SURGERY: the
+  lapsed English major "couldn't always tell the voices apart in
+  the middle"; "Morrow's confession pages sound like Farrell
+  wrote them" — 3/8 agreed, 5/8 did not. Localization matches the
+  pre-surgery finding exactly (Mexico confessions), so this is
+  the designed one-directional kinship surviving at the tier that
+  reads by feel rather than tokens — and note the charge's own
+  drift toward the Q10 authorship reading ("sound like Farrell
+  WROTE them"). Twin-voice stays closed at surgical scope.
+- Prodigy patch still costs a star at rancher tier ("the buffalo
+  growing that fast is minus one") — patched, priced, stable.
+- DNF point moved: JE IV winter stubs ("negative forty for six
+  pages") — prior slack readings named Ch 2-3 transit. One forced
+  DNF persona per prompt; location is the datum.
+- Mid-book simultaneity confusion (nurse "kept waiting for them
+  to pass each other") — the staggered-timeline cost, previously
+  banked as purchase price of the JE V double-click.
+CLEAN PASSES: Ch 10 talk-fetched-me paragraph unremarked (second
+instrument population); kill-count unmentioned; chronology dated
+correctly at the table (retired teacher); DTs arc drew an
+unprompted clinical-accuracy lecture (nurse); trader slush-tell
+named as the trust-winning detail (Nebraska native); period
+material "I checked" (teacher). Kettle dream not surfaced at this
+tier (subtle trace behaving subtly).

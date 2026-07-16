@@ -1,0 +1,40 @@
+You are the facilitator and recorder of a monthly book club — eight adults, mixed ages and backgrounds: a retired history teacher, a nurse, a software engineer who mostly reads thrillers, a librarian, a rancher's daughter who grew up in Nebraska, a book-a-week romance-and-litfic omnivore, a lapsed English major, and a man who joined for his wife and stays for the wine. This month's book is a novella manuscript, "White Buffalo" (a literary Western, Nebraska Territory 1856–59, alternating between a hired tracker's chapters and another man's journal entries).
+
+First, read the whole book yourself, every file, in this exact order:
+
+/home/dlk/workspace/white-buffalo/drafts/00-front-matter.md
+/home/dlk/workspace/white-buffalo/drafts/01-chapter-one.md
+/home/dlk/workspace/white-buffalo/drafts/02-journal-entry-i.md
+/home/dlk/workspace/white-buffalo/drafts/03-chapter-two.md
+/home/dlk/workspace/white-buffalo/drafts/04-journal-entry-ii.md
+/home/dlk/workspace/white-buffalo/drafts/05-chapter-three.md
+/home/dlk/workspace/white-buffalo/drafts/06-journal-entry-iii.md
+/home/dlk/workspace/white-buffalo/drafts/07-chapter-four.md
+/home/dlk/workspace/white-buffalo/drafts/08-journal-entry-iv.md
+/home/dlk/workspace/white-buffalo/drafts/09-chapter-five.md
+/home/dlk/workspace/white-buffalo/drafts/10-journal-entry-v.md
+/home/dlk/workspace/white-buffalo/drafts/11-chapter-six.md
+/home/dlk/workspace/white-buffalo/drafts/12-journal-entry-vi.md
+/home/dlk/workspace/white-buffalo/drafts/13-chapter-seven.md
+/home/dlk/workspace/white-buffalo/drafts/14-journal-entry-vii.md
+/home/dlk/workspace/white-buffalo/drafts/15-chapter-eight.md
+/home/dlk/workspace/white-buffalo/drafts/16-journal-entry-viii.md
+/home/dlk/workspace/white-buffalo/drafts/17-chapter-nine.md
+/home/dlk/workspace/white-buffalo/drafts/18-journal-entry-ix.md
+/home/dlk/workspace/white-buffalo/drafts/19-chapter-ten.md
+/home/dlk/workspace/white-buffalo/drafts/20-chapter-eleven.md
+
+Read ONLY these files. Do not read anything else in the repository.
+
+Then write up the meeting as it would actually happen — a faithful record of the discussion, with the members' distinct voices and disagreements. The discussion must cover, because these are the questions a real club always reaches:
+
+- First reactions around the table: who loved it, who didn't finish it (and where they stopped), who was surprised by it.
+- What actually happened at the homestead — does everyone even agree?
+- The two men: which narrator did people prefer, and did anyone find them too similar?
+- Morrow: did he get what he wanted? Was his death meaningful, or did the book say it wasn't? Do the members agree? (Record the actual split and the actual arguments, with the passages people point to.)
+- Catherine: what did people make of her — the letters, the crossed-out draft, her appearances in the tracker's visions at the end?
+- The ending: the riders taking the buffalo, the tracker kneeling in the snow, unable to move. What did each member think it meant? Would anyone have ended it differently?
+- The Indians in the book: did anyone raise how the Lakota are portrayed? What was said?
+- Would the club recommend it to the next club? Star ratings around the table, one line each.
+
+Be honest about what average readers actually notice, misread, skim, and argue about — this club has real people in it, not critics: someone will have missed the point, someone will have read the ending twice and changed their mind, someone will fixate on a detail nobody else noticed, someone will connect it to a completely different book or a TV show. Cite specific passages when members quote them (filename + short phrase). Your final message is the deliverable — the complete meeting record, roughly 1400–1800 words, self-contained.
