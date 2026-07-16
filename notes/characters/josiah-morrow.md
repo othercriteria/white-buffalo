@@ -311,3 +311,58 @@ system intact:
 Quotes in §2 above predate this pass; the system they map is
 unchanged. Born-or-made stays undecided (the crack is preserved,
 now papered deliberately rather than dismissively).
+
+## 10. The epistemics of the famous secret (DK + coordinator, 2026-07-16)
+
+The hostile charge ("the buffalo is territory-wide rumor; the
+journal weighs only the settlers") dissolves under three factors,
+each already operating in the text; recorded here so no future pass
+"fixes" what is load-bearing.
+
+1. THE VAULTED ORIGIN (§8). Morrow cannot weigh the rumor-world as
+   a threat without reopening how he knows it exists — the posts-
+   talk of 02:29 is where HE came from. Weighing "talk brings men"
+   means remembering that talk brought him, and the providence
+   story dies. The blind spot is the retrofit's shadow.
+2. WEIGHTING, NOT CONFABULATION. His evidence-handling is locally
+   rigorous: he directly observes the rifle (14:19 area), war-games
+   the hazing failure ("a running herd in the dark would bring the
+   man out of his house with his rifle. I would be handing them to
+   each other," 14:69), tracks the noticing-gradient across JE VII
+   (not yet -> soon -> "when they notice the herd, they may notice
+   her"), and EXPLICITLY PRICES THE BENIGN BRANCH ("They might do
+   nothing... That is what most people would do," 14:55) before
+   overriding it. The delusion lives entirely in the weights.
+3. THIRTY MONTHS OF ISOLATION. His model of the human world froze
+   at walk-out (1855) and received one update: the Hardin
+   homestead. The 1858 fame Farrell traverses (saloon, trapper,
+   mail rider) accreted DURING Morrow's silence, largely from
+   sightings he himself generated and never saw circulate. Within
+   his observable world he weighs EVERY knower it contains: the
+   settlers (threat: capability + proximity + permanence) and the
+   Lakota (16:47-55 — weighed, priced non-interfering on years of
+   evidence). "Weighs only the settlers" is textually false; he
+   weighs everyone he can see. What he cannot see is the network —
+   and the class of men it delivers.
+
+THE ORPHAN THAT REMAINS (deliberately unenacted): Morrow never
+prices men-like-himself — talk-drawn men — and the plot delivers
+one: Farrell is the rumor network's second delivery, arriving too
+late to threaten her and in time to inherit the story. The Hardins
+died for what they might say and never spoke of her; the men who
+spoke of her freely were never weighed. If DK ever wants the
+Farrell-side register beat (hostile sweep 2, Fable charge 2), it
+should take THIS form — "the talk that made him fetched me" — not
+the famous-secret form. Currently orphaned by design.
+
+DISCOVERY (grep, 2026-07-16): the journals name the Hardins exactly
+ONCE — JE IX's apology ("I am sorry for the Hardins, who did me no
+harm," 18:73). Everywhere else: the settlers, the man, the woman —
+including the elided entry (scratch/je-elided-august-1858.md),
+drafted nameless before this was noticed. CANON (DK): Morrow
+learned the surname during the homestead months (mechanism
+undetermined — claim board or overheard hail; a bible gap). The
+name-gradient is therefore ACTIVE refusal: personhood granted only
+in the apology, and only after both refusals — the nameless
+surveillance entries, the nameless death document — have done
+their work. Do not "fix" in either direction.
