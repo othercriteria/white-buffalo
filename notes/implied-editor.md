@@ -43,3 +43,19 @@ KNOWN SEAM (accepted): verbatim quotation of the crossed-out
 draft despite the letters staying west — memory-mediation; the
 club's most affecting passage is, under this reading, Farrell's
 recollection. Acceptable and arguably improving.
+
+ADDENDUM (2026-07-17, same session): "Aldridge himself" above was
+DK's slip of the keyboard (intended: Farrell literarizing his own
+treatment decades on) — RATIFIED on inspection as the stronger
+candidate, without displacing the Farrell variant. Both hands stay
+live; the plurality serves the UNSETTLED status. The Aldridge
+reading's case: the book as triple apology — to Catherine (the
+redaction: her father keeping her death off the page), to George
+(restitution: the trader's testimony, the almanac figuring, the
+powder-and-shot foresight preserved by the man who accused him and
+sent a killer), to Farrell (his account dignified by the man who
+bought it) — plus self-sentencing (the editor opens the book
+inside his own worst chapter: the commission, "so that he would
+not have to" think about what Farrell might do) and means (Great
+Lakes capital is exactly what commissions plates and printings,
+decades later, when it is the only instrument left to him).
