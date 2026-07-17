@@ -3868,3 +3868,17 @@ untouched). No Farrell claim describes cut material.
 Word count ~30.9k (from ~32.1k). Farrell-dangerousness principle
 on the record: no flinch-by-relocation — early plain "kill" is
 load-bearing (DK).
+
+## Implied-editor tactic — RESOLVED AS ON-RECORD FANON (2026-07-17, DK)
+
+DK's modal reading recorded at notes/implied-editor.md (Farrell
+lives -> report + rough treatment -> later editor, possibly
+Aldridge decades on, literarizes: interleave, murder-entry
+redaction, plates). Audited against text: consistent at every
+point; Ch 1 ownerless-chapter finding DISSOLVED (Aldridge-interior
+chapter = the editor's fingerprint); redaction acquires a
+period-true hand; Catherine's-privacy ground enforceable
+in-fiction. NEVER ENACT — compiler question stays live per twice-
+certified ruling. Sweep-3 [DK] item #1 closed. Both sweep-3 [DK]
+items now resolved (shell/ghost certified §11; ownerless Ch 1
+dissolved here).
