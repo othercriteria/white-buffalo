@@ -2,11 +2,7 @@
 
 *September the Eighth, Eighteen Fifty-Seven*
 
-A year and a half.
-
-It was spring of eighteen fifty-six when I first saw her, white against the brown grass, moving apart from the herd—when I understood what I must do, and what I must wait for. Since then, two summers of walking and watching, and one winter that tried its best to kill me.
-
-She has changed in that time. So have I.
+A year and a half. Two summers of walking and watching, and one winter that tried its best to kill me.
 
 ---
 
