@@ -24,6 +24,6 @@ Before publication, the Claude sessions that shaped the book were each given the
 
 ---
 
-© 2026 Ben Cohen and Daniel Klein · rights and license TK
+© 2026 Ben Cohen and Daniel Klein. All rights reserved. No part of this book may be reproduced in any form, except for brief quotation in reviews, without written permission from the authors.
 
-First edition TK · ISBN TK · imprint TK
+First edition · ISBN TK · imprint TK
