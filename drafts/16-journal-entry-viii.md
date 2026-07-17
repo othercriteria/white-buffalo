@@ -94,7 +94,7 @@ Perhaps she has always known.
 
 Tomorrow, I think. Tomorrow, when the sun rises, I will walk down from this ridge. I will cross the meadow where I have watched her for so long. I will approach her, and I will make her see me as a threat, and she will do what she was made to do.
 
-I am not afraid. I thought I might be, at the end—thought that the instinct for survival might overwhelm the purpose I have carried for so long. But there is no fear. There is only a great and quiet peace.
+I thought the instinct for survival might rise at the end, and overwhelm the purpose I have carried for so long. It has not.
 
 I will write one more entry, after tomorrow. If I am able.
 
