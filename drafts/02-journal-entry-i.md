@@ -44,9 +44,7 @@ She is too small. She is only a calf, perhaps six months old. An autumn calf, bo
 
 I must wait.
 
-This is the hardest thing I have ever had to do—harder because I am the one demanding it of myself. I have waited in the trenches before an assault, listening to the guns, knowing that in an hour I would be running toward men who wanted me dead. I have waited in hospital tents, watching men die around me, wondering if I would be next. I have waited for news that never came, for letters that were never written, for a God who never answered.
-
-But I have never waited like this. I have never waited for something I wanted with every part of myself, standing before me in the flesh, near enough to reach out and touch if I chose.
+This is the hardest thing I have ever had to do—harder because I am the one demanding it of myself. I have waited in the trenches before an assault, listening to the guns. I have waited for news that never came, for letters that were never written, for a God who never answered. But I have never waited for something I wanted with every part of myself, standing before me in the flesh, near enough to reach out and touch if I chose.
 
 I did not touch her. I watched her walk away with the herd, her white coat growing smaller and smaller against the brown of the land, until she was gone.
 
