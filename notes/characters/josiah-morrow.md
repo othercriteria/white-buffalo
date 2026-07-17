@@ -391,3 +391,28 @@ Farrell-side enactment.
   does NOT come to kill her — but it is not top-of-mind in the
   moment or the recounting, and laying it out would weaken the
   story. The extension stays off-page, permanently. Do not enact.
+
+## 11. The shell/ghost figure-share — CERTIFIED KINSHIP (2026-07-17, DK)
+
+Morrow, JE IX: "I was empty inside, a shell in the shape of a man."
+Farrell, Ch 7 (pre-journal-contact): "moved through the world like
+ghosts wearing the shapes of men. / I had been one of them, for a
+time." Charged by hostile Fable (sweep 3) as the one cross-narrator
+figure contamination cannot excuse; line editor independently
+proposed cutting the Ch 7 passage (Ch 9 pre-spend theory).
+
+RULING: both stand VERBATIM. The share is convergence, not bleed:
+two veterans independently reaching for hollowed-man-as-empty-
+garment is the twins thesis operating at the figure level — the men
+were the same shape before either read the other. When Farrell
+reads JE IX in Ch 10 he is reading a sentence he already wrote;
+reader-missed payoff, licensed by the critique-profile fix (weird/
+orphaned significance over uniform polish). Structurally identical
+to the preserve-listed Buena Vista/Chapultepec asymmetry (never
+pointed at). The voice-bleed reading remains available to hostile
+critics at the price the book pays for every unmarked design.
+Ch 7 passage also carries motive weight the cut theory undervalued:
+"I wanted to see him" is compulsion, not curiosity, because the
+kinship admission sits under it; Ch 9's "the difference... how
+small" measures a distance Ch 7 established. Do not cut, do not
+vary either figure. This closes the sweep-3 [DK] item.

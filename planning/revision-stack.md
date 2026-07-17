@@ -3817,3 +3817,54 @@ comparison), item 6 (Ch 6 forecast), item 2 (only-right-thing
 dedup).
 STATUS: both collections banked; nothing applied; DK to rule on
 scope and depth.
+
+## Line-edit program — ALL 45 ITEMS DISPOSITIONED (2026-07-17, DK one-at-a-time)
+
+Copy: all 4 corrections applied; loft -> "hay stacked in the back"
+(lean-to barn spec preserved); trader's-whiskey slush beat MOVED
+Ch 5 -> Ch 6 rationing paragraph (joke lands on the trading-post
+man, timeline honest); italic-vs-roman ruled as function-of-framing
+(italic = document content incl. Ch 8 imagined report; roman =
+imagined speech) — noted in continuity.md, never explained in text.
+
+APPLIED as proposed or minimally moderated: items 3, 5(partial:
+lighter-para restored per DK), 6, 7(March line into Feb 2 weather
+para), 8, 9, 10(reversed per DK: supplies/dull-knife restored),
+13(reversed per DK: imagined report restored), 14, 15, 16, 17(mod:
+"She knows I am here. She must." kept), 18(reversed per DK: kill
+enumeration restored — earliest plain "I would kill him"), 19, 20,
+21, 22(DK's own example), 23+34(fold; not-part-of-world line
+RESTORED per DK — inversion, not duplicate), 24, 28(mod: counting-
+the-days flicker + Morrow-Christmas rhyme kept), 32(min), 33(mod:
+standing beat kept), 35, 36, 37(reversed per DK: wrestled
+narrativizing), 38(reversed per DK: any-number-of-things leap =
+the irrefutable-justification move), 39, 40, 41, 42, 43, 44.
+Item 4 partial: candlelight compression + naive-instinct theory
+RESTORED (JE VIII Sept 28's "It is not clear" needs its setup).
+Item 11 partial: settlers-dreams pathos cut (pre-empted by the
+crossed-out draft one chapter earlier), no-dream pair restored,
+weather-simile closer cut.
+Item 2 middle path: JE VIII terminal address restored IMPERFECT —
+"willingly, gladly" kept, "only right thing" fires once (JE IX).
+RULED ONE-AT-A-TIME: item 1 COMPRESSED (one-line ledger count);
+item 26 REWRITTEN (peace claim -> flat absence report, in-cadence);
+item 27 DECLINED (the one undecorated death-naming; the two
+"going" lines are the euphemistic pair); item 12 COMPRESSED (theft
+turn + absolution drift kept verbatim, padding cut); item 25
+MIDDLE (hospital-tents leg + negation head cut; God line, wanting,
+proximity kept); item 29 ONE-CLAUSE DEDUP (sacred-to-everyone;
+not-by-X turn + Lakota-right + meaning plant stand); item 31
+DECLINED (broken-mind concession = certified ambiguity anchor;
+editor's version changes who doubts); item 45 DECLINED (balance-
+or-joke = certified thesis); item 30 DECLINED + shell/ghost
+figure-share CERTIFIED AS KINSHIP (josiah-morrow.md §11) — closes
+the sweep-3 [DK] item.
+CH 10 COHERENCE READ (DK-queued, post-program): every quote/
+paraphrase anchor verified in the thinner journal — JE I opening
+line, ship-through-water (JE III survives item 17), hollow-thing
+pair, Missouri-posts first-page claim, felt-nothing summary,
+grew-calm/knew-the-cost (JE VIII), sorry/not-sorry page (JE IX
+untouched). No Farrell claim describes cut material.
+Word count ~30.9k (from ~32.1k). Farrell-dangerousness principle
+on the record: no flinch-by-relocation — early plain "kill" is
+load-bearing (DK).
