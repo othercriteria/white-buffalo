@@ -48,7 +48,7 @@ I watched the settlers again today. Closer this time—perhaps a quarter mile fr
 
 The man was mending harness by the door. The woman came out to him with something steaming in a cup, and she stood beside him while he drank it, her hand on his shoulder, neither of them speaking. They moved around each other with the ease of people who have long since stopped needing words.
 
-I watched them as I would watch birds or deer, creatures going about their business.
+I watched them as I would watch birds or deer, creatures going about their business. They are not part of the world I inhabit now.
 
 The herd moved on, and I moved with it. The settlers stayed where they were. Their first winter is coming. The first winter is the hardest, they say, and after it the land does not soften.
 
@@ -62,6 +62,8 @@ She stood apart from the herd today, grazing alone at the edge of a frozen creek
 
 I saw a woman's face by candlelight once, in a time before the war. It does not compare.
 
+And she will kill me. Someday—next autumn, perhaps, or the autumn after—she will turn on me. The instinct that has kept her wary will become the instinct that drives her to attack. And when that happens, I will not run. I will not fight. I will stand before her and let her do what she was made to do.
+
 ---
 
 *December the First*
@@ -71,3 +73,5 @@ Winter is here.
 The snow has begun to fall, and the herd has settled into its winter patterns, moving slowly through the valleys, conserving strength for the months ahead. She is with them, as always, her white coat blending with the snow until she is almost invisible.
 
 I have found a place to shelter—a hollow in the bluffs where the wind cannot reach, where I can build small fires and survive the worst of the cold. It is not far from where the herd has gathered. I can watch them from here, can see her white form moving among the brown, can keep the vigil I have kept and will keep for however long it takes.
+
+I do not dream anymore. I do not think of the future beyond the moment when she and I will face each other for the last time.

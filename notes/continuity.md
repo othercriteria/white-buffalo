@@ -751,3 +751,15 @@ Closed as designed (the book is the brink; capacity shown in memory;
 assertions all diegetically laundered). notes/characters/
 henry-farrell.md consolidates the week's Farrell findings. Textual
 stack: two provisional keeps + #29. That is all.
+
+## Typographic convention: italic vs roman for quoted words (ruled 2026-07-17)
+
+Italic = words framed as DOCUMENT content: Catherine's letters and
+drafts, journal quotations in Ch 10, and Ch 8's imagined report to
+Aldridge ("with my report—*your daughter is dead...*" — framed as a
+document, not speech). Roman = words framed as SPEECH, real or
+imagined: Ch 7 "His daughter is dead, I would say"; Ch 10 "The man
+who killed your daughter is dead, I could tell him." The rule is
+function-of-framing, not medium-of-delivery. Do not conform Ch 8 to
+the roman siblings (copy-edit Q4, resolved no-change); do not
+explain the rule in the text.

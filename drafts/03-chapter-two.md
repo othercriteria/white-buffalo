@@ -72,7 +72,11 @@ I ate at a chophouse near the hotel. The food was adequate. The whiskey was bett
 
 I thought about Catherine Hardin, alone on a homestead somewhere in the Nebraska Territory. I thought about her husband, who might have killed her, or might simply have failed to protect her from whatever had happened. Aldridge would be back in Oswego by now, waiting for news.
 
-What I would do when I found the truth was not complicated. These things rarely were.
+I thought about what I would do when I found the truth.
+
+The answer was simple enough. If she was alive, I would bring word back to her father. If she was dead and her husband had killed her, I would kill him. If she was dead and her husband had not killed her—if some other fate had befallen them both—I would bring that word back too.
+
+It was not complicated. These things rarely were.
 
 I finished the whiskey and lay down on the bed without undressing. The ceiling was water-stained, the plaster cracked. I watched the cracks in the lamplight until my eyes grew heavy, and then I closed them.
 

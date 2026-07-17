@@ -98,4 +98,6 @@ I am not afraid. I thought I might be, at the end—thought that the instinct fo
 
 I will write one more entry, after tomorrow. If I am able.
 
-If not, then this is the end of my account.
+If not, then this is the end of my account. To whoever reads these words: I do not ask for understanding. I do not ask for forgiveness. I ask only that you believe me when I tell you that I am going to my death willingly, gladly.
+
+The white buffalo is waiting for me. I will not make her wait much longer.
