@@ -32,7 +32,7 @@ I watched her move through the grass and I knew what I had been waiting for.
 
 This is how I will die.
 
-Not by storm or starvation or the arrows of men who have every right to kill me. By her. By this white creature that should not exist, that is sacred to everyone who sees her, that carries meaning in her blood and her bones and her impossible coat.
+Not by storm or starvation or the arrows of men who have every right to kill me. By her. By this white creature that should not exist, that carries meaning in her blood and her bones and her impossible coat.
 
 I stood up. The herd shifted, a few of the nearest cows lifting their heads to watch me. The white calf kept walking, following the others, not looking at me.
 
