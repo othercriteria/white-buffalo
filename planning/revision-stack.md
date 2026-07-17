@@ -3725,3 +3725,95 @@ unprompted clinical-accuracy lecture (nurse); trader slush-tell
 named as the trust-winning detail (Nebraska native); period
 material "I checked" (teacher). Kettle dream not surfaced at this
 tier (subtle trace behaving subtly).
+
+## Editor pair: copy + line (2026-07-17, DK-directed, no edits applied)
+
+Method: two blind agents, drafts/00-20 only, deliverables =
+collections not changes. Full reports preserved at
+scratch/copy-edit-report-2026-07-17.md and
+scratch/line-edit-cut-list-2026-07-17.md. DK's calibration
+directive: aggressive; moderation at application.
+
+COPY EDITOR — "exceptionally clean": zero typos/punctuation
+faults/name errors in ~32k words; chronology arithmetic passed
+(FIFTH independent audit). Four corrections, all verified vs
+source: (1) Ch 2 Catherine letter roman -> italic (convention);
+(2) Ch 6 "almanac from 1856" -> spelled year (only Arabic numeral
+in the book); (3) JE V "full grown" -> "full-grown"; (4) Ch 7
+"boot-prints" -> closed, to match "hoofprints" same sentence.
+Queries, two REAL CATCHES: (Q3) LOFT — Ch 6 barn is "a lean-to
+shelter barely large enough for a horse and a cow" but Ch 7 has
+"the hay in the loft"; joins the barn-spec cluster (elided-entry
+hay work, graves-plate barn absence on B2) — settle the barn once.
+(Q2) "the trader's whiskey" (Ch 5 slush add, this campaign) occurs
+pre-trading-post; escape hatch exists (Hennessey = "horse trader's
+eyes") but the epithet then collides with Ch 6 "the trader's
+cloudy bottle" (= post trader). One-word disambiguation available.
+Convention queries for DK: Ch 4 trapper continued-speech quote
+mark; Ch 8 italic imagined report vs roman siblings (Chs 7, 10) —
+NOTE line-edit item 13 cuts the Ch 8 italic line entirely,
+resolving this query incidentally.
+
+LINE EDITOR — 45 ranked items ([T1] delete / [T2] compress /
+[T3] rewrite), est. 1,450-1,650 words removed by full T1+T2
+(~5%), ~1,000 of it from the journals. Macro-diagnosis matches
+DK's: slack concentrated in JE I-VI (watcher/waiter/she-grows
+loop "stated in full roughly nine times"; groomed/promissory
+closers), JE VII-IX tight; Farrell slack = duplication (mission
+x3, turn-back x3, cabin-winter x4).
+CALIBRATION VALIDATED BLIND: item 22 = DK's exact example (JE IV
+"We are both almost ready." + its Nov 14 bracket twin) found
+independently; editor also independently called JE IV "the
+strand's best-disciplined entry" (matches preserve list) and
+closed on "the journals stop promising the death and get on with
+earning it."
+MECHANICAL CLEARANCE: all 45 items checked against assemble.py
+PLACEMENTS — no item touches a plate-anchor paragraph. Item 10
+would END JE VI Oct 28 on the village-passing anchor paragraph
+(gatefold directly after the entry's last words — arguably
+improves the object).
+CONVERGENCES with prior instruments: items 39-41 = S5-5's Ch 2-3
+transit fold (regression-5); item 30 CUTS FARRELL'S GHOSTS-
+WEARING-SHAPES PASSAGE — independently, for pre-spending Ch 9's
+recognition beat — which would DISSOLVE the open shell/ghost
+figure-share [DK] as a side effect (one action closes two items);
+item 13 resolves copy Q4.
+COLLISION FLAGS (guardrails; moderate at application):
+- item 45 (JE I balance-or-joke cut): editor self-flags as likely
+  declined; the line is certified thesis machinery (hostile-5's
+  beam named it; multiple instruments quote it). DECLINE likely.
+  Also internal conflict: item 9 proposes ENDING JE I on the same
+  line item 45 cuts — items cannot both apply as written.
+- item 31 (JE IX "Perhaps I was. Perhaps... broken mind" cut):
+  collides with certified ambiguity anchor (facilitator key:
+  "belief, not verification"; §10 delusion-as-weighting leans on
+  Morrow's own concession). Real brief both ways. [DK]
+- item 2 (JE VIII terminal address cut): kills the "only right
+  thing" duplication across VIII/IX. Defense unnamed by editor:
+  VIII as REHEARSAL, IX as performance — the self-narrativizing
+  man practicing his testament (hamartiology-consistent). [DK]
+- item 26 (JE VIII "great and quiet peace" rewrite): the Farrell
+  peace-twin was already cut in the #29 rebuild, so the line is
+  now UNPAIRED; cut is profile-aligned (negation-restatement at
+  peak). Cheaper than it once was. [DK]
+- item 1 (JE VI Sept 8 recap entry delete): the entry is the
+  stagger's re-orientation on-ramp after the homestead discovery;
+  club datum (nurse "kept waiting for them to pass each other")
+  says average tier needs calendar help. Moderate risk.
+- item 7 (JE IV Feb 14 fold): preserve list protects the
+  stub-entry winter FORM; deleting one stub thins the form.
+  Moderate.
+- item 29 (JE I "This is how I will die. By her."): loses "men
+  who have every right to kill me" — an early Lakota-standing
+  beat (JE IV Jan 3 partially carries). Name the loss at ruling.
+- item 30 stitch bug: kept text "had not come back" dangles
+  without the cut "I had come back, or tried to come back" —
+  needs a one-word repair if applied.
+- item 6 (Ch 6 withdrawal forecast): preserve list protects the
+  withdrawal ARC, not the forecast; Ch 8 restates snakes/insects
+  in full, so the contrast survives the cut. Low risk.
+EDITOR'S FIGHT-FOR-THREE: item 4 (JE VI Nov 19 -> candlelight
+comparison), item 6 (Ch 6 forecast), item 2 (only-right-thing
+dedup).
+STATUS: both collections banked; nothing applied; DK to rule on
+scope and depth.
