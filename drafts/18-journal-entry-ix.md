@@ -42,11 +42,7 @@ I am still waiting.
 
 That is why I have followed her across these plains for the better part of three years, why I have given up everything I had and everything I might have been for the chance to die by her hooves.
 
-She is sacred. The Indians know this. They have stories about her. When they see her, they see something that connects this world to something greater.
-
-I see that too. But I see something else as well.
-
-I see the only thing that can make sense of what I am. The only death that can redeem a life spent in emptiness.
+She is sacred. The Indians know this. They have stories about her. I see that too. But I see something else as well: the only death that can redeem a life spent in emptiness.
 
 I killed men at Buena Vista and felt nothing. The settlers cost me something—I wrote of it at the time—but it was not enough, and it did not last. I have moved through the world for thirty-four years feeling almost nothing, and I am tired. I am so tired.
 
