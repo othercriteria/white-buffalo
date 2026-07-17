@@ -12,7 +12,7 @@ She has survived her first year. I have survived alongside her.
 
 The herd has broken apart for the spring, the bulls drifting off to form their own groups while the cows and young animals move together across the greening land. She stays with the cows, as I expected. She is not yet old enough to breed, and will not be for another year or more, but she seems to prefer their company to the bulls'.
 
-I watch her from a distance, as I have always done. She knows I am here. I am certain of that now. When she grazes, she looks up sometimes and turns her head toward where I sit, and she is slow to turn back to the grass.
+When she grazes, she looks up sometimes and turns her head toward where I sit, and she is slow to turn back to the grass.
 
 ---
 
@@ -22,7 +22,7 @@ She is beautiful in a way I did not expect.
 
 I have watched her all winter, watched her through the worst of the cold and the deepest of the snow. The winter had hidden her true form beneath a coat thickened for survival, beneath a posture hunched against the cold. Now, in the warmth of late spring, she has emerged.
 
-Her coat has thinned and brightened, white now with an almost silver sheen where the light catches it. Her muscles have grown—not just larger, but more defined, visible beneath the skin when she moves. Her shoulders are broad and powerful, her hump rising behind her neck like a monument. She is not yet full grown, but she is no longer small.
+Her coat has thinned and brightened, white now with an almost silver sheen where the light catches it. Her muscles have grown—not just larger, but more defined, visible beneath the skin when she moves. Her shoulders are broad and powerful, her hump rising behind her neck like a monument. She is not yet full-grown, but she is no longer small.
 
 I watched her today as she crossed a creek. She did not slow at the bank or pick her footing; the water broke against her chest and she came out streaming.
 
@@ -42,7 +42,7 @@ I watched them for a long time. The herd was grazing in the valley below me, and
 
 They do not know I am here. They do not know she is here. They are living their lives, building their house, planting their crops or tending their animals, and they have no idea what moves through the country around them.
 
-I wonder if they will stay. Most of them don't. The land is too hard, the winters too long, the isolation too complete. They come with hope and leave with nothing, or they come with hope and die with nothing, and either way the land remains unchanged.
+I wonder if they will stay. Most of them don't. The land is too hard, the winters too long, the isolation too complete.
 
 ---
 
@@ -55,8 +55,6 @@ I noticed it first a week ago, when a young bull tried to approach her. He was n
 She did not charge him. She did not need to. Her intention was clear, and he understood it. Good.
 
 Since then I have watched her more closely, and I have seen other signs. The other cows give her space. The calves do not play near her. Even the older bulls, when the herd re-forms for the seasonal movements, seem to treat her with a deference that goes beyond simple recognition.
-
-Perhaps she is becoming what she always was, and I am only now seeing it clearly.
 
 ---
 
@@ -83,7 +81,3 @@ I am lighter now than I have ever been. Not just in body—I have been thin sinc
 I used to think about Mexico every day. The things I did, the things I saw, the man I became in those bloody months. Now I go days without thinking of it. When it does come to mind, it is distant, like something that happened to someone else, a story I heard once and half-forgot.
 
 The man who killed seventeen men at Monterrey and Buena Vista is still here, somewhere inside me. But he is quieter now. Smaller.
-
-What is important is her. The waiting, the watching, the end I have chosen.
-
-She is almost ready. I can see it in the way she moves, in the power that coils in her shoulders and haunches, in the confidence with which she faces the world. Another winter, and she will be grown enough.

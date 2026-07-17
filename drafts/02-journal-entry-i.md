@@ -61,7 +61,3 @@ That is what I want.
 I do not know if I can explain why it must be this way. I do not fully understand it myself. But it fits the shape of what I have become. I was made into a killer in Mexico. Now I will be unmade by something that should not exist, white and sacred and wild.
 
 It is a kind of balance, I think. Or perhaps it is a kind of joke. I have never been certain which.
-
-The fire is dying. I will sleep now, or try to.
-
-In the morning, I will begin to follow her.

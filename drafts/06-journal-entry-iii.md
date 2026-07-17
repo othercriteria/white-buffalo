@@ -6,9 +6,9 @@ The leaves are turning on the cottonwoods along the river. Yellow and gold again
 
 She is growing well. Her shoulders have thickened, and the hump of muscle behind her neck has begun to rise. She stands taller than the other calves now, though whether this is because of her nature or simply because she has had good grazing, I cannot say. Her coat remains white. I had wondered if it might darken as she aged, as the coats of some animals do, but it has not. If anything, it has grown brighter, more luminous, as if lit from within.
 
-I watch her every day. I know her movements now as well as I know my own. The way she grazes in long, slow sweeps, her head down, her white form moving through the brown grass like a ship through water. The way she lies down in the afternoon heat, always a little apart from the herd, her legs folded beneath her, her eyes half-closed.
+I know her movements now as well as I know my own—her white form moving through the brown grass like a ship through water, the afternoons she lies down a little apart from the herd, her legs folded beneath her, her eyes half-closed.
 
-She knows I am here. She must. The other buffalo have accepted my presence—they no longer startle when I approach, no longer shift away when I pass—and she has done the same. But there is something different in the way she watches me.
+She knows I am here. She must. But there is something different in the way she watches me.
 
 I do not try to approach her. I keep my distance, as I have since the beginning. It would not do to make her fear me. When the time comes, I need her to stand her ground.
 
@@ -48,8 +48,6 @@ Cold rain today, the first of the season. I sheltered in a stand of willows and 
 
 I thought about going to her. The rain was cold, and I was tired, and it would have been easy to walk out into the herd and lie down beside her and let the cold take me. But that is not the death I am waiting for.
 
-I need her to kill me. I need to die by something sacred. I need my death to mean something, even if my life did not.
-
 This is vanity, I know. Pride dressed up as penance. But it is all I have.
 
 ---
@@ -60,8 +58,6 @@ She is beautiful.
 
 I did not want to write that. It seems foolish, sentimental, the kind of thing a man writes when he has been alone too long. But it is true, and I have promised myself to write only true things in this journal.
 
-She is beautiful in the way that dangerous things are beautiful. In the way that a storm is beautiful, or a fire, or the edge of a knife. There is power in her, coiled and waiting, and when she moves you can see it in the way her muscles shift beneath her skin, in the way her hooves strike the ground. She is not yet full-grown, but she is no longer a calf.
+She is beautiful in the way that dangerous things are beautiful. There is power in her, coiled and waiting, and when she moves you can see it in the way her muscles shift beneath her skin, in the way her hooves strike the ground. She is not yet full-grown, but she is no longer a calf.
 
 I watched her today as she grazed alone at the edge of the herd. The sun was setting, and the light was the color of copper, and she stood against it. Her coat caught the light and held it, glowing, and for a moment I could believe what the Indians believe—that she is sacred, that she was sent by something greater than herself, that she carries a message for those who have eyes to see.
-
-I can wait. I have learned how.

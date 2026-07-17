@@ -58,7 +58,7 @@ The boat reached the far shore and we disembarked, the horses stepping carefully
 
 ---
 
-Iowa was more of the same—flat land, bare trees, farms scattered across the emptiness. But there was something different about it too, a wildness at the edges that had not been present in Illinois. The farms were newer, cruder, the houses made of sod as often as wood. The people I passed had a look about them, a watchfulness that suggested they had not forgotten what it meant to live where the settled world thinned.
+Iowa had a wildness at the edges that had not been present in Illinois. The farms were newer, cruder, the houses made of sod as often as wood. The people I passed had a look about them, a watchfulness that suggested they had not forgotten what it meant to live where the settled world thinned.
 
 I stopped for a night in a small town whose name I never learned. There was a tavern that served food and rented rooms, and I took both. The food was bad and the room was worse, but there was whiskey, which was what mattered.
 
@@ -81,12 +81,6 @@ Another man shook his head. "Between the Indians and the weather and the damn sp
 "Yet."
 
 The conversation moved on. I finished my drink and went up to my room and lay down, boots on. The ceiling was low, the walls thin. I could hear the men below, their voices rising and falling.
-
-I thought about what I was riding toward. The Nebraska Territory was wilder than Iowa, emptier, more dangerous. The Sioux were there, and other tribes. The winters were worse. The law was whatever a man could make of it with his own two hands.
-
-And somewhere in that emptiness, George and Catherine Hardin had tried to make a home, and something had happened to them.
-
-I would find out what. That was my job.
 
 ---
 

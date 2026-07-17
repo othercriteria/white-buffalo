@@ -68,7 +68,7 @@ I lay there for a long time, too weak to move, watching the sky lighten above me
 
 I thought about dying. I thought about how easy it would be to simply stay where I was and not get up. I had dug a man out of the snow who had done just that, and his face had been calm. It would be a clean death, better than I deserved.
 
-But I did not die. Something in me would not allow it—the same stubbornness that had carried me through Mexico and the drinking years.
+But I did not die.
 
 I got up. I saddled my horse. I rode on.
 

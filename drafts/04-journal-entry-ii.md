@@ -65,5 +65,3 @@ She raised her head and looked at me. Her eyes were dark, liquid, the eyes of an
 Then she lowered her head and returned to her grazing, and I sat on my rise and watched the sun go down.
 
 I do not know what I expected. I do not know what I hoped for.
-
-I will wait as long as I need to wait. A year, two years, however long it takes.

@@ -16,7 +16,7 @@ I have been watching her these past weeks with a new kind of attention. Before, 
 
 She is grown. I am certain of this now. Grown early—no cow reaches her size in three summers, but she was born out of season and has been early in everything since. The massive shoulders, the great humped back, the horns that have curved and thickened over the two years I have followed her. She stands taller than any cow in the herd, and she carries herself with a weight and presence that sets her apart even more than her color does.
 
-When she walks, the ground trembles. When she runs, the thunder of her hooves drowns out all other sound. When she turns her head to look at something—a noise in the grass, a movement on the ridge—there is a promise of violence in the motion, held in check.
+When she turns her head to look at something—a noise in the grass, a movement on the ridge—there is a promise of violence in the motion, held in check.
 
 She could kill me now. She could kill any man who stood before her.
 
@@ -48,9 +48,7 @@ The Lakota have been watching me.
 
 I have seen them several times over the past weeks—small groups of riders on the ridges, watching from a distance, never approaching. They know what she is. They have known since before I found her. And they are waiting to see what I will do.
 
-I wonder what they think of me—this white man who follows the sacred animal and lives like an animal himself.
-
-Or do they know? Do they see that I am waiting to die, that she is the instrument of it?
+I wonder what they think of me—this white man who follows the sacred animal and lives like an animal himself. Or do they see what I am waiting for?
 
 Perhaps that is why they watch and do not interfere.
 
@@ -65,8 +63,6 @@ I will approach her at dawn, when the light is pale and the air is cold and the 
 I will run at her, shouting, waving my arms, doing everything I can to seem like a threat. I will force her to react, to choose between flight and fight. And because she is what she is—proud, powerful, sacred—she will choose fight.
 
 Or I will have chosen it for her, and called it hers. I have decided that it comes to the same thing.
-
-She will lower her head and charge. She will strike me with those horns, those hooves, all that weight. And I will die.
 
 ---
 
@@ -90,7 +86,7 @@ In three winters I have not once walked in her trail, though the snow is always 
 
 Soon.
 
-Snow fell through the second day and into the third, straight down, windless, and buried the last of the valley's brown grass. Now the weather has cleared. The wind has died. The herd is settled, grazing peacefully in the valley, undisturbed by predators or storms or any of the dangers that haunt the plains.
+Snow fell through the second day and into the third, straight down, windless, and buried the last of the valley's brown grass. Now the weather has cleared. The wind has died. The herd is settled, grazing peacefully in the valley.
 
 She stands at the edge of the herd, alone, facing north. She has been standing like that for most of the morning, as if she knows what is coming.
 
@@ -102,6 +98,4 @@ I am not afraid. I thought I might be, at the end—thought that the instinct fo
 
 I will write one more entry, after tomorrow. If I am able.
 
-If not, then this is the end of my account. To whoever reads these words: I do not ask for understanding. I do not ask for forgiveness. I ask only that you believe me when I tell you that I am going to my death willingly, gladly, with the certainty that it is the only right thing I have ever done.
-
-The white buffalo is waiting for me. I will not make her wait much longer.
+If not, then this is the end of my account.

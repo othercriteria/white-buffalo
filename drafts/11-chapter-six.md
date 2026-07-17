@@ -8,21 +8,15 @@ The country here was rougher than the river valley—broken hills and shallow dr
 
 I had been riding for nearly a month now. December had come and was more than half-gone, and I had not spoken to another person since leaving the trading post. The silence of the country had seeped into me, filling the spaces where conversation used to be.
 
-Christmas would come soon. I had not thought about Christmas in years—had no reason to, no family to celebrate with, no traditions to observe. But out here, in the empty white, I found myself counting the days nonetheless. December twenty-fifth would pass like any other day. I would ride and camp and ride again, and the year would turn without ceremony.
-
-It did not trouble me. Very little troubled me anymore.
+Christmas would come soon. I had not thought about Christmas in years, but out here, in the empty white, I found myself counting the days nonetheless. It would pass like any other day.
 
 ---
 
 The whiskey was running low.
 
-I had rationed carefully since leaving the trading post, measuring my drinks by the swallow rather than the cup, but even so the bottles were emptying faster than I had hoped. The trader's cloudy bottle had gone first, then two of the three from Fort Kearny, their glass discarded along the trail. The last was about a quarter full.
+I had rationed carefully since leaving the trading post, measuring my drinks by the swallow rather than the cup, but even so the bottles were emptying faster than I had hoped. The trader's cloudy bottle had gone first. In the deepest cold it went to slush, and I had to stand it by the fire and wait for it to run clear before I could pour, while the Fort Kearny bottles rode in the same saddlebag and stayed liquid. I understood what the trader had cut his with. After it went two of the three from Fort Kearny, their glass discarded along the trail. The last was about a quarter full.
 
-I knew what would happen when it ran out. I had seen it before, in other men and in myself. The shaking would start first—a tremor in the hands that spread to the arms, the legs, the whole body. Then the sweating, even in the cold. Then the sleeplessness, the racing heart, the visions.
-
-The visions were the worst part. I had heard men describe them—snakes crawling on the walls, insects covering the floor, faces appearing in the corners of the room. I had experienced them myself, once, years ago, when a winter storm had trapped me without supply for too long. I had seen things that night that I did not like to remember.
-
-I did not want to go through that again. But the territory was empty, and the nearest place I might find whiskey was days behind me, and I was not going to turn back now. I was too close.
+I knew what would happen when it ran out. I had been through it once, the cabin winter, and I did not intend to go through it again. But the territory was empty, and the nearest place I might find whiskey was days behind me, and I was not going to turn back now. I was too close.
 
 So I rationed, and I counted the swallows that remained, and I tried not to think about what would happen when they were gone.
 
@@ -41,8 +35,6 @@ I took a long drink and felt the warmth spread through my chest, felt the tremor
 But that was tomorrow's problem. Tonight, I had whiskey, and I had warmth, and I was close.
 
 The Hardins' homestead was not far now. A day's ride, maybe less.
-
-I would find what I had come to find, and then I would deal with whatever came next.
 
 ---
 
@@ -88,7 +80,7 @@ I stepped inside and closed the door behind me.
 
 The search did not take long. The house was small, and there was not much to find.
 
-The books on the shelf were what you would expect—a Bible, a novel that had been popular back East, a farmer's almanac from 1856. The almanac's margins were dense with penciled figuring: acres and bushels, freight to the river, sums that ran years ahead of the ground they stood on. The dishes were plain but serviceable. The clothes—his and hers—hung neatly, waiting for owners who would not return.
+The books on the shelf were what you would expect—a Bible, a novel that had been popular back East, a farmer's almanac from eighteen fifty-six. The almanac's margins were dense with penciled figuring: acres and bushels, freight to the river, sums that ran years ahead of the ground they stood on. The dishes were plain but serviceable. The clothes—his and hers—hung neatly, waiting for owners who would not return.
 
 I found letters in a small wooden box on the shelf. Some of them were addressed to Catherine Hardin in a hand I recognized—her father's, no doubt, careful and precise. Some were drafts of letters she had written back, the paper covered with her own hand, the words crossing out and rewriting as she tried to say what she wanted to say.
 

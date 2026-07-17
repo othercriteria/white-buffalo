@@ -50,7 +50,7 @@ I did not know, not from what I could see here. The story was incomplete.
 
 I searched the outbuildings next.
 
-The barn was empty now. Whatever animals the Hardins had kept were gone—stolen, maybe, or simply wandered off after their owners died. The hay in the loft was old and dry, undisturbed since the previous summer.
+The barn was empty now. Whatever animals the Hardins had kept were gone—stolen, maybe, or simply wandered off after their owners died. The hay stacked in the back was old and dry, undisturbed since the previous summer.
 
 There was blood here too. A splash of it on the doorframe, another smear on the packed earth floor. So I had it half-wrong: it had begun out here with George Hardin, or ended out here. The pieces would not sit still.
 
@@ -60,7 +60,7 @@ In the daylight I could see things I had missed the night before. The snow aroun
 
 And there were tracks leading away.
 
-I followed them to the edge of the clearing, where the ground sloped down toward the creek. The tracks were old, filled in and covered over, but the shape of them was still there, and they had been made since the snow began to lie—weeks past, not months. Two sets. One large—very large, the deep hoofprints of an animal heavier than any horse or ox. The other smaller, the boot-prints of a man. Below, along the creek, the snow was pocked and churned where the herd had passed. Only these two had turned aside.
+I followed them to the edge of the clearing, where the ground sloped down toward the creek. The tracks were old, filled in and covered over, but the shape of them was still there, and they had been made since the snow began to lie—weeks past, not months. Two sets. One large—very large, the deep hoofprints of an animal heavier than any horse or ox. The other smaller, the bootprints of a man. Below, along the creek, the snow was pocked and churned where the herd had passed. Only these two had turned aside.
 
 A buffalo had been here. A man had followed it. And not in the summer, when the killing was done—these were winter tracks. Whoever he was, he had come back.
 

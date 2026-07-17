@@ -16,7 +16,7 @@ The barman was a heavy-set man with a beard that had not been trimmed in some ti
 
 The barman's expression did not change, but something behind it did. "And who's looking?"
 
-Aldridge had prepared for this. In his business—shipping, dry goods, the movement of capital across the Great Lakes—preparation was everything. He had prepared for this journey as he prepared for all ventures: methodically, thoroughly, with attention to contingency. He had worn his second-best coat, the one that suggested prosperity without ostentation. He had left his pocket watch in his room at the boarding house. He had rehearsed what he would say.
+Aldridge had prepared for this. In his business—shipping, dry goods, the movement of capital across the Great Lakes—preparation was everything. He had prepared for this journey as he prepared for all ventures. He had worn his second-best coat, the one that suggested prosperity without ostentation. He had left his pocket watch in his room at the boarding house. He had rehearsed what he would say.
 
 None of it seemed adequate now.
 

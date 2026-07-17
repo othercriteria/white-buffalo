@@ -10,7 +10,7 @@ The later letters were different. The affection was still there, or the words fo
 
 There was no mention of children. In nearly three years of marriage, in letters that described every other detail of her life, she said nothing about children born or expected. Grief, or privacy, or simple absence—I had no way to tell. But I noticed it.
 
-The last letter was dated July the twentieth, eighteen fifty-eight. The garden has done well, she wrote, and the hay is nearly in. George says the worst is behind us. I hope he is right.
+The last letter was dated July the twentieth, eighteen fifty-eight. *The garden has done well,* she wrote, *and the hay is nearly in. George says the worst is behind us. I hope he is right.*
 
 That was all. Nothing to suggest what came after. Nothing to suggest that anything came after at all.
 
@@ -50,7 +50,7 @@ On the morning of the third day, I left.
 
 The railroad had come to this part of the country seven years earlier. Towns that had been weeks apart by coach were now a day apart on the cars. It still felt strange to me, though I had watched it happen.
 
-I took the cars from Watertown to Buffalo, changing at Rome, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families moving west. Children ran up and down the aisles while their mothers called after them. Men smoked cigars and talked business and politics. Women sat with their hands folded and their eyes on the passing scenery. Across the aisle a woman kept a pocket ledger open on her knee and worked at its figures the whole afternoon. She did not once look out at the country.
+I took the cars from Watertown to Buffalo, changing at Rome, then from Buffalo to Cleveland. The cars were crowded with passengers of every description: farmers going to market, merchants with their sample cases, families moving west. Across the aisle a woman kept a pocket ledger open on her knee and worked at its figures the whole afternoon. She did not once look out at the country.
 
 Someone had left a newspaper on the seat across from me. I read it without meaning to. Kansas, mostly, and the Congress—a speech on the Southern question by a man I had once seen ride by at the head of his Mississippians. I folded the paper and put it under the seat.
 
@@ -72,11 +72,7 @@ I ate at a chophouse near the hotel. The food was adequate. The whiskey was bett
 
 I thought about Catherine Hardin, alone on a homestead somewhere in the Nebraska Territory. I thought about her husband, who might have killed her, or might simply have failed to protect her from whatever had happened. Aldridge would be back in Oswego by now, waiting for news.
 
-I thought about what I would do when I found the truth.
-
-The answer was simple enough. If she was alive, I would bring word back to her father. If she was dead and her husband had killed her, I would kill him. If she was dead and her husband had not killed her—if some other fate had befallen them both—I would bring that word back too.
-
-It was not complicated. These things rarely were.
+What I would do when I found the truth was not complicated. These things rarely were.
 
 I finished the whiskey and lay down on the bed without undressing. The ceiling was water-stained, the plaster cracked. I watched the cracks in the lamplight until my eyes grew heavy, and then I closed them.
 
@@ -84,7 +80,7 @@ I finished the whiskey and lay down on the bed without undressing. The ceiling w
 
 The next morning I took the train west to Chicago. The journey took most of the day, the cars swaying and rattling through the flat country of northern Indiana, past farms and woodlots and small towns that all looked the same.
 
-I had been to Chicago once before, years ago, before the war. It had been a rough town then, a place where the prairie met the lake and men did business in mud and blood. It was larger now, more established, but the roughness was still there underneath. You could see it in the faces of the men on the streets, in the way they walked, in the way they looked at strangers.
+I had been to Chicago once before, years ago, before the war. It had been a rough town then, a place where the prairie met the lake and men did business in mud and blood. It was larger now, more established, but the roughness was still there underneath.
 
 I found a hotel near the rail yard. The room was small and dirty, but it had a bed and a lock on the door. I stowed my gear and went out to see about transportation west.
 

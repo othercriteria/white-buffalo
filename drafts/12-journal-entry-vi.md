@@ -16,14 +16,6 @@ She is large now—not full-grown, not yet, but large enough that she stands tal
 
 ---
 
-*September the Twenty-Ninth*
-
-The settlers are still here. They have been here since early summer—I remember first seeing them then, working on the land with the hope that brings settlers to this country. They seemed certain the land would keep them.
-
-I wonder if they still feel that way. Their first winter is coming. The first winter is the hardest, they say, and after it the land does not soften.
-
----
-
 *October the Twelfth*
 
 I have been thinking about time.
@@ -56,9 +48,9 @@ I watched the settlers again today. Closer this time—perhaps a quarter mile fr
 
 The man was mending harness by the door. The woman came out to him with something steaming in a cup, and she stood beside him while he drank it, her hand on his shoulder, neither of them speaking. They moved around each other with the ease of people who have long since stopped needing words.
 
-I watched them as I would watch birds or deer, creatures going about their business. They are not part of the world I inhabit now.
+I watched them as I would watch birds or deer, creatures going about their business.
 
-The herd moved on, and I moved with it. The settlers stayed where they were, in their little house, with their little life.
+The herd moved on, and I moved with it. The settlers stayed where they were. Their first winter is coming. The first winter is the hardest, they say, and after it the land does not soften.
 
 I wish them nothing, ill or well. The steam off the cup has stayed with me since. It is the only warm thing I have seen in a month.
 
@@ -68,19 +60,7 @@ I wish them nothing, ill or well. The steam off the cup has stayed with me since
 
 She stood apart from the herd today, grazing alone at the edge of a frozen creek. I watched her for hours, sitting on a rise perhaps two hundred yards away, while the light changed and the cold crept into my bones.
 
-She is the most beautiful thing I have ever seen.
-
-I do not say this lightly. I saw a woman's face by candlelight once, in a time before the war. It does not compare.
-
-She is sacred. The Indians are right to revere her. She does not belong to the ordinary run of animals and grass and weather.
-
-And she will kill me.
-
-Someday—next autumn, perhaps, or the autumn after—she will turn on me. The instinct that has kept her wary will become the instinct that drives her to attack. And when that happens, I will not run. I will not fight. I will stand before her and let her do what she was made to do.
-
-I am ready. I have been ready for a long time.
-
-But she is not ready yet. And so I wait.
+I saw a woman's face by candlelight once, in a time before the war. It does not compare.
 
 ---
 
@@ -91,9 +71,3 @@ Winter is here.
 The snow has begun to fall, and the herd has settled into its winter patterns, moving slowly through the valleys, conserving strength for the months ahead. She is with them, as always, her white coat blending with the snow until she is almost invisible.
 
 I have found a place to shelter—a hollow in the bluffs where the wind cannot reach, where I can build small fires and survive the worst of the cold. It is not far from where the herd has gathered. I can watch them from here, can see her white form moving among the brown, can keep the vigil I have kept and will keep for however long it takes.
-
-The settlers will be in their sod house now, huddled around their stove, waiting out the winter as I wait out the winter. I wonder if they think of the spring, of the planting and building they will do when the snow melts. I wonder if they dream of the future, of children and harvests and years stretching out before them.
-
-I do not dream anymore. I do not think of the future beyond the moment when she and I will face each other for the last time.
-
-That moment is coming. I can feel it approaching the way a man feels weather coming while the sky is still clear.

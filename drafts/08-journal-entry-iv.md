@@ -8,8 +8,6 @@ I found her among them. Still white. Still visible. Still alive.
 
 I dug myself out and walked to where I could watch them better. The cold was severe, worse than anything I had felt in Virginia or Mexico. My fingers ached inside my gloves. My face burned where the wind touched it.
 
-This is the winter that will test us both.
-
 ---
 
 *November the Twenty-Ninth*
@@ -74,28 +72,16 @@ I have stopped feeling my feet. I have stopped feeling my hands. I move because 
 
 She is still there. I saw her this morning, grazing at the edge of the herd, sweeping the snow aside with her great head to reach the dead grass beneath. She looked at me as I passed, and I thought I saw something in her eyes. Pity, perhaps.
 
-I do not want her pity. I want her to kill me. But she is not ready, and so I am not ready, and so we both endure.
+I do not want her pity.
 
 ---
 
 *February the Second*
 
-The worst of the cold has broken. The snow is still deep, but the wind has shifted, coming now from the west instead of the north, and there is a softness in it that promises spring.
+The worst of the cold has broken. The snow is still deep, but the wind has shifted, coming now from the west instead of the north, and there is a softness in it that promises spring. March will try again—the old men in Virginia said March kills more than January—but the days are lengthening.
 
 The herd has begun to stir again, working along the river valleys. I follow. My body has adapted to the cold, or given up protesting it. I no longer feel the pain I felt in December. I no longer feel much of anything.
 
 She has grown through the winter. I had not thought that possible—I had assumed she would simply endure, waiting for the spring to bring growth and strength. But she is larger than she was in November. Her shoulders are broader, her hump more pronounced. She moves with a new confidence, a new power.
 
 She is becoming what she needs to be. So am I—less than a man, stripped down, kept for one use only.
-
-We are both almost ready.
-
----
-
-*February the Fourteenth*
-
-I have survived the deep of the winter. March will try again—the old men in Virginia said March kills more than January—but the days are lengthening.
-
-I did not think I would last this far. There were nights when I lay in the snow and watched my breath freeze in the air and thought: this is how it ends, not by her hooves but by the cold, not with meaning but with simple failure. But I woke each morning, and I found her each day, and I kept walking.
-
-And next winter, or the winter after, she will be ready.
