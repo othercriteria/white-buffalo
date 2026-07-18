@@ -106,6 +106,7 @@ underdetermined = ["coat/hat colors and cuts (bible gaps)"]
 dni = "clean"
 
 [fort-kearny]
+# HIRES ADOPTED (2026-07-18): x2 d0.35 single-round; wind coherence re-verified (smoke+flag both streaming right).
 # Vignette. Research: reference/plate-settings-research.md (Mills 1858
 # photo = ground truth). POLICY: the "lone rider" removed — that rider
 # is Farrell; the plate IS his approach view.
@@ -152,6 +153,7 @@ underdetermined = []
 dni = "clean"
 
 [frozen-man]
+# HIRES ADOPTED (2026-07-18): TWO-ROUND net2.5 (single-round washed the snow, diminished the hand); hand re-articulated, slightly bonier — accepted.
 # NEW PLATE 2026-07-13 (round-2 commission; r1's never-depict-the-dead
 # restraint reconciled by composing at the DISCOVERY, not the
 # excavation: the man stays under the snow, the hand is the trace).
@@ -184,6 +186,7 @@ underdetermined = []
 dni = "the dead as trace and counterweight: one hand, one shape under snow; the man is never exposed; no face ever"
 
 [trading-post]
+# HIRES ADOPTED (2026-07-18): x2 d0.35 single-round; cross intact, horse breath kept.
 # Vignette. Research idiom: log walls banked with sod (Bordeaux analog);
 # reads as "sod house, low and rough" (09:31) from any distance.
 # v2 (2026-07-14, DK: rework, keep the plate): the plate anchors the
@@ -266,6 +269,7 @@ underdetermined = ["the cross: image-only by DK ruling 2026-07-14 — a burial a
 dni = "CROSS IS IMAGE-ONLY, PERMANENTLY (DK 2026-07-14): the text must never name it — naming would over-explain the orphan and collapse the counterpoint. Its prerequisites are LOCKED in the text and must survive any future pass: (1) 09:25 Farrell cannot mark the frozen man's grave ('nothing to mark it with that would last until spring'); (2) 11:111 the Hardins' graves have 'no crosses, no headstones'; (3) 09:35 the trader is settled and tooled ('counter made of rough-hewn planks'; 'waiting there since the flood'). The cross reads only against those three."
 
 [homestead]
+# HIRES ADOPTED (2026-07-18): x2 d0.25 (d0.35 grew a T-shaped stovepipe artifact).
 # Vignette. Research-grounded (reference/homestead-construction.md);
 # details compressed per the attention-budget corollary. Clothesline and
 # garden dropped from the frame (snow-buried per text anyway).
@@ -420,6 +424,7 @@ underdetermined = ["yard layout beyond the cited elements"]
 dni = "distance enforced: tiny figures, no faces, no interiority — the watching itself is the subject"
 
 [graves]
+# HIRES ADOPTED (2026-07-18): x2 d0.25 (gentler on the snow); stones crisper.
 # Vignette-format pioneer (in-text landscape cut, format doctrine). The
 # audit line: UNMARKED — no crosses, no headstones (11:111); the model's
 # grave prior wants crosses. Trees allowed here: willows/pines are canon
@@ -455,6 +460,7 @@ underdetermined = []
 dni = "canonical trace of the killings — the permitted evidence, nothing more"
 
 [homestead-interior]
+# HIRES ADOPTED (2026-07-18): x2 d0.25 (d0.35 turned the bed iron-framed); wooden bed + tells hold.
 # Ch 6/7, Farrell-side landscape cut, from the doorway (behind his
 # eyes). The DNI list ENUMERATES this room's permitted traces: the
 # scrubbed stain and the broken chair. The dress and coat on their pegs
@@ -507,6 +513,7 @@ underdetermined = ["room arrangement beyond cited anchors (twenty-by-fifteen ana
 dni = "the enumerated permitted traces ONLY (scrubbed stain, broken chair); no violence depicted, no blood"
 
 [tracks-north]
+# HIRES ADOPTED (2026-07-18): x2 d0.35 single-round; sky structure holds.
 # Ch 7 close — the pursuit's thesis as a minimal in-text cut. EMBLEM
 # CLASS: rule #5 must be enforced (level vantage asserted; the model's
 # prior for track studies is top-down). Added 2026-07-09 (DK ruling).
@@ -559,6 +566,7 @@ underdetermined = ["everything beyond hair/eyes/composure — face shape free (s
 dni = "clean — Catherine alive, from the daguerreotype only; no scene, no fate implied"
 
 [morrow-witnessed]
+# HIRES ADOPTED (2026-07-18): x2 d0.35 single-round; walker holds.
 # Vignette. Distance rule: figure too small for the LoRA; identity
 # carried by silhouette (tall, thin, on foot, behind the herd).
 negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, oxen, farm animals, horse and rider in the scene, hat, staff, spear, lance, pole, walking stick, herding, shepherd, drover, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
@@ -569,6 +577,7 @@ underdetermined = ["coat/hat/boots — never described (bible gap; keep him dist
 dni = "clean"
 
 [speaking-to-her]
+# HIRES ADOPTED (2026-07-18): x2 d0.35 single-round.
 # JE II, July 1856 — fills the journal middle (the catalog's summer
 # desert). The waiting made visual: a hundred yards of grass between
 # them. Added 2026-07-09 (DK gap-fill ruling).
@@ -706,6 +715,7 @@ underdetermined = ["remaining gear detail (deliberate thinness; keep the distanc
 dni = "distance enforced: no faces, no interiority"
 
 [village-passing-foldout]
+# HIRES ADOPTED (2026-07-18): x2 d0.25 (d0.35 sky went diagonal grain); procession articulates, sky stays calm.
 # GATEFOLD STUDY (DK 2026-07-14): the format doctrine's one permitted
 # fold-out exception, finally exercised. Assembly mechanics PROVEN
 # same day (xelatex \pdfpagewidth toggle; mixed page sizes through
@@ -834,6 +844,7 @@ underdetermined = []
 dni = "trace posture: the blood is canon evidence; Morrow's body NOT in this frame; no resolution implied — she faces him, nothing more"
 
 [ferry-bridge]
+# HIRES ADOPTED (2026-07-18): x2 d0.35 single-round.
 # Gap fill #1 (assembly.md): Ch 2+3 are the book's largest bare stretch;
 # DK's standing rule triggered. Vantage: the low bank — the plate is the
 # river system (ferry, bridge, steamer), not the man; passengers are
@@ -895,6 +906,7 @@ underdetermined = ["horizon treatment; sky texture (kept minimal for typography 
 dni = "the pursuit as inscription; neither walker shown — the promise, not the payoff"
 
 [two-stories]
+# HIRES ADOPTED (2026-07-18): x2 d0.35 single-round.
 # Gap fill #2 (assembly.md, DK-blessed): Ch 9's first sight of them,
 # breaking the longest back-half bare run. From behind Farrell's eyes
 # (mounted, halted — neither he nor the horse appears). THE COW IS

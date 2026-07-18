@@ -3917,3 +3917,20 @@ PORTRAIT HIRES (sequenced first per DK — leaves boost prominence):
 Remaining hires queue: 13 landscape plates + gatefold + frontis
 (x2 d0.35 protocol, two-round fallback); RGB->grayscale ink pass
 DONE (knockout curve); B2 residue rides the landscape pass.
+
+## Landscape hires batch COMPLETE — PLATES PRODUCTION-FINAL (2026-07-18)
+
+All 19 art files now hires (net 2x-2.5x, 360-520ppi at laid size).
+Batch outcomes: 7 clean at x2 d0.35 (speaking-to-her, ferry-bridge,
+fort-kearny [wind coherence re-verified], morrow-witnessed,
+trading-post [cross intact], tracks-north, two-stories); 4 at the
+gentler x2 d0.25 after d0.35 artifacts (homestead [T-pipe],
+homestead-interior [iron bed], graves, village-passing-foldout
+[diagonal sky grain; procession gain kept]); frozen-man through the
+TWO-ROUND recipe (single-round washed the snow and diminished the
+reaching hand; recovered, hand slightly bonier, accepted). Earlier:
+5 portrait leaves + homestead-alive + cover-tracks. Trim + ink
+curve + type layers all assembly-time; art/ carries clean cream-
+ground renders throughout. B2 residue at close: graves-plate barn
+= the attached lean-to reading, accepted; first-sighting calf =
+below print resolution, accepted; roof/interior tells preserved.
