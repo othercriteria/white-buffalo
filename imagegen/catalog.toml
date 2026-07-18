@@ -328,8 +328,70 @@ dni = "traces-only: exterior desolation; no interior violence evidence in this f
 # (note: same-seed stability requires an otherwise UNCHANGED prompt —
 # thrice-confirmed this session that larger edits reroll composition;
 # keep the diff to the roof tokens only). Not urgent; batch with B2.
-negative = "second building, barn, shed beside the house, two houses, outbuildings flanking, two clotheslines, group of people, three figures, crowd, sandbags, sandbag wall, rounded blocks, cobblestone, cobbles, boulder wall, rubble wall, stone masonry, mountains, peaks, crags, cliffs, alpine, forest, winter, snow, faces, close-up, foreshortening, weeping willow, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, brick chimney, shingles, fence, dog, color, tinted, hand-colored, artist signature, monogram, lettering"
-prompt = "strictly monochrome ink, seen level from a ridge across a wide summer valley, a small homestead far below: a low sod house, its sod roof pitched low and shallow over poles, its thick walls built of long flat blocks of cut prairie sod laid like brickwork in level staggered courses, the wall faces roughly squared, each block a long flat rectangular slab a foot wide and two to three feet long, the sod house the only building, its low pole lean-to tucked out of sight behind it, a stovepipe with a thin thread of smoke rising through the sod roof, a plowed field beside it, before the door a wooden well frame holding a pulley and rope, to one side a single washline strung between two posts with clothes hung out, and in the open yard two tiny figures paused together side by side, looking out across the valley, brushy willows along the creek where it bends around a low hill, the valley grass moving under the wind, high summer light, the figures far too small for faces"
+# v5.1 (2026-07-17, B2 executed): roof-tokens-only diff — prompt adds
+# "and trimmed flush at the eaves with no overhang" inside the roof
+# clause; negative adds "overhanging eaves, projecting roof edge".
+# Everything else byte-identical; s881 rerun same-seed; prior render
+# archived as _v5. Zoom gate on the roof line + same-seed stability
+# check (well, washline, figures, wall courses must hold).
+# v5.1 SAME-SEED FAILED (2026-07-18): composition rerolled despite
+# the two-token diff — FOURTH confirmation that any prompt change
+# rerolls; "same-seed minor fix" is not a capability of this model.
+# The reroll (archived _v51_reroll) proved the roof tokens WORK
+# (true sod-over-poles, pole butts at the eave, no floating deck)
+# but lost the well, distanced the figures, and turned the field to
+# concentric rings. DK: proceed with fresh-seed v5.1 sweep (s921+),
+# gate = correct well (frame/crossbeam/pulley/rope/bucket) AND
+# anchor beat (figures paused together at the creek bank) AND wall
+# courses AND the new roof; fall back to promoted v5 s881 if no
+# render beats it on all four.
+# v5.1 sweep verdict (2026-07-18): roof tokens PROVEN (raft gone in
+# 15/16). Finalists: s924 (campaign-best well, sod walls; but
+# washline fused into well frame, stray ridge pole, figure pair
+# zoom-reads male-ish) — DK: residual weirdness, passed over.
+# s936 (DK favorite at sheet scale: best valley recession, double
+# creek bend, straight furrows, separate washline, man+woman pair
+# legible) — FAILS both material gates at zoom: walls go full log
+# (round courses, round butt-ends at corners), roof reads bare pole
+# deck without sod. s922/s931 also log-walled. LEARNINGS -> v5.2:
+# (1) washline is a fusion attractor — DROPPED from prompt,
+# negatives added; (2) gender legibility achievable — figure clause
+# now "a man and a woman"; (3) anti-log negatives sharpened at the
+# observed failure mode (round courses, notched/round corners) —
+# NOTE: enforcement now diverges from frozen homestead.png's
+# negative set; target wall language unchanged (rhyme intact).
+# v5.2 verdict (2026-07-18): washline-drop + gendered pair BOTH
+# LANDED sweep-wide. But the anti-log negatives overcorrected into
+# MASONRY (thin flat slabs, mortar joints) — fed by our own wall
+# tokens ("slab", "roughly squared", "laid like brickwork").
+# s953: campaign-best walls (matches frozen homestead.png fabric)
+# + gendered pair paused in yard + s936-class creek recession —
+# but NO WELL (kettle/tub at door): continuity kill, 10:65 "They
+# have dug a well" + the dead plate shows its frame. s956:
+# textbook well (frame/wheel/rope/box curb) + gendered pair at the
+# well — but slab/mortar walls fail the same-building pair gate
+# (wallpair exhibit). v5.3: wall tokens re-cut toward the frozen
+# plate's actual loaf fabric (soft-edged, settled, root-matted sod
+# bricks; "slab"/"squared" removed), masonry negatives added.
+# Divergence from the literal shared language is justified by the
+# doctrine's GOAL: same-building consistency is a picture-match to
+# the frozen plate, not a token-match to its prompt.
+# PROMOTED s967 (DK bless 2026-07-18, v5.3): first render across
+# three sweeps to pass every gate at once — loaf-sod fabric matches
+# the frozen partner (wallpair exhibit), flush sod roof over poles
+# (the B2 defect gone), frame-and-wheel well, and the sweep-unique
+# PLANTED field (crop hills in the furrows = 10:65 verbatim). Pair
+# paused together at the bluff edge; watching-distance framing at
+# its strongest. ACCEPTED SOFT: pair gender reads neutral at print
+# (left figure plausibly skirted at 4x, no v5-style dress read) —
+# DESIGNATED TEST CASE for the resolution push: same seed/prompt,
+# higher-res refinement pass, watch whether the gender pops as
+# detail rises. No further prompt tweaks (unworkable per same-seed
+# doctrine). Washline absent by design (v5.2 directive). Supersedes
+# v5 s881 (roof raft, archived _v5). s962 rejected: second figure
+# child-reads (s888 precedent, childlessness forensics)."
+negative = "second building, barn, shed beside the house, two houses, outbuildings flanking, two clotheslines, group of people, three figures, crowd, overhanging eaves, projecting roof edge, sandbags, sandbag wall, rounded blocks, cobblestone, cobbles, boulder wall, rubble wall, stone masonry, stone wall, flagstone, ashlar, mortar joints, whitewashed brick, mountains, peaks, crags, cliffs, alpine, forest, winter, snow, faces, close-up, foreshortening, weeping willow, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, round log courses, notched log corners, stacked round logs, clothesline, washing line, hanging laundry, brick chimney, shingles, fence, dog, color, tinted, hand-colored, artist signature, monogram, lettering"
+prompt = "strictly monochrome ink, seen level from a ridge across a wide summer valley, a small homestead far below: a low sod house, its sod roof pitched low and shallow over poles and trimmed flush at the eaves with no overhang, its thick walls built of blocks of cut prairie sod laid in level staggered courses, each block a heavy sod brick a foot thick and two to three feet long, the courses soft-edged and slightly settled under their own weight, grass roots matting the block faces, the sod house the only building, its low pole lean-to tucked out of sight behind it, a stovepipe with a thin thread of smoke rising through the sod roof, a plowed field beside it, before the door a wooden well frame holding a pulley and rope, and in the open yard two tiny figures, a man and a woman, paused together side by side, looking out across the valley, brushy willows along the creek where it bends around a low hill, the valley grass moving under the wind, high summer light, the figures far too small for faces"
 aspect = "landscape"
 citations = ["10:67-71 (Aug 2 1857: sod house, plowed and planted field, well dug, woman hanging clothes on a line between two posts, the man coming out)", "10:68 (watched from the ridges)", "14:37 (the sod house seen from the ridge, smoke from their chimney, the man in his field)", "11:3 (creek bends around a low hill — same site as the winter vignette)", "12:55 (quarter-mile watching distance)"]
 underdetermined = ["yard layout beyond the cited elements"]
