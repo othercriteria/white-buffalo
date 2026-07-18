@@ -354,6 +354,20 @@ def knockout_plates():
         check=True,
         cwd=ROOT,
     )
+    # Typed cover for the EPUB (assembly overlay; the interior
+    # frontispiece keeps the typeless plate). Cover doctrine in
+    # imagegen/cover_compose.py and catalog [cover-tracks].
+    subprocess.run(
+        [
+            str(ROOT / "imagegen" / ".venv" / "bin" / "python"),
+            str(ROOT / "imagegen" / "cover_compose.py"),
+            str(BUILD / "plates" / "cover-tracks.png"),
+            "-o",
+            str(BUILD / "cover-typed.png"),
+        ],
+        check=True,
+        cwd=ROOT,
+    )
 
 
 def check_full_plate_resolution():
@@ -685,7 +699,7 @@ def main():
             str(epub),
             *common,
             "--epub-cover-image",
-            str(BUILD / "plates" / "cover-tracks.png"),
+            str(BUILD / "cover-typed.png"),
             "--toc",
             "--toc-depth=1",
         ],

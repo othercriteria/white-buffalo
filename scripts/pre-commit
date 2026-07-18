@@ -8,7 +8,7 @@
 set -euo pipefail
 cd "$(git rev-parse --show-toplevel)"
 
-if git diff --cached --name-only | grep -qE '^(drafts/|art/|assemble\.py|imagegen/(knockout|paper_clamp)\.py)'; then
+if git diff --cached --name-only | grep -qE '^(drafts/|art/|assemble\.py|imagegen/(knockout|paper_clamp|cover_compose)\.py)'; then
     echo "pre-commit: book sources staged -> rebuilding illustrated edition"
     python3 assemble.py
 fi
