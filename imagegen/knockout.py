@@ -9,6 +9,15 @@ plate by its estimated paper tone (paper_clamp.paper_tone), mapping
 ground -> white and neutralizing the cast; ink scales proportionally.
 art/ is never modified; outputs land in build/plates/.
 
+DK ruling 2026-07-18 (grayscale/ink pass): an engraving is ink or
+paper; residual color cast and wash mids are generator artifacts,
+not printmaking. After the ground division the plate is reduced to
+luminance and put through a fixed ink curve — levels 40/235 with
+gamma 0.9 — verified at 1:1 to preserve the finest hatching and
+stipple at both hires (2x) and base plate resolution while clearing
+ground haze to true white and settling near-blacks to ink. Outputs
+are single-channel ("L") PNGs.
+
 Usage: knockout.py <src.png> [<src.png> ...] -o <outdir>
 Skips files whose output is newer than the source (assemble.py calls
 this every build).
@@ -21,14 +30,23 @@ import numpy as np
 from paper_clamp import paper_tone
 from PIL import Image
 
+# Ink curve (DK 2026-07-18): levels black-in/white-in on luminance,
+# then gamma. Tested as "C strong" against gray-only and gentle
+# variants; exhibits scratch/gs_*.jpg (2026-07-18).
+BLACK_IN = 40.0
+WHITE_IN = 235.0
+GAMMA = 0.9
+
 
 def knockout(src: Path, dst: Path) -> bool:
     if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
         return False
     a = np.asarray(Image.open(src).convert("RGB"), dtype=np.float64)
     paper = paper_tone(a)
-    out = np.clip(a / paper * 255.0, 0, 255).astype(np.uint8)
-    Image.fromarray(out).save(dst)
+    out = np.clip(a / paper * 255.0, 0, 255)
+    g = out @ [0.2126, 0.7152, 0.0722]
+    g = np.clip((g - BLACK_IN) / (WHITE_IN - BLACK_IN), 0.0, 1.0) ** GAMMA
+    Image.fromarray((g * 255.0).astype(np.uint8), "L").save(dst)
     return True
 
 
