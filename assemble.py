@@ -674,7 +674,7 @@ def main():
                 "\\thispagestyle{empty}\\noindent"
                 "\\setlength{\\unitlength}{1pt}"
                 "\\begin{picture}(0,0)"
-                "\\put(-61.4,-529.7){\\includegraphics[width=5.5in]"
+                "\\put(-72.9,-546.4){\\includegraphics[height=8.5in]"
                 "{build/cover-typed.png}}"
                 "\\end{picture}"
                 "\\clearpage\\thispagestyle{empty}\\null\\clearpage"

@@ -37,6 +37,40 @@ BLACK_IN = 40.0
 WHITE_IN = 235.0
 GAMMA = 0.9
 
+# Content trim (DK 2026-07-18): the renders carry internal white
+# margins that read as dead strips at assembly (surfaced by the
+# PDF cover). Trim to the ink bounding box plus a margin. The bbox
+# is frame-safe by construction (a lined frame is ink); vignette-
+# edged plates keep a generous margin — better extra whitespace
+# than a clipped fade. Rows/cols need >=4 ink pixels to count, so
+# stray specks cannot hold the bbox hostage.
+TRIM_THRESHOLD = 250  # post-curve: ink < this
+TRIM_MIN_RUN = 4  # ink pixels required per row/col
+TRIM_MARGIN = 0.006  # of the long side; the aggressive default
+VIGNETTE_MARGIN = 0.025  # soft-edged plates breathe
+VIGNETTES = {
+    "fort-kearny.png",
+    "graves.png",
+    "finale-fifty-yards.png",
+}
+
+
+def trim(g, name: str):
+    """g: float array in [0,1] post-curve. Returns trimmed array."""
+    ink = (g * 255.0) < TRIM_THRESHOLD
+    rows = np.where(ink.sum(axis=1) >= TRIM_MIN_RUN)[0]
+    cols = np.where(ink.sum(axis=0) >= TRIM_MIN_RUN)[0]
+    if not len(rows) or not len(cols):
+        return g
+    m = int(
+        round(max(g.shape) * (VIGNETTE_MARGIN if name in VIGNETTES else TRIM_MARGIN))
+    )
+    r0 = max(rows[0] - m, 0)
+    r1 = min(rows[-1] + 1 + m, g.shape[0])
+    c0 = max(cols[0] - m, 0)
+    c1 = min(cols[-1] + 1 + m, g.shape[1])
+    return g[r0:r1, c0:c1]
+
 
 def knockout(src: Path, dst: Path) -> bool:
     if dst.exists() and dst.stat().st_mtime >= src.stat().st_mtime:
@@ -46,6 +80,7 @@ def knockout(src: Path, dst: Path) -> bool:
     out = np.clip(a / paper * 255.0, 0, 255)
     g = out @ [0.2126, 0.7152, 0.0722]
     g = np.clip((g - BLACK_IN) / (WHITE_IN - BLACK_IN), 0.0, 1.0) ** GAMMA
+    g = trim(g, src.name)
     Image.fromarray((g * 255.0).astype(np.uint8), "L").save(dst)
     return True
 
