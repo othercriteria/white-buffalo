@@ -659,7 +659,16 @@ def main():
                 "\\addvspace{18pt plus 4pt minus 2pt}"
                 "{\\centering\\includegraphics[width=#1\\linewidth]{#2}\\par}"
                 "\\addvspace{18pt plus 4pt minus 2pt}}"
+                # digital cover as p.1 (typed overlay, both PDFs), blank
+                # verso behind it so the half-title/frontispiece/title
+                # parity is preserved. Width-fit full-bleed: 5.5in wide,
+                # 8.04in tall, white bands top/bottom invisible on the
+                # paper ground; hardcoded recto math (inner=0.85in).
                 "\\AtBeginDocument{\\pagenumbering{gobble}"
+                "\\thispagestyle{empty}\\vspace*{-0.57in}"
+                "\\noindent\\hspace*{-0.85in}"
+                "\\includegraphics[width=5.5in]{build/cover-typed.png}"
+                "\\clearpage\\thispagestyle{empty}\\null\\clearpage"
                 "\\thispagestyle{empty}\\null\\vspace{0.28\\textheight}"
                 "{\\centering\\LARGE White Buffalo\\par}\\clearpage"
                 "\\thispagestyle{empty}"
