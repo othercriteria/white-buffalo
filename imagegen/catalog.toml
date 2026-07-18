@@ -389,7 +389,22 @@ dni = "traces-only: exterior desolation; no interior violence evidence in this f
 # detail rises. No further prompt tweaks (unworkable per same-seed
 # doctrine). Washline absent by design (v5.2 directive). Supersedes
 # v5 s881 (roof raft, archived _v5). s962 rejected: second figure
-# child-reads (s888 precedent, childlessness forensics)."
+# child-reads (s888 precedent, childlessness forensics).
+# HIRES REFINEMENT ADOPTED (2026-07-18, DK test case): art/ now
+# carries the x2 d0.35 refinement (2432x1664) via hires_refine.py —
+# Lanczos 2x then ZImageImg2ImgPipeline, SAME prompt/negative,
+# generator seeded 967, strength 0.35, steps 40, guidance 4.0.
+# Findings: composition holds at x2/d0.35 (full macro identity with
+# the blessed base); GENDER POPPED exactly as DK hypothesized (the
+# man-and-a-woman tokens re-assert over the pair's added pixels at
+# strength >=0.35 — she gains an unmistakable dress, same spot,
+# same pose); textures RE-ENGRAVE (crisp strokes, not upscale mush;
+# lanczos-vs-refined exhibit scratch/ha_hires_lines.jpg). Failure
+# mode calibrated: x1.5/d0.45 rerolls macro (valley flattened) —
+# higher scale tolerates more strength; lower scale does not.
+# PROTOCOL for the full-set production pass: x2, d0.35, base seed,
+# verbatim catalog prompt, zoom-gate each plate vs its blessed base
+# before adoption.
 negative = "second building, barn, shed beside the house, two houses, outbuildings flanking, two clotheslines, group of people, three figures, crowd, overhanging eaves, projecting roof edge, sandbags, sandbag wall, rounded blocks, cobblestone, cobbles, boulder wall, rubble wall, stone masonry, stone wall, flagstone, ashlar, mortar joints, whitewashed brick, mountains, peaks, crags, cliffs, alpine, forest, winter, snow, faces, close-up, foreshortening, weeping willow, frame house, clapboard, cottage, gable roof, steep roof, thatch, thatched roof, log walls, log cabin, round log courses, notched log corners, stacked round logs, clothesline, washing line, hanging laundry, brick chimney, shingles, fence, dog, color, tinted, hand-colored, artist signature, monogram, lettering"
 prompt = "strictly monochrome ink, seen level from a ridge across a wide summer valley, a small homestead far below: a low sod house, its sod roof pitched low and shallow over poles and trimmed flush at the eaves with no overhang, its thick walls built of blocks of cut prairie sod laid in level staggered courses, each block a heavy sod brick a foot thick and two to three feet long, the courses soft-edged and slightly settled under their own weight, grass roots matting the block faces, the sod house the only building, its low pole lean-to tucked out of sight behind it, a stovepipe with a thin thread of smoke rising through the sod roof, a plowed field beside it, before the door a wooden well frame holding a pulley and rope, and in the open yard two tiny figures, a man and a woman, paused together side by side, looking out across the valley, brushy willows along the creek where it bends around a low hill, the valley grass moving under the wind, high summer light, the figures far too small for faces"
 aspect = "landscape"
