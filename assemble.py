@@ -664,10 +664,19 @@ def main():
                 # parity is preserved. Width-fit full-bleed: 5.5in wide,
                 # 8.04in tall, white bands top/bottom invisible on the
                 # paper ground; hardcoded recto math (inner=0.85in).
+                # zero-footprint picture overlay: the 8.04in-tall image
+                # would overflow the 6.8in text block and push itself to
+                # the next page; \\put contributes no size, so the page
+                # builder sees an empty page and the image paints over
+                # the full leaf. Coordinates in pt from the first
+                # baseline (~0.94in below paper top, 0.85in inner).
                 "\\AtBeginDocument{\\pagenumbering{gobble}"
-                "\\thispagestyle{empty}\\vspace*{-0.57in}"
-                "\\noindent\\hspace*{-0.85in}"
-                "\\includegraphics[width=5.5in]{build/cover-typed.png}"
+                "\\thispagestyle{empty}\\noindent"
+                "\\setlength{\\unitlength}{1pt}"
+                "\\begin{picture}(0,0)"
+                "\\put(-61.4,-529.7){\\includegraphics[width=5.5in]"
+                "{build/cover-typed.png}}"
+                "\\end{picture}"
                 "\\clearpage\\thispagestyle{empty}\\null\\clearpage"
                 "\\thispagestyle{empty}\\null\\vspace{0.28\\textheight}"
                 "{\\centering\\LARGE White Buffalo\\par}\\clearpage"
