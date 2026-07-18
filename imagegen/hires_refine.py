@@ -41,13 +41,15 @@ def main():
     ap.add_argument("input", type=Path, help="Blessed base render (pre-clamp)")
     ap.add_argument("--seed", type=int, required=True)
     ap.add_argument("--scales", type=float, nargs="+", default=[1.5, 2.0])
-    ap.add_argument(
-        "--strengths", type=float, nargs="+", default=[0.25, 0.35, 0.45]
-    )
+    ap.add_argument("--strengths", type=float, nargs="+", default=[0.25, 0.35, 0.45])
     ap.add_argument("--steps", type=int, default=40)
     ap.add_argument("--guidance", type=float, default=4.0)
+    ap.add_argument("--output-dir", type=Path, default=HERE / "output" / "hires")
     ap.add_argument(
-        "--output-dir", type=Path, default=HERE / "output" / "hires"
+        "--sequential",
+        action="store_true",
+        help="sequential CPU offload: much slower, far less VRAM "
+        "(needed for net >2x targets on a shared 24GB card)",
     )
     args = ap.parse_args()
 
@@ -64,15 +66,25 @@ def main():
     pipe = ZImageImg2ImgPipeline.from_pretrained(
         MODEL, revision=REVISION, torch_dtype=torch.bfloat16
     )
-    pipe.enable_model_cpu_offload()
+    if args.sequential:
+        pipe.enable_sequential_cpu_offload()
+    else:
+        pipe.enable_model_cpu_offload()
+    # Large targets (net 2.5-3x) OOM in VAE decode group_norm on a
+    # 24GB card; tiled VAE + attention slicing trade a little speed
+    # for headroom. Both are no-ops where unsupported.
+    for meth in ("enable_vae_tiling", "enable_attention_slicing"):
+        try:
+            getattr(pipe, meth)()
+            print(f"  {meth}: on")
+        except Exception as e:
+            print(f"  {meth}: unavailable ({e})")
 
     for scale in args.scales:
         w, h = snap16(w0 * scale), snap16(h0 * scale)
         up = base.resize((w, h), Image.LANCZOS)
         for strength in args.strengths:
-            name = (
-                f"{args.scene}_s{args.seed}_x{scale:g}_d{strength:g}.png"
-            )
+            name = f"{args.scene}_s{args.seed}_x{scale:g}_d{strength:g}.png"
             out = args.output_dir / name
             if out.exists():
                 print(f"  skip {name} (exists)")

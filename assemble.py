@@ -5,9 +5,21 @@ v1 doctrine (2026-07-12, planning/assembly.md is the map of record):
 - Plates are injected at their TEXT ANCHORS, matched by verbatim snippet
   (content-addressed, not line-addressed: a drifted anchor fails LOUDLY
   here rather than silently front-running the knowledge).
-- Portrait plates render at 85% text width, landscape cuts at 100%
-  (85% per the 2026-07-12 production round: 72% read underscaled
-  against full-measure neighbors).
+- Format doctrine implemented in full (DK 2026-07-18, production
+  memo scratch/plate-leaves-memo-2026-07-18.md): the five portrait
+  plates are DEDICATED FULL-PAGE LEAVES ("full" in PLACEMENTS) —
+  \\fullplate: own page, folio counted but unprinted, versos live,
+  no captions, no recto-forcing. Pinning for leaves relaxes to
+  "never ahead of the anchor; behind it by at most one page break."
+  Landscape cuts stay inline at 100% via \\bookplate; the one
+  landscape-flex journal plate (speaking-to-her) stays inline.
+  Full leaves gate on resolution: the build fails below 300ppi at
+  laid size (the hires_refine 2x pass supplies ~415ppi).
+- TWO ARTIFACTS (DK 2026-07-18): white-buffalo.pdf is CANONICAL
+  (gatefold leaf intact); white-buffalo-pod.pdf is the POD setting —
+  the gatefold panorama split across a facing spread (verso+recto,
+  to its acknowledged artistic detriment), colophon note explains
+  the reduction. No other differences.
 - No captions (caption doctrine undecided -> none). Fold-out deferred:
   village-passing uses the promoted portrait. No corner-crop or ground
   normalization at v1 (print-prep queue, unchanged).
@@ -42,7 +54,7 @@ PLACEMENTS = [
         "02",
         "She moved through the brown grass like a ghost.",
         "first-sighting.png",
-        "85%",
+        "full",
     ),
     (
         "04",
@@ -63,7 +75,7 @@ PLACEMENTS = [
         "morrow-witnessed.png",
         "100%",
     ),
-    ("08", "I did not touch it. I did not camp near it.", "offering-stake.png", "85%"),
+    ("08", "I did not touch it. I did not camp near it.", "offering-stake.png", "full"),
     (
         "09",
         "reaching up out of the white.",
@@ -117,15 +129,15 @@ PLACEMENTS = [
         "18",
         "a twist of cloth burning in a horn of buffalo tallow.",
         "morrow-hollow.png",
-        "85%",
+        "full",
     ),
     (
         "19",
         "sitting as if left to be found, a leather-bound book.",
         "journal-found.png",
-        "85%",
+        "full",
     ),
-    ("20", "She looked back at me.", "finale-fifty-yards.png", "85%"),
+    ("20", "She looked back at me.", "finale-fifty-yards.png", "full"),
 ]
 
 
@@ -157,13 +169,17 @@ PLATE_TITLES = {
 }
 
 
-def pdf_transforms(prefix, text):
+def pdf_transforms(prefix, text, pod=False):
     """PDF-only raw-LaTeX substitutions (raw TeX is dropped from EPUB).
 
     - scene-break rules become \\scenebreak (bound to following text,
       never stranded at a page foot);
     - JE dated subheads become \\JEdate{...} (kept with at least two
-      lines of entry text; following paragraph flush per house style).
+      lines of entry text; following paragraph flush per house style);
+    - width=full plates become dedicated leaves (\\clearpage, image
+      vertically centered, folio counted but unprinted);
+    - pod=True replaces the gatefold leaf with a facing-spread split
+      (verso+recto halves; the POD setting's one reduction).
     """
     text = re.sub(r"^---$", r"\\scenebreak", text, flags=re.M)
     if prefix in JE_PREFIXES:
@@ -180,6 +196,36 @@ def pdf_transforms(prefix, text):
     # Revisit if A-series geometry ever moves. Emitted as a {=latex}
     # fence (see illustrations_list on pandoc's raw-TeX line heuristic).
     # Must run BEFORE the \bookplate rule, which would otherwise match.
+    if pod:
+        # POD setting (DK 2026-07-18): no printer binds a 10.75in leaf
+        # into a 5.5in trim. The panorama is divided across a facing
+        # spread — forced to open on a VERSO so the halves face each
+        # other — to its acknowledged artistic detriment; the colophon
+        # says so. Half folios counted but unprinted (gatefold rule);
+        # any parity filler page is empty-styled.
+        text = re.sub(
+            r"^!\[\]\(build/plates/village-passing-foldout\.png\)\{width=\d+%\}$",
+            lambda m: (
+                "```{=latex}\n"
+                "\\clearpage\n"
+                "\\ifodd\\value{page}\\thispagestyle{empty}\\null\\clearpage\\fi\n"
+                "\\thispagestyle{empty}\n"
+                "\\vspace*{\\fill}\n"
+                "{\\centering\\includegraphics[width=\\textwidth]"
+                "{build/plates/village-passing-pod-left.png}\\par}\n"
+                "\\vspace*{\\fill}\n"
+                "\\clearpage\n"
+                "\\thispagestyle{empty}\n"
+                "\\vspace*{\\fill}\n"
+                "{\\centering\\includegraphics[width=\\textwidth]"
+                "{build/plates/village-passing-pod-right.png}\\par}\n"
+                "\\vspace*{\\fill}\n"
+                "\\clearpage\n"
+                "```"
+            ),
+            text,
+            flags=re.M,
+        )
     text = re.sub(
         r"^!\[\]\((build/plates/village-passing-foldout\.png)\)\{width=\d+%\}$",
         lambda m: (
@@ -193,6 +239,25 @@ def pdf_transforms(prefix, text):
             "\\vspace*{\\fill}\n"
             "\\clearpage\n"
             "\\pdfpagewidth=5.5in\n"
+            "```"
+        ),
+        text,
+        flags=re.M,
+    )
+    # Full-page plate leaves (format doctrine implemented, DK
+    # 2026-07-18): image alone on its page, vertically centered on the
+    # measure, folio counted but unprinted (gatefold house rule), no
+    # recto-forcing, versos live. Must run BEFORE the \bookplate rule.
+    text = re.sub(
+        r"^!\[\]\((build/plates/[^)]+)\)\{width=full\}$",
+        lambda m: (
+            "```{=latex}\n"
+            "\\clearpage\n"
+            "\\thispagestyle{empty}\n"
+            "\\vspace*{\\fill}\n"
+            f"{{\\centering\\includegraphics[width=\\textwidth]{{{m.group(1)}}}\\par}}\n"
+            "\\vspace*{\\fill}\n"
+            "\\clearpage\n"
             "```"
         ),
         text,
@@ -256,7 +321,8 @@ def inject(prefix, text):
 
 def knockout_plates():
     """Produce build/plates/ = art/ plates with grounds knocked to
-    page white (imagegen/knockout.py; PIL lives in that venv)."""
+    page white (imagegen/knockout.py; PIL lives in that venv). Also
+    derives the POD spread halves of the gatefold panorama."""
     plates = sorted({p for _, _, p, _ in PLACEMENTS} | {"cover-tracks.png"})
     subprocess.run(
         [
@@ -269,6 +335,52 @@ def knockout_plates():
         check=True,
         cwd=ROOT / "imagegen",
     )
+    subprocess.run(
+        [
+            str(ROOT / "imagegen" / ".venv" / "bin" / "python"),
+            "-c",
+            "from PIL import Image\n"
+            "from pathlib import Path\n"
+            f"src = Path(r'{BUILD}/plates/village-passing-foldout.png')\n"
+            "left = src.with_name('village-passing-pod-left.png')\n"
+            "right = src.with_name('village-passing-pod-right.png')\n"
+            "if not (left.exists() and right.exists()\n"
+            "        and left.stat().st_mtime >= src.stat().st_mtime):\n"
+            "    im = Image.open(src)\n"
+            "    w, h = im.size\n"
+            "    im.crop((0, 0, w // 2, h)).save(left)\n"
+            "    im.crop((w // 2, 0, w, h)).save(right)\n",
+        ],
+        check=True,
+        cwd=ROOT,
+    )
+
+
+def check_full_plate_resolution():
+    """Full-page leaves lay at the 4.0in measure; fail below 300ppi
+    (the hires_refine 2x pass supplies ~415ppi for portraits)."""
+    fulls = [p for _, _, p, w in PLACEMENTS if w == "full"]
+    out = subprocess.run(
+        [
+            str(ROOT / "imagegen" / ".venv" / "bin" / "python"),
+            "-c",
+            "import sys\nfrom PIL import Image\n"
+            "for p in sys.argv[1:]:\n"
+            "    print(p, Image.open(p).size[0])\n",
+            *[str(ROOT / "art" / p) for p in fulls],
+        ],
+        capture_output=True,
+        text=True,
+        check=True,
+    ).stdout
+    for line in out.splitlines():
+        path, w = line.rsplit(None, 1)
+        if int(w) < 1200:
+            fail(
+                f"full-page plate {Path(path).name} is {w}px wide "
+                "(<300ppi at the 4.0in measure) — run the hires_refine "
+                "2x pass before promoting it to a leaf"
+            )
 
 
 def illustrations_list(folios):
@@ -295,8 +407,12 @@ def illustrations_list(folios):
     return "\n".join(lines)
 
 
-def plate_folios(pdf):
-    """Physical pages of the plates from a built PDF, converted to folios."""
+def plate_folios(pdf, pod=False):
+    """Physical pages of the plates from a built PDF, converted to folios.
+
+    In the POD setting the gatefold occupies two facing pages; the
+    second half collapses into the first for the List of Illustrations
+    (the list names the plate, not its pieces)."""
     out = subprocess.run(
         ["pdfimages", "-list", str(pdf)], capture_output=True, text=True, check=True
     ).stdout
@@ -311,15 +427,26 @@ def plate_folios(pdf):
     else:
         fail("could not locate Chapter One for folio offset")
     plates = [p for p in pages if p > offset]  # drop the frontispiece
-    if len(plates) != len(PLACEMENTS):
-        fail(f"expected {len(PLACEMENTS)} plate pages, found {len(plates)}")
+    expected = len(PLACEMENTS) + (1 if pod else 0)
+    if len(plates) != expected:
+        fail(f"expected {expected} plate pages, found {len(plates)}")
+    if pod:
+        village = next(
+            i
+            for i, (_, _, p, _) in enumerate(PLACEMENTS)
+            if p == "village-passing-foldout.png"
+        )
+        if plates[village + 1] != plates[village] + 1:
+            fail("POD gatefold halves are not on consecutive pages")
+        del plates[village + 1]
     return [p - offset for p in plates]
 
 
 def main():
     BUILD.mkdir(exist_ok=True)
     knockout_plates()
-    epub_parts, pdf_parts = [], []
+    check_full_plate_resolution()
+    epub_parts, pdf_parts, pod_parts = [], [], []
     for path in DRAFTS:
         prefix = path.name[:2]
         text = path.read_text()
@@ -338,12 +465,14 @@ def main():
             # moves to the back (disclosure precedes reading; the formal
             # round's edit rights target this front matter).
             ptext = re.sub(r"^---$", r"\\scenebreak", text, flags=re.M)
-            pdf_parts.append(
+            notices = (
                 "\\begingroup\\small\\setlength{\\parindent}{0pt}"
                 "\\setlength{\\parskip}{0.6\\baselineskip}\n\n"
                 + ptext
                 + "\n\n\\endgroup"
             )
+            pdf_parts.append(notices)
+            pod_parts.append(notices)
             continue
         # "Journal Entry N" -> "From the Journal — N" (DK 2026-07-13):
         # each unit holds a batch of dated entries, and "From" admits
@@ -361,19 +490,24 @@ def main():
         # unnumbered chapters (H1 -> {.unnumbered}, once per file)
         text = re.sub(r"^# (.+)$", r"# \1 {.unnumbered}", text, count=1, flags=re.M)
         text = inject(prefix, text)
-        epub_parts.append(text)
+        # EPUB has no leaf concept: full plates render as inline images
+        epub_parts.append(text.replace("{width=full}", "{width=85%}"))
         ptext = pdf_transforms(prefix, text)
+        podtext = pdf_transforms(prefix, text, pod=True)
         if prefix == "01":
             # body proper begins here: folio 1 on a recto (PDF only;
             # raw TeX is dropped from the EPUB)
-            ptext = "\\cleardoublepage\\pagenumbering{arabic}\n\n" + ptext
+            head = "\\cleardoublepage\\pagenumbering{arabic}\n\n"
+            ptext = head + ptext
+            podtext = head + podtext
         pdf_parts.append(ptext)
+        pod_parts.append(podtext)
     placed = sum(1 for p, *_ in PLACEMENTS)
     # end matter (PDF only): a spare colophon — craft information,
     # additive to the notices, never a relocation of them — then a
     # final blank leaf regardless of parity (production r3 M3), ending
     # on a verso.
-    (BUILD / "after-body.tex").write_text(
+    colophon_head = (
         "\\cleardoublepage\\thispagestyle{empty}"
         "\\null\\vspace{0.35\\textheight}"
         "{\\centering\\small "
@@ -381,15 +515,28 @@ def main():
         "The frontispiece and eighteen plates were drawn by an image "
         "model in the idiom of the nineteenth-century wood engraving, "
         "curated by the authors and audited against the text.\\par"
+    )
+    colophon_tail = (
         "\\medskip Assembled from the working record at\\par "
         "github.com/othercriteria/white-buffalo\\par}"
         "\\clearpage\\thispagestyle{empty}\\null"
         "\\ifodd\\value{page}\\clearpage\\thispagestyle{empty}\\null\\fi\n"
     )
+    (BUILD / "after-body.tex").write_text(colophon_head + colophon_tail)
+    # POD colophon carries the reduction honestly (DK 2026-07-18): the
+    # canonical setting is the one with the fold-out leaf.
+    (BUILD / "after-body-pod.tex").write_text(
+        colophon_head + "\\medskip This is the print-on-demand setting: the fold-out "
+        "plate, \\emph{The village, passing}, is here divided across a "
+        "facing spread. The canonical setting carries it whole, on a "
+        "fold-out leaf.\\par" + colophon_tail
+    )
     book_md = BUILD / "book.md"
     book_md.write_text("\n\n".join(epub_parts) + "\n")
     book_pdf_md = BUILD / "book-pdf.md"
     book_pdf_md.write_text("\n\n".join(pdf_parts) + "\n")
+    book_pod_md = BUILD / "book-pod.md"
+    book_pod_md.write_text("\n\n".join(pod_parts) + "\n")
     print(f"build/book.md + book-pdf.md written: {len(DRAFTS)} units, {placed} plates")
 
     common = [
@@ -411,13 +558,13 @@ def main():
     ]
     pdf = BUILD / "white-buffalo.pdf"
 
-    def build_pdf(src_md):
+    def build_pdf(src_md, out_pdf, after_body):
         subprocess.run(
             [
                 "pandoc",
                 str(src_md),
                 "-o",
-                str(pdf),
+                str(out_pdf),
                 *common,
                 "--pdf-engine=xelatex",
                 "-V",
@@ -505,7 +652,7 @@ def main():
                 "{\\centering\\includegraphics[height=0.95\\textheight]"
                 "{build/plates/cover-tracks.png}\\par}\\clearpage}",
                 "--include-after-body",
-                str(BUILD / "after-body.tex"),
+                str(after_body),
             ],
             check=True,
             cwd=ROOT,
@@ -513,12 +660,21 @@ def main():
 
     # pass 1: build without the List of Illustrations to measure folios;
     # pass 2: insert the list into the front matter (folios unaffected)
-    build_pdf(book_pdf_md)
+    build_pdf(book_pdf_md, pdf, BUILD / "after-body.tex")
     folios = plate_folios(pdf)
     pdf_parts[0] = pdf_parts[0] + "\n\n" + illustrations_list(folios)
     book_pdf_md.write_text("\n\n".join(pdf_parts) + "\n")
-    build_pdf(book_pdf_md)
+    build_pdf(book_pdf_md, pdf, BUILD / "after-body.tex")
     print(f"{pdf.relative_to(ROOT)} written (plates at folios {folios})")
+
+    # POD setting: same two-pass dance, its own folio geography
+    pod_pdf = BUILD / "white-buffalo-pod.pdf"
+    build_pdf(book_pod_md, pod_pdf, BUILD / "after-body-pod.tex")
+    pod_folios = plate_folios(pod_pdf, pod=True)
+    pod_parts[0] = pod_parts[0] + "\n\n" + illustrations_list(pod_folios)
+    book_pod_md.write_text("\n\n".join(pod_parts) + "\n")
+    build_pdf(book_pod_md, pod_pdf, BUILD / "after-body-pod.tex")
+    print(f"{pod_pdf.relative_to(ROOT)} written (plates at folios {pod_folios})")
 
     epub = BUILD / "white-buffalo.epub"
     subprocess.run(

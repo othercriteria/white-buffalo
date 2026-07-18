@@ -3882,3 +3882,38 @@ in-fiction. NEVER ENACT — compiler question stays live per twice-
 certified ruling. Sweep-3 [DK] item #1 closed. Both sweep-3 [DK]
 items now resolved (shell/ghost certified §11; ownerless Ch 1
 dissolved here).
+
+## Plate leaves + POD twin + portrait hires (2026-07-18, DK-directed)
+
+FORMAT DOCTRINE COMPLETED (production memo hybrid (a), DK "Let's do
+it"): the five portrait plates are now DEDICATED FULL-PAGE LEAVES
+(first-sighting, offering-stake, morrow-hollow, journal-found,
+finale-fifty-yards) — own page, vertically centered on the measure,
+folio counted-but-unprinted (gatefold house rule), versos live, no
+captions, no recto-forcing. Landscape cuts + the two journal-side
+landscape flexes stay inline. Build-enforced resolution gate: leaf
+plates fail below 300ppi at laid size.
+TWO ARTIFACTS (DK): white-buffalo.pdf CANONICAL (fold-out leaf
+intact, 774x612pt page verified); white-buffalo-pod.pdf = POD
+setting, panorama split across a forced facing spread (verso/recto
+verified: cut edges meet at the gutter), colophon note owns the
+reduction ("The canonical setting carries it whole, on a fold-out
+leaf"). Separate folio geographies, separate Lists of Illustrations.
+Canonical 138pp, POD 140pp.
+PORTRAIT HIRES (sequenced first per DK — leaves boost prominence):
+- journal-found, morrow-hollow, finale-fifty-yards: single-round
+  x2 d0.35, DK sign-off ("The others look great"), 1664x2432.
+- first-sighting + offering-stake: single-round FAILED (DK: "too
+  photographic" on os tonal hills; fs calf/herd ladder 0.35-0.65
+  = lamb attractor vs herd cartooning; 0.65 full macro reroll).
+  DK's more-pixels theory TESTED AND CONFIRMED: two-round recipe
+  (x1.5 low-strength, then x1.667 d0.25, net 2.5x, 2080x3040,
+  sequential CPU offload for VRAM on the shared card) — os hills
+  re-derive contour micro-hatching (steel-engraving grain, reads
+  as plate tone at print), fs herd stays engraved, faux signature
+  + specks gone. DK bless d0.25 both. Calf = accepted soft (below
+  print resolution). TWO-ROUND RECIPE = pocket tool for landscape
+  up-resolution if tonal-field drift appears.
+Remaining hires queue: 13 landscape plates + gatefold + frontis
+(x2 d0.35 protocol, two-round fallback); RGB->grayscale ink pass
+DONE (knockout curve); B2 residue rides the landscape pass.

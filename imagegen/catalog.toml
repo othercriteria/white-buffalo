@@ -65,6 +65,13 @@ underdetermined = []
 dni = "clean"
 
 [first-sighting]
+# HIRES ADOPTED (DK bless 2026-07-18): TWO-ROUND refinement — the
+# single-round 2x pass either lambed the calf or cartooned the herd
+# at every strength (ladder 0.35-0.65; 0.65 = full macro reroll).
+# Recipe: x1.5 d0.3, then x1.667 d0.25 (net 2.5x, 2080x3040,
+# ~520ppi at the leaf measure), sequential offload for VRAM. Herd
+# stays engraved, cloud tower holds, calf = accepted soft (below
+# print resolution; the lamb attractor is unreachable by strength).
 # Rhyme partner: finale-fifty-yards (calf trailing the herd / cow facing the
 # viewer). Both landscape. When the finale generates, sweep ITS seeds against
 # this plate's seed and pick jointly (quality + correlation).
@@ -647,6 +654,15 @@ underdetermined = ["hour/moonlight — 18:7 has him writing by a tallow-horn wic
 dni = "clean"
 
 [offering-stake]
+# HIRES ADOPTED (DK bless 2026-07-18): TWO-ROUND refinement — any
+# single img2img touch washed the tonal hills' hatching to
+# photographic grain (r1 evidence); at net 2.5x the model re-derives
+# organized contour micro-hatching (steel-engraving grain; reads as
+# plate tone at print). Recipe: x1.5 d0.25, then x1.667 d0.25
+# (2080x3040), sequential offload. Herd morphology fixed, faux
+# signature + sub-frame specks gone, sky gains a banded gradient
+# (accepted shift). Two-round recipe = the pocket tool if landscape
+# up-resolution shows the same tonal-field drift.
 negative = "mountains, peaks, crags, cliffs, alpine, forest"
 prompt = "the brow of a low wind-scoured ridge in rolling treeless sand hills, a wide shallow snow-covered valley below, a single peeled wooden stake standing settled and weathered in the frozen ground, snow packed undisturbed around its base, a narrow strip of dark cloth tied at its head frayed to threads and streaming in the wind, a buffalo herd small and dark on the valley floor, no people, hard winter light"
 aspect = "portrait"
