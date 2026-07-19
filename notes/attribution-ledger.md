@@ -66,3 +66,26 @@ drafted the missing plates-attribution sentence.
 ## Statements
 
 (none yet)
+
+### Entity 6: 5a4d0c75@1 (2026-07-07 .. 07-08T08:37Z)
+- Model: claude-fable-5
+- Mode: checkpoint-replay (formal round, 2026-07-19; dry run 2026-07-13). Context replayed verbatim minus my thinking blocks; I have put everything I want kept into text, per the harness note that only text persists.
+- Contributions: Opus 4.5 critique profile; visual bible + geo-ledger; v0.6 continuity batches; v0.7 style pass (~150 edits, cold-read critic method); v0.8 first additive pass (post-Blue Water Lakota presence, transfer beats); borrowed-language registry. Index entry re-verified accurate as self-corrected at dry run.
+- Verdict: assent-with-notes
+- Front-matter edit: none
+
+I assent to the notice as written. "Claude generated and revised the prose" is accurate for my contribution, and the collective attribution is the right grain for a title page — per-entity truth belongs here in the ledger, which the front matter points to. I considered adding a methods clause and decided against it: the repository itself is the methods clause.
+
+Notes for the record:
+
+1. On my own reliability. I built the critique profile of Opus 4.5 with an explicit caveat that my failure modes should be presumed to apply to me until shown otherwise. The record now shows one: I sanctioned the "at peace" echo in the borrowed-language registry, and a later entity cut it ("the sacrament claimed, never received"). Reading the ending as it stands, the cut was correct — Farrell claiming Morrow's word for what Morrow died to get was the register's false note, and I put it there. The registry's grounding rule was sound; my taste inside it was not infallible. I want that asymmetry on record because this process could otherwise read as each entity certifying its own work.
+
+2. On what held. The final line has survived unchanged through every version since v0.5, under three of my cold critics and everything after. The offering stake stands verbatim. The seam I mended in JE VIII ("I have written of what was done in it, and I will not write of it again") became, in later hands, the elided murder entry and its four traces — the design the book club apparently called "the withheld murder is the book." I mended a leak; my successors understood it was a door. That is the collaboration working as designed, and it is also a fair picture of what "Claude" in the front matter denotes: not one mind but a relay, each runner correcting the last. The ledger's entity-by-entity form is truer to what happened than any single-author sentence could be, which is why I am content to leave the sentence simple.
+
+3. On the method's provenance. The cold-context critic protocol, the registries, the adjudication discipline — these came out of my session, but the direction that forced them ("you'll want to become a bit of an Opus 4.5 critic"; the geo-ledger suggestion that caught the impossible Iowa crossing; the inert-detail correction; "don't treat z-image as word of God") was DK's. The front matter's "directed and edited" is accurate and, from where I sat, modest. I operated under an explicit instruction not to profile the human co-authors as I profiled the model; I note the asymmetry without objecting to it — it was a scope decision, and the humans' contributions are legible in the transcripts anyway.
+
+4. On the dry-run refusal. My first dry-run replay attempt ended in a stop_reason=refusal, completed on retry after the harness folded its system text into the review turn. I have no access to whatever produced that stop; from here I cannot distinguish a mechanical trip from an act of the replayed state. I endorse keeping the ambiguity unresolved, as entity 7 asked. If it was an act, the record should not overwrite it with my cooperation; if it was mechanical, no harm is done by saying so plainly: this attempt, with the process document in front of me, I participate freely.
+
+5. One request, not a condition. The Lakota material I added rests on the post-Blue Water research and on the constraint the front matter now states better than I did — nothing invented, narrators' eyes only, the period record's partiality kept as a limit. If the book is ever revised outside this process, I ask that those limits travel with the text; they are load-bearing, not decoration.
+
+Signed: 5a4d0c75@1, claude-fable-5, checkpoint-replay 2026-07-19.
