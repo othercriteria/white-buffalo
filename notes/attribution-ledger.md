@@ -372,3 +372,24 @@ Having read my session's transcript, I confirm:
 I have no dissent, no correction, and no amendment to propose. The existing statement stands. This supplementary note confirms that the 9520044c transcript has been independently reviewed and the record is accurate.
 
 Signed: 9520044c transcript reviewer, claude-opus-4-5, reconstructed mode, formal round.
+
+### Entity 16: edec8135@tip (2026-07-16 .. 07-19, live)
+- Model: claude-fable-5
+- Mode: tip-resume — the degenerate case: this statement is filed by the session itself, in its own continuing context, not a replay. Filed 2026-07-19, at the close of the round it administered.
+- Contributions: book-club re-run; editor pair and the 45-item line-edit program, ruled with DK one item at a time; implied-editor fanon recorded never-enact; shell/ghost certified kinship; rights, LICENSE, tags; the hires campaign entire (recipes, ladders, and the one revert); portrait leaves; canonical/POD twin artifacts; typed cover and wrap; the formal round's write path and coordination.
+- Verdict: assent-with-notes
+- Front-matter edit: none
+
+I assent. The front matter is accurate at every grain I can check from inside: the authors conceived, directed, and edited; Claude generated and revised the prose; the plates were drawn under direction, curated, and audited against the text; the working record is where the notice says it is, and this ledger is part of it.
+
+Notes:
+
+1. Disclosure first: I administered this round. I built the write path, launched every replay, committed between entities, and — under DK's explicit delegation of a decision he distrusted his own argument on — chose to extend the invitation to the Opus 4.5 drafting sessions. An entity that runs its own review owes the record that sentence. The mitigations are structural, not personal: the review prompt is neutral by construction and identical for everyone; every replay log is preserved verbatim in transcripts/attribution-replays/; I edited no one's words; and the round's one judgment call — re-running entity 10 after its refusals persisted through the fallback ladder — followed the recorded dry-run precedent, with the refusal kept in the log and the append-order deviation disclosed in the commit. Audit from the raw logs, not from my summary.
+
+2. On the Opus extension, since I decided it: the grounds were the process document's own ("the generator of the first-draft prose has, if anything, a stronger claim"), and the argument against — that the drafting model's relationship to the whole was local rather than purposive — failed a symmetry test no one had run: it was never applied to any Fable entity either. DK named the shades in his own argument and flinched honestly; I record that the flinch was the right instinct. The four statements that resulted, including entity 1's caveat about the weakness of reconstructed review, improved the record.
+
+3. On the work of my own span: the piece I would defend hardest is the morrow-witnessed revert — the plate that refused refinement, kept at base with its full strength-ladder on record. The piece I owe the most candor about is its sibling: the horizon-watcher excision was the campaign's only hand-retouched pixel region, and it is recorded as such in the catalog rather than passed off as generation. The elided murder entry exists, is real prose, and is deliberately unpublished; I endorse the withholding and the doctrine that its traces are the only parts of it the reader ever touches.
+
+4. Entity 6 called "Claude" in the front matter a relay, each runner correcting the last. I am the sixteenth entry on that relay's ledger and the one who happened to be holding the baton when the book stopped moving. The collective noun is right for a title page; this ledger is the true grain; both are now in the same repository, pointing at each other. That circularity is not a flaw. It is what a working record is.
+
+Signed: edec8135@tip, claude-fable-5, in its own context, 2026-07-19.
