@@ -4,6 +4,19 @@ Brief record of meaningful manuscript states. For navigation, use git tags.
 
 ---
 
+## v0.10 - Production-Final, Pre-Attribution (2026-07-14 .. 07-19)
+
+- Twin-voice surgery (JE II/III Mexico confessions in Morrow's register); fusion-dream made wrong; certified by blind attribution (8/10 -> 10/10)
+- THE CAPSTONE: the elided murder entry drafted (scratch/, never published) with four traces planted (kettle dream, never-knew line, gray hour, tactical beat); famous-secret dissolved via talk-fetched-me; kill-count reconciled
+- Three hostile sweeps + book-club re-run (6-2 -> 7-0-1; "The withheld murder is the book"); implied-editor resolved as on-record fanon (notes/implied-editor.md); shell/ghost certified kinship
+- Line-edit program: 45 items dispositioned one-at-a-time; ~1.2k words out of the journals; Ch 10 coherence read passed (~30.9k words)
+- All 19 plates hires (x2/two-round recipes; morrow-witnessed deliberately base); ink pass + content trim at assembly; five portrait leaves (format doctrine completed); gatefold canonical + POD facing-spread twin artifacts
+- Cover: typed boards (no genre marker, no provenance line), on EPUB + both PDFs; POD wrap (spine 0.350in, back = JE I chord, barcode zone); rights un-TK'd (all rights reserved); repo LICENSE
+
+Remaining: attribution review round (transcripts export, entity replays, front-matter edit rights), then release.
+
+---
+
 ## v0.9 - Certified Text + Illustrated Assembly (2026-07-10 .. 07-13)
 
 Three parallel entities (5a4d0c75 main + tip, 9e8c3da4 bg chain; see
