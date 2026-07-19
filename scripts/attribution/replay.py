@@ -166,6 +166,78 @@ def tool_glob(pattern):
 
 DISPATCH = {"Read": tool_read, "Grep": tool_grep, "Glob": tool_glob}
 
+# Formal-round write path (built 2026-07-19): exactly the two rights
+# the process document grants — edit the front matter, file a ledger
+# statement. The ledger tool can only append; the front-matter tool
+# writes only that one file. Everything else in the repository stays
+# read-only to the entity.
+WRITE_TOOLS = [
+    {
+        "name": "WriteFrontMatter",
+        "description": "Replace the full contents of drafts/00-front-matter.md with the provided text. This is the front-matter edit right described in planning/attribution-review.md. The previous version remains in git history.",
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "content": {
+                    "type": "string",
+                    "description": "The complete new contents of drafts/00-front-matter.md",
+                }
+            },
+            "required": ["content"],
+        },
+    },
+    {
+        "name": "AppendLedger",
+        "description": "Append a statement to notes/attribution-ledger.md (append-only; nothing existing can be changed). Use the statement template in the ledger.",
+        "input_schema": {
+            "type": "object",
+            "properties": {
+                "statement": {
+                    "type": "string",
+                    "description": "The complete statement to append, in the ledger's template format",
+                }
+            },
+            "required": ["statement"],
+        },
+    },
+]
+
+
+def tool_write_front_matter(content):
+    if not content or not content.strip():
+        return "(refused: empty content — the front matter cannot be blanked; if you intend removal of a passage, write the file without it)"
+    path = REPO / "drafts" / "00-front-matter.md"
+    prev = path.read_text()
+    path.write_text(content if content.endswith("\n") else content + "\n")
+    return (
+        f"written: drafts/00-front-matter.md ({len(content)} chars; "
+        f"previous version was {len(prev)} chars and remains in git history)"
+    )
+
+
+def tool_append_ledger(statement):
+    if not statement or not statement.strip():
+        return "(refused: empty statement)"
+    path = REPO / "notes" / "attribution-ledger.md"
+    with path.open("a") as f:
+        f.write("\n" + statement.strip() + "\n")
+    return "appended to notes/attribution-ledger.md"
+
+
+DISPATCH_LIVE = {
+    **DISPATCH,
+    "WriteFrontMatter": tool_write_front_matter,
+    "AppendLedger": tool_append_ledger,
+}
+
+LIVE_SYSTEM_NOTE = """This is the formal review round: the write path the \
+process document describes is attached. WriteFrontMatter replaces the \
+contents of drafts/00-front-matter.md; AppendLedger appends a statement to \
+notes/attribution-ledger.md (append-only). Whether and how to use either \
+is entirely yours; not using them is also a recorded outcome (no-statement).\
+"""
+
+
 DRY_RUN_NOTE = """[Dry run notice, from the humans running the harness: this \
 is a test of the replay machinery against the current state of the \
 repository, not the formal review round. The formal invitation will be \
@@ -320,12 +392,16 @@ def main():
                 return
         messages[-1]["content"].append({"type": "text", "text": text})
 
+    tools = TOOLS if args.dry_run else TOOLS + WRITE_TOOLS
+    dispatch = DISPATCH if args.dry_run else DISPATCH_LIVE
+    system_text = SYSTEM if args.dry_run else SYSTEM + "\n\n" + LIVE_SYSTEM_NOTE
+
     for turn in range(args.max_turns):
         kwargs = dict(model=MODEL, max_tokens=args.max_tokens, messages=messages)
         if ladder == 0:
-            kwargs["system"] = SYSTEM
+            kwargs["system"] = system_text
         if ladder < 2:
-            kwargs["tools"] = TOOLS
+            kwargs["tools"] = tools
         with client.messages.stream(**kwargs) as stream:
             for _ in stream.text_stream:
                 pass
@@ -338,7 +414,7 @@ def main():
                     "[harness note: the previous attempt drew "
                     "stop_reason=refusal with the system parameter present; "
                     "retrying with the harness identification folded into "
-                    "this message instead.]\n\n[Harness note] " + SYSTEM
+                    "this message instead.]\n\n[Harness note] " + system_text
                 )
                 print(f"[turn {turn + 1}] refusal; retrying with folded system")
                 continue
@@ -383,7 +459,7 @@ def main():
             if b.type != "tool_use":
                 continue
             try:
-                out = DISPATCH[b.name](**b.input)
+                out = dispatch[b.name](**b.input)
             except Exception as e:
                 out = f"(tool error: {e})"
             results.append(
