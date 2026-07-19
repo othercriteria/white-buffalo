@@ -26,7 +26,7 @@ DOCX_OPTS = $(PANDOC_OPTS) --reference-doc=reference/template.docx 2>/dev/null |
 METADATA = --metadata title="$(TITLE)" \
            --metadata author="Ben Cohen and Daniel Klein"
 
-.PHONY: all book hooks manuscript pdf epub docx wordcount transcripts clean
+.PHONY: all book wrap print-interior hooks manuscript pdf epub docx wordcount transcripts clean
 
 all: manuscript pdf epub docx
 
@@ -34,6 +34,18 @@ all: manuscript pdf epub docx
 # anchors per planning/assembly.md. Outputs build/white-buffalo.{pdf,epub}.
 book: $(OUTPUT_DIR)
 	@python3 assemble.py
+
+# POD production artifacts (DK 2026-07-19). The print interior is the
+# POD PDF minus its digital cover leaf (pages 1-2); the wrap's spine
+# is sized from that count (cream bulk 0.0025 in/page).
+print-interior: book
+	@pdfseparate -f 3 build/white-buffalo-pod.pdf 'build/.pi-%d.pdf'
+	@pdfunite $$(ls build/.pi-*.pdf | sort -t- -k2 -n) build/white-buffalo-print-interior.pdf
+	@rm -f build/.pi-*.pdf
+	@pdfinfo build/white-buffalo-print-interior.pdf | grep Pages
+
+wrap: book
+	@imagegen/.venv/bin/python imagegen/cover_wrap.py --pages 140 -o build/cover-wrap.png
 
 # Install repo git hooks (pre-commit: rebuild book when drafts/, art/,
 # or assemble.py are staged; fails the commit on anchor drift).
