@@ -3934,3 +3934,18 @@ curve + type layers all assembly-time; art/ carries clean cream-
 ground renders throughout. B2 residue at close: graves-plate barn
 = the attached lean-to reading, accepted; first-sighting calf =
 below print resolution, accepted; roof/interior tells preserved.
+
+## Hires fix round (2026-07-18, DK flags on three plates)
+
+- speaking-to-her: hires_refine was refining WITHOUT the scene's
+  morrow-ep12 LoRA — root cause of the "hipster" drift. Tool now
+  honors catalog lora fields. Adopted x2 d0.15+lora (blanket-coat
+  and beard survive; d0.25+ converts the garment).
+- morrow-witnessed: refiner hallucinated a HORIZON WATCHER in every
+  refined cell (absent in base; content the trapper's tale cannot
+  carry). Adopted x2 d0.25+morrow-ep12 (walker's gaunt profile
+  restored, herd less photographic) with the ghost removed by a
+  feathered horizon clone — the campaign's only manual patch,
+  recorded in the catalog.
+- frozen-man: two-round was over-fine (DK); swapped to single-round
+  x2 d0.25 — sky hatching and snow kept, hand intact.

@@ -46,6 +46,14 @@ def main():
     ap.add_argument("--guidance", type=float, default=4.0)
     ap.add_argument("--output-dir", type=Path, default=HERE / "output" / "hires")
     ap.add_argument(
+        "--lora",
+        help="Character LoRA name or name@weight (see generate.LORAS). "
+        "Default: the scene's catalog 'lora' field — refinement must "
+        "honor scene identity (learned on speaking-to-her: refining a "
+        "LoRA-born figure without its LoRA pulls it off-model). "
+        "Pass 'none' to disable.",
+    )
+    ap.add_argument(
         "--sequential",
         action="store_true",
         help="sequential CPU offload: much slower, far less VRAM "
@@ -58,6 +66,18 @@ def main():
     scene = catalog[args.scene]
     prompt, negative = scene["prompt"], scene.get("negative", "")
 
+    from generate import DEFAULT_LORA_WEIGHT, LORAS
+
+    lora_spec = args.lora or scene.get("lora")
+    if lora_spec == "none":
+        lora_spec = None
+    lora = None
+    if lora_spec:
+        name, _, wgt = lora_spec.partition("@")
+        if name not in LORAS:
+            ap.error(f"unknown lora {name!r} (have: {', '.join(LORAS)})")
+        lora = (name, float(wgt) if wgt else DEFAULT_LORA_WEIGHT)
+
     base = Image.open(args.input).convert("RGB")
     w0, h0 = base.size
     args.output_dir.mkdir(parents=True, exist_ok=True)
@@ -66,6 +86,11 @@ def main():
     pipe = ZImageImg2ImgPipeline.from_pretrained(
         MODEL, revision=REVISION, torch_dtype=torch.bfloat16
     )
+    if lora:
+        name, weight = lora
+        pipe.load_lora_weights(HERE / LORAS[name], adapter_name=name)
+        pipe.set_adapters([name], adapter_weights=[weight])
+        print(f"  lora: {name}@{weight}")
     if args.sequential:
         pipe.enable_sequential_cpu_offload()
     else:

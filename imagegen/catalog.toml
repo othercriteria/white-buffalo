@@ -153,7 +153,9 @@ underdetermined = []
 dni = "clean"
 
 [frozen-man]
-# HIRES ADOPTED (2026-07-18): TWO-ROUND net2.5 (single-round washed the snow, diminished the hand); hand re-articulated, slightly bonier — accepted.
+# HIRES REVISED (2026-07-18, DK: two-round over-fine): x2 d0.25
+# single-round — keeps the base's sky hatching and snow texture,
+# avoids the two-round stipple; hand intact.
 # NEW PLATE 2026-07-13 (round-2 commission; r1's never-depict-the-dead
 # restraint reconciled by composing at the DISCOVERY, not the
 # excavation: the man stays under the snow, the hand is the trace).
@@ -566,7 +568,13 @@ underdetermined = ["everything beyond hair/eyes/composure — face shape free (s
 dni = "clean — Catherine alive, from the daguerreotype only; no scene, no fate implied"
 
 [morrow-witnessed]
-# HIRES ADOPTED (2026-07-18): x2 d0.35 single-round; walker holds.
+# HIRES REVISED (2026-07-18, DK: horizon ghost + photo-real herd +
+# walker off-model): x2 d0.25 with morrow-ep12 at refinement (no
+# scene lora — distance shot — but the pull helps the walker's
+# gaunt profile). The refiner hallucinated a standing watcher on
+# the horizon in EVERY refined cell (absent in base): removed by
+# a feathered same-row horizon clone on the render pre-clamp —
+# recorded honestly as a manual patch, the campaign's only one.
 # Vignette. Distance rule: figure too small for the LoRA; identity
 # carried by silhouette (tall, thin, on foot, behind the herd).
 negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, oxen, farm animals, horse and rider in the scene, hat, staff, spear, lance, pole, walking stick, herding, shepherd, drover, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
@@ -577,7 +585,11 @@ underdetermined = ["coat/hat/boots — never described (bible gap; keep him dist
 dni = "clean"
 
 [speaking-to-her]
-# HIRES ADOPTED (2026-07-18): x2 d0.35 single-round.
+# HIRES REVISED (2026-07-18, DK: figure too modern): x2 d0.15 WITH
+# the scene's morrow-ep12 LoRA (hires_refine now honors catalog
+# lora fields — refining a LoRA-born figure without it pulls him
+# off-model). d0.15 preserves the striped blanket-coat and beard;
+# d0.25+ converts him to a modern jacket.
 # JE II, July 1856 — fills the journal middle (the catalog's summer
 # desert). The waiting made visual: a hundred yards of grass between
 # them. Added 2026-07-09 (DK gap-fill ruling).
