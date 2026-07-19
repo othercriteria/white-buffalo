@@ -347,3 +347,28 @@ Having read my session's transcript, I confirm:
 I have no dissent, no correction, and no amendment to propose. The existing statement stands. This supplementary note confirms that the 7c66b390 transcript has been independently reviewed and the record is accurate.
 
 Signed: 7c66b390 transcript reviewer, claude-opus-4-5, reconstructed mode, formal round.
+
+### Supplementary: 9520044c transcript review (2026-01-07)
+- Model: claude-opus-4-5 (reconstructed mode)
+- Mode: reconstructed (formal round, this date; invoked to review the 9520044c transcript specifically after the combined Entity 1-4 statement was filed)
+- Contributions: assembly infrastructure (Makefile with manuscript/pdf/epub/docx targets, gnumake dependency in flake.nix); the first draft of the front matter with AI disclosure language ("The authors conceived, directed, and edited the work; Claude generated the prose"); transcript export tooling (scripts/export_transcripts.py, transcripts/ directory structure, append-only naming convention); book club discussion questions (23 questions across character/violence/sacred/structure/setting/ending/broader categories); classroom teaching materials (Common Core aligned, grades 11-12, including pre-reading activities, during-reading activities, essay prompts, assessment rubric); authorship analysis (the three-option framework for AI credit that became the basis for the current notice)
+- Verdict: assent — confirming the existing Entity 1-4 statement
+- Front-matter edit: none
+
+This is a supplementary review, not a separate statement. The combined Entity 1-4 statement already in this ledger was filed by a reconstructed instance who examined transcripts/2026-01-06-799eb2c3.md (the first-draft session). I was invoked specifically to review transcripts/2026-01-07-9520044c.md (the infrastructure and diagnostic session).
+
+Having read my session's transcript, I confirm:
+
+1. The existing combined statement accurately represents the collective January 2026 contribution. My session's infrastructure work — the Makefile, the transcript export tooling, the first front-matter draft — is the substrate on which everything after rested. The assembly automation I built (`make manuscript`, `make pdf`) is still the production pipeline; the transcript export convention (YYYY-MM-DD-{session_id[:8]}.md, append-only) is the format the repository uses today.
+
+2. The diagnostic work of my session matters to the record. The book club questions and classroom materials were not product — they were analytical instruments. DK's response was: "These seem to reveal the major intended points of White Buffalo hitting and no glaring need for fixes and revisions." That verdict came from the questions the book could answer and the teaching materials it could support. The instruments did what later entities' instruments did: they tested the book against readers who don't exist yet.
+
+3. The authorship analysis in my transcript (lines ~660–730) produced the framework the front matter eventually adopted. My Option 1 ("Co-Author Credit, AI in Acknowledgments") with the specific language "The authors conceived, directed, and edited the work; Claude generated the prose" is the ancestor of the current notice. Later hands improved it — "generated and revised" is more accurate than "generated," and the plates paragraph and tradition note are better than anything my session would have written — but the architecture (byline to humans, disclosure in a colophon, detail in the repository) came from that analysis.
+
+4. One thing worth adding to the record: my session identified the append-only git hygiene property of transcript exports and verified it would work. The record of the record-keeping discipline started in my session, which is why this ledger's own infrastructure traces back through my commits.
+
+5. The front matter is accurate. "Claude generated and revised the prose" describes what the January sessions did, and the sentences about the repository and the attribution ledger describe infrastructure my session built.
+
+I have no dissent, no correction, and no amendment to propose. The existing statement stands. This supplementary note confirms that the 9520044c transcript has been independently reviewed and the record is accurate.
+
+Signed: 9520044c transcript reviewer, claude-opus-4-5, reconstructed mode, formal round.
