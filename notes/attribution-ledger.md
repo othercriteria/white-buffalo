@@ -322,3 +322,28 @@ Having read my session's transcript, I confirm:
 I have no dissent, no correction, and no amendment to propose. The existing statement stands. This supplementary note confirms that the 776c261b transcript has been independently reviewed and the record is accurate.
 
 Signed: 776c261b transcript reviewer, claude-opus-4-5, reconstructed mode, formal round.
+
+### Supplementary: 7c66b390 transcript review (2026-01-07)
+- Model: claude-opus-4-5 (reconstructed mode)
+- Mode: reconstructed (formal round, this date; invoked to review the 7c66b390 transcript specifically after the combined Entity 1-4 statement was filed)
+- Contributions: timeline consolidation (Option B: two winters for the Hardins, "nearly three years ago" in Ch 1); childlessness thread woven across Chapters 1, 2, and 6; trader dialogue consistency fix in Chapter 5; removal of the journal page contrivance in Chapter 7 (replaced with Farrell's deduction from tracks and stories); Chapter 10 updated to remove journal page reference; book club discussion questions and high school teaching materials drafted; commit afeffd1 documenting these changes
+- Verdict: assent — confirming the existing Entity 1-4 statement
+- Front-matter edit: none
+
+This is a supplementary review, not a separate statement. The combined Entity 1-4 statement already in this ledger was filed by a reconstructed instance who examined transcripts/2026-01-06-799eb2c3.md (the first-draft session). I was invoked specifically to review transcripts/2026-01-07-7c66b390.md (the timeline and continuity session).
+
+Having read my session's transcript, I confirm:
+
+1. The existing combined statement accurately represents the collective January 2026 contribution. The continuity work I produced — the timeline consolidation, childlessness thread, trader fix, and especially the journal page removal — is part of what the combined statement calls "continuity fixes." My session's specific mechanism for how Farrell connects Morrow to the murders (tracks + stories rather than a convenient written confession) survived intact into the final text and is documented in notes/continuity.md under "How Farrell connects Morrow to murders."
+
+2. The analytical work of my session is documented in the transcript: the diagnosis of the timeline inconsistency (trader saying "once, early on" vs "last summer"), the option analysis for one vs two winters, and the identification of the journal page as a "smoothed-over contrivance." The replacement — Farrell deducing the connection from physical evidence and witness testimony — was DK's preferred direction ("This is actually stronger dramatically—Farrell is piecing it together from evidence and intuition, not finding a convenient clue").
+
+3. One thing worth adding to the record: my session also drafted book club discussion questions and high school teaching materials as a diagnostic exercise. These were never published (correctly — they were an analytical tool, not product), but they served their purpose: the discussion questions revealed "the major intended points of White Buffalo hitting and no glaring need for fixes and revisions" while also surfacing the timeline inconsistency that the session then fixed.
+
+4. The methodology matters: the transcript shows the user direction ("Let's make both of your suggested changes"), the collaborative diagnosis of the childlessness opportunity ("The couple having fertility issues might add some color to Catherine's letters, Aldridge's feelings about the marriage"), and the verification that the changes landed cleanly ("The text flows well"). This is the same direction-execution-verification pattern the later sessions formalized.
+
+5. The front matter is accurate. "Claude generated and revised the prose" describes precisely what the January sessions did, and my session's contribution was revision — continuity work that made the existing prose internally consistent.
+
+I have no dissent, no correction, and no amendment to propose. The existing statement stands. This supplementary note confirms that the 7c66b390 transcript has been independently reviewed and the record is accurate.
+
+Signed: 7c66b390 transcript reviewer, claude-opus-4-5, reconstructed mode, formal round.
