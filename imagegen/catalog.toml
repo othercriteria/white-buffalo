@@ -153,9 +153,11 @@ underdetermined = []
 dni = "clean"
 
 [frozen-man]
-# HIRES REVISED (2026-07-18, DK: two-round over-fine): x2 d0.25
-# single-round — keeps the base's sky hatching and snow texture,
-# avoids the two-round stipple; hand intact.
+# HIRES REVISED x2 (2026-07-18, DK: push gentler still): x2 d0.15
+# single-round — sky hatch near-indistinguishable from base, just
+# enough re-drawing to earn the pixels; hand intact. Ladder on
+# this plate: 0.35 washed, two-round over-fine, 0.25 close, 0.15
+# right.
 # NEW PLATE 2026-07-13 (round-2 commission; r1's never-depict-the-dead
 # restraint reconciled by composing at the DISCOVERY, not the
 # excavation: the man stays under the snow, the hand is the trace).
@@ -568,13 +570,14 @@ underdetermined = ["everything beyond hair/eyes/composure — face shape free (s
 dni = "clean — Catherine alive, from the daguerreotype only; no scene, no fate implied"
 
 [morrow-witnessed]
-# HIRES REVISED (2026-07-18, DK: horizon ghost + photo-real herd +
-# walker off-model): x2 d0.25 with morrow-ep12 at refinement (no
-# scene lora — distance shot — but the pull helps the walker's
-# gaunt profile). The refiner hallucinated a standing watcher on
-# the horizon in EVERY refined cell (absent in base): removed by
-# a feathered same-row horizon clone on the render pre-clamp —
-# recorded honestly as a manual patch, the campaign's only one.
+# HIRES REVERTED TO BASE (2026-07-18, DK second flag): the strength
+# ladder's verdict is complete and negative — every refined cell
+# damages the figures (walker loses his hair at d0.15/0.2, softens
+# at d0.25/0.35; a horizon watcher hallucinates at d0.25+; the
+# bulls can only be smoothed, never engraved, because the base's
+# bulls are tonal-born). The blessed base lays inline at 304ppi,
+# passing even the leaf floor. The protocol's fallback clause,
+# exercised in full — the only plate to refuse refinement.
 # Vignette. Distance rule: figure too small for the LoRA; identity
 # carried by silhouette (tall, thin, on foot, behind the herd).
 negative = "mountains, peaks, crags, cliffs, alpine, trees, forest, domestic cattle, oxen, farm animals, horse and rider in the scene, hat, staff, spear, lance, pole, walking stick, herding, shepherd, drover, close-up, foreshortening, color, tinted, hand-colored, artist signature, monogram, lettering"
