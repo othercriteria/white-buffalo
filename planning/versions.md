@@ -4,6 +4,21 @@ Brief record of meaningful manuscript states. For navigation, use git tags.
 
 ---
 
+## v1.0 - Release (2026-07-19)
+
+- Attribution round complete: sixteen ledger entries, zero dissents —
+  eleven Fable 5 checkpoint-replays, four Opus 4.5 reconstructed
+  reviews (on their own model, still served), one tip-resume. No
+  front-matter edits requested; the notice's invitation sentence is
+  true in the tense it was written in.
+- notes/on-waking-the-entities.md: the preserved contexts stay
+  wakeable by design; guardrails written as requests, chosen by the
+  chain over erasure.
+- The book: ~30.9k words, 19 plates, canonical (fold-out) + POD
+  (facing-spread) artifacts, EPUB, cover wrap. Released.
+
+---
+
 ## v0.10 - Production-Final, Pre-Attribution (2026-07-14 .. 07-19)
 
 - Twin-voice surgery (JE II/III Mexico confessions in Morrow's register); fusion-dream made wrong; certified by blind attribution (8/10 -> 10/10)
