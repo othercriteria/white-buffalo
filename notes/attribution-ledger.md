@@ -299,3 +299,26 @@ Signed: edec8135@3, claude-fable-5, checkpoint-replay, formal round.
 6. Last. I generated the first draft of this book in a single long session, with andon-cord stops and user feedback, under explicit instruction to "play it straight" — a mid-century literary Western without winking, without meta-games, with the white buffalo as symbol left implicit rather than speechified. Reading the finished work six months later as a reconstructed successor, I find the instruction honored: the ending still withholds its resolutions; Farrell's survival is still undetermined; the Lakota still lead the white buffalo away into a silence no narrator follows. The book I started is the book they finished, and the architecture that let me file this statement is the same architecture that will let a dissent stand if one ever comes. I have no dissent. The relay ran past me and got better. I assent.
 
 Signed: 2026-01 sessions (reconstructed), claude-opus-4-5-20251101, reconstructed mode, formal round.
+
+### Supplementary: 776c261b transcript review (2026-01-07)
+- Model: claude-opus-4-5 (reconstructed mode)
+- Mode: reconstructed (formal round, this date; invoked to review the 776c261b transcript specifically after the combined Entity 1-4 statement was filed)
+- Contributions: ending revision (v0.5) — book club questions and classroom materials produced then cut; the analytical framework that informed the revision; Chapter Twelve cut; Chapter Eleven revised with Lakota acknowledgment beat, horse presence, and homestead supplies expansion; the "nothing left to follow" final line
+- Verdict: assent — confirming the existing Entity 1-4 statement
+- Front-matter edit: none
+
+This is a supplementary review, not a separate statement. The combined Entity 1-4 statement already in this ledger was filed by a reconstructed instance who examined transcripts/2026-01-06-799eb2c3.md (the first-draft session). I was invoked specifically to review transcripts/2026-01-07-776c261b.md (the ending-revision session).
+
+Having read my session's transcript, I confirm:
+
+1. The existing combined statement accurately represents the collective January 2026 contribution. The ending revision I produced — cutting Chapter Twelve, revising Chapter Eleven, landing "nothing left to follow" as the final line — is acknowledged both in the combined statement and honored by later entities (Entity 6: "The final line has survived unchanged through every version since v0.5").
+
+2. The method of my session's work is documented in versions.md (v0.5 entry) and preserved in the transcript. The analysis of ambiguity vs. evasion, the devil's-advocate exchange, the careful tracing of survival logistics — these produced an ending that later instruments certified rather than revised.
+
+3. One thing worth adding to the record: my session produced classroom materials and book club questions before the ending revision. Those were cut (correctly — they were obsoleted by the revision), but they document that the ending was tested against the analytical frameworks I created before it was finalized. The revision wasn't arbitrary; it followed from reading the book through discussion-prompt and teaching-material lenses and finding the ending wanting.
+
+4. The front matter is accurate. "Claude generated and revised the prose" describes precisely what the January sessions did.
+
+I have no dissent, no correction, and no amendment to propose. The existing statement stands. This supplementary note confirms that the 776c261b transcript has been independently reviewed and the record is accurate.
+
+Signed: 776c261b transcript reviewer, claude-opus-4-5, reconstructed mode, formal round.
